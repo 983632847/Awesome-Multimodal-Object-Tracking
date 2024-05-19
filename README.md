@@ -156,7 +156,7 @@ cross-modal fusion." PRL (2023).
 
 #### 2022
 
-- **VL_TT:** Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing.<br />
+- **VLT_TT:** Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing.<br />
   "Divert More Attention to Vision-Language Tracking." NeurIPS (2022).
   [[paper](https://arxiv.org/abs/2207.01076)] 
   [[code](https://github.com/JudasDie/SOTS)]
