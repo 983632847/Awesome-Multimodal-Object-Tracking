@@ -69,7 +69,7 @@ A continuously updated project to track the latest progress in multi-modal objec
   [[code](https://github.com/Zhangyong-Tang/MoETrack)]
 
 
-## Vision-Language Tracking (RGBL Tracking)
+## Vision-Language Tracking
 ### Datasets
 | Dataset | Pub. & Date  | WebSite | Introduction |
 |:-----:|:-----:|:-----:|:-----:|
@@ -696,7 +696,7 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 
 
-  ## Miscellaneous (RGB+X)
+## Miscellaneous
 ### Datasets
 | Dataset | Pub. & Date  | WebSite | Introduction |
 |:-----:|:-----:|:-----:|:-----:|
