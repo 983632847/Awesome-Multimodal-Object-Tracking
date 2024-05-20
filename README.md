@@ -10,7 +10,10 @@
 
 # Awesome Multi-modal Object Tracking (MMOT)
 A continuously updated project to track the latest progress in multi-modal object tracking.
-#### If you like our project, please give us a star ⭐ on GitHub.
+
+#### If this repository can bring you some inspiration, we would feel greatly honored.
+#### If you like our project, please give us a star ⭐ on this GitHub.
+#### If you have any suggestions, please feel free to contact: [andyzhangchunhui@gmail.com](andyzhangchunhui@gmail.com). 
 
 ## :collision: Highlights
 ```
