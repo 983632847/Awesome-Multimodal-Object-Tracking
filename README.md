@@ -81,6 +81,7 @@ A continuously updated project to track the latest progress in multi-modal objec
 |  [LaSOT_EXT](https://arxiv.org/pdf/1809.07845.pdf)   |   IJCV-2021   |  [LaSOT_EXT](https://github.com/HengLan/LaSOT_Evaluation_Toolkit)  |  150 videos  |  
 |  [TNL2K](https://arxiv.org/pdf/2103.16746.pdf)   |   CVPR-2021  |  [TNL2K](https://github.com/wangxiao5791509/TNL2K_evaluation_toolkit)  |  2000 videos  |  
 |  [WebUAV-3M](https://arxiv.org/abs/2201.07425)   |   TPAMI-2023   |  [WebUAV-3M](https://github.com/983632847/WebUAV-3M)  |  4500 videos, 3.3 million frames, UAV tracking, vision-language-audio |  
+|  [MGIT](https://huuuuusy.github.io/files/MGIT.pdf)   |   NeurIPS-2023   |  [MGIT](http://videocube.aitestunion.com/)  |  150 long video sequences, 2.03 million frames,  three semantic grains (i.e., action, activity, and story)  |  
 |  [VastTrack](https://arxiv.org/abs/2403.03493)   |   arXiv-2024   |  [VastTrack](https://github.com/HengLan/VastTrack)  |  50,610 video sequences, 4.2 million frames, 2,115 classes  |  
 
 
@@ -708,7 +709,6 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 | Dataset | Pub. & Date  | WebSite | Introduction |
 |:-----:|:-----:|:-----:|:-----:|
 |  [WebUAV-3M](https://arxiv.org/abs/2201.07425)   |   TPAMI-2023   |  [WebUAV-3M](https://github.com/983632847/WebUAV-3M)  |  4500 videos, 3.3 million frames, UAV tracking, Vision-language-audio |  
-|  [MGIT](https://huuuuusy.github.io/files/MGIT.pdf)   |   NeurIPS-2023   |  [MGIT](http://videocube.aitestunion.com/)  |  150 long video sequences, 2.03 million frames,  three semantic grains (i.e., action, activity, and story)  |  
 |  [UniMod1K](https://link.springer.com/article/10.1007/s11263-024-01999-8)   |   IJCV-2024  |  [UniMod1K](https://github.com/xuefeng-zhu5/UniMod1K)  |  1050 video  pairs, 2.5 million frames, Vision-depth-language  |  
 
 
