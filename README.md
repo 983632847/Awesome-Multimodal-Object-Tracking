@@ -86,6 +86,10 @@ A continuously updated project to track the latest progress in multi-modal objec
 
 ### Papers
 #### 2024
+- **DTLLM-VLT:** Xuchen Li, Xiaokun Feng, Shiyu Hu, Meiqi Wu, Dailing Zhang, Jing Zhang, Kaiqi Huang.<br />
+  "DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM." CVPRW (2024).
+  [[paper](https://arxiv.org/abs/2405.12139)] 
+
 - **UVLTrack:** Yinchao Ma, Yuyang Tang, Wenfei Yang, Tianzhu Zhang, Jinpeng Zhang, Mengxue Kang.<br />
   "Unifying Visual and Vision-Language Tracking via Contrastive Learning." AAAI (2024).
   [[paper](https://arxiv.org/abs/2401.11228)] 
