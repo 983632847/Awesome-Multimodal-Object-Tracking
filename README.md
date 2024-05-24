@@ -766,6 +766,18 @@ Tracking." TCSVT (2024).
 - [RGBT-Tracking-Results-Datasets-and-Methods](https://github.com/Zhangyong-Tang/RGBT-Tracking-Results-Datasets-and-Methods)
 - [Multimodal-Tracking-Survey](https://github.com/zhang-pengyu/Multimodal-Tracking-Survey)
 
+## Citation
+
+If you find our work useful in your research, please consider citing:
+```
+@article{chunhui2024mmot,
+  title={Awesome Multi-modal Object Tracking},
+  author={Chunhui Zhang and Li Liu and Hao Wen and Xi Zhou and Yanfeng Wang},
+  journal={arXiv:2405.14200},
+  year={2024}
+}
+```
+
 
 ## License 
 This project is released under the MIT license. Please see the [LICENSE](LICENSE) file for more information.
