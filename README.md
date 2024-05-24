@@ -16,9 +16,9 @@ A continuously updated project to track the latest progress in multi-modal objec
 #### If you have any suggestions, please feel free to contact: [andyzhangchunhui@gmail.com](andyzhangchunhui@gmail.com). 
 
 ## :collision: Highlights
-```
+- 2024.05.24: The Report of Awesome MMOT Project was Online [arXiv](https://arxiv.org/abs/2405.14200) [知乎](https://zhuanlan.zhihu.com/p/699538389).
 - 2024.05.20: Awesome MMOT Project Started.
-```
+
 
 ## Contents
 
