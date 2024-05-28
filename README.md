@@ -71,6 +71,14 @@ A continuously updated project to track the latest progress in multi-modal objec
   [[paper](https://arxiv.org/abs/2405.00168)] 
   [[code](https://github.com/Zhangyong-Tang/MoETrack)]
 
+- Xingchen Zhang and Ping Ye and Henry Leung and Ke Gong and Gang Xiao.<br />
+  "Object fusion tracking based on visible and infrared images: A comprehensive review." Information Fusion (2024).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1566253520302657)] 
+
+- Mingzheng Feng and Jianbo Su.<br />
+  "RGBT tracking: A comprehensive review." Information Fusion (2024).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1566253524002707)] 
+
 
 ## Vision-Language Tracking
 ### Datasets
