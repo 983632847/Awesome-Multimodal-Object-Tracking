@@ -231,7 +231,12 @@ cross-modal fusion." PRL (2023).
 
 - **CDFI:** Jiqing Zhang, Xin Yang, Yingkai Fu, Xiaopeng Wei, Baocai Yin, Bo Dong.<br />
   "Object Tracking by Jointly Exploiting Frame and Event Domain." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2109.09052)] 
+  [[paper](https://arxiv.org/abs/2109.09052)]
+
+- **MMHT:** Hongze Sun, Rui Liu, Wuque Cai, Jun Wang, Yue Wang, Huajin Tang, Yan Cui, Dezhong Yao, Daqing Guo.<br />
+  "Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.17903)] 
+
 
 #### 2023
 - Zhiyu Zhu, Junhui Hou, Dapeng Oliver Wu.<br />
