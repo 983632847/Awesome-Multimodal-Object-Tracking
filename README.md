@@ -16,6 +16,7 @@ A continuously updated project to track the latest progress in multi-modal objec
 #### If you have any suggestions, please feel free to contact: [andyzhangchunhui@gmail.com](andyzhangchunhui@gmail.com). 
 
 ## :collision: Highlights
+- 2024.05.30: The Paper of WebUOT-1M was Online [arXiv](https://arxiv.org/abs/2405.19818).
 - 2024.05.24: The Report of Awesome MMOT Project was Online [arXiv](https://arxiv.org/abs/2405.14200) [知乎](https://zhuanlan.zhihu.com/p/699538389).
 - 2024.05.20: Awesome MMOT Project Started.
 
@@ -91,6 +92,7 @@ A continuously updated project to track the latest progress in multi-modal objec
 |  [WebUAV-3M](https://arxiv.org/abs/2201.07425)   |   TPAMI-2023   |  [WebUAV-3M](https://github.com/983632847/WebUAV-3M)  |  4500 videos, 3.3 million frames, UAV tracking, vision-language-audio |  
 |  [MGIT](https://huuuuusy.github.io/files/MGIT.pdf)   |   NeurIPS-2023   |  [MGIT](http://videocube.aitestunion.com/)  |  150 long video sequences, 2.03 million frames,  three semantic grains (i.e., action, activity, and story)  |  
 |  [VastTrack](https://arxiv.org/abs/2403.03493)   |   arXiv-2024   |  [VastTrack](https://github.com/HengLan/VastTrack)  |  50,610 video sequences, 4.2 million frames, 2,115 classes  |  
+|  [WebUOT-1M](https://arxiv.org/abs/2405.19818)   |   arXiv-2024   |  [WebUOT-1M](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)  |  The first million-scale underwater object tracking dataset contains 1,500 video sequences, 1.1 million frames |  
 
 
 ### Papers
