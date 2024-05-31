@@ -41,6 +41,18 @@ A continuously updated project to track the latest progress in multi-modal objec
 - - [Papers](#papers)
 - [Awesome Repositories for MMOT](#awesome-repositories-for-mmot)
 
+## Citation
+
+If you find our work useful in your research, please consider citing:
+```
+@article{zhang2024awesome,
+  title={Awesome Multi-modal Object Tracking},
+  author={Zhang, Chunhui and Liu, Li and Wen, Hao and Zhou, Xi and Wang, Yanfeng},
+  journal={arXiv preprint arXiv:2405.14200},
+  year={2024}
+}
+```
+
 
 ## Survey
 - Pengyu Zhang, Dong Wang, Huchuan Lu.<br />
@@ -781,17 +793,6 @@ Tracking." TCSVT (2024).
 - [RGBT-Tracking-Results-Datasets-and-Methods](https://github.com/Zhangyong-Tang/RGBT-Tracking-Results-Datasets-and-Methods)
 - [Multimodal-Tracking-Survey](https://github.com/zhang-pengyu/Multimodal-Tracking-Survey)
 
-## Citation
-
-If you find our work useful in your research, please consider citing:
-```
-@article{chunhui2024mmot,
-  title={Awesome Multi-modal Object Tracking},
-  author={Chunhui Zhang and Li Liu and Hao Wen and Xi Zhou and Yanfeng Wang},
-  journal={arXiv:2405.14200},
-  year={2024}
-}
-```
 
 
 ## License 
