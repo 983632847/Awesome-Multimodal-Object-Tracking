@@ -741,6 +741,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2024
+- **XTrack:** Yuedong Tan, Zongwei Wu, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte.<br />
+  "Towards a Generalist and Blind RGB-X Tracker." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.17773)] 
+  [[code](https://github.com/supertyd/XTrack)]
+
 - **OneTracker:** Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Chen, Jinglun Li, Zhaoyu Chen, Wenqiang Zhang.<br />
   "OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning." CVPR (2024).
   [[paper](https://arxiv.org/abs/2403.09634)] 
