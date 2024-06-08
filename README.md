@@ -532,6 +532,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2024
+- **MIGTD:** Yujue Cai, Xiubao Sui, Guohua Gu, Qian Chen.<br />
+  "Multi-modal interaction with token division strategy for RGB-T tracking." PR (2024).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324003777)] 
+
 - **GMMT:** Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Xiao-Jun Wu, Josef Kittler.<br />
   "Generative-based Fusion Mechanism for Multi-Modal Tracking." AAAI (2024).
   [[paper](https://arxiv.org/abs/2309.01728)] 
