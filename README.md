@@ -40,6 +40,7 @@ A continuously updated project to track the latest progress in multi-modal objec
 - - [Datasets](#datasets)
 - - [Papers](#papers)
 - [Awesome Repositories for MMOT](#awesome-repositories-for-mmot)
+  
 
 ## Citation
 
@@ -792,6 +793,13 @@ Tracking." TCSVT (2024).
   "Prompting for Multi-Modal Tracking." ACM MM (2022).
   [[paper](https://arxiv.org/abs/2207.14571)] 
 
+
+## Others
+#### 2024
+- **SCANet:** Yunfeng Li, Bo Wang, Jiuran Sun, Xueyi Wu, Ye Li.<br />
+  "RGB-Sonar Tracking Benchmark and Spatial Cross-Attention Transformer Tracker." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.07189)] 
+  [[code](https://github.com/LiYunfengLYF/RGBS50)]
 
 
 ## Awesome Repositories for MMOT
