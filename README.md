@@ -110,6 +110,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2024
+- **Tapall.ai:** Mingqi Gao, Jingnan Luo, Jinyu Yang, Jungong Han, Feng Zheng.<br />
+  "1st Place Solution for MeViS Track in CVPR 2024 PVUW Workshop: Motion Expression guided Video Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.07043)] 
+  [[code](https://github.com/Tapall-AI/MeViS_Track_Solution_2024)]
+
 - **DTLLM-VLT:** Xuchen Li, Xiaokun Feng, Shiyu Hu, Meiqi Wu, Dailing Zhang, Jing Zhang, Kaiqi Huang.<br />
   "DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM." CVPRW (2024).
   [[paper](https://arxiv.org/abs/2405.12139)] 
