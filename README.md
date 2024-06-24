@@ -306,7 +306,9 @@ cross-modal fusion." PRL (2023).
 |  [PTB](https://vision.princeton.edu/projects/2013/tracking/paper.pdf)   |   ICCV-2013   |  [PTB](https://tracking.cs.princeton.edu/index.html)  |  100 sequences  |  
 |  [STC](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8026575)   |   TC-2018   |  [STC](https://beardatashare.bham.ac.uk/dl/fiVnhJRjkyNN8QjSAoiGSiBY/RGBDdataset.zip)  |  36 sequences  |  
 |  [CDTB](https://arxiv.org/pdf/1907.00618.pdf)   |   ICCV-2019  |  [CDTB](https://www.votchallenge.net/vot2019/dataset.html)  |  80 sequences  |  
+|  [VOT-RGBD 2019/2020/2021](https://openaccess.thecvf.com/content_ICCVW_2019/papers/VOT/Kristan_The_Seventh_Visual_Object_Tracking_VOT2019_Challenge_Results_ICCVW_2019_paper.pdf)   |   ICCVW-2019  |  [VOT-RGBD 2019](https://votchallenge.net/vot2019/dataset.html)  | VOT-RGBD 2019, 2020, and 2021 are based on CDTB |    
 |  [DepthTrack](https://arxiv.org/abs/2108.13962)   |   ICCV-2021   |  [DepthTrack](http://doi.org/10.5281/zenodo.4716441)  |  200 sequences  |  
+|  [VOT-RGBD 2022](https://link.springer.com/chapter/10.1007/978-3-031-25085-9_25)   |   ECCVW-2022  |  [VOT-RGBD 2022](https://votchallenge.net/vot2022/dataset.html)  | VOT-RGBD 2022 is based on CDTB and DepthTrack |  
 |  [RGBD1K](https://arxiv.org/abs/2208.09787)   |   AAAI-2023   |  [RGBD1K](https://github.com/xuefeng-zhu5/RGBD1K)  |   1,050 sequences, 2.5M frames |  
 |  [DTTD](https://arxiv.org/abs/2302.05991)   |   CVPR Workshops-2023   |  [DTTD](https://github.com/augcog/DTTDv1)  | 103 scenes, 55691 frames   |  
 |  [ARKitTrack](https://arxiv.org/abs/2303.13885)   |   CVPR-2023   |  [ARKitTrack](https://arkittrack.github.io)  |  300 RGB-D sequences, 455 targets, 229.7K video frames  |  
