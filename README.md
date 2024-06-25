@@ -1,3 +1,7 @@
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 <div align="center">
 <img src="https://github.com/983632847/Awesome-Multimodal-Object-Tracking/blob/main/MMOT.png" width="600">
   
@@ -224,6 +228,11 @@ cross-modal fusion." PRL (2023).
 
 ### Papers
 #### 2024
+- **ED-DCFNet:** Raz Ramon, Hadar Cohen-Duwek, Elishai Ezra Tsur.<br />
+  "ED-DCFNet: An Unsupervised Encoder-decoder Neural Model for Event-driven Feature Extraction and Object Tracking." CVPRW (2024).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024W/EVW/papers/Ramon_ED-DCFNet_An_Unsupervised_Encoder-decoder_Neural_Model_for_Event-driven_Feature_Extraction_CVPRW_2024_paper.pdf)] 
+  [[code](https://github.com/NBELab/UnsupervisedTracking)]
+  
 - **Mamba-FETrack:** Ju Huang, Shiao Wang, Shuai Wang, Zhe Wu, Xiao Wang, Bo Jiang.<br />
   "Mamba-FETrack: Frame-Event Tracking via State Space Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.18174)] 
