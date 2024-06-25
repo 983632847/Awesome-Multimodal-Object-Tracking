@@ -221,7 +221,7 @@ cross-modal fusion." PRL (2023).
 |  [FE108](https://arxiv.org/abs/2109.09052)   |  ICCV-2021   |  [FE108](https://zhangjiqing.com/dataset/)  |  108 event videos  |  
 |  [COESOT](https://arxiv.org/abs/2211.11010)   |   arXiv-2022   |  [COESOT](https://github.com/Event-AHU/COESOT)  |  1354 RGB-event video pairs  |  
 |  [VisEvent](https://arxiv.org/abs/2108.05015)   |   TC-2023   |  [VisEvent](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark)  |  820 RGB-event video pairs |  
-|  [EventVOT](https://arxiv.org/abs/2309.14611)   |   CVPR-2023   |  [EventVOT](https://github.com/Event-AHU/EventVOT_Benchmark)  |  1141 event videos  |  
+|  [EventVOT](https://arxiv.org/abs/2309.14611)   |   CVPR-2024   |  [EventVOT](https://github.com/Event-AHU/EventVOT_Benchmark)  |  1141 event videos  |  
 |  [CRSOT](https://arxiv.org/abs/2401.02826)   |   arXiv-2024   |  [CRSOT](https://github.com/Event-AHU/Cross_Resolution_SOT)  |   1030 RGB-event video pairs |  
 |  [FELT](https://arxiv.org/pdf/2403.05839.pdf)   |   arXiv-2024   |  [FELT](https://github.com/Event-AHU/FELT_SOT_Benchmark)  |  742 RGB-event video pairs  |  
 
