@@ -228,6 +228,11 @@ cross-modal fusion." PRL (2023).
 
 ### Papers
 #### 2024
+- **eMoE-Tracker:** Yucheng Chen, Lin Wang.<br />
+  "eMoE-Tracker: Environmental MoE-based Transformer for Robust Event-guided Object Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.20024)] 
+  [[code](https://vlislab22.github.io/eMoE-Tracker/)]
+
 - **ED-DCFNet:** Raz Ramon, Hadar Cohen-Duwek, Elishai Ezra Tsur.<br />
   "ED-DCFNet: An Unsupervised Encoder-decoder Neural Model for Event-driven Feature Extraction and Object Tracking." CVPRW (2024).
   [[paper](https://openaccess.thecvf.com/content/CVPR2024W/EVW/papers/Ramon_ED-DCFNet_An_Unsupervised_Encoder-decoder_Neural_Model_for_Event-driven_Feature_Extraction_CVPRW_2024_paper.pdf)] 
@@ -549,6 +554,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2024
+- Zhao, Qian, Jun Liu, Junjia Wang, and Xingzhong Xiong.<br />
+  "Real-Time RGBT Target Tracking Based on Attention Mechanism." Electronics (2024).
+  [[paper](https://www.mdpi.com/2079-9292/13/13/2517)] 
+
 - **MIGTD:** Yujue Cai, Xiubao Sui, Guohua Gu, Qian Chen.<br />
   "Multi-modal interaction with token division strategy for RGB-T tracking." PR (2024).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324003777)] 
