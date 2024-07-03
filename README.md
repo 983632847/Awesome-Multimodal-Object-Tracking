@@ -110,10 +110,16 @@ If you find our work useful in your research, please consider citing:
 |  [MGIT](https://huuuuusy.github.io/files/MGIT.pdf)   |   NeurIPS-2023   |  [MGIT](http://videocube.aitestunion.com/)  |  150 long video sequences, 2.03 million frames,  three semantic grains (i.e., action, activity, and story)  |  
 |  [VastTrack](https://arxiv.org/abs/2403.03493)   |   arXiv-2024   |  [VastTrack](https://github.com/HengLan/VastTrack)  |  50,610 video sequences, 4.2 million frames, 2,115 classes  |  
 |  [WebUOT-1M](https://arxiv.org/abs/2405.19818)   |   arXiv-2024   |  [WebUOT-1M](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)  |  The first million-scale underwater object tracking dataset contains 1,500 video sequences, 1.1 million frames |  
+|  [ElysiumTrack-1M](https://arxiv.org/abs/2403.16558)   |   ECCV-2024   |  [ElysiumTrack-1M](https://github.com/Hon-Wong/Elysium)  |   A large-scale dataset that supports three tasks: single object tracking, reference single object tracking, and video reference expression generation, with 1.27 million videos |  
 
 
 ### Papers
 #### 2024
+- **Elysium:** Han Wang, Yanjie Wang, Yongjie Ye, Yuxiang Nie, Can Huang.<br />
+  "Elysium: Exploring Object-level Perception in Videos via MLLM." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2403.16558)] 
+  [[code](https://github.com/Hon-Wong/Elysium)]
+
 - **Tapall.ai:** Mingqi Gao, Jingnan Luo, Jinyu Yang, Jungong Han, Feng Zheng.<br />
   "1st Place Solution for MeViS Track in CVPR 2024 PVUW Workshop: Motion Expression guided Video Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.07043)] 
