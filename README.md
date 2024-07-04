@@ -560,6 +560,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2024
+- Yang Luo, Xiqing Guo, Hao Li.<br />
+  "From Two-Stream to One-Stream: Efficient RGB-T Tracking via Mutual Prompt Learning and Knowledge Distillation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.16834)] 
+
 - Zhao, Qian, Jun Liu, Junjia Wang, and Xingzhong Xiong.<br />
   "Real-Time RGBT Target Tracking Based on Attention Mechanism." Electronics (2024).
   [[paper](https://www.mdpi.com/2079-9292/13/13/2517)] 
