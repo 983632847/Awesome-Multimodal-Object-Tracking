@@ -562,6 +562,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2024
+- **NLMTrack:** Miao Yan, Ping Zhang, Haofei Zhang, Ruqian Hao, Juanxiu Liu, Xiaoyang Wang, Lin Liu.<br />
+  "Enhancing Thermal Infrared Tracking with Natural Language Modeling and Coordinate Sequence Generation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.08265)] 
+  [[code](https://github.com/ELOESZHANG/NLMTrack)]
+
 - Yang Luo, Xiqing Guo, Hao Li.<br />
   "From Two-Stream to One-Stream: Efficient RGB-T Tracking via Mutual Prompt Learning and Knowledge Distillation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.16834)] 
