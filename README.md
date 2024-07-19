@@ -562,6 +562,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2024
+- **MELT:** Zhangyong Tang, Tianyang Xu, Xiao-Jun Wu, and Josef Kittler.<br />
+  "Multi-Level Fusion for Robust RGBT Tracking via Enhanced Thermal Representation." ACM TOMM (2024).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3678176)] 
+  [[code](https://github.com/Zhangyong-Tang/MELT)]
+
 - **NLMTrack:** Miao Yan, Ping Zhang, Haofei Zhang, Ruqian Hao, Juanxiu Liu, Xiaoyang Wang, Lin Liu.<br />
   "Enhancing Thermal Infrared Tracking with Natural Language Modeling and Coordinate Sequence Generation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.08265)] 
