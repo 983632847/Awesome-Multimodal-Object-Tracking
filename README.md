@@ -562,6 +562,14 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2024
+- **ReFocus:** Lai, Simiao and Liu, Chang and Wang, Dong and Lu, Huchuan.<br />
+  "Refocus the Attention for Parameter-Efficient Thermal Infrared Object Tracking." TNNLS (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10601348)] 
+
+- **MMSTC:** Zhang, Tianlu and Jiao, Qiang and Zhang, Qiang and Han, Jungong.<br />
+  "Exploring Multi-modal Spatial-Temporal Contexts for High-performance RGB-T Tracking." TIP (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10605602)] 
+
 - **MELT:** Zhangyong Tang, Tianyang Xu, Xiao-Jun Wu, and Josef Kittler.<br />
   "Multi-Level Fusion for Robust RGBT Tracking via Enhanced Thermal Representation." ACM TOMM (2024).
   [[paper](https://dl.acm.org/doi/abs/10.1145/3678176)] 
