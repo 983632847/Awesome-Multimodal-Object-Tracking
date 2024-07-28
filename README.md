@@ -199,7 +199,7 @@ cross-modal fusion." PRL (2023).
 
 - **VLT_TT:** Mingzhe Guo, Zhipeng Zhang, Liping Jing, Haibin Ling, Heng Fan.<br />
   "Divert More Attention to Vision-Language Object Tracking." ArXiv (2023).
-  [[paper]()] 
+  [[paper](https://arxiv.org/abs/2307.10046)] 
   [[code](https://github.com/JudasDie/SOTS)]
 
 #### 2022
