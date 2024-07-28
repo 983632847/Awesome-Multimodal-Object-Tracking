@@ -317,7 +317,6 @@ cross-modal fusion." PRL (2023).
 
 - **CFE:** Jiqing Zhang, Kai Zhao, Bo Dong, Yingkai Fu, Yuxin Wang, Xin Yang, Baocai Yin.<br />
   "Multi-domain Collaborative Feature Representation for Robust Visual Object Tracking." The Visual Computer (2021).
-  [[paper]()] 
   [[paper](https://arxiv.org/abs/2108.04521)]
 
 
