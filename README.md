@@ -27,22 +27,22 @@ A continuously updated project to track the latest progress in multi-modal objec
 
 ## Contents
 
-- [Survey](#Survey) 
+- [Survey](#survey) 
 - [Vision-Language Tracking (RGBL Tracking)](#vision-language-tracking)
-- - [Datasets](#datasets)
-- - [Papers](#papers)
+  - [Datasets](#datasets)
+  - [Papers](#papers)
 - [RGBE Tracking](#rgbe-tracking)
-- - [Datasets](#datasets)
-- - [Papers](#papers)
+  - [Datasets](#datasets)
+  - [Papers](#papers)
 - [RGBD Tracking](#rgbd-tracking)
-- - [Datasets](#datasets)
-- - [Papers](#papers)
+  - [Datasets](#datasets)
+  - [Papers](#papers)
 - [RGBT Tracking](#rgbt-tracking)
-- - [Datasets](#datasets)
-- - [Papers](#papers)
+  - [Datasets](#datasets)
+  - [Papers](#papers)
 - [Miscellaneous (RGB+X)](#miscellaneous)
-- - [Datasets](#datasets)
-- - [Papers](#papers)
+  - [Datasets](#datasets)
+  - [Papers](#papers)
 - [Awesome Repositories for MMOT](#awesome-repositories-for-mmot)
   
 
