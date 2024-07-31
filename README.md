@@ -115,6 +115,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2024
+- **ALTracker:** Zikai Song, Ying Tang, Run Luo, Lintao Ma, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang.<br />
+  "Autogenic Language Embedding for Coherent Point Tracking." ACM MM (2024).
+  [[paper](https://arxiv.org/abs/2407.20730)] 
+  [[code](https://github.com/SkyeSong38/ALTrack)]
+
 - **Elysium:** Han Wang, Yanjie Wang, Yongjie Ye, Yuxiang Nie, Can Huang.<br />
   "Elysium: Exploring Object-level Perception in Videos via MLLM." ECCV (2024).
   [[paper](https://arxiv.org/abs/2403.16558)] 
@@ -232,6 +237,7 @@ cross-modal fusion." PRL (2023).
 |  [EventVOT](https://arxiv.org/abs/2309.14611)   |   CVPR-2024   |  [EventVOT](https://github.com/Event-AHU/EventVOT_Benchmark)  |  1141 event videos  |  
 |  [CRSOT](https://arxiv.org/abs/2401.02826)   |   arXiv-2024   |  [CRSOT](https://github.com/Event-AHU/Cross_Resolution_SOT)  |   1030 RGB-event video pairs |  
 |  [FELT](https://arxiv.org/pdf/2403.05839.pdf)   |   arXiv-2024   |  [FELT](https://github.com/Event-AHU/FELT_SOT_Benchmark)  |  742 RGB-event video pairs  |  
+|  [MEVDT](https://arxiv.org/abs/2407.20446)   |   arXiv-2024   |  [MEVDT](https://doi.org/10.7302/d5k3-9150)  |  63 multimodal sequences with 13k images, 5M events, 10k object labels and 85 trajectories  |  
 
 
 ### Papers
@@ -561,6 +567,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2024
+- **PDAT:** Qiao Li, Kanlun Tan, Qiao Liu, Di Yuan, Xin Li, Yunpeng Liu.<br />
+  "Progressive Domain Adaptation for Thermal Infrared Object Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.19430)] 
+
 - **ReFocus:** Lai, Simiao and Liu, Chang and Wang, Dong and Lu, Huchuan.<br />
   "Refocus the Attention for Parameter-Efficient Thermal Infrared Object Tracking." TNNLS (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10601348)] 
