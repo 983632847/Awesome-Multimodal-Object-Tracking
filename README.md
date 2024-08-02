@@ -567,6 +567,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2024
+- Li, Kai, Lihua Cai, Guangjian He, and Xun Gong.<br />
+  "MATI: Multimodal Adaptive Tracking Integrator for Robust Visual Object Tracking." Sensors (2024).
+  [[paper](https://scholar.google.com/scholar_url?url=https://www.mdpi.com/1424-8220/24/15/4911&hl=zh-TW&sa=X&d=14839197097615148070&ei=BXusZp-aO4WDy9YPk62U2Ag&scisig=AFWwaeabTxc27aJsTqC6-Qs7Z4zo&oi=scholaralrt&hist=r_cpud8AAAAJ:10441837062453208129:AFWwaeY_qPHejjD8SbhwqiaY6sXf&html=&pos=0&folt=rel&fols=)] 
+
 - **PDAT:** Qiao Li, Kanlun Tan, Qiao Liu, Di Yuan, Xin Li, Yunpeng Liu.<br />
   "Progressive Domain Adaptation for Thermal Infrared Object Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.19430)] 
