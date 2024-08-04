@@ -97,6 +97,10 @@ If you find our work useful in your research, please consider citing:
   "RGBT tracking: A comprehensive review." Information Fusion (2024).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1566253524002707)] 
 
+- Zhang, Haiping and Yuan, Di and Shu, Xiu and Li, Zhihui and Liu, Qiao and Chang, Xiaojun and He, Zhenyu and Shi, Guangming.<br />
+  "A Comprehensive Review of RGBT Tracking." IEEE TIM (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10616144)] 
+
 
 ## Vision-Language Tracking
 ### Datasets
