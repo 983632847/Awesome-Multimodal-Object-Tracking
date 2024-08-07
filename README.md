@@ -571,6 +571,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2024
+- **VLCTrack:** Wang, Jiahao and Liu, Fang and Jiao, Licheng and Gao, Yingjia and Wang, Hao and Li, Shuo and Li, Lingling and Chen, Puhua and Liu, Xu.<br />
+  "Visual and Language Collaborative Learning for RGBT Object Tracking." TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10620225)] 
+
 - **CAFormer:** Yun Xiao, Jiacong Zhao, Andong Lu, Chenglong Li, Yin Lin, Bing Yin, Cong Liu.<br />
   "Cross-modulated Attention Transformer for RGBT Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.02222)] 
