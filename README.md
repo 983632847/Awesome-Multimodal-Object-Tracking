@@ -346,6 +346,10 @@ cross-modal fusion." PRL (2023).
 
 ### Papers
 #### 2024
+- **AMATrack:** Ye, Ping and Xiao, Gang and Liu, Jun.<br />
+  "AMATrack: A Unified Network With Asymmetric Multimodal Mixed Attention for RGBD Tracking." IEEE TIM (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10623547)] 
+
 - **SSLTrack:** Xue-Feng Zhu, Tianyang Xu, Sara Atito, Muhammad Awais,
 Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   "Self-supervised learning for RGB-D object tracking." PR (2024).
