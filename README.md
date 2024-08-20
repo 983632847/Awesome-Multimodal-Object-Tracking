@@ -123,6 +123,10 @@ If you find our work useful in your research, please consider citing:
   "Diffusion Mask-Driven Visual-language Tracking." IJCAI (2024).
   [[paper](https://www.ijcai.org/proceedings/2024/0183.pdf)] 
 
+- **SS-VLT:** Jiawei Ge, Jiuxin Cao, Xuelin Zhu, Xinyu Zhang, Chang Liu, Kun Wang, Bo Liu.<br />
+  "Consistencies are All You Need for Semi-supervised Vision-Language Tracking." ACM MM (2024).
+  [[paper](https://openreview.net/pdf?id=jLJ3htNxVX)] 
+
 - **ALTracker:** Zikai Song, Ying Tang, Run Luo, Lintao Ma, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang.<br />
   "Autogenic Language Embedding for Coherent Point Tracking." ACM MM (2024).
   [[paper](https://arxiv.org/abs/2407.20730)] 
