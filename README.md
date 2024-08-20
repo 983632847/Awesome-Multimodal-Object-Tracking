@@ -119,6 +119,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2024
+- **DMTrack:** Guangtong Zhang, Bineng Zhong, Qihua Liang, Zhiyi Mo, Shuxiang Song.<br />
+  "Diffusion Mask-Driven Visual-language Tracking." IJCAI (2024).
+  [[paper](https://www.ijcai.org/proceedings/2024/0183.pdf)] 
+
 - **ALTracker:** Zikai Song, Ying Tang, Run Luo, Lintao Ma, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang.<br />
   "Autogenic Language Embedding for Coherent Point Tracking." ACM MM (2024).
   [[paper](https://arxiv.org/abs/2407.20730)] 
@@ -582,6 +586,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 - **DFM:** Andong Lu, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo.<br />
   "RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.08827)]
+
+- **SiamSEA:** Zihan Zhuang, Mingfeng Yin, Qi Gao, Yong Lin, Xing Hong.<br />
+  "SiamSEA: Semantic-aware Enhancement and Associative-attention Dual-Modal Siamese Network for Robust RGBT Tracking." IEEE Access (2024).
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10634538)] 
   
 - **VLCTrack:** Wang, Jiahao and Liu, Fang and Jiao, Licheng and Gao, Yingjia and Wang, Hao and Li, Shuo and Li, Lingling and Chen, Puhua and Liu, Xu.<br />
   "Visual and Language Collaborative Learning for RGBT Object Tracking." TCSVT (2024).
