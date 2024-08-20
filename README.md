@@ -575,6 +575,14 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2024
+- **MambaVT:** Simiao Lai, Chang Liu, Jiawen Zhu, Ben Kang, Yang Liu, Dong Wang, Huchuan Lu.<br />
+  "MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.07889)] 
+
+- **DFM:** Andong Lu, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo.<br />
+  "RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.08827)]
+  
 - **VLCTrack:** Wang, Jiahao and Liu, Fang and Jiao, Licheng and Gao, Yingjia and Wang, Hao and Li, Shuo and Li, Lingling and Chen, Puhua and Liu, Xu.<br />
   "Visual and Language Collaborative Learning for RGBT Object Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10620225)] 
