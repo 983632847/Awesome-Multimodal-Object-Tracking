@@ -254,6 +254,11 @@ cross-modal fusion." PRL (2023).
 
 ### Papers
 #### 2024
+- **MambaEVT:** Xiao Wang, Chao wang, Shiao Wang, Xixi Wang, Zhicheng Zhao, Lin Zhu, Bo Jiang.<br />
+  "MambaEVT: Event Stream based Visual Object Tracking using State Space Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.10487)] 
+  [[code](https://github.com/Event-AHU/MambaEVT)]
+
 - **eMoE-Tracker:** Yucheng Chen, Lin Wang.<br />
   "eMoE-Tracker: Environmental MoE-based Transformer for Robust Event-guided Object Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.20024)] 
