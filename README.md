@@ -909,6 +909,10 @@ Tracking." TCSVT (2024).
 
 ## Others
 #### 2024
+- **BihoT:** Hanzheng Wang, Wei Li, Xiang-Gen Xia, Qian Du.<br />
+  "BihoT: A Large-Scale Dataset and Benchmark for Hyperspectral Camouflaged Object Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.12232)]
+  
 - **SCANet:** Yunfeng Li, Bo Wang, Jiuran Sun, Xueyi Wu, Ye Li.<br />
   "RGB-Sonar Tracking Benchmark and Spatial Cross-Attention Transformer Tracker." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.07189)] 
