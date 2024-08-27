@@ -18,6 +18,8 @@ A continuously updated project to track the latest progress in multi-modal objec
 #### If this repository can bring you some inspiration, we would feel greatly honored.
 #### If you like our project, please give us a star ⭐ on this GitHub.
 #### If you have any suggestions, please feel free to contact: [andyzhangchunhui@gmail.com](andyzhangchunhui@gmail.com). 
+### We welcome other researchers to submit pull requests and become contributors to this project.
+
 
 ## :collision: Highlights
 - 2024.05.30: The Paper of WebUOT-1M was Online [arXiv](https://arxiv.org/abs/2405.19818).
