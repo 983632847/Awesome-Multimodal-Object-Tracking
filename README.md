@@ -592,6 +592,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2024
+- **CFBT:** Zhirong Zeng, Xiaotao Liu, Meng Sun, Hongyu Wang, Jing Liu.<br />
+  "Cross Fusion RGB-T Tracking with Bi-directional Adapter." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.16979)] 
+
 - **MambaVT:** Simiao Lai, Chang Liu, Jiawen Zhu, Ben Kang, Yang Liu, Dong Wang, Huchuan Lu.<br />
   "MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.07889)] 
