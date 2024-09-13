@@ -123,6 +123,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2024
+- **MambaTrack:** Chunhui Zhang, Li Liu, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
+  "MambaTrack: Exploiting Dual-Enhancement for Night UAV Tracking." ArXiv (2024).
+  [[paper](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)] 
+
 - **DMTrack:** Guangtong Zhang, Bineng Zhong, Qihua Liang, Zhiyi Mo, Shuxiang Song.<br />
   "Diffusion Mask-Driven Visual-language Tracking." IJCAI (2024).
   [[paper](https://www.ijcai.org/proceedings/2024/0183.pdf)] 
