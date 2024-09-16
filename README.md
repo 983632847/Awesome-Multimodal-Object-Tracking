@@ -119,6 +119,8 @@ If you find our work useful in your research, please consider citing:
 |  [VastTrack](https://arxiv.org/abs/2403.03493)   |   arXiv-2024   |  [VastTrack](https://github.com/HengLan/VastTrack)  |  50,610 video sequences, 4.2 million frames, 2,115 classes  |  
 |  [WebUOT-1M](https://arxiv.org/abs/2405.19818)   |   arXiv-2024   |  [WebUOT-1M](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)  |  The first million-scale underwater object tracking dataset contains 1,500 video sequences, 1.1 million frames |  
 |  [ElysiumTrack-1M](https://arxiv.org/abs/2403.16558)   |   ECCV-2024   |  [ElysiumTrack-1M](https://github.com/Hon-Wong/Elysium)  |   A large-scale dataset that supports three tasks: single object tracking, reference single object tracking, and video reference expression generation, with 1.27 million videos |  
+|  [VLT-MI](https://arxiv.org/abs/2409.08887)   |   arXiv-2024   | - |  A dataset for multi-round, multi-modal interaction, with 3,619 videos. |  
+
 
 
 ### Papers
