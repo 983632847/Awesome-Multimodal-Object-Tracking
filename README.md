@@ -264,7 +264,7 @@ cross-modal fusion." PRL (2023).
 
 ### Papers
 #### 2024
-- **EvoFusion:** Jiaxiong Liu, Bo Wang, Zhen Tan, Jinpu Zhang, Hui Shen, Dewen Hu.<br />
+- **FE-TAP:** Jiaxiong Liu, Bo Wang, Zhen Tan, Jinpu Zhang, Hui Shen, Dewen Hu.<br />
   "Tracking Any Point with Frame-Event Fusion Network at High Frame Rate." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.11953)] 
   [[code](https://github.com/ljx1002/FE-TAP)]
