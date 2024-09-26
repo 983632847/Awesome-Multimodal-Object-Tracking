@@ -207,7 +207,10 @@ If you find our work useful in your research, please consider citing:
   "Multimodal Features Alignment for Vision–Language Object Tracking." Remote Sensing (2024).
   [[paper](https://www.mdpi.com/2072-4292/16/7/1168)] 
 
-
+- **VLT_TT:** Mingzhe Guo, Zhipeng Zhang, Liping Jing, Haibin Ling, Heng Fan.<br />
+  "Divert More Attention to Vision-Language Object Tracking." TPAMI (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10547435)] 
+  [[code](https://github.com/JudasDie/SOTS)]
 
 #### 2023
 - **WebUAV-3M:** Chunhui Zhang, Guanjie Huang, Li Liu, Shan Huang, Yinan Yang, Xiang Wan, Shiming Ge, Dacheng Tao.<br />
@@ -256,11 +259,6 @@ cross-modal fusion." PRL (2023).
 - **VLATrack:** Zuo, Jixiang and Wu, Tao and Shi, Meiping and Liu, Xueyan and Zhao, Xijun.<br />
   "Multi-Modal Object Tracking with Vision-Language Adaptive Fusion and Alignment." RICAI (2023).
   [[paper](https://ieeexplore.ieee.org/document/10489325)] 
-
-- **VLT_TT:** Mingzhe Guo, Zhipeng Zhang, Liping Jing, Haibin Ling, Heng Fan.<br />
-  "Divert More Attention to Vision-Language Object Tracking." ArXiv (2023).
-  [[paper](https://arxiv.org/abs/2307.10046)] 
-  [[code](https://github.com/JudasDie/SOTS)]
 
 #### 2022
 
