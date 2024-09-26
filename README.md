@@ -128,7 +128,7 @@ If you find our work useful in your research, please consider citing:
 - **UW-COT:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
   "Towards Underwater Camouflaged Object Tracking: An Experimental Evaluation of SAM and SAM 2." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.16902)] 
-  [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
+  [[project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
 
 - **WebUOT-1M:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
   "WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark." ArXiv (2024).
