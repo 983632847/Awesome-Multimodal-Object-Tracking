@@ -130,9 +130,28 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2409.16902)] 
   [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
 
+- **WebUOT-1M:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
+  "WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.19818)] 
+  [[project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
+  
 - **MambaTrack:** Chunhui Zhang, Li Liu, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
   "MambaTrack: Exploiting Dual-Enhancement for Night UAV Tracking." ArXiv (2024).
-  [[paper](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)] 
+  [[paper](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
+  
+- **ElysiumTrack-1M:** Han Wang, Yanjie Wang, Yongjie Ye, Yuxiang Nie, Can Huang.<br />
+  "Elysium: Exploring Object-level Perception in Videos via MLLM." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2403.16558)] 
+  [[project](https://github.com/Hon-Wong/Elysium)]
+
+- **VLT-MI:** Xuchen Li, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang.<br />
+  "Visual Language Tracking with Multi-modal Interaction: A Robust Benchmark." ArXiv (2024).
+  [[project](https://arxiv.org/abs/2409.08887)] 
+
+- **VastTrack:** Liang Peng, Junyuan Gao, Xinran Liu, Weihong Li, Shaohua Dong, Zhipeng Zhang, Heng Fan, Libo Zhang.<br />
+  "VastTrack: Vast Category Visual Object Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.03493)] 
+  [[project](https://github.com/HengLan/VastTrack)]
 
 - **DMTrack:** Guangtong Zhang, Bineng Zhong, Qihua Liang, Zhiyi Mo, Shuxiang Song.<br />
   "Diffusion Mask-Driven Visual-language Tracking." IJCAI (2024).
@@ -191,7 +210,11 @@ If you find our work useful in your research, please consider citing:
 
 
 #### 2023
-
+- **WebUAV-3M:** Chunhui Zhang, Guanjie Huang, Li Liu, Shan Huang, Yinan Yang, Xiang Wan, Shiming Ge, Dacheng Tao.<br />
+  "WebUAV-3M: A Benchmark for Unveiling the Power of Million-Scale Deep UAV Tracking." TPAMI (2023).
+  [[paper](https://arxiv.org/abs/2201.07425)] 
+  [[project](https://github.com/983632847/WebUAV-3M)]
+  
 - **All in One:** Chunhui Zhang, Xin Sun, Li Liu, Yiqian Yang, Qiong Liu, Xi Zhou, Yanfeng Wang.<br />
   "All in One: Exploring Unified Vision-Language Tracking with Multi-Modal Alignment." ACM MM (2023).
   [[paper](https://arxiv.org/abs/2307.03373)] 
@@ -206,6 +229,11 @@ If you find our work useful in your research, please consider citing:
   "Joint Visual Grounding and Tracking with Natural Language Specifcation." CVPR (2023).
   [[paper](https://arxiv.org/abs/2303.12027#:~:text=Tracking%20by%20natural%20language%20specification%20aims%20to%20locate,tracking%20model%20to%20implement%20these%20two%20steps%2C%20respectively.)] 
   [[code](https://github.com/lizhou-cs/JointNLT)]
+
+- **MGIT:** Hu, Shiyu and Zhang, Dailing and meiqi, wu and Feng, Xiaokun and Li, Xuchen and Zhao, Xin and Huang, Kaiqi.<br />
+  "A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship." NeurIPS (2023).
+  [[paper](https://huuuuusy.github.io/files/MGIT.pdf)] 
+  [[project](http://videocube.aitestunion.com/)]
 
 - **DecoupleTNL:** Ma, Ding and Wu, Xiangqian.<br />
   "Tracking by Natural Language Specification with Long Short-term Context Decoupling." ICCV (2023).
@@ -247,11 +275,33 @@ cross-modal fusion." PRL (2023).
   [[paper](https://ieeexplore.ieee.org/document/9857151)] 
 
 #### 2021
+- **TNL2K:** Wang, Xiao and Shu, Xiujun and Zhang, Zhipeng and Jiang, Bo and Wang, Yaowei and Tian, Yonghong and Wu, Feng.<br />
+  "Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark." CVPR (2021).
+  [[paper](https://arxiv.org/abs/1809.07845)] 
+  [[project](https://sites.google.com/view/langtrackbenchmark/)]
+
+- **LaSOT_EXT:** Heng Fan, Hexin Bai, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Harshit, Mingzhen Huang, Juehuan Liu, Yong Xu, Chunyuan Liao, Lin Yuan, Haibin Ling.<br />
+  "LaSOT: A High-quality Large-scale Single Object Tracking Benchmark." IJCV (2021).
+  [[paper](https://arxiv.org/abs/2009.03465)] 
+  [[project](https://github.com/HengLan/LaSOT_Evaluation_Toolkit)]
 
 - **SNLT:** Qi Feng, Vitaly Ablavsky, Qinxun Bai, Stan Sclaroff.<br />
   "Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers." CVPR  (2021).
   [[paper](https://arxiv.org/abs/1912.02048)] 
   [[code](https://github.com/fredfung007/snlt)]
+  
+#### 2019
+- **LaSOT:** Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling.<br />
+  "LaSOT: A High-quality Benchmark for Large-scale Single Object Tracking." CVPR (2021).
+  [[paper](https://arxiv.org/abs/1809.07845)] 
+  [[project](http://vision.cs.stonybrook.edu/~lasot/)]
+
+#### 2017
+- **OTB99-L:** Zhenyang Li, Ran Tao, Efstratios Gavves, Cees G. M. Snoek, Arnold W.M. Smeulders.<br />
+  "Tracking by Natural Language Specification." CVPR (2017).
+[[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Tracking_by_Natural_CVPR_2017_paper.pdf)] 
+  [[project](https://github.com/QUVA-Lab/lang-tracker)]
+
 
 
 ## RGBE Tracking
