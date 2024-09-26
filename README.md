@@ -22,6 +22,7 @@ A continuously updated project to track the latest progress in multi-modal objec
 
 
 ## :collision: Highlights
+- The WebUOT-1M was accepted by NeurIPS 2024, and its extended version, UW-COT, was released.
 - 2024.05.30: The Paper of WebUOT-1M was Online [arXiv](https://arxiv.org/abs/2405.19818).
 - 2024.05.24: The Report of Awesome MMOT Project was Online [arXiv](https://arxiv.org/abs/2405.14200) [知乎](https://zhuanlan.zhihu.com/p/699538389).
 - 2024.05.20: Awesome MMOT Project Started.
