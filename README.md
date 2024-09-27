@@ -318,6 +318,14 @@ cross-modal fusion." PRL (2023).
 
 ### Papers
 #### 2024
+- **DS-MESA:** Pengcheng Shao, Tianyang Xu, Xuefeng Zhu, Xiaojun Wu, Josef Kittler.<br />
+  "Dynamic Subframe Splitting and Spatio-Temporal Motion Entangled Sparse Attention for RGB-E Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.17560)] 
+
+- **BlinkTrack:** Yichen Shen, Yijin Li, Shuo Chen, Guanglin Li, Zhaoyang Huang, Hujun Bao, Zhaopeng Cui, Guofeng Zhang.<br />
+  "BlinkTrack: Feature Tracking over 100 FPS via Events and Images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.17981)] 
+
 - **FE-TAP:** Jiaxiong Liu, Bo Wang, Zhen Tan, Jinpu Zhang, Hui Shen, Dewen Hu.<br />
   "Tracking Any Point with Frame-Event Fusion Network at High Frame Rate." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.11953)] 
