@@ -22,12 +22,12 @@ A continuously updated project to track the latest progress in multi-modal objec
 
 
 ## :collision: Highlights
+![Last Updated](https://badgen.net/github/last-commit/983632847/Awesome-Multimodal-Object-Tracking?icon=github&label=last%20updated&color=blue)
+
 - 2024.09.26: The WebUOT-1M was accepted by NeurIPS 2024, and its extended version, UW-COT, was released.
 - 2024.05.30: The Paper of WebUOT-1M was Online [arXiv](https://arxiv.org/abs/2405.19818).
 - 2024.05.24: The Report of Awesome MMOT Project was Online [arXiv](https://arxiv.org/abs/2405.14200) [知乎](https://zhuanlan.zhihu.com/p/699538389).
 - 2024.05.20: Awesome MMOT Project Started.
-
-![Last Updated](https://badgen.net/github/last-commit/983632847/Awesome-Multimodal-Object-Tracking?icon=github&label=last%20updated&color=blue)
 
 
 ## Contents
