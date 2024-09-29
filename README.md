@@ -436,6 +436,10 @@ cross-modal fusion." PRL (2023).
 
 ### Papers
 #### 2024
+- **TABBTrack:** Ge Ying and Dawei Zhang and Zhou Ou and Xiao Wang and Zhonglong Zheng.<br />
+  "Temporal adaptive bidirectional bridging for RGB-D tracking." PR (2024).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320324008045)] 
+
 - **AMATrack:** Ye, Ping and Xiao, Gang and Liu, Jun.<br />
   "AMATrack: A Unified Network With Asymmetric Multimodal Mixed Attention for RGBD Tracking." IEEE TIM (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10623547)] 
