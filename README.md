@@ -122,14 +122,19 @@ If you find our work useful in your research, please consider citing:
 |  [ElysiumTrack-1M](https://arxiv.org/abs/2403.16558)   |   ECCV-2024   |  [ElysiumTrack-1M](https://github.com/Hon-Wong/Elysium)  |   A large-scale dataset that supports three tasks: single object tracking, reference single object tracking, and video reference expression generation, with 1.27 million videos |  
 |  [VLT-MI](https://arxiv.org/abs/2409.08887)   |   arXiv-2024   | - |  A dataset for multi-round, multi-modal interaction, with 3,619 videos. |  
 |  [UW-COT](https://arxiv.org/abs/2405.19818)   |   arXiv-2024   | [UW-COT](https://github.com/983632847/Awesome-Multimodal-Object-Tracking) |  The first underwater camouﬂaged object tracking dataset with 220 videos. |  
+|  [DTVLT](https://arxiv.org/abs/2410.02492)   |   arXiv-2024   | [DTVLT](http://videocube.aitestunion.com/) |  A multi-modal diverse text benchmark for visual language tracking (RGBL Tracking). |  
 
 
 ### Papers
 #### 2024
+
+- **MemVLT**: Xiaokun Feng, Xuchen Li, Shiyu Hu, Dailing Zhang, Meiqi Wu, Jing Zhang, Xiaotang Chen, Kaiqi Huang.<br />
+  "MemVLT: Visual-Language Tracking with Adaptive Memory-based Prompts." NeurIPS (2024)
+
 - **DTVLT:** Xuchen Li, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang.<br />
   "DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.02492)] 
-  [[code](http://videocube.aitestunion.com/)]
+  [[project](http://videocube.aitestunion.com/)]
 
 - **UW-COT:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
   "Towards Underwater Camouflaged Object Tracking: An Experimental Evaluation of SAM and SAM 2." ArXiv (2024).
@@ -148,11 +153,11 @@ If you find our work useful in your research, please consider citing:
 - **ElysiumTrack-1M:** Han Wang, Yanjie Wang, Yongjie Ye, Yuxiang Nie, Can Huang.<br />
   "Elysium: Exploring Object-level Perception in Videos via MLLM." ECCV (2024).
   [[paper](https://arxiv.org/abs/2403.16558)] 
-  [[project](https://github.com/Hon-Wong/Elysium)]
+  [[code](https://github.com/Hon-Wong/Elysium)]
 
 - **VLT-MI:** Xuchen Li, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang.<br />
   "Visual Language Tracking with Multi-modal Interaction: A Robust Benchmark." ArXiv (2024).
-  [[project](https://arxiv.org/abs/2409.08887)] 
+  [[paper](https://arxiv.org/abs/2409.08887)] 
 
 - **VastTrack:** Liang Peng, Junyuan Gao, Xinran Liu, Weihong Li, Shaohua Dong, Zhipeng Zhang, Heng Fan, Libo Zhang.<br />
   "VastTrack: Vast Category Visual Object Tracking." ArXiv (2024).
@@ -163,7 +168,7 @@ If you find our work useful in your research, please consider citing:
   "Diffusion Mask-Driven Visual-language Tracking." IJCAI (2024).
   [[paper](https://www.ijcai.org/proceedings/2024/0183.pdf)] 
 
-- **SS-VLT:** Jiawei Ge, Jiuxin Cao, Xuelin Zhu, Xinyu Zhang, Chang Liu, Kun Wang, Bo Liu.<br />
+- **ATTracker:** Jiawei Ge, Jiuxin Cao, Xuelin Zhu, Xinyu Zhang, Chang Liu, Kun Wang, Bo Liu.<br />
   "Consistencies are All You Need for Semi-supervised Vision-Language Tracking." ACM MM (2024).
   [[paper](https://openreview.net/pdf?id=jLJ3htNxVX)] 
 
@@ -204,6 +209,10 @@ If you find our work useful in your research, please consider citing:
   "Textual Tokens Classification for Multi-Modal Alignment in Vision-Language Tracking." ICASSP (2024).
   [[paper](https://ieeexplore.ieee.org/document/10446122)] 
 
+- **OneTracker:** Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Cheng, Jinglun Li, Zhaoyu Chen, Wenqiang Zhang.<br />
+  "OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning." CVPR (2024).
+  [[paper](https://arxiv.org/pdf/2403.09634.pdf)] 
+
 - **MMTrack:** Zheng, Yaozong and Zhong, Bineng and Liang, Qihua and Li, Guorong and Ji, Rongrong and Li, Xianxian.<br />
   "Toward Unified Token Learning for Vision-Language Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10208210)]
@@ -213,11 +222,15 @@ If you find our work useful in your research, please consider citing:
   "Multimodal Features Alignment for Vision–Language Object Tracking." Remote Sensing (2024).
   [[paper](https://www.mdpi.com/2072-4292/16/7/1168)] 
 
-- **VLT_TT:** Mingzhe Guo, Zhipeng Zhang, Liping Jing, Haibin Ling, Heng Fan.<br />
+- **VLT_OST:** Mingzhe Guo, Zhipeng Zhang, Liping Jing, Haibin Ling, Heng Fan.<br />
   "Divert More Attention to Vision-Language Object Tracking." TPAMI (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10547435)] 
   [[code](https://github.com/JudasDie/SOTS)]
 
+- **SATracker:** Jiawei Ge, Xiangmei Chen, Jiuxin Cao, Xuelin Zhu, Weijia Liu, Bo Liu.<br />
+  "Beyond Visual Cues: Synchronously Exploring Target-Centric Semantics for Vision-Language Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/pdf/2311.17085.pdf)] 
+  
 #### 2023
 - **WebUAV-3M:** Chunhui Zhang, Guanjie Huang, Li Liu, Shan Huang, Yinan Yang, Xiang Wan, Shiming Ge, Dacheng Tao.<br />
   "WebUAV-3M: A Benchmark for Unveiling the Power of Million-Scale Deep UAV Tracking." TPAMI (2023).
