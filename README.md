@@ -126,6 +126,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2024
+- **DTVLT:** Xuchen Li, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang.<br />
+  "DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.02492)] 
+  [[code](http://videocube.aitestunion.com/)]
+
 - **UW-COT:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
   "Towards Underwater Camouflaged Object Tracking: An Experimental Evaluation of SAM and SAM 2." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.16902)] 
@@ -318,6 +323,10 @@ cross-modal fusion." PRL (2023).
 
 ### Papers
 #### 2024
+- **GS-EVT:** Tao Liu, Runze Yuan, Yi'ang Ju, Xun Xu, Jiaqi Yang, Xiangting Meng, Xavier Lagorce, Laurent Kneip.<br />
+  "GS-EVT: Cross-Modal Event Camera Tracking based on Gaussian Splatting." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.19228)] 
+
 - **DS-MESA:** Pengcheng Shao, Tianyang Xu, Xuefeng Zhu, Xiaojun Wu, Josef Kittler.<br />
   "Dynamic Subframe Splitting and Spatio-Temporal Motion Entangled Sparse Attention for RGB-E Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.17560)] 
