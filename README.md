@@ -1027,6 +1027,7 @@ Tracking." TCSVT (2024).
 
 
 ## Awesome Repositories for MMOT
+- [Awesome-Visual-Language-Tracking](https://github.com/Xuchen-Li/Awesome-Visual-Language-Tracking)
 - [Vision-Language_Tracking_Paper_List](https://github.com/PeterBishop0/Vision-Language_Tracking_Paper_List)
 - [VisEvent_SOT_Benchmark](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark)
 - [RGBD-tracking-review](https://github.com/memoryunreal/RGBD-tracking-review)
