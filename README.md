@@ -445,6 +445,10 @@ cross-modal fusion." PRL (2023).
 
 ### Papers
 #### 2024
+- **DepthRefiner:** Lai, Simiao and Wang, Dong and Lu, Huchuan.<br />
+  "DepthRefiner: Adapting RGB Trackers to RGBD Scenes via Depth-Fused Refinement." ICME (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10687717)] 
+
 - **TABBTrack:** Ge Ying and Dawei Zhang and Zhou Ou and Xiao Wang and Zhonglong Zheng.<br />
   "Temporal adaptive bidirectional bridging for RGB-D tracking." PR (2024).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320324008045)] 
