@@ -695,6 +695,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2024
+- **TBSI:** Li, Bo and Peng, Fengguang and Hui, Tianrui and Wei, Xiaoming and Wei, Xiaolin and Zhang, Lijun and Shi, Hang and Liu, Si.<br />
+  "RGB-T Tracking with Template-Bridged Search Interaction and Target-Preserved Template Updating." TPAMI (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10706882)] 
+  [[code](https://github.com/RyanHTR/TBSI)]
+
 - **CFBT:** Zhirong Zeng, Xiaotao Liu, Meng Sun, Hongyu Wang, Jing Liu.<br />
   "Cross Fusion RGB-T Tracking with Bi-directional Adapter." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.16979)] 
