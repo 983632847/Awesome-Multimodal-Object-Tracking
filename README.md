@@ -695,6 +695,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2024
+- **CKD:** Andong Lu, Jiacong Zhao, Chenglong Li, Yun Xiao, Bin Luo.<br />
+  "Breaking Modality Gap in RGBT Tracking: Coupled Knowledge Distillation." ACM MM (2024).
+  [[paper](https://arxiv.org/abs/2410.11586)] 
+  [[code](https://github.com/Multi-Modality-Tracking/CKD)]
+
 - **TBSI:** Li, Bo and Peng, Fengguang and Hui, Tianrui and Wei, Xiaoming and Wei, Xiaolin and Zhang, Lijun and Shi, Hang and Liu, Si.<br />
   "RGB-T Tracking with Template-Bridged Search Interaction and Target-Preserved Template Updating." TPAMI (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10706882)] 
