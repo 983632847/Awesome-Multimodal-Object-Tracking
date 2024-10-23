@@ -33,7 +33,7 @@ python WebUAV-3M_UTUSC_Protocol.py
 ```
 
 ### WebUOT-1M
-For Overall, Attribute, and Accuracy Protocol evaluations in OPE using Pre, nPre, AUC, cAUC and mAcc metrics:
+For Overall, Attribute, and Accuracy evaluations in OPE using Pre, nPre, AUC, cAUC and mAcc metrics:
 
 ```Python
 # Step1. Run experiments on dataset
