@@ -16,10 +16,51 @@ Underwater object tracking (UOT) is a foundational task for identifying and trac
 
 ![image](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/blob/main/WebUOT-1M/WebUOT-1M.png)
 
+#### Step 1: Download dataset
+- Download the WebUOT-1M through [Baidu Pan](xx), the extraction code is ***UOT1***.
+- Or download the WebUOT-1M through [Google Drive](todo).
+#### Step 2: Extract frames from vodeos: run python [Videos2Frames.py](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/blob/main/WebUOT-1M/Videos2Frames.py)
+
+#### Following [UOSTrack](https://github.com/LiYunfengLYF/UOSTrack), we use two underwater object detection datasets [(RUOD, FishExtend)](https://pan.baidu.com/s/1FEamVKM0QlqLimp0VJHu4A?pwd=UOD2 ) to enhance the generalization of the tracker.
+
+We do not provide enhanced video frames due to the high storage space required. 
+
+If needed, [Semi-UIR](https://github.com/Huang-ShiRui/Semi-UIR) can be used for underwater image enhancement.
+
+The directory should have the below format:
+```
+├── WebUOT-1M
+    ├── Train
+        ├── WebUOT-1M_Train_000001
+            ├── WebUOT-1M_Train_000001.mp4
+            ├── imgs
+            ├── 00000001.jpg
+            ├── absent.txt
+            ├── attributes.txt
+            ├── groundtruth_rect.txt
+            ├── language.txt
+        ├── WebUOT-1M_Train_000002
+        ├── WebUOT-1M_Train_000003
+        ...
+
+    ├── Test
+        ├── WebUOT-1M_Test_000001
+            ├── WebUOT-1M_Test_000001.mp4
+            ├── imgs
+            ├── 00000001.jpg
+            ├── absent.txt
+            ├── attributes.txt
+            ├── groundtruth_rect.txt
+            ├── language.txt
+        ├── WebUOT-1M_Test_000002
+        ├── WebUOT-1M_Test_000003
+        ...
+
+```
 
 ## OKTrack
 - Download the OKTrack through [Baidu Pan](https://pan.baidu.com/s/1j3i_znyWOo9MI7I6_1tltA?pwd=OKTK), the extraction code is ***OKTK***.
-- Download the OKTrack through [Google Drive](todo).
+- Or download the OKTrack through [Google Drive](todo).
 ![image](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/blob/main/WebUOT-1M/OKTrack.png)
 
 
