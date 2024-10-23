@@ -118,7 +118,7 @@ If you find our work useful in your research, please consider citing:
 |  [WebUAV-3M](https://arxiv.org/abs/2201.07425)   |   TPAMI-2023   |  [WebUAV-3M](https://github.com/983632847/WebUAV-3M)  |  4500 videos, 3.3 million frames, UAV tracking, vision-language-audio |  
 |  [MGIT](https://huuuuusy.github.io/files/MGIT.pdf)   |   NeurIPS-2023   |  [MGIT](http://videocube.aitestunion.com/)  |  150 long video sequences, 2.03 million frames,  three semantic grains (i.e., action, activity, and story)  |  
 |  [VastTrack](https://arxiv.org/abs/2403.03493)   |   NeurIPS-2024   |  [VastTrack](https://github.com/HengLan/VastTrack)  |  50,610 video sequences, 4.2 million frames, 2,115 classes  |  
-|  [WebUOT-1M](https://arxiv.org/abs/2405.19818)   |   NeurIPS-2024   |  [WebUOT-1M](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/blob/main/WebUOT-1M/webuot_1m.md)  |  The first million-scale underwater object tracking dataset contains 1,500 video sequences, 1.1 million frames |  
+|  [WebUOT-1M](https://arxiv.org/abs/2405.19818)   |   NeurIPS-2024   |  [WebUOT-1M](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/WebUOT-1M)  |  The first million-scale underwater object tracking dataset contains 1,500 video sequences, 1.1 million frames |  
 |  [ElysiumTrack-1M](https://arxiv.org/abs/2403.16558)   |   ECCV-2024   |  [ElysiumTrack-1M](https://github.com/Hon-Wong/Elysium)  |   A large-scale dataset that supports three tasks: single object tracking, reference single object tracking, and video reference expression generation, with 1.27 million videos |  
 |  [VLT-MI](https://arxiv.org/abs/2409.08887)   |   arXiv-2024   | - |  A dataset for multi-round, multi-modal interaction, with 3,619 videos. |  
 |  [UW-COT](https://arxiv.org/abs/2405.19818)   |   arXiv-2024   | [UW-COT](https://github.com/983632847/Awesome-Multimodal-Object-Tracking) |  The first underwater camouﬂaged object tracking dataset with 220 videos. |  
@@ -144,7 +144,7 @@ If you find our work useful in your research, please consider citing:
 - **WebUOT-1M:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
   "WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark." NeurIPS (2024).
   [[paper](https://arxiv.org/abs/2405.19818)] 
-  [[project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/blob/main/WebUOT-1M/webuot_1m.md)]
+  [[project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/WebUOT-1M)]
   
 - **MambaTrack:** Chunhui Zhang, Li Liu, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
   "MambaTrack: Exploiting Dual-Enhancement for Night UAV Tracking." ArXiv (2024).
