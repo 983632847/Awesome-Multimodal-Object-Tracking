@@ -1,0 +1,2 @@
+include got10k/datasets/uav123.json
+include got10k/datasets/lasot.json
