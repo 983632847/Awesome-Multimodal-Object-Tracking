@@ -38,7 +38,7 @@ def main(input_path, output_path):
 
             ## Draw first frame
             if frame_id == 1:
-                init_output_file = os.path.join(output_dir, video_name+"_00000001.jpg")
+                init_output_file = os.path.join(output_dir, video_name, "00000001.jpg")
                 gt_path = os.path.join(video_path, "groundtruth_rect.txt")
                 gts = np.loadtxt(gt_path, dtype=float, delimiter=',')
                 gt = gts[0]
