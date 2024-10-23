@@ -17,7 +17,7 @@ Underwater object tracking (UOT) is a foundational task for identifying and trac
 ![image](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/blob/main/WebUOT-1M/WebUOT-1M.png)
 
 #### Step 1: Download dataset
-- Download the WebUOT-1M through [Baidu Pan]([xx](https://pan.baidu.com/s/1QW-yE_PU6wphp3xgDPSoXw?pwd=UOT1 )), the extraction code is ***UOT1***.
+- Download the WebUOT-1M through [Baidu Pan](https://pan.baidu.com/s/1QW-yE_PU6wphp3xgDPSoXw?pwd=UOT1), the extraction code is ***UOT1***.
 - Or download the WebUOT-1M through [Google Drive](todo).
 #### Step 2: Extract frames from videos: run python [Videos2Frames.py](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/blob/main/WebUOT-1M/Videos2Frames.py)
 
