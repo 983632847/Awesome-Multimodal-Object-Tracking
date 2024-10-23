@@ -30,11 +30,11 @@ def main(input_path, output_path):
                 capture.release()
                 break
 
-            # ## Save frames
-            # if frame_id % every_frame ==0:
-            #     save_image_path = os.path.join(output_file, "{}.jpg".format('%08d' % frame_id))
-            #     if not os.path.exists(save_image_path):
-            #         cv2.imwrite(save_image_path, frame, [int(cv2.IMWRITE_JPEG_QUALITY), 100])
+            ## Save frames
+            if frame_id % every_frame ==0:
+                save_image_path = os.path.join(output_file, "{}.jpg".format('%08d' % frame_id))
+                if not os.path.exists(save_image_path):
+                    cv2.imwrite(save_image_path, frame, [int(cv2.IMWRITE_JPEG_QUALITY), 100])
 
             ## Draw first frame
             if frame_id == 1:
