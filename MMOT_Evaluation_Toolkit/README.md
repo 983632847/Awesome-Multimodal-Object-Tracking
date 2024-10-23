@@ -3,6 +3,14 @@
 > UPDATE:<br>
 > All common tracking datasets (WebUOT-1M, WebUAV-3M, GOT-10k, OTB, VOT, UAV, TColor, DTB, NfS, LaSOT and TrackingNet) are supported.<br>
 
+
+
+## Download
+- You can download the whole MMOT evaluation toolkit through [Baidu Pan](https://pan.baidu.com/s/1JygwsLTh1HbUGCdLb4LoBQ?pwd=MMOT), the extraction code is ***MMOT***.
+- Download annotations through [Google Drive](todo) or [Baidu Pan](https://pan.baidu.com/s/1Lx07s_xoHCUP52ONF945lA?pwd=anno).
+- Download tracking results through [Google Drive](todo) or [Baidu Pan](https://pan.baidu.com/s/1xBl5RrvxqYC3bLKsbdKMEg?pwd=resu).
+
+
 ## How to Evaluate Performance?
 
 ### WebUAV-3M
