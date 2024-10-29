@@ -18,7 +18,7 @@ Underwater object tracking (UOT) is a foundational task for identifying and trac
 
 #### Step 1: Download dataset
 - Download the WebUOT-1M through [Baidu Pan](https://pan.baidu.com/s/1QW-yE_PU6wphp3xgDPSoXw?pwd=UOT1), the extraction code is ***UOT1***.
-- Or download the WebUOT-1M through [Google Drive](todo).
+- Or download the WebUOT-1M through [Google Drive](https://drive.google.com/drive/folders/1VI1fVcClAyfdpCDqm_rjTFtipmfWoZhi?usp=sharing).
 #### Step 2: Extract frames from videos: run python [Videos2Frames.py](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/blob/main/WebUOT-1M/Videos2Frames.py)
 
 #### Following [UOSTrack](https://github.com/LiYunfengLYF/UOSTrack), we use two underwater object detection datasets [(RUOD, FishExtend)](https://pan.baidu.com/s/1FEamVKM0QlqLimp0VJHu4A?pwd=UOD2) to enhance the generalization of the tracker.
@@ -60,7 +60,7 @@ The directory should have the below format:
 
 ## OKTrack
 - Download the OKTrack through [Baidu Pan](https://pan.baidu.com/s/1j3i_znyWOo9MI7I6_1tltA?pwd=OKTK), the extraction code is ***OKTK***.
-- Or download the OKTrack through [Google Drive](todo).
+- Or download the OKTrack through [Google Drive](https://drive.google.com/drive/folders/1yD0rizL9PuHmh3TLYzb1x3N2DI8kMrsr?usp=sharing).
 ![image](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/blob/main/WebUOT-1M/OKTrack.png)
 
 
