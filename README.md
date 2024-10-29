@@ -695,6 +695,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2024
+- **MMSTC:** Zhang, Tianlu and Jiao, Qiang and Zhang, Qiang and Han, Jungong.<br />
+  "Exploring Multi-Modal Spatial–Temporal Contexts for High-Performance RGB-T Tracking." TIP (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10605602)] 
+
 - **CKD:** Andong Lu, Jiacong Zhao, Chenglong Li, Yun Xiao, Bin Luo.<br />
   "Breaking Modality Gap in RGBT Tracking: Coupled Knowledge Distillation." ACM MM (2024).
   [[paper](https://arxiv.org/abs/2410.11586)] 
