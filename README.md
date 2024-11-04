@@ -123,10 +123,14 @@ If you find our work useful in your research, please consider citing:
 |  [VLT-MI](https://arxiv.org/abs/2409.08887)   |   arXiv-2024   | - |  A dataset for multi-round, multi-modal interaction, with 3,619 videos. |  
 |  [UW-COT](https://arxiv.org/abs/2405.19818)   |   arXiv-2024   | [UW-COT](https://github.com/983632847/Awesome-Multimodal-Object-Tracking) |  The first underwater camouﬂaged object tracking dataset with 220 videos. |  
 |  [DTVLT](https://arxiv.org/abs/2410.02492)   |   arXiv-2024   | [DTVLT](http://videocube.aitestunion.com/) |  A multi-modal diverse text benchmark for visual language tracking (RGBL Tracking). |  
-
+|  [SemTrack](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03555.pdf)   |   ECCV-2024   | [SemTrack](https://forms.office.com/Pages/ResponsePage.aspx?id=drd2NJDpck-5UGJImDFiPQJNzw6AhuZDkzEViiWzJltUNjhKM01KWjhXN0FBNjcxNVBZQk03VVFHQi4u) |   A large-scale dataset comprising 6.7 million frames from 6,961 videos, capturing the semantic trajectory of targets across 52 interaction classes and 115 object classes. |
 
 ### Papers
 #### 2024
+- **SemTrack:** Wang, Pengfei and Hui, Xiaofei and Wu, Jing and Yang, Zile and Ong, Kian Eng and Zhao, Xinge and Lu, Beijia and Huang, Dezhao and Ling, Evan and Chen, Weiling and Ma, Keng Teck and Hur, Minhoe and Liu, Jun.<br />
+  "SemTrack: A Large-scale Dataset for Semantic Tracking in the Wild." ECCV (2024).
+  [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03555.pdf)] 
+  [[code](https://sutdcv.github.io/SemTrack/)]
 
 - **MemVLT**: Xiaokun Feng, Xuchen Li, Shiyu Hu, Dailing Zhang, Meiqi Wu, Jing Zhang, Xiaotang Chen, Kaiqi Huang.<br />
   "MemVLT: Visual-Language Tracking with Adaptive Memory-based Prompts." NeurIPS (2024)
