@@ -458,6 +458,11 @@ cross-modal fusion." PRL (2023).
 
 ### Papers
 #### 2024
+- **Depth Attention:** Yu Liu, Arif Mahmood, Muhammad Haris Khan.<br />
+  "Depth Attention for Robust RGB Tracking." ACCV (2024).
+  [[paper](https://arxiv.org/abs/2410.20395)] 
+  [[code](https://github.com/LiuYuML/Depth-Attention)]
+
 - **DepthRefiner:** Lai, Simiao and Wang, Dong and Lu, Huchuan.<br />
   "DepthRefiner: Adapting RGB Trackers to RGBD Scenes via Depth-Fused Refinement." ICME (2024).
   [[paper](https://ieeexplore.ieee.org/document/10687717)] 
