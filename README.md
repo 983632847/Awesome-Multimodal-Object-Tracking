@@ -466,6 +466,10 @@ cross-modal fusion." PRL (2023).
 
 ### Papers
 #### 2024
+- **L2FIG-Tracker:** Jintao Su, Ye Liu, Shitao Song .<br />
+  "L2FIG-Tracker: L2-Norm Based Fusion with Illumination Guidance for RGB-D Object Tracking." PRCV (2024).
+  [[paper](https://link.springer.com/chapter/10.1007/978-981-97-8493-6_10)] 
+
 - **Depth Attention:** Yu Liu, Arif Mahmood, Muhammad Haris Khan.<br />
   "Depth Attention for Robust RGB Tracking." ACCV (2024).
   [[paper](https://arxiv.org/abs/2410.20395)] 
