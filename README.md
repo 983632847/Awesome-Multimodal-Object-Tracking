@@ -127,6 +127,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2024
+- **ChatTracker:** Yiming Sun, Fan Yu, Shaoxiang Chen, Yu Zhang, Junwei Huang, Chenhui Li, Yang Li, Changbo Wang.<br />
+  "ChatTracker: Enhancing Visual Tracking Performance via Chatting with Multimodal Large Language Model." NeurIPS (2024).
+  [[paper](https://arxiv.org/abs/2411.01756)] 
+
 - **SemTrack:** Wang, Pengfei and Hui, Xiaofei and Wu, Jing and Yang, Zile and Ong, Kian Eng and Zhao, Xinge and Lu, Beijia and Huang, Dezhao and Ling, Evan and Chen, Weiling and Ma, Keng Teck and Hur, Minhoe and Liu, Jun.<br />
   "SemTrack: A Large-scale Dataset for Semantic Tracking in the Wild." ECCV (2024).
   [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03555.pdf)] 
