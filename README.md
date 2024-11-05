@@ -712,6 +712,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2024
+- **ACENet:** Zhengzheng Tu, Le Gu, Danying Lin, Zhicheng Zhao.<br />
+  "ACENet: Adaptive Context Enhancement Network for RGB-T Video Object Detection." PRCV (2024).
+  [[paper](https://link.springer.com/chapter/10.1007/978-981-97-8685-5_8)] 
+  [[code](https://github.com/bscs12/ACENet)]
+
 - **MMSTC:** Zhang, Tianlu and Jiao, Qiang and Zhang, Qiang and Han, Jungong.<br />
   "Exploring Multi-Modal Spatial–Temporal Contexts for High-Performance RGB-T Tracking." TIP (2024).
   [[paper](https://ieeexplore.ieee.org/document/10605602)] 
