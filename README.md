@@ -4,9 +4,9 @@
 
 <div align="center">
 <img src="https://github.com/983632847/Awesome-Multimodal-Object-Tracking/blob/main/MMOT.png" width="600">
-  
+
 **Awesome Multi-modal Object Tracking (MMOT)**
-  
+
 ------
 <p align="center">
 </p>
@@ -120,7 +120,7 @@ If you find our work useful in your research, please consider citing:
 |  [VastTrack](https://arxiv.org/abs/2403.03493)   |   NeurIPS-2024   |  [VastTrack](https://github.com/HengLan/VastTrack)  |  50,610 video sequences, 4.2 million frames, 2,115 classes  |  
 |  [WebUOT-1M](https://arxiv.org/abs/2405.19818)   |   NeurIPS-2024   |  [WebUOT-1M](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/WebUOT-1M)  |  The first million-scale underwater object tracking dataset contains 1,500 video sequences, 1.1 million frames |  
 |  [ElysiumTrack-1M](https://arxiv.org/abs/2403.16558)   |   ECCV-2024   |  [ElysiumTrack-1M](https://github.com/Hon-Wong/Elysium)  |   A large-scale dataset that supports three tasks: single object tracking, reference single object tracking, and video reference expression generation, with 1.27 million videos |  
-|  [VLT-MI](https://arxiv.org/abs/2409.08887)   |   arXiv-2024   | - |  A dataset for multi-round, multi-modal interaction, with 3,619 videos. |  
+|  [VLT-MI](https://arxiv.org/abs/2409.08887)   |   arXiv-2024   | [VLT-MI](http://videocube.aitestunion.com/) |  A dataset for multi-round, multi-modal interaction, with 3,619 videos. |  
 |  [UW-COT](https://arxiv.org/abs/2405.19818)   |   arXiv-2024   | [UW-COT](https://github.com/983632847/Awesome-Multimodal-Object-Tracking) |  The first underwater camouﬂaged object tracking dataset with 220 videos. |  
 |  [DTVLT](https://arxiv.org/abs/2410.02492)   |   arXiv-2024   | [DTVLT](http://videocube.aitestunion.com/) |  A multi-modal diverse text benchmark for visual language tracking (RGBL Tracking). |  
 |  [SemTrack](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03555.pdf)   |   ECCV-2024   | [SemTrack](https://forms.office.com/Pages/ResponsePage.aspx?id=drd2NJDpck-5UGJImDFiPQJNzw6AhuZDkzEViiWzJltUNjhKM01KWjhXN0FBNjcxNVBZQk03VVFHQi4u) |   A large-scale dataset comprising 6.7 million frames from 6,961 videos, capturing the semantic trajectory of targets across 52 interaction classes and 115 object classes. |
@@ -134,10 +134,10 @@ If you find our work useful in your research, please consider citing:
 - **SemTrack:** Wang, Pengfei and Hui, Xiaofei and Wu, Jing and Yang, Zile and Ong, Kian Eng and Zhao, Xinge and Lu, Beijia and Huang, Dezhao and Ling, Evan and Chen, Weiling and Ma, Keng Teck and Hur, Minhoe and Liu, Jun.<br />
   "SemTrack: A Large-scale Dataset for Semantic Tracking in the Wild." ECCV (2024).
   [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03555.pdf)] 
-  [[code](https://sutdcv.github.io/SemTrack/)]
+  [[project](https://sutdcv.github.io/SemTrack/)]
 
 - **MemVLT**: Xiaokun Feng, Xuchen Li, Shiyu Hu, Dailing Zhang, Meiqi Wu, Jing Zhang, Xiaotang Chen, Kaiqi Huang.<br />
-  "MemVLT: Visual-Language Tracking with Adaptive Memory-based Prompts." NeurIPS (2024)
+  "MemVLT: Visual-Language Tracking with Adaptive Memory-based Prompts." NeurIPS (2024).
 
 - **DTVLT:** Xuchen Li, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang.<br />
   "DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM." ArXiv (2024).
@@ -165,7 +165,8 @@ If you find our work useful in your research, please consider citing:
 
 - **VLT-MI:** Xuchen Li, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang.<br />
   "Visual Language Tracking with Multi-modal Interaction: A Robust Benchmark." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2409.08887)] 
+  [[paper](https://arxiv.org/abs/2409.08887)]
+  [[project](http://videocube.aitestunion.com/)]
 
 - **VastTrack:** Liang Peng, Junyuan Gao, Xinran Liu, Weihong Li, Shaohua Dong, Zhipeng Zhang, Heng Fan, Libo Zhang.<br />
   "VastTrack: Vast Category Visual Object Tracking." NeurIPS (2024).
@@ -197,7 +198,8 @@ If you find our work useful in your research, please consider citing:
 
 - **DTLLM-VLT:** Xuchen Li, Xiaokun Feng, Shiyu Hu, Meiqi Wu, Dailing Zhang, Jing Zhang, Kaiqi Huang.<br />
   "DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM." CVPRW (2024).
-  [[paper](https://arxiv.org/abs/2405.12139)] 
+  [[paper](https://arxiv.org/abs/2405.12139)]
+  [[project](http://videocube.aitestunion.com/)]
 
 - **UVLTrack:** Yinchao Ma, Yuyang Tang, Wenfei Yang, Tianzhu Zhang, Jinpeng Zhang, Mengxue Kang.<br />
   "Unifying Visual and Vision-Language Tracking via Contrastive Learning." AAAI (2024).
@@ -271,17 +273,13 @@ If you find our work useful in your research, please consider citing:
 
 - Haojie Zhao, Xiao Wang, Dong Wang, Huchuan Lu, Xiang Ruan.<br />
   "Transformer vision-language tracking via proxy token guided
-cross-modal fusion." PRL (2023).
+  cross-modal fusion." PRL (2023).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865523000545)] 
 
 - **OVLM:** Zhang, Huanlong and Wang, Jingchao and Zhang, Jianwei and Zhang, Tianzhu and Zhong, Bineng.<br />
   "One-Stream Vision-Language Memory Network for Object Tracking." TMM (2023).
   [[paper](https://ieeexplore.ieee.org/document/10149530)]
   [[code](https://github.com/wjc0602/OVLM)]
-
-- **SATracker:** Jiawei Ge, Xiangmei Chen, Jiuxin Cao, Xuelin Zhu, Bo Liu.<br />
-  "Beyond Visual Cues: Synchronously Exploring Target-Centric Semantics for Vision-Language Tracking." ArXiv (2023).
-  [[paper](https://arxiv.org/abs/2311.17085)] 
   
 - **VLATrack:** Zuo, Jixiang and Wu, Tao and Shi, Meiping and Liu, Xueyan and Zhao, Xijun.<br />
   "Multi-Modal Object Tracking with Vision-Language Adaptive Fusion and Alignment." RICAI (2023).
@@ -324,7 +322,7 @@ cross-modal fusion." PRL (2023).
 #### 2017
 - **OTB99-L:** Zhenyang Li, Ran Tao, Efstratios Gavves, Cees G. M. Snoek, Arnold W.M. Smeulders.<br />
   "Tracking by Natural Language Specification." CVPR (2017).
-[[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Tracking_by_Natural_CVPR_2017_paper.pdf)] 
+  [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Tracking_by_Natural_CVPR_2017_paper.pdf)] 
   [[project](https://github.com/QUVA-Lab/lang-tracker)]
 
 
@@ -844,7 +842,7 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 #### 2023
 - **TBSI:** Hui, Tianrui and Xun, Zizheng and Peng, Fengguang and Huang, Junshi and Wei, Xiaoming and Wei, Xiaolin and Dai, Jiao and Han, Jizhong and Liu, Si.<br />
   "Bridging Search Region Interaction with Template for RGB-T Tracking." CVPR (2023).
-[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Hui_Bridging_Search_Region_Interaction_With_Template_for_RGB-T_Tracking_CVPR_2023_paper.pdf)] 
+  [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Hui_Bridging_Search_Region_Interaction_With_Template_for_RGB-T_Tracking_CVPR_2023_paper.pdf)] 
   [[code](https://github.com/RyanHTR/TBSI)]
 
 - **DFNet:** Jingchao Peng , Haitao Zhao , and Zhengwei Hu.<br />
@@ -907,7 +905,7 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   [[paper](https://ieeexplore.ieee.org/document/9383014)] 
 
 - Mingzheng Feng, Jianbo Su
-.<br />
+  .<br />
   "Learning reliable modal weight with transformer for robust RGBT tracking." KBS (2022).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705122004579)] 
 
@@ -1032,9 +1030,9 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 - **KSTrack:** He, Yuhang and Ma, Zhiheng and Wei, Xing and Gong, Yihong.<br />
   "Knowledge Synergy Learning for Multi-Modal
-Tracking." TCSVT (2024).
+  Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/document/10388341)] 
- 
+
 - **SeqTrackv2:** Xin Chen, Ben Kang, Jiawen Zhu, Dong Wang, Houwen Peng, Huchuan Lu.<br />
   "Unified Sequence-to-Sequence Learning for Single- and Multi-Modal Visual Object Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2304.14394)] 
