@@ -710,6 +710,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2024
+- **FHAT:** Lei Lei, Xianxian Li.<br />
+  "RGB-T tracking with frequency hybrid awareness." Image and Vision Computing (2024).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0262885624004359)] 
+
 - **ACENet:** Zhengzheng Tu, Le Gu, Danying Lin, Zhicheng Zhao.<br />
   "ACENet: Adaptive Context Enhancement Network for RGB-T Video Object Detection." PRCV (2024).
   [[paper](https://link.springer.com/chapter/10.1007/978-981-97-8685-5_8)] 
