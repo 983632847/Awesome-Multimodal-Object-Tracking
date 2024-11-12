@@ -1004,6 +1004,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2024
+- **EMTrack:** Liu, Chang and Guan, Ziqi and Lai, Simiao and Liu, Yang and Lu, Huchuan and Wang, Dong.<br />
+  "EMTrack: Efficient Multimodal Object Tracking." TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10747517)] 
+
 - **MixRGBX:** Meng Sun and Xiaotao Liu and Hongyu Wang and Jing Liu.<br />
   "MixRGBX: Universal multi-modal tracking with symmetric mixed attention." Neurocomputing (2024).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0925231224010452#sec4)] 
