@@ -138,7 +138,9 @@ If you find our work useful in your research, please consider citing:
 
 - **MemVLT**: Xiaokun Feng, Xuchen Li, Shiyu Hu, Dailing Zhang, Meiqi Wu, Jing Zhang, Xiaotang Chen, Kaiqi Huang.<br />
   "MemVLT: Visual-Language Tracking with Adaptive Memory-based Prompts." NeurIPS (2024).
-
+  [[paper](https://openreview.net/pdf?id=ZK1CZXKgG5)] 
+  [[code](https://github.com/XiaokunFeng/MemVLT)]
+  
 - **DTVLT:** Xuchen Li, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang.<br />
   "DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.02492)] 
