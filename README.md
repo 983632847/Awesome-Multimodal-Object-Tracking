@@ -712,6 +712,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2024
+- Jie Yu, Tianyang Xu, Xuefeng Zhu, Xiao-Jun Wu .<br />
+  "Local Point Matching for Collaborative Image Registration and RGBT Anti-UAV Tracking." PRCV (2024).
+  [[paper](https://link.springer.com/chapter/10.1007/978-981-97-8858-3_29)] 
+  [[code](https://github.com/muqiu791/prcv)]
+
 - **FHAT:** Lei Lei, Xianxian Li.<br />
   "RGB-T tracking with frequency hybrid awareness." Image and Vision Computing (2024).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0262885624004359)] 
