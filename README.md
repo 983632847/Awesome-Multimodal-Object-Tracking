@@ -127,6 +127,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2024
+- Li, Hengyou and Liu, Xinyan and Li, Guorong and Wang, Shuhui and Qing, Laiyun and Huang, Qingming.<br />
+  "Boost Tracking by Natural Language With Prompt-Guided Grounding." TITS (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10756281)] 
+
 - **ChatTracker:** Yiming Sun, Fan Yu, Shaoxiang Chen, Yu Zhang, Junwei Huang, Chenhui Li, Yang Li, Changbo Wang.<br />
   "ChatTracker: Enhancing Visual Tracking Performance via Chatting with Multimodal Large Language Model." NeurIPS (2024).
   [[paper](https://arxiv.org/abs/2411.01756)] 
