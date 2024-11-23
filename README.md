@@ -470,6 +470,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2024
+- **UBPT:** Ou, Zhou and Zhang, Dawei and Ying, Ge and Zheng, Zhonglong.<br />
+  "UBPT: Unidirectional and Bidirectional Prompts for RGBD Tracking." IEEE Sensors Journal (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10706817)] 
+
 - **L2FIG-Tracker:** Jintao Su, Ye Liu, Shitao Song .<br />
   "L2FIG-Tracker: L2-Norm Based Fusion with Illumination Guidance for RGB-D Object Tracking." PRCV (2024).
   [[paper](https://link.springer.com/chapter/10.1007/978-981-97-8493-6_10)] 
@@ -716,6 +720,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2024
+- **SiamSCR:** Liu, Yisong and Zhou, Dongming and Cao, Jinde and Yan, Kaixiang and Geng, Lizhi.<br />
+  "Specific and Collaborative Representations Siamese Network for RGBT Tracking." IEEE Sensors Journal (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10500316)] 
+
 - Jianming Zhang, Jing Yang, Zikang Liu, Jin Wang.<br />
   "RGBT tracking via frequency-aware feature enhancement and unidirectional mixed attention." Neurocomputing (2024).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0925231224016795)] 
