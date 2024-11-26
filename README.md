@@ -131,6 +131,10 @@ If you find our work useful in your research, please consider citing:
   "How Texts Help? A Fine-grained Evaluation to Reveal the Role of Language in Vision-Language Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2411.15600)] 
   [[project](http://metaverse.aitestunion.com/)]
+
+- **MambaVLT:** Xinqi Liu, Li Zhou, Zikun Zhou, Jianqiu Chen, Zhenyu He.<br />
+  "MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2411.15459)] 
   
 - Li, Hengyou and Liu, Xinyan and Li, Guorong and Wang, Shuhui and Qing, Laiyun and Huang, Qingming.<br />
   "Boost Tracking by Natural Language With Prompt-Guided Grounding." TITS (2024).
@@ -167,7 +171,7 @@ If you find our work useful in your research, please consider citing:
   
 - **MambaTrack:** Chunhui Zhang, Li Liu, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
   "MambaTrack: Exploiting Dual-Enhancement for Night UAV Tracking." ArXiv (2024).
-  [[paper](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
+  [[paper](https://arxiv.org/abs/2411.15761)]
   
 - **ElysiumTrack-1M:** Han Wang, Yanjie Wang, Yongjie Ye, Yuxiang Nie, Can Huang.<br />
   "Elysium: Exploring Object-level Perception in Videos via MLLM." ECCV (2024).
