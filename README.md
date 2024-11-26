@@ -127,6 +127,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2024
+- **VLTVerse:** Xuchen Li, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang.<br />
+  "How Texts Help? A Fine-grained Evaluation to Reveal the Role of Language in Vision-Language Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2411.15600)] 
+  [[project](http://metaverse.aitestunion.com/)]
+  
 - Li, Hengyou and Liu, Xinyan and Li, Guorong and Wang, Shuhui and Qing, Laiyun and Huang, Qingming.<br />
   "Boost Tracking by Natural Language With Prompt-Guided Grounding." TITS (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10756281)] 
