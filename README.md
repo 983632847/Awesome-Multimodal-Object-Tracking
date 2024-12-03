@@ -127,6 +127,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2024
+- **CogVLM-Track:** Xuexin Liu, Zhuojun Zou & Jie Hao.<br />
+  "Adaptive Text Feature Updating for Visual-Language Tracking." ICPR (2024).
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-031-78110-0_24)] 
+
 - **VLTVerse:** Xuchen Li, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang.<br />
   "How Texts Help? A Fine-grained Evaluation to Reveal the Role of Language in Vision-Language Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2411.15600)] 
