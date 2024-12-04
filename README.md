@@ -361,6 +361,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2024
+- **CSAM:** Tianlu Zhang, Kurt Debattista, Qiang Zhang, Guiguang Ding, Jungong Han.<br />
+  "Revisiting motion information for RGB-Event tracking with MOT philosophy." NeurIPS (2024).
+  [[paper](https://openreview.net/forum?id=bzGAELYOyL)] 
+
 - **GS-EVT:** Tao Liu, Runze Yuan, Yi'ang Ju, Xun Xu, Jiaqi Yang, Xiangting Meng, Xavier Lagorce, Laurent Kneip.<br />
   "GS-EVT: Cross-Modal Event Camera Tracking based on Gaussian Splatting." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.19228)] 
