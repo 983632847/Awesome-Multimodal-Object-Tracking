@@ -1102,6 +1102,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ## Others
 #### 2024
+- **GSOT3D:** Yifan Jiao, Yunhao Li, Junhua Ding, Qing Yang, Song Fu, Heng Fan, Libo Zhang.<br />
+  "GSOT3D: Towards Generic 3D Single Object Tracking in the Wild." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2412.02129)] 
+  [[code](https://github.com/ailovejinx/GSOT3D)]
+
 - **BihoT:** Hanzheng Wang, Wei Li, Xiang-Gen Xia, Qian Du.<br />
   "BihoT: A Large-Scale Dataset and Benchmark for Hyperspectral Camouflaged Object Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.12232)]
