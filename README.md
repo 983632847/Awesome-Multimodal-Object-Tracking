@@ -487,6 +487,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2024
+- **3DPT:** Bocen Li, Yunzhi Zhuge, Shan Jiang, Lijun Wang, Yifan Wang, Huchuan Lu.<br />
+  "3D Prompt Learning for RGB-D Tracking." ACCV (2024).
+  [[paper](https://openaccess.thecvf.com/content/ACCV2024/html/Li_3D_Prompt_Learning_for_RGB-D_Tracking_ACCV_2024_paper.html)] 
+
 - **UBPT:** Ou, Zhou and Zhang, Dawei and Ying, Ge and Zheng, Zhonglong.<br />
   "UBPT: Unidirectional and Bidirectional Prompts for RGBD Tracking." IEEE Sensors Journal (2024).
   [[paper](https://ieeexplore.ieee.org/document/10706817)] 
