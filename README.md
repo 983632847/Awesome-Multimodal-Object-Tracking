@@ -127,6 +127,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2024
+- **MugTracker:** Zhu, Hong and Zhang, Pingping and Xue, Lei and Yuan, Guanglin.<br />
+  "Multi-modal Understanding and Generation for Object Tracking." TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10777574)] 
+
 - **CogVLM-Track:** Xuexin Liu, Zhuojun Zou & Jie Hao.<br />
   "Adaptive Text Feature Updating for Visual-Language Tracking." ICPR (2024).
   [[paper](https://link.springer.com/chapter/10.1007/978-3-031-78110-0_24)] 
