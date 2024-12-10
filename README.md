@@ -745,6 +745,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2024
+- Shuixin Pan and Haopeng Wang and Dilong Li and Yueqiang Zhang and Bahubali Shiragapur and Xiaolin Liu and Qifeng Yu.<br />
+  "A Lightweight Robust RGB-T Object Tracker Based on Jitter Factor and Associated Kalman Filter." Information Fusion (2024).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1566253524006201)] 
+
 - **SiamSCR:** Liu, Yisong and Zhou, Dongming and Cao, Jinde and Yan, Kaixiang and Geng, Lizhi.<br />
   "Specific and Collaborative Representations Siamese Network for RGBT Tracking." IEEE Sensors Journal (2024).
   [[paper](https://ieeexplore.ieee.org/document/10500316)] 
