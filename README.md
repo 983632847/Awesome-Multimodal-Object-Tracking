@@ -745,6 +745,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2024
+- **TMTB:** Yimin Du, Bi Zeng, Qingmao Wei, Boquan Zhang & Huiting Hu.<br />
+  "Transformer-Mamba-Based Trident-Branch RGB-T Tracker." PRICAI (2024).
+  [[paper](https://link.springer.com/chapter/10.1007/978-981-96-0122-6_4)] 
+
 - Shuixin Pan and Haopeng Wang and Dilong Li and Yueqiang Zhang and Bahubali Shiragapur and Xiaolin Liu and Qifeng Yu.<br />
   "A Lightweight Robust RGB-T Object Tracker Based on Jitter Factor and Associated Kalman Filter." Information Fusion (2024).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1566253524006201)] 
