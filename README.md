@@ -745,6 +745,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2024
+- **DDFNe:** Chenglong Li, Tao Wang, Zhaodong Ding, Yun Xiao, Jin Tang.<br />
+  "Dynamic Disentangled Fusion Network for RGBT Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2412.08441)] 
+
 - **TMTB:** Yimin Du, Bi Zeng, Qingmao Wei, Boquan Zhang & Huiting Hu.<br />
   "Transformer-Mamba-Based Trident-Branch RGB-T Tracker." PRICAI (2024).
   [[paper](https://link.springer.com/chapter/10.1007/978-981-96-0122-6_4)] 
