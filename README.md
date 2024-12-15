@@ -491,6 +491,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2024
+- **DAMT:** Yifan Pan, Tianyang Xu, Xue-Feng Zhu, Xiaoqing Luo, Xiao-Jun Wu & Josef Kittler .<br />
+  "Learning Explicit Modulation Vectors for Disentangled Transformer Attention-Based RGB-D Visual Tracking." ICPR (2024).
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-031-78444-6_22)] 
+
 - **3DPT:** Bocen Li, Yunzhi Zhuge, Shan Jiang, Lijun Wang, Yifan Wang, Huchuan Lu.<br />
   "3D Prompt Learning for RGB-D Tracking." ACCV (2024).
   [[paper](https://openaccess.thecvf.com/content/ACCV2024/html/Li_3D_Prompt_Learning_for_RGB-D_Tracking_ACCV_2024_paper.html)] 
