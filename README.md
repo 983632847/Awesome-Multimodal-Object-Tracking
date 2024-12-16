@@ -106,6 +106,9 @@ If you find our work useful in your research, please consider citing:
   "A Comprehensive Review of RGBT Tracking." IEEE TIM (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10616144)] 
 
+- Mengmeng Wang, Teli Ma, Shuo Xin, Xiaojun Hou, Jiazheng Xing, Guang Dai, Jingdong Wang, Yong Liu.<br />
+  "Visual Object Tracking across Diverse Data Modalities: A Review." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2412.09991)] 
 
 ## Vision-Language Tracking
 ### Datasets
