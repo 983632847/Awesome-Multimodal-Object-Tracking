@@ -752,6 +752,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2024
+- **SiamTFA:** Zhang, Jianming and Qin, Yu and Fan, Shimeng and Xiao, Zhu and Zhang, Jin.<br />
+  "SiamTFA: Siamese Triple-Stream Feature Aggregation Network for Efficient RGBT Tracking." TITS (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10804856)] 
+  [[code](https://github.com/zjjqinyu/SiamTFA)]
+
 - **DDFNe:** Chenglong Li, Tao Wang, Zhaodong Ding, Yun Xiao, Jin Tang.<br />
   "Dynamic Disentangled Fusion Network for RGBT Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2412.08441)] 
