@@ -1080,6 +1080,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2024
+- **STTrack:** Xiantao Hu, Ying Tai, Xu Zhao, Chen Zhao, Zhenyu Zhang, Jun Li, Bineng Zhong, Jian Yang.<br />
+  "Exploiting Multimodal Spatial-temporal Patterns for Video Object Tracking." AAAI (2024).
+  [[paper](https://arxiv.org/abs/2412.15691)] 
+  [[code](https://github.com/NJU-PCALab/STTrack)]
+
 - **EMTrack:** Liu, Chang and Guan, Ziqi and Lai, Simiao and Liu, Yang and Lu, Huchuan and Wang, Dong.<br />
   "EMTrack: Efficient Multimodal Object Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10747517)] 
