@@ -130,6 +130,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2024
+- **PJVLT:** Liang, Yanjie and Wu, Qiangqiang and Cheng, Lin and Xia, Changqun and Li, Jia.<br />
+  "Progressive Semantic-Visual Alignment and Refinement for Vision-Language Tracking." TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10807368)] 
+
 - **MugTracker:** Zhu, Hong and Zhang, Pingping and Xue, Lei and Yuan, Guanglin.<br />
   "Multi-modal Understanding and Generation for Object Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/document/10777574)] 
