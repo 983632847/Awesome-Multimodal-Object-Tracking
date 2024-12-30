@@ -130,6 +130,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2024
+- **DMITrack:** Zhiyi Mo, Guangtong Zhang, Jian Nong, Bineng Zhong, Zhi Li.<br />
+  "Dual-stream Multi-modal Interactive Vision-language Tracking." MMAsia (2024).
+[[paper](https://dl.acm.org/doi/10.1145/3696409.3700220)] 
+
 - **CTVLT:** X. Feng, D. Zhang, S. Hu, X. Li, M. Wu, J. Zhang, X. Chen, K. Huang.<br />
   "Enhancing Vision-Language Tracking by Effectively Converting Textual Cues into Visual Cues." ICASSP  (2025).
   [[paper](https://arxiv.org/abs/2412.19648)] 
