@@ -130,6 +130,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2024
+- **CPIPTrack:** Zhu, Hong and Lu, Qingyang and Xue, Lei and Zhang, Pingping and Yuan, Guanglin.<br />
+  "Vision-Language Tracking With CLIP and Interactive Prompt Learning." TITS (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10817474)] 
+
 - **DMITrack:** Zhiyi Mo, Guangtong Zhang, Jian Nong, Bineng Zhong, Zhi Li.<br />
   "Dual-stream Multi-modal Interactive Vision-language Tracking." MMAsia (2024).
 [[paper](https://dl.acm.org/doi/10.1145/3696409.3700220)] 
