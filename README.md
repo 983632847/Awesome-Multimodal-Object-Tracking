@@ -769,6 +769,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2024
+- **BTMTrack:** Zhongxuan Zhang, Bi Zeng, Xinyu Ni, Yimin Du.<br />
+  "BTMTrack: Robust RGB-T Tracking via Dual-template Bridging and Temporal-Modal Candidate Elimination." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2501.03616)] 
+
 - **SiamTFA:** Zhang, Jianming and Qin, Yu and Fan, Shimeng and Xiao, Zhu and Zhang, Jin.<br />
   "SiamTFA: Siamese Triple-Stream Feature Aggregation Network for Efficient RGBT Tracking." TITS (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10804856)] 
