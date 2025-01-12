@@ -1103,7 +1103,7 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   [[code](https://github.com/chenxin-dlut/SUTrack)]
 
 - **STTrack:** Xiantao Hu, Ying Tai, Xu Zhao, Chen Zhao, Zhenyu Zhang, Jun Li, Bineng Zhong, Jian Yang.<br />
-  "Exploiting Multimodal Spatial-temporal Patterns for Video Object Tracking." AAAI (2024).
+  "Exploiting Multimodal Spatial-temporal Patterns for Video Object Tracking." AAAI (2025).
   [[paper](https://arxiv.org/abs/2412.15691)] 
   [[code](https://github.com/NJU-PCALab/STTrack)]
 
