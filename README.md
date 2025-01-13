@@ -771,8 +771,7 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 #### 2024
 - **MAT:** He Wang, Tianyang Xu, Zhangyong Tang, Xiao-Jun Wu, Josef Kittler.<br />
   "Multi-modal adapter for RGB-T tracking." Information Fusion (2025).
-  
-  [[paper](Multi-modal adapter for RGB-T tracking)]
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525000132)]
   [[code](https://github.com/ouha1998/MAT.git)]
 
 - **BTMTrack:** Zhongxuan Zhang, Bi Zeng, Xinyu Ni, Yimin Du.<br />
