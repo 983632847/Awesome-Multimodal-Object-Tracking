@@ -768,7 +768,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 
-#### 2024
+#### 2025
+- **TUFNet:**  Yisong Liu, Zhao Gao, Yang Cao, Dongming Zhou.<br />
+  " Two-stage Unidirectional Fusion Network for RGBT tracking." KBS (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125000310)] 
+
 - **MAT:** He Wang, Tianyang Xu, Zhangyong Tang, Xiao-Jun Wu, Josef Kittler.<br />
   "Multi-modal adapter for RGB-T tracking." Information Fusion (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525000132)]
@@ -777,6 +781,8 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 - **BTMTrack:** Zhongxuan Zhang, Bi Zeng, Xinyu Ni, Yimin Du.<br />
   "BTMTrack: Robust RGB-T Tracking via Dual-template Bridging and Temporal-Modal Candidate Elimination." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2501.03616)] 
+
+#### 2024
 
 - **SiamTFA:** Zhang, Jianming and Qin, Yu and Fan, Shimeng and Xiao, Zhu and Zhang, Jin.<br />
   "SiamTFA: Siamese Triple-Stream Feature Aggregation Network for Efficient RGBT Tracking." TITS (2024).
