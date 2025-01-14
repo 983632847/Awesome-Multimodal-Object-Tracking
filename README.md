@@ -129,6 +129,12 @@ If you find our work useful in your research, please consider citing:
 |  [SemTrack](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03555.pdf)   |   ECCV-2024   | [SemTrack](https://forms.office.com/Pages/ResponsePage.aspx?id=drd2NJDpck-5UGJImDFiPQJNzw6AhuZDkzEViiWzJltUNjhKM01KWjhXN0FBNjcxNVBZQk03VVFHQi4u) |   A large-scale dataset comprising 6.7 million frames from 6,961 videos, capturing the semantic trajectory of targets across 52 interaction classes and 115 object classes. |
 
 ### Papers
+#### 2025
+- **CTVLT:** X. Feng, D. Zhang, S. Hu, X. Li, M. Wu, J. Zhang, X. Chen, K. Huang.<br />
+  "Enhancing Vision-Language Tracking by Effectively Converting Textual Cues into Visual Cues." ICASSP  (2025).
+  [[paper](https://arxiv.org/abs/2412.19648)] 
+  [[code](https://github.com/XiaokunFeng/CTVLT)]
+  
 #### 2024
 - **CPIPTrack:** Zhu, Hong and Lu, Qingyang and Xue, Lei and Zhang, Pingping and Yuan, Guanglin.<br />
   "Vision-Language Tracking With CLIP and Interactive Prompt Learning." TITS (2024).
@@ -137,11 +143,6 @@ If you find our work useful in your research, please consider citing:
 - **DMITrack:** Zhiyi Mo, Guangtong Zhang, Jian Nong, Bineng Zhong, Zhi Li.<br />
   "Dual-stream Multi-modal Interactive Vision-language Tracking." MMAsia (2024).
 [[paper](https://dl.acm.org/doi/10.1145/3696409.3700220)] 
-
-- **CTVLT:** X. Feng, D. Zhang, S. Hu, X. Li, M. Wu, J. Zhang, X. Chen, K. Huang.<br />
-  "Enhancing Vision-Language Tracking by Effectively Converting Textual Cues into Visual Cues." ICASSP  (2025).
-  [[paper](https://arxiv.org/abs/2412.19648)] 
-  [[code](https://github.com/XiaokunFeng/CTVLT)]
 
 - **PJVLT:** Liang, Yanjie and Wu, Qiangqiang and Cheng, Lin and Xia, Changqun and Li, Jia.<br />
   "Progressive Semantic-Visual Alignment and Refinement for Vision-Language Tracking." TCSVT (2024).
