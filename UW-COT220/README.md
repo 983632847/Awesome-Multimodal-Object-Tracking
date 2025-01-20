@@ -32,7 +32,7 @@ The directory should have the below format:
             ├── masks (Coming Soon)
     ├── UWCOT220_000002
     ├── UWCOT220_000003
-      ...
+    ...
 ```
 
 ## VL-SAM2
