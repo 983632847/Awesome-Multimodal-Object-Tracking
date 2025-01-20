@@ -19,7 +19,7 @@ For Overall, Attribute, Accuracy and UTUSC Protocol evaluations in OPE using Pre
 ```Python
 # Step1. Run experiments on dataset
 
-# Step2. Put the results in MMOT_Evaluation_Toolkit/results/Baseline_Results
+# Step2. Put the results in MMOT_Evaluation_Toolkit/results/Baseline_Results/WebUAV-3M-Test
 
 # Step3. Report tracking performance
 
@@ -38,7 +38,7 @@ For Overall, Attribute, and Accuracy evaluations in OPE using Pre, nPre, AUC, cA
 ```Python
 # Step1. Run experiments on dataset
 
-# Step2. Put the results in MMOT_Evaluation_Toolkit/results/Baseline_Results
+# Step2. Put the results in MMOT_Evaluation_Toolkit/results/Baseline_Results/WebUOT-1M-Test
 
 # Step3. Report tracking performance
 
@@ -48,6 +48,22 @@ python WebUOT-1M_Attribute_Evaluation.py
 
 python WebUOT-1M_Accuracy_Evaluation.py
 ```
+
+### UW-COT220
+For Overall and Accuracy evaluations in OPE using Pre, nPre, AUC, cAUC and mAcc metrics:
+
+```Python
+# Step1. Run experiments on dataset
+
+# Step2. Put the results in MMOT_Evaluation_Toolkit/results/Baseline_Results/UW-COT220
+
+# Step3. Report tracking performance
+
+python UWCOT220_Overall_Evaluation.py
+
+python UWCOT220_Accuracy_Evaluation.py
+```
+
 
 ### Acknowledgments
 The MMOT evaluation toolkit is based on the great [[GOT-10k toolkit](https://github.com/got-10k/toolkit)] and [[WebUAV-3M toolkit](https://github.com/983632847/WebUAV-3M)]
