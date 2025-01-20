@@ -53,7 +53,7 @@ This implementation is based on [SAM2](https://github.com/facebookresearch/segme
 If you find our dataset and method both interesting and helpful, please consider citing us in your research or publications:
 
     @article{zhang2024towards,
-        title={Towards underwater camouflaged object tracking: An experimental evaluation of sam and sam 2},
+        title={Towards Underwater Camouflaged Object Tracking: Benchmark and Baselines},
         author={Zhang, Chunhui and Liu, Li and Huang, Guanjie and Wen, Hao and Zhou, Xi and Wang, Yanfeng},
         journal={arXiv preprint arXiv:2409.16902},
         year={2024}
