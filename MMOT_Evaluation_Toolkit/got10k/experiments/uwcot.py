@@ -45,10 +45,10 @@ class ExperimentUWCOT(object):
         #     self.result_dir = os.path.join(result_dir, 'Baseline_Results', 'WebUAV-3M-AE')
         # else:
         #     self.result_dir = os.path.join(result_dir, 'Baseline_Results', 'WebUAV-3M')             # Test results, the first six scenarios
-        self.result_dir = os.path.join(result_dir, 'Baseline_Results', 'UW-COT')
+        self.result_dir = os.path.join(result_dir, 'Baseline_Results', 'UW-COT220')
 
         # report root
-        self.report_dir = os.path.join(report_dir, 'UW-COT')
+        self.report_dir = os.path.join(report_dir, 'UW-COT220')
 
         self.att_name = att_name        # if att_name == "All" for all sequences, else for each attribute
         self.sce_name = sce_name        # Scenarios
@@ -507,7 +507,7 @@ class ExperimentUWCOT(object):
         markers = [c + m for m in markers for c in [''] * 3]
 
         if att_name == "All":
-            title_name_suffix = " on UW-COT"
+            title_name_suffix = " on UW-COT220"
         else:
             title_name_suffix = " - " + att_name.replace("_", " ")
 
@@ -560,7 +560,7 @@ class ExperimentUWCOT(object):
         ax.set(xlabel='Overlap threshold',
                ylabel='Success rate',
                xlim=(0, 1), ylim=(0, 1),
-               title='Success plots of OPE'+title_name_suffix)
+               title='Success plots'+title_name_suffix)
         # ax.grid(True)
         ax.grid(True, linestyle='-.')  ##########################*****************************************
         fig.tight_layout()
@@ -625,7 +625,7 @@ class ExperimentUWCOT(object):
         ax.set(xlabel='Location error threshold',
                ylabel='Precision',
                xlim=(0, thr_ce.max()), ylim=(0, 1),
-               title='Precision plots of OPE'+title_name_suffix)
+               title='Precision plots'+title_name_suffix)
         # ax.grid(True)
         ax.grid(True, linestyle='-.')  ##########################*****************************************
         fig.tight_layout()
@@ -689,7 +689,7 @@ class ExperimentUWCOT(object):
         ax.set(xlabel='Overlap threshold',
                ylabel='Complete success rate',
                xlim=(0, 1), ylim=(0, 1),
-               title='Complete success plots of OPE'+title_name_suffix)
+               title='Complete success plots'+title_name_suffix)
         # ax.grid(True)
         ax.grid(True, linestyle='-.')  ##########################*****************************************
         fig.tight_layout()
@@ -753,7 +753,7 @@ class ExperimentUWCOT(object):
         ax.set(xlabel='Location error threshold',
                ylabel='Normalized precision',
                xlim=(0, thr_ce.max()), ylim=(0, 1),
-               title='Normalized precision plots of OPE'+title_name_suffix)
+               title='Normalized precision plots'+title_name_suffix)
         # ax.grid(True)
         ax.grid(True, linestyle='-.')  ##########################*****************************************
         fig.tight_layout()
