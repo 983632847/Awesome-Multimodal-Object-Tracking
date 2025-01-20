@@ -85,8 +85,8 @@ class UWCOT(object):
             att_file = os.path.join(seq_dir, 'attributes.txt')
             meta['att'] = np.loadtxt(att_file, delimiter=',')
         except:
-            # pass
-            print("No attributes.txt")
+            pass
+            # print("No attributes.txt")
 
         # # scenarios
         # try:
