@@ -25,7 +25,7 @@ A continuously updated project to track the latest progress in multi-modal objec
 ![Last Updated](https://badgen.net/github/last-commit/983632847/Awesome-Multimodal-Object-Tracking?icon=github&label=last%20updated&color=blue)
 
 - 2025.01.20: The technical report for UW-COT220 and VL-SAM2 was updated.
-- 2024.09.26: The WebUOT-1M was accepted by NeurIPS 2024, and its extended version, UW-COT220, was published.
+- 2024.09.26: The WebUOT-1M was accepted by NeurIPS 2024, and its extended version, UW-COT220, was online.
 - 2024.05.30: The Paper of WebUOT-1M was Online [arXiv](https://arxiv.org/abs/2405.19818).
 - 2024.05.24: The Report of Awesome MMOT Project was Online [arXiv](https://arxiv.org/abs/2405.14200) [知乎](https://zhuanlan.zhihu.com/p/699538389).
 - 2024.05.20: Awesome MMOT Project Started.
@@ -125,12 +125,18 @@ If you find our work useful in your research, please consider citing:
 |  [WebUOT-1M](https://arxiv.org/abs/2405.19818)   |   NeurIPS-2024   |  [WebUOT-1M](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/WebUOT-1M)  |  The first million-scale underwater object tracking dataset contains 1,500 video sequences, 1.1 million frames |  
 |  [ElysiumTrack-1M](https://arxiv.org/abs/2403.16558)   |   ECCV-2024   |  [ElysiumTrack-1M](https://github.com/Hon-Wong/Elysium)  |   A large-scale dataset that supports three tasks: single object tracking, reference single object tracking, and video reference expression generation, with 1.27 million videos |  
 |  [VLT-MI](https://arxiv.org/abs/2409.08887)   |   arXiv-2024   | [VLT-MI](http://videocube.aitestunion.com/) |  A dataset for multi-round, multi-modal interaction, with 3,619 videos. |  
-|  [UW-COT220](https://arxiv.org/abs/2409.16902)   |   arXiv-2024   | [UW-COT220](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/UW-COT220) |  The first multimodal underwater camouﬂaged object tracking dataset with 220 videos. |  
 |  [DTVLT](https://arxiv.org/abs/2410.02492)   |   arXiv-2024   | [DTVLT](http://videocube.aitestunion.com/) |  A multi-modal diverse text benchmark for visual language tracking (RGBL Tracking). |  
 |  [SemTrack](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03555.pdf)   |   ECCV-2024   | [SemTrack](https://forms.office.com/Pages/ResponsePage.aspx?id=drd2NJDpck-5UGJImDFiPQJNzw6AhuZDkzEViiWzJltUNjhKM01KWjhXN0FBNjcxNVBZQk03VVFHQi4u) |   A large-scale dataset comprising 6.7 million frames from 6,961 videos, capturing the semantic trajectory of targets across 52 interaction classes and 115 object classes. |
+|  [UW-COT220](https://arxiv.org/abs/2409.16902)   |   arXiv-2025   | [UW-COT220](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/UW-COT220) |  The first multimodal underwater camouﬂaged object tracking dataset with 220 videos. |  
 
 ### Papers
 #### 2025
+- **UW-COT220 & VL-SAM2:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
+  "Towards Underwater Camouflaged Object Tracking: Benchmark and Baselines." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2409.16902)]
+  [[ResearchGate](https://www.researchgate.net/publication/388189638_Towards_Underwater_Camouflaged_Object_Tracking_Benchmark_and_Baselines)]
+  [[project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/UW-COT220)]
+  
 - **CTVLT:** X. Feng, D. Zhang, S. Hu, X. Li, M. Wu, J. Zhang, X. Chen, K. Huang.<br />
   "Enhancing Vision-Language Tracking by Effectively Converting Textual Cues into Visual Cues." ICASSP  (2025).
   [[paper](https://arxiv.org/abs/2412.19648)] 
@@ -188,12 +194,6 @@ If you find our work useful in your research, please consider citing:
   "DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.02492)] 
   [[project](http://videocube.aitestunion.com/)]
-
-- **UW-COT220 & VL-SAM2:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
-  "Towards Underwater Camouflaged Object Tracking: Benchmark and Baselines." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2409.16902)]
-  [[ResearchGate](https://www.researchgate.net/publication/388189638_Towards_Underwater_Camouflaged_Object_Tracking_Benchmark_and_Baselines)]
-  [[project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/UW-COT220)]
 
 - **WebUOT-1M:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
   "WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark." NeurIPS (2024).
