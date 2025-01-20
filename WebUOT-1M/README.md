@@ -10,7 +10,8 @@ Underwater object tracking (UOT) is a foundational task for identifying and trac
 - [x] Evaluation Toolkits
 - [x] Codes and Weights for OKTrack
 - [ ] Codes and Weights for OKTrack++ (VL version)
-- [ ] UW-COT (The First UnderWater Camouﬂaged Object Tracking Dataset)
+- [ ] Codes and Weights for VL-SAM2 (A new VL tracker)
+- [x] UW-COT (The First Multimodal UnderWater Camouﬂaged Object Tracking Dataset)
 
 ## WebUOT-1M
 
