@@ -7,8 +7,8 @@
 
 ## Download
 - You can download the whole MMOT evaluation toolkit through [Google Drive](https://drive.google.com/drive/folders/1eKPUZV5vaKwcF0gZFIkOITpEznTd7zv5?usp=sharing) or [Baidu Pan](https://pan.baidu.com/s/1JygwsLTh1HbUGCdLb4LoBQ?pwd=MMOT), the extraction code is ***MMOT***.
-- Download annotations through [Google Drive](https://drive.google.com/drive/folders/1eKPUZV5vaKwcF0gZFIkOITpEznTd7zv5?usp=sharing) or [Baidu Pan](https://pan.baidu.com/s/1Lx07s_xoHCUP52ONF945lA?pwd=anno).
-- Download tracking results through [Google Drive](https://drive.google.com/drive/folders/1eKPUZV5vaKwcF0gZFIkOITpEznTd7zv5?usp=sharing) or [Baidu Pan](https://pan.baidu.com/s/1xBl5RrvxqYC3bLKsbdKMEg?pwd=resu).
+- Download annotations through [Google Drive](https://drive.google.com/drive/folders/1eKPUZV5vaKwcF0gZFIkOITpEznTd7zv5?usp=sharing) or [Baidu Pan](https://pan.baidu.com/s/1-89I98ngKmRVVZjxqxH6vg?pwd=idmc).
+- Download tracking results through [Google Drive](https://drive.google.com/drive/folders/1eKPUZV5vaKwcF0gZFIkOITpEznTd7zv5?usp=sharing) or [Baidu Pan](https://pan.baidu.com/s/1T-VUhdW4u9Lxin78_Vo-ig?pwd=f7ia).
 
 
 ## How to Evaluate Performance?
