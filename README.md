@@ -144,6 +144,10 @@ If you find our work useful in your research, please consider citing:
   [[code](https://github.com/XiaokunFeng/CTVLT)]
   
 #### 2024
+- **JLPT:** Weng, ZhiMin and Zhang, JinPu and Wang, YueHuan.<br />
+  "Joint Language Prompt and Object Tracking." ICME (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10687451)] 
+
 - **CPIPTrack:** Zhu, Hong and Lu, Qingyang and Xue, Lei and Zhang, Pingping and Yuan, Guanglin.<br />
   "Vision-Language Tracking With CLIP and Interactive Prompt Learning." TITS (2024).
   [[paper](https://ieeexplore.ieee.org/document/10817474)] 
