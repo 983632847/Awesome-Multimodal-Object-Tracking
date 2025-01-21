@@ -24,8 +24,8 @@ A continuously updated project to track the latest progress in multi-modal objec
 ## :collision: Highlights
 ![Last Updated](https://badgen.net/github/last-commit/983632847/Awesome-Multimodal-Object-Tracking?icon=github&label=last%20updated&color=blue)
 
-- 2025.01.20: The technical report for UW-COT220 and VL-SAM2 was updated.
-- 2024.09.26: The WebUOT-1M was accepted by NeurIPS 2024, and its extended version, UW-COT220, was online.
+- 2025.01.20: The Technical Report for UW-COT220 and VL-SAM2 was Updated [arXiv](https://arxiv.org/abs/2409.16902) [知乎](https://zhuanlan.zhihu.com/p/19568835256).
+- 2024.09.26: The WebUOT-1M was Accepted by NeurIPS 2024, and its Extended Version, UW-COT220, was Online.
 - 2024.05.30: The Paper of WebUOT-1M was Online [arXiv](https://arxiv.org/abs/2405.19818).
 - 2024.05.24: The Report of Awesome MMOT Project was Online [arXiv](https://arxiv.org/abs/2405.14200) [知乎](https://zhuanlan.zhihu.com/p/699538389).
 - 2024.05.20: Awesome MMOT Project Started.
@@ -135,6 +135,7 @@ If you find our work useful in your research, please consider citing:
   "Towards Underwater Camouflaged Object Tracking: Benchmark and Baselines." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2409.16902)]
   [[ResearchGate](https://www.researchgate.net/publication/388189638_Towards_Underwater_Camouflaged_Object_Tracking_Benchmark_and_Baselines)]
+  [[知乎](https://zhuanlan.zhihu.com/p/19568835256)]
   [[project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/UW-COT220)]
   
 - **CTVLT:** X. Feng, D. Zhang, S. Hu, X. Li, M. Wu, J. Zhang, X. Chen, K. Huang.<br />
