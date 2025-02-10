@@ -19,7 +19,7 @@ A continuously updated project to track the latest progress in multi-modal objec
 #### If you like our project, please give us a star ⭐ on this GitHub.
 #### If you have any suggestions, please feel free to contact: [andyzhangchunhui@gmail.com](andyzhangchunhui@gmail.com). 
 ### We welcome other researchers to submit pull requests and become contributors to this project.
-
+### This project focuses solely on single-object tracking.
 
 ## :collision: Highlights
 ![Last Updated](https://badgen.net/github/last-commit/983632847/Awesome-Multimodal-Object-Tracking?icon=github&label=last%20updated&color=blue)
