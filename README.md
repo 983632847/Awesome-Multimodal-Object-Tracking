@@ -396,6 +396,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Papers
+#### 2025
+- **HDETrack V2:** Shiao Wang, Xiao Wang, Chao Wang, Liye Jin, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang.<br />
+  "Event Stream-based Visual Object Tracking: HDETrack V2 and A High-Definition Benchmark." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2502.05574)] 
+  [[code](https://github.com/Event-AHU/EventVOT_Benchmark)]
+
 #### 2024
 - **CSAM:** Tianlu Zhang, Kurt Debattista, Qiang Zhang, Guiguang Ding, Jungong Han.<br />
   "Revisiting motion information for RGB-Event tracking with MOT philosophy." NeurIPS (2024).
