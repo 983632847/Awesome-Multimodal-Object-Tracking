@@ -1119,7 +1119,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 
 ### Papers
-#### 2024
+#### 2025
+- **APTrack:** Xiantao Hu, Bineng Zhong, Qihua Liang, Zhiyi Mo, Liangtao Shi, Ying Tai, Jian Yang.<br />
+  "Adaptive Perception for Unified Visual Multi-modal Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2502.06583)]
+  
 - **SUTrack:** Xin Chen, Ben Kang, Wanting Geng, Jiawen Zhu, Yi Liu, Dong Wang, Huchuan Lu.<br />
   "SUTrack: Towards Simple and Unified Single Object Tracking." AAAI (2025).
   [[paper](https://arxiv.org/abs/2412.19138)] 
@@ -1130,6 +1134,7 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   [[paper](https://arxiv.org/abs/2412.15691)] 
   [[code](https://github.com/NJU-PCALab/STTrack)]
 
+#### 2024
 - **EMTrack:** Liu, Chang and Guan, Ziqi and Lai, Simiao and Liu, Yang and Lu, Huchuan and Wang, Dong.<br />
   "EMTrack: Efficient Multimodal Object Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10747517)] 
