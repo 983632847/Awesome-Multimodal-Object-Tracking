@@ -49,6 +49,7 @@ A continuously updated project to track the latest progress in multi-modal objec
 - [Miscellaneous (RGB+X)](#miscellaneous)
   - [Datasets](#datasets)
   - [Papers](#papers)
+- [Others](#others)
 - [Awesome Repositories for MMOT](#awesome-repositories-for-mmot)
   
 
