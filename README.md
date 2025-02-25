@@ -802,6 +802,24 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   [[paper](https://arxiv.org/abs/2501.03616)] 
 
 #### 2024
+- **STMT:** Sun, Dengdi and Pan, Yajie and Lu, Andong and Li, Chenglong and Luo, Bin.<br />
+  "Transformer RGBT Tracking With Spatio-Temporal Multimodal Tokens." TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10589660)] 
+  [[code](https://github.com/yinghaidada/STMT)]
+
+
+- **TGTrack:** Chen, Liang and Zhong, Bineng and Liang, Qihua and Zheng, Yaozong and Mo, Zhiyi and Song, Shuxiang.<br />
+  "Top-Down Cross-Modal Guidance for Robust RGB-T Tracking." TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10614652)] 
+
+- **MCTrack:** Hu, Xiantao and Zhong, Bineng and Liang, Qihua and Zhang, Shengping and Li, Ning and Li, Xianxian.<br />
+  "Toward Modalities Correlation for RGB-T Tracking." TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10517645)] 
+
+
+- **LSAR:** Liu, Jun and Luo, Zhongqiang and Xiong, Xingzhong.<br />
+  "Online Learning Samples and Adaptive Recovery for Robust RGB-T Tracking." TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10159404)] 
 
 - **SiamTFA:** Zhang, Jianming and Qin, Yu and Fan, Shimeng and Xiao, Zhu and Zhang, Jin.<br />
   "SiamTFA: Siamese Triple-Stream Feature Aggregation Network for Efficient RGBT Tracking." TITS (2024).
