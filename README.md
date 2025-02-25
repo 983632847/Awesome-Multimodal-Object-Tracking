@@ -1228,7 +1228,7 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   [[paper](https://arxiv.org/abs/2408.12232)]
   
 - **SCANet:** Yunfeng Li, Bo Wang, Jiuran Sun, Xueyi Wu, Ye Li.<br />
-  "RGB-Sonar Tracking Benchmark and Spatial Cross-Attention Transformer Tracker." ArXiv (2024).
+  "RGB-Sonar Tracking Benchmark and Spatial Cross-Attention Transformer Tracker." TCSVT (2024).
   [[paper](https://arxiv.org/abs/2406.07189)] 
   [[code](https://github.com/LiYunfengLYF/RGBS50)]
 
