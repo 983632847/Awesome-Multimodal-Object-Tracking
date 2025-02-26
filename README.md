@@ -12,7 +12,7 @@
 </p>
 </div>
 
-# Awesome Multi-modal Object Tracking (MMOT)
+# Awesome Multi-modal Object Tracking [(MMOT)](https://arxiv.org/abs/2405.14200)
 A continuously updated project to track the latest progress in multi-modal object tracking.
 
 #### If this repository can bring you some inspiration, we would feel greatly honored.
