@@ -1,25 +1,24 @@
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# [Awesome Multi-modal Object Tracking](https://arxiv.org/abs/2405.14200) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.14200)
 
 <div align="center">
 <img src="https://github.com/983632847/Awesome-Multimodal-Object-Tracking/blob/main/MMOT.png" width="600">
 
-**Awesome Multi-modal Object Tracking (MMOT)**
 
 ------
 <p align="center">
 </p>
 </div>
 
-# Awesome Multi-modal Object Tracking [(MMOT)](https://arxiv.org/abs/2405.14200)
-A continuously updated project to track the latest progress in multi-modal object tracking.
-
+#### A continuously updated project to track the latest progress in multi-modal object tracking (MMOT).
 #### If this repository can bring you some inspiration, we would feel greatly honored.
 #### If you like our project, please give us a star ⭐ on this GitHub.
 #### If you have any suggestions, please feel free to contact: [andyzhangchunhui@gmail.com](andyzhangchunhui@gmail.com). 
 ### We welcome other researchers to submit pull requests and become contributors to this project.
 ### This project focuses solely on single-object tracking.
+
+<p align="center">
+<img src="https://github.com/983632847/Awesome-Multimodal-Object-Tracking/blob/main/Main_MMOT_Paradigms.png" width="600px"/>  
+</p>
 
 ## :collision: Highlights
 ![Last Updated](https://badgen.net/github/last-commit/983632847/Awesome-Multimodal-Object-Tracking?icon=github&label=last%20updated&color=blue)
