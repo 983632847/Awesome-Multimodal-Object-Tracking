@@ -826,6 +826,18 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   [[paper](https://ieeexplore.ieee.org/abstract/document/10804856)] 
   [[code](https://github.com/zjjqinyu/SiamTFA)]
 
+- **DKDTrack:** Fanghua Hong, Mai Wen, Andong Lu, Qunjing Wang.<br />
+  "DKDTrack: dual-granularity knowledge distillation for RGBT tracking." ICGIP (2024).
+  [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13539/135392J/DKDTrack-dual-granularity-knowledge-distillation-for-RGBT-tracking/10.1117/12.3057742.short)] 
+
+- Fanghua Hong, Jinhu Wang, Andong Lu, Qunjing Wang.<br />
+  "Augmentative fusion network for robust RGBT tracking." ICGIP (2024).
+  [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13539/135392I/Augmentative-fusion-network-for-robust-RGBT-tracking/10.1117/12.3057761.short)] 
+
+- **CAFF:**  FENG Zihang, et al.<br />
+  "A content-aware correlation filter with multi-feature fusion for RGB-T tracking." Journal of Systems Engineering and Electronics (2024).
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10530492)]
+  
 - **DDFNe:** Chenglong Li, Tao Wang, Zhaodong Ding, Yun Xiao, Jin Tang.<br />
   "Dynamic Disentangled Fusion Network for RGBT Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2412.08441)] 
