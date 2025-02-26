@@ -67,6 +67,11 @@ If you find our work useful in your research, please consider citing:
 
 
 ## Survey
+- **Awesome-MMOT:** Chunhui Zhang, Li Liu, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
+  "Awesome Multi-modal Object Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.14200)] 
+  [[project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
+
 - Pengyu Zhang, Dong Wang, Huchuan Lu.<br />
   "Multi-modal Visual Tracking: Review and Experimental Comparison." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2012.04176)] 
