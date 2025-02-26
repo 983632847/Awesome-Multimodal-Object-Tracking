@@ -1157,6 +1157,16 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2025
+- **UASTrack:** He Wang, Tianyang Xu, Zhangyong Tang, Xiao-Jun Wu, Josef Kittler.<br />
+  "UASTrack: A Unified Adaptive Selection  Framework with Modality-Customization in Single  Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2502.18220)] 
+  [[code](https://github.com/wanghe/UASTrack.)]
+
+- **LightFC-X:** Yunfeng Li, Bo Wang, Ye Li.<br />
+  "LightFC-X: Lightweight Convolutional Tracker for RGB-X Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2502.18143)] 
+  [[code](https://github.com/LiYunfengLYF/LightFC-X)]
+
 - **APTrack:** Xiantao Hu, Bineng Zhong, Qihua Liang, Zhiyi Mo, Liangtao Shi, Ying Tai, Jian Yang.<br />
   "Adaptive Perception for Unified Visual Multi-modal Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2502.06583)]
