@@ -14,8 +14,9 @@
 #### If this repository can bring you some inspiration, we would feel greatly honored.
 #### If you like our project, please give us a star ⭐ on this GitHub.
 #### If you have any suggestions, please feel free to contact: [andyzhangchunhui@gmail.com](andyzhangchunhui@gmail.com). 
-### We welcome other researchers to submit pull requests and become contributors to this project.
+### We welcome researchers to submit pull requests and become contributors to this project.
 ### This project focuses solely on single-object tracking.
+### Awesome Visual Object Tracking (VOT) Project is at [Awesome-VOT](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/Awesome_Visual_Object_Tracking).
 
 <p align="center">
 <img src="https://github.com/983632847/Awesome-Multimodal-Object-Tracking/blob/main/Main_MMOT_Paradigms.png" width="600px"/>  
@@ -24,6 +25,7 @@
 ## :collision: Highlights
 ![Last Updated](https://badgen.net/github/last-commit/983632847/Awesome-Multimodal-Object-Tracking?icon=github&label=last%20updated&color=blue)
 
+- 2025.02.28: Awesome Visual Object Tracking Project Started at [Awesome-VOT](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/Awesome_Visual_Object_Tracking).
 - 2025.01.20: The Technical Report for UW-COT220 and VL-SAM2 was Updated [arXiv](https://arxiv.org/abs/2409.16902) [知乎](https://zhuanlan.zhihu.com/p/19568835256).
 - 2024.09.26: The WebUOT-1M was Accepted by NeurIPS 2024, and its Extended Version, UW-COT220, was Online.
 - 2024.05.30: The Paper of WebUOT-1M was Online [arXiv](https://arxiv.org/abs/2405.19818).
