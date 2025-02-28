@@ -1,6 +1,9 @@
 # Awesome Visual Object Tracking
 ![recent_develop](./recent_Tracker_development.png)
 
+
+> **Acknowledgements:** This project is used to track the latest progress in single-modal tracking or Visual Object Tracking (VOT), continuing two exceptional GitHub projects: [Visual Tracking Paper List](https://github.com/foolwood/benchmark_results) and [Visual-Tracking-Development](https://github.com/DavidZhangdw/Visual-Tracking-Development). We are grateful for your outstanding contributions @Qiang Wang, @David Zhang.
+
 ## Papers
 
 ### :star2: Recommendations :star2:
