@@ -302,7 +302,12 @@ If you find our work useful in your research, please consider citing:
 
 - **SATracker:** Jiawei Ge, Xiangmei Chen, Jiuxin Cao, Xuelin Zhu, Weijia Liu, Bo Liu.<br />
   "Beyond Visual Cues: Synchronously Exploring Target-Centric Semantics for Vision-Language Tracking." ArXiv (2024).
-  [[paper](https://arxiv.org/pdf/2311.17085.pdf)] 
+  [[paper](https://arxiv.org/pdf/2311.17085.pdf)]
+
+- **VLFSE:** Fuchao Yang, Mingkai Jiang, Qiaohong Hao, Xiaolei Zhao, Qinghe Feng.<br />
+  "VLFSE: Enhancing visual tracking through visual language fusion and state update evaluator." Machine Learning with Applications (2024).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S2666827024000641)] 
+
   
 #### 2023
 - **WebUAV-3M:** Chunhui Zhang, Guanjie Huang, Li Liu, Shan Huang, Yinan Yang, Xiang Wan, Shiming Ge, Dacheng Tao.<br />
