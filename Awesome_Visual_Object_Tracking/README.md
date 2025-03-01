@@ -64,20 +64,43 @@
   [[code](https://github.com/baaivision/Painter)]
 
 ### AAAI 2025 
+- **SUTrack:** Xin Chen, Ben Kang, Wanting Geng, Jiawen Zhu, Yi Liu, Dong Wang, Huchuan Lu.<br />
+  "SUTrack: Towards Simple and Unified Single Object Tracking." AAAI (2025).
+  [[paper](https://arxiv.org/abs/2412.19138)] 
+  [[code](https://github.com/chenxin-dlut/SUTrack)]
+
+- **MCITrack:** Ben Kang, Xin Chen, Simiao Lai, Yang Liu, Yi Liu, Dong Wang.<br />
+  "Exploring Enhanced Contextual Information for Video-Level Object Tracking." AAAI (2025).
+  [[paper](https://arxiv.org/abs/2412.11023)] 
+  [[code](https://github.com/kangben258/MCITrack)]
 
 - **MambaLCT:** Xiaohai Li, Bineng Zhong, Qihua Liang, Guorong Li, Zhiyi Mo, Shuxiang Song.<br />
    "Boosting Tracking via Long-term Context State Space Model." AAAI (2025).
     [[Paper](https://arxiv.org/abs/2412.13615)]
     [[code](https://github.com/GXNU-ZhongLab/TemTrack)]
 
+- **LMTrack:** Chenlong Xu, Bineng Zhong, Qihua Liang, Yaozong Zheng, Guorong Li, Shuxiang Song.<br />
+  "Less is More: Token Context-aware Learning for Object Tracking." AAAI (2025).
+  [[Paper](https://arxiv.org/abs/2501.00758)]
+  
 - **TemTrack:** Jinxia Xie, Bineng Zhong, Qihua Liang, Ning Li, Zhiyi Mo, Shuxiang Song.<br />
   "Robust Tracking via Mamba-based Context-aware Token Learning." AAAI (2025).
   [[Paper](https://arxiv.org/abs/2412.13611)]
   [[code](https://github.com/GXNU-ZhongLab/TemTrack)]
 
-- **LMTrack:** Chenlong Xu, Bineng Zhong, Qihua Liang, Yaozong Zheng, Guorong Li, Shuxiang Song.<br />
-  "Less is More: Token Context-aware Learning for Object Tracking." AAAI (2025).
-  [[Paper](https://arxiv.org/abs/2501.00758)]
+- **STTrack:** Xiantao Hu,Ying Tai,Xu zhao,Chen Zhao,Zhenyu  Zhang,Jun Li,Bineng Zhong,Jian Yang.<br />
+  "Exploiting Multimodal Spatial-temporal Patterns for Video Object  Tracking." AAAI (2025).
+  [[paper](https://arxiv.org/abs/2412.15691)] 
+  [[code](https://github.com/NJU-PCALab/STTrack)]
+
+- Jiawen Zhu,Huayi Tang,Xin Chen,Xinying Wang,Dong  Wang,Huchuan Lu.<br />
+  "Two-stream Beats One-stream: Asymmetric Siamese Network for  Efficient Visual Tracking." AAAI (2025).
+  [[paper]()]
+
+- **LVPTrack:** Hongjing Wu,Siyuan Yao,Feng Huang,Shu  Wang,Linchao Zhang,Zhuoran Zheng,Wenqi Ren.<br />
+  "LVPTrack: High Performance Domain Adaptive UAV Tracking with  Label Aligned Visual Prompt Tuning." AAAI (2025).
+  [[paper]()] 
+
 
 ### NeurIPS 2024
 
