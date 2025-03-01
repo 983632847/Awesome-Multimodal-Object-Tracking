@@ -63,6 +63,13 @@
   [[paper](https://arxiv.org/abs/2304.03284)] 
   [[code](https://github.com/baaivision/Painter)]
 
+### ICLR 2025
+- **Track-On:** Görkay Aydemir, Xiongyi Cai, Weidi Xie, Fatma Guney.<br />
+  "Track-On: Transformer-based Online Point Tracking with Memory." ArXiv (2025).
+  [[paper](https://openreview.net/attachment?id=oRlANEuqG5&name=pdf)] 
+  [[code](https://kuis-ai.github.io/track_on)]
+
+
 ### AAAI 2025 
 - **SUTrack:** Xin Chen, Ben Kang, Wanting Geng, Jiawen Zhu, Yi Liu, Dong Wang, Huchuan Lu.<br />
   "SUTrack: Towards Simple and Unified Single Object Tracking." AAAI (2025).
