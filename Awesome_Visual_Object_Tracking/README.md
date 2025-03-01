@@ -63,13 +63,27 @@
   [[paper](https://arxiv.org/abs/2304.03284)] 
   [[code](https://github.com/baaivision/Painter)]
 
+### AAAI 2025 
+
+- **MambaLCT:** Xiaohai Li, Bineng Zhong, Qihua Liang, Guorong Li, Zhiyi Mo, Shuxiang Song.<br />
+   "Boosting Tracking via Long-term Context State Space Model." AAAI (2025).
+    [[Paper](https://arxiv.org/abs/2412.13615)]
+    [[code](https://github.com/GXNU-ZhongLab/TemTrack)]
+
+- **TemTrack:** Jinxia Xie, Bineng Zhong, Qihua Liang, Ning Li, Zhiyi Mo, Shuxiang Song.<br />
+  "Robust Tracking via Mamba-based Context-aware Token Learning." AAAI (2025).
+  [[Paper](https://arxiv.org/abs/2412.13611)]
+  [[code](https://github.com/GXNU-ZhongLab/TemTrack)]
+
+- **LMTrack:** Chenlong Xu, Bineng Zhong, Qihua Liang, Yaozong Zheng, Guorong Li, Shuxiang Song.<br />
+  "Less is More: Token Context-aware Learning for Object Tracking." AAAI (2025).
+  [[Paper](https://arxiv.org/abs/2501.00758)]
 
 ### NeurIPS 2024
 
 - **ChatTracker:** Yiming Sun, Fan Yu, Shaoxiang Chen, Yu Zhang, Junwei Huang, Chenhui Li, Yang Li, Changbo Wang.<br />
   "ChatTracker: Enhancing Visual Tracking Performance via Chatting with Multimodal Large Language Model." NeurIPS (2024).
   [[paper](https://arxiv.org/abs/2411.01756)] 
-  [[code]( )]
 
 - **WebUOT-1M:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
   "WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark." NeurIPS (2024).
