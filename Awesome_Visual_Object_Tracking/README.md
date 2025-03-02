@@ -63,6 +63,14 @@
   [[paper](https://arxiv.org/abs/2304.03284)] 
   [[code](https://github.com/baaivision/Painter)]
 
+### CVPR 2025
+- **MITracker:** Mengjie Xu, Yitao Zhu, Haotian Jiang, Jiaming Li, Zhenrong Shen, Sheng Wang, Haolin Huang, Xinyu Wang, Qing Yang, Han Zhang, Qian Wang.<br />
+  "MITracker: Multi-View Integration for Visual Object Tracking." CVPR 2025 (2025).
+  [[paper](https://arxiv.org/abs/2502.20111)] 
+  [[code](https://github.com/XuM007/MITracker)]
+  [[project](https://mii-laboratory.github.io/MITracker/)]
+
+
 ### ICLR 2025
 - **Track-On:** Görkay Aydemir, Xiongyi Cai, Weidi Xie, Fatma Guney.<br />
   "Track-On: Transformer-based Online Point Tracking with Memory." ArXiv (2025).
