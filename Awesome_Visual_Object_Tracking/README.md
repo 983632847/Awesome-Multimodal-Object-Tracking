@@ -12,7 +12,6 @@
 - [Distinguished Researchers and Teams](#distinguished-researchers-and-teams)
 
 ## Papers
-
 ### :star2: Recommendations :star2:
 
 - **VOTSurvey:** Sajid Javed, Martin Danelljan, Fahad Shahbaz Khan, Muhammad Haris Khan, Michael Felsberg, Jiri Matas.<br />
@@ -71,6 +70,7 @@
   [[code](https://github.com/baaivision/Painter)]
 
 ### :boom: Conference and Journal Papers :boom:
+
 ### CVPR 2025
 - **MITracker:** Mengjie Xu, Yitao Zhu, Haotian Jiang, Jiaming Li, Zhenrong Shen, Sheng Wang, Haolin Huang, Xinyu Wang, Qing Yang, Han Zhang, Qian Wang.<br />
   "MITracker: Multi-View Integration for Visual Object Tracking." CVPR 2025 (2025).
