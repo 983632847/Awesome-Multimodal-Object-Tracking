@@ -13,7 +13,7 @@
 
 ## Papers
 
-### :star2: Recommendations
+### :star2: Recommendations :star2:
 
 - **VOTSurvey:** Sajid Javed, Martin Danelljan, Fahad Shahbaz Khan, Muhammad Haris Khan, Michael Felsberg, Jiri Matas.<br />
   "Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook." TAPMI (2023).
@@ -70,7 +70,7 @@
   [[paper](https://arxiv.org/abs/2304.03284)] 
   [[code](https://github.com/baaivision/Painter)]
 
-### :boom: Conference and Journal Papers
+### :boom: Conference and Journal Papers :boom:
 ### CVPR 2025
 - **MITracker:** Mengjie Xu, Yitao Zhu, Haotian Jiang, Jiaming Li, Zhenrong Shen, Sheng Wang, Haolin Huang, Xinyu Wang, Qing Yang, Han Zhang, Qian Wang.<br />
   "MITracker: Multi-View Integration for Visual Object Tracking." CVPR 2025 (2025).
