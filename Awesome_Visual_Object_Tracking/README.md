@@ -4,6 +4,13 @@
 
 > **Acknowledgements:** This project is used to track the latest progress in single-modal tracking or Visual Object Tracking (VOT), continuing two exceptional GitHub projects: [Visual Tracking Paper List](https://github.com/foolwood/benchmark_results) and [Visual-Tracking-Development](https://github.com/DavidZhangdw/Visual-Tracking-Development). We are grateful for your outstanding contributions @Qiang Wang, @David Zhang.
 
+## Contents
+- [Papers](#papers)
+    - [Recommendations](#recommendations)
+    - [Conference & Journal Papers](#conference-&-journal-papers)
+- [Benchmark](#benchmark)
+- [Distinguished Researchers & Teams](#distinguished-researchers-&-teams)
+
 ## Papers
 
 ### :star2: Recommendations :star2:
@@ -63,6 +70,7 @@
   [[paper](https://arxiv.org/abs/2304.03284)] 
   [[code](https://github.com/baaivision/Painter)]
 
+### Conference & Journal Papers
 ### CVPR 2025
 - **MITracker:** Mengjie Xu, Yitao Zhu, Haotian Jiang, Jiaming Li, Zhenrong Shen, Sheng Wang, Haolin Huang, Xinyu Wang, Qing Yang, Han Zhang, Qian Wang.<br />
   "MITracker: Multi-View Integration for Visual Object Tracking." CVPR 2025 (2025).
