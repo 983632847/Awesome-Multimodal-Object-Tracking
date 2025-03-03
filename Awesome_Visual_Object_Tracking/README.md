@@ -7,9 +7,9 @@
 ## Contents
 - [Papers](#papers)
     - [Recommendations](#recommendations)
-    - [Conference & Journal Papers](#conference-&-journal-papers)
-- [Benchmark](#benchmark)
-- [Distinguished Researchers & Teams](#distinguished-researchers-&-teams)
+    - [Conference and Journal Papers](#conference-and-journal-papers)
+- [Benchmarks](#benchmarks)
+- [Distinguished Researchers and Teams](#distinguished-researchers-and-teams)
 
 ## Papers
 
@@ -70,7 +70,7 @@
   [[paper](https://arxiv.org/abs/2304.03284)] 
   [[code](https://github.com/baaivision/Painter)]
 
-### Conference & Journal Papers
+### Conference and Journal Papers
 ### CVPR 2025
 - **MITracker:** Mengjie Xu, Yitao Zhu, Haotian Jiang, Jiaming Li, Zhenrong Shen, Sheng Wang, Haolin Huang, Xinyu Wang, Qing Yang, Han Zhang, Qian Wang.<br />
   "MITracker: Multi-View Integration for Visual Object Tracking." CVPR 2025 (2025).
@@ -2346,7 +2346,7 @@
   
 
 
-## Benchmark
+## Benchmarks
 
 * **LaSOT:** Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling.
   "LaSOT: A High-quality Benchmark for Large-scale Single Object Tracking.." CVPR (2019). 
@@ -2441,7 +2441,7 @@
 **[[VOT17_paper_ICCV](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w28/Kristan_The_Visual_Object_ICCV_2017_paper.pdf)]The Visual Object Tracking VOT2017 challenge results**
 
 
-## Distinguished Researchers & Teams
+## Distinguished Researchers and Teams
 Distinguished visual tracking researchers who have published +3 papers which have a major impact on the field of visual tracking and are still active in the field of visual tracking.(Names listed in no particular order.)
 
 * [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/)
