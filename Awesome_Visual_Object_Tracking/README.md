@@ -116,9 +116,10 @@
   [[paper](https://arxiv.org/abs/2412.15691)] 
   [[code](https://github.com/NJU-PCALab/STTrack)]
 
-- Jiawen Zhu,Huayi Tang,Xin Chen,Xinying Wang,Dong  Wang,Huchuan Lu.<br />
+- **AsymTrack:** Jiawen Zhu,Huayi Tang,Xin Chen,Xinying Wang,Dong  Wang,Huchuan Lu.<br />
   "Two-stream Beats One-stream: Asymmetric Siamese Network for  Efficient Visual Tracking." AAAI (2025).
-  [[paper]()]
+  [[paper](https://arxiv.org/abs/2503.00516)]
+  [[code](https://github.com/jiawen-zhu/AsymTrack)] 
 
 - **LVPTrack:** Hongjing Wu,Siyuan Yao,Feng Huang,Shu  Wang,Linchao Zhang,Zhuoran Zheng,Wenqi Ren.<br />
   "LVPTrack: High Performance Domain Adaptive UAV Tracking with  Label Aligned Visual Prompt Tuning." AAAI (2025).
