@@ -72,6 +72,11 @@
 ### :boom: Conference and Journal Papers :boom:
 
 ### CVPR 2025
+- **SAM2.1++:** Jovana Videnovic, Alan Lukezic, Matej Kristan.<br />
+"A Distractor-Aware Memory for Visual Object Tracking with SAM2." CVPR (2025).
+[[paper](https://arxiv.org/abs/2411.17576)]
+[[code](https://github.com/jovanavidenovic/DAM4SAM)]
+
 - **MITracker:** Mengjie Xu, Yitao Zhu, Haotian Jiang, Jiaming Li, Zhenrong Shen, Sheng Wang, Haolin Huang, Xinyu Wang, Qing Yang, Han Zhang, Qian Wang.<br />
   "MITracker: Multi-View Integration for Visual Object Tracking." CVPR 2025 (2025).
   [[paper](https://arxiv.org/abs/2502.20111)] 
