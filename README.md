@@ -139,6 +139,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **DUTrack:** Xiaohai Li, Bineng Zhong, Qihua Liang, Zhiyi Mo, Jian Nong, Shuxiang Song.<br />
+  "Dynamic Updates for Language Adaptation in Visual-Language Tracking." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2503.06621)] 
+  [[code](https://github.com/GXNU-ZhongLab/DUTrack)]
+
 - **SIEVL-Track:** Li, Ning and Zhong, Bineng and Liang, Qihua and Mo, Zhiyi and Nong, Jian and Song, Shuxiang.<br />
   "SIEVL-Track: Exploring Semantic Information Enhancement for Visual-Language Object Tracking." TCSVT (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10845881)] 
