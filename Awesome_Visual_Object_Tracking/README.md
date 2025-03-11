@@ -83,6 +83,16 @@
   [[code](https://github.com/XuM007/MITracker)]
   [[project](https://mii-laboratory.github.io/MITracker/)]
 
+- **SGLATrack:** Chaocan Xue, Bineng Zhong, Qihua Liang, Yaozong Zheng, Ning Li, Yuanliang Xue, Shuxiang Song.<br />
+  "Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2503.06625)] 
+  [[code](https://github.com/GXNU-ZhongLab/SGLATrack.)]
+
+- **DUTrack:** Xiaohai Li, Bineng Zhong, Qihua Liang, Zhiyi Mo, Jian Nong, Shuxiang Song.<br />
+  "Dynamic Updates for Language Adaptation in Visual-Language Tracking." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2503.06621)] 
+  [[code](https://github.com/GXNU-ZhongLab/DUTrack)]
+
 
 ### ICLR 2025
 - **Track-On:** Görkay Aydemir, Xiongyi Cai, Weidi Xie, Fatma Guney.<br />
