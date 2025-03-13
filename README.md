@@ -415,6 +415,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **SDTrack:** Yimeng Shan, Zhenbang Ren, Haodi Wu, Wenjie Wei, Rui-Jie Zhu, Shuai Wang, Dehao Zhang, Yichen Xiao, Jieyuan Zhang, Kexin Shi, Jingzhinan Wang, Jason K. Eshraghian, Haicheng Qu, Jiqing Zhang, Malu Zhang, Yang Yang.<br />
+  "SDTrack: A Baseline for Event-based Tracking via Spiking Neural Networks." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2503.08703)] 
+
 - **HDETrack V2:** Shiao Wang, Xiao Wang, Chao Wang, Liye Jin, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang.<br />
   "Event Stream-based Visual Object Tracking: HDETrack V2 and A High-Definition Benchmark." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2502.05574)] 
