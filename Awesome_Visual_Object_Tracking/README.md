@@ -74,12 +74,12 @@
 ### CVPR 2025
 - **DreamTrack:** Mingzhe Guo, Weiping Tan, Wenyu Ran, Liping Jing, Liping Jing, Zhipeng Zhang.<br />
   "DreamTrack: Dreaming the Future for Multimodal Visual Object Tracking." CVPR (2025).
-  [[paper](XXXXXXXXXXXXXXXXXXX)] 
+  [[paper](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)] 
   [[code](XXXXXXXXXXXXXXXXXXXXXX)]
 
 - **JTD-UAV:** Yifan Wang, Jian Zhao, Zhaoxin Fan, Xin Zhang, Xuecheng Wu, Yudian Zhang, Lei Jin, Xinyue Li, Gang Wang, Mengxi Jia, Ping Hu, Zheng Zhu, Xuelong Li.<br />
   "JTD-UAV: MLLM-Enhanced Joint Tracking and Description Framework for Anti-UAV Systems." CVPR (2025).
-  [[paper](XXXXXXXXXXXXXXXXXXX)] 
+  [[paper](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)] 
   [[code](XXXXXXXXXXXXXXXXXXXXXX)]
 
 - **SAM2.1++:** Jovana Videnovic, Alan Lukezic, Matej Kristan.<br />
@@ -93,12 +93,12 @@
 
 - **PURA:** Zekai Shao, Yufan Hu, Bin Fan, Hongmin Liu.<br />
   "PURA: Parameter Update-Recovery Test-Time Adaption for RGB-T Tracking." CVPR (2025).
-  [[paper](XXXXXXXXXXXXXXXXXXX)] 
+  [[paper](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)] 
   [[code](XXXXXXXXXXXXXXXXXXXXXX)]
   
 - Chuanyu Sun, Jiqing Zhang, Yang Wang, Huilin Ge, qianchen xia, Baocai Yin, Xin Yang.<br />
   "Exploring Historical Information for RGBE Visual Tracking with Mamba." CVPR (2025).
-  [[paper](XXXXXXXXXXXXXXXXXXX)] 
+  [[paper](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)] 
   [[code](XXXXXXXXXXXXXXXXXXXXXX)]
 
 - **SGLATrack:** Chaocan Xue, Bineng Zhong, Qihua Liang, Yaozong Zheng, Ning Li, Yuanliang Xue, Shuxiang Song.<br />
