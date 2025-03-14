@@ -139,6 +139,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **MambaVLT:** Xinqi Liu, Li Zhou, Zikun Zhou, Jianqiu Chen, Zhenyu He.<br />
+  "MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2411.15459)]
+  
 - **DUTrack:** Xiaohai Li, Bineng Zhong, Qihua Liang, Zhiyi Mo, Jian Nong, Shuxiang Song.<br />
   "Dynamic Updates for Language Adaptation in Visual-Language Tracking." CVPR (2025).
   [[paper](https://arxiv.org/abs/2503.06621)] 
@@ -189,10 +193,6 @@ If you find our work useful in your research, please consider citing:
   "How Texts Help? A Fine-grained Evaluation to Reveal the Role of Language in Vision-Language Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2411.15600)] 
   [[project](http://metaverse.aitestunion.com/)]
-
-- **MambaVLT:** Xinqi Liu, Li Zhou, Zikun Zhou, Jianqiu Chen, Zhenyu He.<br />
-  "MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2411.15459)] 
   
 - Li, Hengyou and Liu, Xinyan and Li, Guorong and Wang, Shuhui and Qing, Laiyun and Huang, Qingming.<br />
   "Boost Tracking by Natural Language With Prompt-Guided Grounding." TITS (2024).
