@@ -72,16 +72,34 @@
 ### :boom: Conference and Journal Papers :boom:
 
 ### CVPR 2025
+- **DreamTrack:** Mingzhe Guo, Weiping Tan, Wenyu Ran, Liping Jing, Liping Jing, Zhipeng Zhang.<br />
+  "DreamTrack: Dreaming the Future for Multimodal Visual Object Tracking." CVPR (2025).
+  [[paper](XXXXXXXXXXXXXXXXXXX)] 
+  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+
+- **JTD-UAV:** Yifan Wang, Jian Zhao, Zhaoxin Fan, Xin Zhang, Xuecheng Wu, Yudian Zhang, Lei Jin, Xinyue Li, Gang Wang, Mengxi Jia, Ping Hu, Zheng Zhu, Xuelong Li.<br />
+  "JTD-UAV: MLLM-Enhanced Joint Tracking and Description Framework for Anti-UAV Systems." CVPR (2025).
+  [[paper](XXXXXXXXXXXXXXXXXXX)] 
+  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+
 - **SAM2.1++:** Jovana Videnovic, Alan Lukezic, Matej Kristan.<br />
 "A Distractor-Aware Memory for Visual Object Tracking with SAM2." CVPR (2025).
 [[paper](https://arxiv.org/abs/2411.17576)]
 [[code](https://github.com/jovanavidenovic/DAM4SAM)]
 
-- **MITracker:** Mengjie Xu, Yitao Zhu, Haotian Jiang, Jiaming Li, Zhenrong Shen, Sheng Wang, Haolin Huang, Xinyu Wang, Qing Yang, Han Zhang, Qian Wang.<br />
-  "MITracker: Multi-View Integration for Visual Object Tracking." CVPR 2025 (2025).
-  [[paper](https://arxiv.org/abs/2502.20111)] 
-  [[code](https://github.com/XuM007/MITracker)]
-  [[project](https://mii-laboratory.github.io/MITracker/)]
+- **MambaVLT:** Xinqi Liu, Li Zhou, Zikun Zhou, Jianqiu Chen, Zhenyu He.<br />
+  "MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2411.15459)]
+
+- **PURA:** Zekai Shao, Yufan Hu, Bin Fan, Hongmin Liu.<br />
+  "PURA: Parameter Update-Recovery Test-Time Adaption for RGB-T Tracking." CVPR (2025).
+  [[paper](XXXXXXXXXXXXXXXXXXX)] 
+  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+  
+- Chuanyu Sun, Jiqing Zhang, Yang Wang, Huilin Ge, qianchen xia, Baocai Yin, Xin Yang.<br />
+  "Exploring Historical Information for RGBE Visual Tracking with Mamba." CVPR (2025).
+  [[paper](XXXXXXXXXXXXXXXXXXX)] 
+  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
 
 - **SGLATrack:** Chaocan Xue, Bineng Zhong, Qihua Liang, Yaozong Zheng, Ning Li, Yuanliang Xue, Shuxiang Song.<br />
   "Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking." CVPR (2025).
@@ -92,8 +110,14 @@
   "Dynamic Updates for Language Adaptation in Visual-Language Tracking." CVPR (2025).
   [[paper](https://arxiv.org/abs/2503.06621)] 
   [[code](https://github.com/GXNU-ZhongLab/DUTrack)]
+  
+- **MITracker:** Mengjie Xu, Yitao Zhu, Haotian Jiang, Jiaming Li, Zhenrong Shen, Sheng Wang, Haolin Huang, Xinyu Wang, Qing Yang, Han Zhang, Qian Wang.<br />
+  "MITracker: Multi-View Integration for Visual Object Tracking." CVPR 2025 (2025).
+  [[paper](https://arxiv.org/abs/2502.20111)] 
+  [[code](https://github.com/XuM007/MITracker)]
+  [[project](https://mii-laboratory.github.io/MITracker/)]
 
-
+  
 ### ICLR 2025
 - **Track-On:** Görkay Aydemir, Xiongyi Cai, Weidi Xie, Fatma Guney.<br />
   "Track-On: Transformer-based Online Point Tracking with Memory." ArXiv (2025).
