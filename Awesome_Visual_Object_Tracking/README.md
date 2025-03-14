@@ -117,6 +117,41 @@
   [[code](https://github.com/XuM007/MITracker)]
   [[project](https://mii-laboratory.github.io/MITracker/)]
 
+- Xiuqiang Song · Li Jin · Zhengxian Zhang · Jiachen Li · Fan Zhong · Guofeng Zhang · Xueying Qin.<br />
+  "Prior-free 3D Object Tracking." CVPR (2025).
+  [[paper](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)] 
+  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+
+- Inès Hyeonsu Kim · Seokju Cho · Seokju Cho · Gabriel Huang · Jung Yi · Joon-Young Lee · Seungryong Kim.<br />
+  "Exploring Temporally-Aware Features for Point Tracking." CVPR (2025).
+  [[paper](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)] 
+  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+
+- **Mono3DVLT:** Hongkai Wei · YANG YANG · Shijie Sun · Mingtao Feng · Xiangyu Song · Qi Lei · Hongli Hu · Rong Wang · Huansheng Song · Naveed Akhtar · Ajmal Mian.<br />
+  "Mono3DVLT: Monocular-Video-Based 3D Visual Language Tracking." CVPR (2025).
+  [[paper](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)] 
+  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+
+- **MUST:** Haolin Qin · Tingfa Xu · Tianhao Li · Zhenxiang Chen · Tao Feng · Jianan Li.<br />
+  "MUST: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking." CVPR (2025).
+  [[paper](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)] 
+  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+
+- **SPMTrack:** Wenrui Cai · Qingjie Liu · Yunhong Wang.<br />
+  "SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking." CVPR (2025).
+  [[paper](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)] 
+  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+
+- Shiyi Liang · Yifan Bai · Yihong Gong · Xing Wei.<br />
+  "Autoregressive Sequential Pretraining for Visual Tracking." CVPR (2025).
+  [[paper](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)] 
+  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+
+- You Wu · Xucheng Wang · Xiangyang Yang · Mengyuan Liu · Dan Zeng · Hengzhou Ye · Shuiwang Li.<br />
+  "Learning Occlusion-Robust Vision Transformers for Real-Time UAV Tracking." CVPR (2025).
+  [[paper](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)] 
+  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+
   
 ### ICLR 2025
 - **Track-On:** Görkay Aydemir, Xiongyi Cai, Weidi Xie, Fatma Guney.<br />
