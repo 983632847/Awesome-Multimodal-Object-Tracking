@@ -139,6 +139,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **AVLTrack:** Xue, Yuanliang and Zhong, Bineng and Jin, Guodong and Shen, Tao and Tan, Lining and Li, Ning and Zheng, Yaozong.<br />
+  "AVLTrack: Dynamic Sparse Learning for Aerial Vision-Language Tracking." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10922151)] 
+  [[code](https://github.com/xyl-507/AVLTrack)]
+
 - **MambaVLT:** Xinqi Liu, Li Zhou, Zikun Zhou, Jianqiu Chen, Zhenyu He.<br />
   "MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking." CVPR (2025).
   [[paper](https://arxiv.org/abs/2411.15459)]
