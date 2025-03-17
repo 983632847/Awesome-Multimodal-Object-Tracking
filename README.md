@@ -809,6 +809,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **TPF:** Breaking Shallow Limits: Task-Driven Pixel Fusion for Gap-free RGBT Tracking.<br />
+  "Breaking Shallow Limits: Task-Driven Pixel Fusion  for Gap-free RGBT Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2503.11247)] 
+
 - **TUFNet:**  Yisong Liu, Zhao Gao, Yang Cao, Dongming Zhou.<br />
   " Two-stage Unidirectional Fusion Network for RGBT tracking." KBS (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125000310)] 
@@ -1174,10 +1178,14 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 |:-----:|:-----:|:-----:|:-----:|
 |  [WebUAV-3M](https://arxiv.org/abs/2201.07425)   |   TPAMI-2023   |  [WebUAV-3M](https://github.com/983632847/WebUAV-3M)  |  4500 videos, 3.3 million frames, UAV tracking, Vision-language-audio |  
 |  [UniMod1K](https://link.springer.com/article/10.1007/s11263-024-01999-8)   |   IJCV-2024  |  [UniMod1K](https://github.com/xuefeng-zhu5/UniMod1K)  |  1050 video  pairs, 2.5 million frames, Vision-depth-language  |  
-
+|  [QuadTrack600](https://arxiv.org/abs/2503.11218)   |   arXiv-2025  |  [QuadTrack600](https://arxiv.org/abs/2503.11218)  |  600 video  pairs, 348.7 K frames, RGB-TIR-Language-Event |  
 
 ### Papers
 #### 2025
+- **QuadFusion:** Andong Lu, Mai Wen, Jinhu Wang, Yuanzhi Guo, Chenglong Li, Jin Tang, Bin Luo.<br />
+  "Towards General Multimodal Visual Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2503.11218)] 
+ 
 - **UASTrack:** He Wang, Tianyang Xu, Zhangyong Tang, Xiao-Jun Wu, Josef Kittler.<br />
   "UASTrack: A Unified Adaptive Selection  Framework with Modality-Customization in Single  Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2502.18220)] 
