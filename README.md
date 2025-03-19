@@ -139,6 +139,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **TrackingMeetsLMM:** Ayesha Ishaq, Jean Lahoud, Fahad Shahbaz Khan, Salman Khan, Hisham Cholakkal, Rao Muhammad Anwer.<br />
+  "Tracking Meets Large Multimodal Models for Driving Scenario Understanding." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2503.14498)] 
+  [[code](https://github.com/mbzuai-oryx/TrackingMeetsLMM)]
+
 - **AVLTrack:** Xue, Yuanliang and Zhong, Bineng and Jin, Guodong and Shen, Tao and Tan, Lining and Li, Ning and Zheng, Yaozong.<br />
   "AVLTrack: Dynamic Sparse Learning for Aerial Vision-Language Tracking." TCSVT (2025).
   [[paper](https://ieeexplore.ieee.org/document/10922151)] 
