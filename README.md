@@ -425,6 +425,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **SNNPTrack:** Ji, Yixi and Zhao, Qinghang and Liang, Yuping and Wu, Jinjian.<br />
+  "SNNPTrack: Spiking Neural Network Based Prompt for High-Accuracy RGBE Tracking." ICASSP (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10889195)] 
+
 - **SDTrack:** Yimeng Shan, Zhenbang Ren, Haodi Wu, Wenjie Wei, Rui-Jie Zhu, Shuai Wang, Dehao Zhang, Yichen Xiao, Jieyuan Zhang, Kexin Shi, Jingzhinan Wang, Jason K. Eshraghian, Haicheng Qu, Jiqing Zhang, Malu Zhang, Yang Yang.<br />
   "SDTrack: A Baseline for Event-based Tracking via Spiking Neural Networks." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2503.08703)] 
