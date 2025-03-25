@@ -132,15 +132,16 @@
   [[paper](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)] 
   [[code](XXXXXXXXXXXXXXXXXXXXXX)]
 
-- **MUST:** Haolin Qin · Tingfa Xu · Tianhao Li · Zhenxiang Chen · Tao Feng · Jianan Li.<br />
+- **MUST:** Haolin Qin, Tingfa Xu, Tianhao Li, Zhenxiang Chen, Tao Feng, Jianan Li.<br />
   "MUST: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking." CVPR (2025).
-  [[paper](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)] 
-  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+  [[paper](https://arxiv.org/abs/2503.17699)] 
+  [[code](https://github.com/q2479036243/MUST-Multispectral-UAV-Single-Object-Tracking)]
+
 
 - **SPMTrack:** Wenrui Cai · Qingjie Liu · Yunhong Wang.<br />
   "SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking." CVPR (2025).
-  [[paper](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)] 
-  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+  [[paper](https://arxiv.org/abs/2503.18338)] 
+  [[code](https://github.com/WenRuiCai/SPMTrack)]
 
 - Shiyi Liang · Yifan Bai · Yihong Gong · Xing Wei.<br />
   "Autoregressive Sequential Pretraining for Visual Tracking." CVPR (2025).
