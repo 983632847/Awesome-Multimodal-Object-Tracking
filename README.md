@@ -139,6 +139,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **AITtrack:** Basit Alawode, Sajid Javed.<br />
+"AITtrack: Attention-based Image-Text Alignment for Visual Tracking." IEEE Access (2025).
+[[paper](https://www.researchgate.net/publication/390287321_AITtrack_Attention-based_Image-Text_Alignment_for_Visual_Tracking/references)]
+
 - **TrackingMeetsLMM:** Ayesha Ishaq, Jean Lahoud, Fahad Shahbaz Khan, Salman Khan, Hisham Cholakkal, Rao Muhammad Anwer.<br />
   "Tracking Meets Large Multimodal Models for Driving Scenario Understanding." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2503.14498)] 
@@ -168,6 +172,10 @@ If you find our work useful in your research, please consider citing:
   [[ResearchGate](https://www.researchgate.net/publication/388189638_Towards_Underwater_Camouflaged_Object_Tracking_Benchmark_and_Baselines)]
   [[知乎](https://zhuanlan.zhihu.com/p/19568835256)]
   [[project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/UW-COT220)]
+
+- **MambaTrack:** Chunhui Zhang, Li Liu, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
+  "MambaTrack: Exploiting Dual-Enhancement for Night UAV Tracking." ICASSP (2025).
+  [[paper](https://arxiv.org/abs/2411.15761)]
   
 - **CTVLT:** X. Feng, D. Zhang, S. Hu, X. Li, M. Wu, J. Zhang, X. Chen, K. Huang.<br />
   "Enhancing Vision-Language Tracking by Effectively Converting Textual Cues into Visual Cues." ICASSP  (2025).
@@ -231,10 +239,6 @@ If you find our work useful in your research, please consider citing:
   "WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark." NeurIPS (2024).
   [[paper](https://arxiv.org/abs/2405.19818)] 
   [[project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/WebUOT-1M)]
-  
-- **MambaTrack:** Chunhui Zhang, Li Liu, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
-  "MambaTrack: Exploiting Dual-Enhancement for Night UAV Tracking." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2411.15761)]
   
 - **ElysiumTrack-1M:** Han Wang, Yanjie Wang, Yongjie Ye, Yuxiang Nie, Can Huang.<br />
   "Elysium: Exploring Object-level Perception in Videos via MLLM." ECCV (2024).
@@ -823,6 +827,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **IAMTrack:** Huiwei Shi, Xiaodong Mu, Hao He, Chengliang Zhong, Bo Zhang & Peng Zhao.<br />
+  "IAMTrack: interframe appearance and modality tokens propagation with temporal modeling for RGBT tracking." Applied Intelligence (2025).
+  [[paper](https://scholar.google.com/scholar_url?url=https://link.springer.com/article/10.1007/s10489-025-06438-w&hl=zh-TW&sa=X&d=15595010303750605411&ei=zBTpZ4nRIKOh6rQPv_T2iAg&scisig=AFWwaeZl_r2bdQoySf260a4aPyWJ&oi=scholaralrt&hist=r_cpud8AAAAJ:10441837062453208129:AFWwaeY_qPHejjD8SbhwqiaY6sXf&html=&pos=0&folt=rel&fols=)] 
+
 - **TPF:** Breaking Shallow Limits: Task-Driven Pixel Fusion for Gap-free RGBT Tracking.<br />
   "Breaking Shallow Limits: Task-Driven Pixel Fusion  for Gap-free RGBT Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2503.11247)] 
