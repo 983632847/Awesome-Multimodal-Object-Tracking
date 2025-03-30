@@ -827,6 +827,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **SHT:** Gao, Zhao and Zhou, Dongming and Cao, Jinde and Liu, Yisong and Shan, Qingqing.<br />
+"Enhanced RGBT Tracking Network With Semantic Generation and Historical Context." IEEE TIM (2025).
+[[paper](https://ieeexplore.ieee.org/document/10925564)]
+
+
 - **IAMTrack:** Huiwei Shi, Xiaodong Mu, Hao He, Chengliang Zhong, Bo Zhang & Peng Zhao.<br />
   "IAMTrack: interframe appearance and modality tokens propagation with temporal modeling for RGBT tracking." Applied Intelligence (2025).
   [[paper](https://scholar.google.com/scholar_url?url=https://link.springer.com/article/10.1007/s10489-025-06438-w&hl=zh-TW&sa=X&d=15595010303750605411&ei=zBTpZ4nRIKOh6rQPv_T2iAg&scisig=AFWwaeZl_r2bdQoySf260a4aPyWJ&oi=scholaralrt&hist=r_cpud8AAAAJ:10441837062453208129:AFWwaeY_qPHejjD8SbhwqiaY6sXf&html=&pos=0&folt=rel&fols=)] 
