@@ -821,12 +821,17 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 |  [LasHeR](https://arxiv.org/pdf/2104.13202.pdf)   |   TIP-2021  |  [LasHeR](https://github.com/BUGPLEASEOUT/LasHeR)  | 1224 video pairs, 730K frames  |  
 |  [VTUAV](https://arxiv.org/pdf/2204.04120.pdf)   |   CVPR-2022   |  [VTUAV](https://zhang-pengyu.github.io/DUT-VTUAV/)  |  Visible-thermal UAV tracking, 500 sequences, 1.7 million high-resolution frame pairs |  
 |  [MV-RGBT](https://arxiv.org/abs/2405.00168)   |   arXiv-2024   |  [MV-RGBT](https://github.com/Zhangyong-Tang/MoETrack)  | 122 video pairs, 89.9K frames   |  
-
+|  [NOT-156](https://ieeexplore.ieee.org/abstract/document/10938642)   | TGRS-2025 | [NOT-156](http://rsidea.whu.edu.cn/NOT156_dataset.htm) | 156 videos with low-light image and thermal infrared |  
 
 
 ### Papers
 
 #### 2025
+- **NOT-156:** Sun, Chen and Wang, Xinyu and Fan, Shenghua and Dai, Xiaobing and Wan, Yuting and Jiang, Xiao and Zhu, Zengliang and Zhong, Yanfei.<br />
+  "NOT-156: Night Object Tracking using Low-light and Thermal Infrared: From Multi-modal Common-aperture Camera to Benchmark Datasets." TGRS (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10938642)] 
+  [[code](http://rsidea.whu.edu.cn/NOT156_dataset.htm)]
+  
 - **SHT:** Gao, Zhao and Zhou, Dongming and Cao, Jinde and Liu, Yisong and Shan, Qingqing.<br />
 "Enhanced RGBT Tracking Network With Semantic Generation and Historical Context." IEEE TIM (2025).
 [[paper](https://ieeexplore.ieee.org/document/10925564)]
