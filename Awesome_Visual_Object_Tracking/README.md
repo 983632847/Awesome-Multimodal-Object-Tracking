@@ -70,6 +70,7 @@
   [[code](https://github.com/baaivision/Painter)]
 
 ### :boom: Conference and Journal Papers :boom:
+### ArXiv-2025
 
 ### CVPR 2025
 - **DreamTrack:** Mingzhe Guo, Weiping Tan, Wenyu Ran, Liping Jing, Liping Jing, Zhipeng Zhang.<br />
