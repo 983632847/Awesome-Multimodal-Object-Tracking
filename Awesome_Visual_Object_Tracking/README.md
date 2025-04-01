@@ -123,6 +123,11 @@
   [[paper](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)] 
   [[code](XXXXXXXXXXXXXXXXXXXXXX)]
 
+- **Tracktention:** Zihang Lai, Andrea Vedaldi.<br />
+  "Tracktention: Leveraging Point Tracking to Attend Videos Faster and Better." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2503.19904)] 
+  [[code](https://zlai0.github.io/TrackTention/)]
+  
 - Inès Hyeonsu Kim · Seokju Cho · Seokju Cho · Gabriel Huang · Jung Yi · Joon-Young Lee · Seungryong Kim.<br />
   "Exploring Temporally-Aware Features for Point Tracking." CVPR (2025).
   [[paper](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)] 
@@ -153,6 +158,7 @@
   "Learning Occlusion-Robust Vision Transformers for Real-Time UAV Tracking." CVPR (2025).
   [[paper](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)] 
   [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+  
 
   
 ### ICLR 2025
