@@ -12,8 +12,8 @@
 
 #### A continuously updated project to track the latest progress in multi-modal object tracking (MMOT).
 #### If this repository can bring you some inspiration, we would feel greatly honored.
-#### If you like our project, please give us a star ⭐ on this GitHub.
 #### If you have any suggestions, please feel free to contact: [andyzhangchunhui@gmail.com](andyzhangchunhui@gmail.com). 
+### If you like our project, please give us a star ⭐ on this GitHub.
 ### We welcome researchers to submit pull requests and become contributors to this project.
 ### This project focuses solely on single-object tracking.
 ### Awesome Visual Object Tracking (VOT) Project is at [Awesome-VOT](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/Awesome_Visual_Object_Tracking).
