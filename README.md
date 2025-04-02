@@ -136,9 +136,15 @@ If you find our work useful in your research, please consider citing:
 |  [DTVLT](https://arxiv.org/abs/2410.02492)   |   arXiv-2024   | [DTVLT](http://videocube.aitestunion.com/) |  A multi-modal diverse text benchmark for visual language tracking (RGBL Tracking). |  
 |  [SemTrack](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03555.pdf)   |   ECCV-2024   | [SemTrack](https://forms.office.com/Pages/ResponsePage.aspx?id=drd2NJDpck-5UGJImDFiPQJNzw6AhuZDkzEViiWzJltUNjhKM01KWjhXN0FBNjcxNVBZQk03VVFHQi4u) |   A large-scale dataset comprising 6.7 million frames from 6,961 videos, capturing the semantic trajectory of targets across 52 interaction classes and 115 object classes. |
 |  [UW-COT220](https://arxiv.org/abs/2409.16902)   |   arXiv-2025   | [UW-COT220](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/UW-COT220) |  The first multimodal underwater camouﬂaged object tracking dataset with 220 videos. |  
+|  [VL-SOT500](https://www.researchgate.net/publication/390421740_COST_Contrastive_One-Stage_Transformer_for_Vision-Language_Small_Object_Tracking)   |   arXiv-2025   | [VL-SOT500](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/VL-SOT500) | The first large-scale multi-modal small object tracking dataset with two subsets, VL-SOT230 and VL-SOT270, designed for benchmarking generic and high-speed small object tracking, respectively.  |
 
 ### Papers
 #### 2025
+- **COST:** Chunhui Zhang, Li Liu, Jialin Gao, Xin Sun, Hao Wen, Xi Zhou, Shiming Ge, Yanfeng Wang.<br />
+  "COST: Contrastive One-Stage Transformer for Vision-Language Small Object Tracking." ArXiv (2025).
+  [[paper](https://www.researchgate.net/publication/390421740_COST_Contrastive_One-Stage_Transformer_for_Vision-Language_Small_Object_Tracking)] 
+  [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/VL-SOT500)]
+  
 - **AITtrack:** Basit Alawode, Sajid Javed.<br />
 "AITtrack: Attention-based Image-Text Alignment for Visual Tracking." IEEE Access (2025).
 [[paper](https://www.researchgate.net/publication/390287321_AITtrack_Attention-based_Image-Text_Alignment_for_Visual_Tracking/references)]
