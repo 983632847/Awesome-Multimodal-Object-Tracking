@@ -166,8 +166,8 @@ If you find our work useful in your research, please consider citing:
   "SIEVL-Track: Exploring Semantic Information Enhancement for Visual-Language Object Tracking." TCSVT (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10845881)] 
 
-- **UW-COT220 & VL-SAM2:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
-  "Towards Underwater Camouflaged Object Tracking: Benchmark and Baselines." ArXiv (2025).
+- **UW-COT220 & VL-SAM2:** Chunhui Zhang, Li Liu, Guanjie Huang, Zhipeng Zhang, Hao Wen, Xi Zhou, Shiming Ge, Yanfeng Wang.<br />
+  "Underwater Camouflaged Object Tracking Meets Vision-Language SAM2." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2409.16902)]
   [[ResearchGate](https://www.researchgate.net/publication/388189638_Towards_Underwater_Camouflaged_Object_Tracking_Benchmark_and_Baselines)]
   [[知乎](https://zhuanlan.zhihu.com/p/19568835256)]
