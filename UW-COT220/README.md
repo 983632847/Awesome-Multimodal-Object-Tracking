@@ -8,7 +8,7 @@ Over the past decade, significant progress has been made in visual object tracki
 - [x] UW-COT220 (The First Multimodal UnderWater Camouﬂaged Object Tracking Dataset)
 - [x] Baseline Results
 - [x] Evaluation Toolkits
-- [ ] Codes for VL-SAM2 (A new VL tracker)
+- [x] Codes for VL-SAM2 (A new VL tracker)
 
 ## UW-COT220
 
@@ -37,6 +37,55 @@ The directory should have the below format:
 
 ## VL-SAM2
 ![image](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/blob/main/UW-COT220/VL-SAM2.png)
+
+### Train VL-SAM2
+#### Step1: Download Training Dataset [Refer-YouTube-VOS](https://youtube-vos.org/dataset/rvos/)
+The directory should have the below format:
+```
+├── Refer-YouTube-VOS
+    ├── train
+        ├── Annotations
+        ├── JPEGImages
+        ├── meta.json (do not use)
+        ...
+     ├── meta_expressions
+            ├── train
+                ├── meta_expressions.json
+            ...
+```
+
+#### Step2: Installation SAM2
+
+[SAM 2](https://github.com/facebookresearch/sam2) needs to be installed first before use. The code requires `python>=3.10`, as well as `torch>=2.5.1` and `torchvision>=0.20.1`. Please follow the instructions [here](https://pytorch.org/get-started/locally/) to install both PyTorch and TorchVision dependencies. You can install SAM 2 on a GPU machine using:
+
+```bash
+cd your_path_to_VL_SAM2/VL-SAM2/
+pip install -e .
+```
+
+#### Step3: Get Language Embeddings
+```bash
+cd your_path_to_VL_SAM2/VL-SAM2/
+python Get_language_embeddings.py   
+```
+
+#### Step4: Train VL-SAM2
+```bash
+cd your_path_to_VL_SAM2/VL-SAM2/training/
+python train.py 
+```
+
+### Test VL-SAM2
+Download pre-trained weights through [Baidu Pan](https://pan.baidu.com/s/1IFsxW9U0AuZVhPvMQk9FHA?pwd=VLS2), or [Google Drive](https://drive.google.com/drive/folders/1Ob7tSMikRmz54kZRzn_T8QwQMlvo-ugk?usp=sharing).
+
+Then, you can test VL-SAM2 on UW-COT220 by running:
+
+```bash
+cd your_path_to_VL_SAM2/VL-SAM2/
+python Test_VL_SAM2_UWCOT220.py
+```
+
+#### We release VL-SAM2 with the language branch, and the plug-and-play MATP module can be quickly implemented by referring to [SAMURAI](https://github.com/yangchris11/samurai).
 
 
 ## MMOT Evaluation Toolkit
