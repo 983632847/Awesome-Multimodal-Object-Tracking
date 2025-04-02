@@ -1,8 +1,8 @@
-# Towards Underwater Camouflaged Object Tracking: Benchmark and Baselines [[Paper](https://arxiv.org/abs/2409.16902)] [[ResearchGate](https://www.researchgate.net/publication/388189638_Towards_Underwater_Camouflaged_Object_Tracking_Benchmark_and_Baselines)]
+# Underwater Camouflaged Object Tracking Meets Vision-Language SAM2 [[Paper](https://arxiv.org/abs/2409.16902)] [[ResearchGate](https://www.researchgate.net/publication/390421004_Underwater_Camouflaged_Object_Tracking_Meets_Vision-Language_SAM2)]
 
 ### Abstract
 
-Over the past decade, significant progress has been made in visual object tracking, largely due to the availability of large-scale datasets. However, existing tracking datasets are primarily focused on open-air scenarios, which greatly limits the development of object tracking in underwater environments. To bridge this gap, we take a step forward by proposing the first large-scale multimodal underwater camouflaged object tracking dataset, namely UW-COT220. Based on the proposed dataset, this paper first comprehensively evaluates current advanced visual object tracking methods and SAM- and SAM2-based trackers in challenging underwater environments. Our findings highlight the improvements of SAM2 over SAM, demonstrating its enhanced ability to handle the complexities of underwater camouflaged objects. Furthermore, we propose a novel vision-language tracking framework called VL-SAM2, based on the video foundation model SAM2. Experimental results demonstrate that our VL-SAM2 achieves state-of-the-art performance on the UW-COT220 dataset. The dataset and codes can be accessible at here.
+Over the past decade, significant progress has been made in visual object tracking, largely due to the availability of large-scale datasets. However, these datasets have primarily focused on open-air scenarios and have largely overlooked underwater animal tracking—especially the complex challenges posed by camouflaged marine animals. To bridge this gap, we take a step forward by proposing the first large-scale multi-modal underwater camouflaged object tracking dataset, namely UW-COT220. Based on the proposed dataset, this work first comprehensively evaluates current advanced visual object tracking methods, including SAM- and SAM2-based trackers, in challenging underwater environments, \eg, coral reefs. Our findings highlight the improvements of SAM2 over SAM, demonstrating its enhanced ability to handle the complexities of underwater camouflaged objects. Furthermore, we propose a novel vision-language tracking framework called VL-SAM2, based on the video foundation model SAM2. Experimental results demonstrate that our VL-SAM2 achieves state-of-the-art performance on the UW-COT220 dataset. The dataset and codes are available at here.
 
 ### TODO
 - [x] UW-COT220 (The First Multimodal UnderWater Camouﬂaged Object Tracking Dataset)
@@ -53,8 +53,8 @@ This implementation is based on [SAM2](https://github.com/facebookresearch/segme
 If you find our dataset and method both interesting and helpful, please consider citing us in your research or publications:
 
     @article{zhang2024towards,
-        title={Towards Underwater Camouflaged Object Tracking: Benchmark and Baselines},
-        author={Zhang, Chunhui and Liu, Li and Huang, Guanjie and Wen, Hao and Zhou, Xi and Wang, Yanfeng},
+        title={Underwater Camouflaged Object Tracking Meets Vision-Language SAM2},
+        author={Zhang, Chunhui and Liu, Li and Huang, Guanjie and Zhang, Zhipeng and Wen, Hao and Zhou, Xi and Ge, Shiming and Wang, Yanfeng},
         journal={arXiv preprint arXiv:2409.16902},
         year={2024}
     }
