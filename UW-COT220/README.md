@@ -54,7 +54,7 @@ The directory should have the below format:
             ...
 ```
 
-#### Step2: Installation SAM2
+#### Step2: Initialize SAM2
 
 [SAM 2](https://github.com/facebookresearch/sam2) needs to be installed first before use. The code requires `python>=3.10`, as well as `torch>=2.5.1` and `torchvision>=0.20.1`. Please follow the instructions [here](https://pytorch.org/get-started/locally/) to install both PyTorch and TorchVision dependencies. You can install SAM 2 on a GPU machine using:
 
