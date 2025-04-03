@@ -110,7 +110,11 @@
 
 - Shaheer Mohamed, Tharindu Fernando, Sridha Sridharan, Peyman Moghadam, Clinton Fookes.<br />
   "Spectral-Enhanced Transformers: Leveraging Large-Scale Pretrained Models for Hyperspectral Object Tracking." ArXiv (2025).
-  [[paper](https://arxiv.org/abs/2502.18748)] 
+  [[paper](https://arxiv.org/abs/2502.18748)]
+  
+- **CCTrack:** Wang, Ye and Mei, Shaohui and Ma, Mingyang and Liu, Yuheng and Gao, Tao and Han, Huiyang.<br />
+  "Hyperspectral Object Tracking With Context-Aware Learning and Category Consistency." TGRS (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10928989)] 
 
 ### CVPR 2025
 - **DreamTrack:** Mingzhe Guo, Weiping Tan, Wenyu Ran, Liping Jing, Liping Jing, Zhipeng Zhang.<br />
