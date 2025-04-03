@@ -128,10 +128,11 @@
   [[paper](https://arxiv.org/abs/2503.19904)] 
   [[code](https://zlai0.github.io/TrackTention/)]
   
-- Inès Hyeonsu Kim · Seokju Cho · Seokju Cho · Gabriel Huang · Jung Yi · Joon-Young Lee · Seungryong Kim.<br />
+- **Chrono:** Inès Hyeonsu Kim · Seokju Cho · Seokju Cho · Gabriel Huang · Jung Yi · Joon-Young Lee · Seungryong Kim.<br />
   "Exploring Temporally-Aware Features for Point Tracking." CVPR (2025).
-  [[paper](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)] 
-  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+  [[paper](https://arxiv.org/abs/2501.12218)] 
+  [[code](https://github.com/cvlab-kaist/Chrono)]
+  [[project](https://cvlab-kaist.github.io/Chrono/)]
 
 - **Mono3DVLT:** Hongkai Wei · YANG YANG · Shijie Sun · Mingtao Feng · Xiangyu Song · Qi Lei · Hongli Hu · Rong Wang · Huansheng Song · Naveed Akhtar · Ajmal Mian.<br />
   "Mono3DVLT: Monocular-Video-Based 3D Visual Language Tracking." CVPR (2025).
