@@ -1,4 +1,4 @@
-# COST: Contrastive One-Stage Transformer for Vision-Language Small Object Tracking [[Paper](https://www.researchgate.net/publication/390421740_COST_Contrastive_One-Stage_Transformer_for_Vision-Language_Small_Object_Tracking)] [[ResearchGate](https://www.researchgate.net/publication/390421740_COST_Contrastive_One-Stage_Transformer_for_Vision-Language_Small_Object_Tracking)]
+# COST: Contrastive One-Stage Transformer for Vision-Language Small Object Tracking [[Paper](https://arxiv.org/abs/2504.01321)] [[ResearchGate](https://www.researchgate.net/publication/390421740_COST_Contrastive_One-Stage_Transformer_for_Vision-Language_Small_Object_Tracking)]
 
 In this work, we propose a large-scale multi-modal small object tracking dataset VL-SOT500, along with a baseline method called COST. Our research began in 2023 and has undergone three times of review. We are currently submitting for the fourth time, making it truly COST (costly)! Source codes and the dataset will be released soon.
 
