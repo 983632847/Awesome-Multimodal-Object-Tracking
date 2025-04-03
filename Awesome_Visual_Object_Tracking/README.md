@@ -71,6 +71,46 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **COST:** Chunhui Zhang, Li Liu, Jialin Gao, Xin Sun, Hao Wen, Xi Zhou, Shiming Ge, Yanfeng Wang.<br />
+  "COST: Contrastive One-Stage Transformer for Vision-Language Small Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2504.01321)] 
+  [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/VL-SOT500)]
+  
+- **EdgeTAM:** Chong Zhou, Chenchen Zhu, Yunyang Xiong, Saksham Suri, Fanyi Xiao, Lemeng Wu, Raghuraman Krishnamoorthi, Bo Dai, Chen Change Loy, Vikas Chandra, Bilge Soran.<br />
+  "EdgeTAM: On-Device Track Anything Model." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2501.07256)] 
+  [[code](https://github.com/facebookresearch/EdgeTAM)]
+
+- **TrackingMeetsLMM:** Ayesha Ishaq, Jean Lahoud, Fahad Shahbaz Khan, Salman Khan, Hisham Cholakkal, Rao Muhammad Anwer.<br />
+  "Tracking Meets Large Multimodal Models for Driving Scenario Understanding." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2503.14498)] 
+  [[code](https://github.com/mbzuai-oryx/TrackingMeetsLMM)]
+
+- **UncTrack:** Siyuan Yao, Yang Guo, Yanyang Yan, Wenqi Ren, Xiaochun Cao.<br />
+  "UncTrack: Reliable Visual Object Tracking with Uncertainty-Aware Prototype Memory Network." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2503.12888)] 
+  [[code](https://github.com/ManOfStory/UncTrack)]
+
+- **CFTrack:** Juntao Liang, Jun Hou, Weijun Zhang, Yong Wang.<br />
+  "CFTrack: Enhancing Lightweight Visual Tracking through Contrastive Learning and Feature Matching." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2502.19705)] 
+
+- **DASTM:** Meng Zhou, Jiadong Xie, Mingsheng Xu.<br />
+  "Dynamic Attention Mechanism in Spatiotemporal Memory Networks for Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2503.16768)] 
+
+- **BFTrans:** Xinglong Sun, Haijiang Sun, Shan Jiang, Jiacheng Wang, Jiasong Wang.<br />
+  "Target-aware Bidirectional Fusion Transformer for Aerial Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2503.09951)] 
+
+- **HyA-T:** Long Gao, Yunhe Zhang, Langkun Chen, Yan Jiang, Weiying Xie, Yunsong Li.<br />
+  "Hyperspectral Adapter for Object Tracking based on Hyperspectral Video." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2503.22199)] 
+  [[code](https://github.com/lgao001/HyA-T.)]
+
+- Shaheer Mohamed, Tharindu Fernando, Sridha Sridharan, Peyman Moghadam, Clinton Fookes.<br />
+  "Spectral-Enhanced Transformers: Leveraging Large-Scale Pretrained Models for Hyperspectral Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2502.18748)] 
 
 ### CVPR 2025
 - **DreamTrack:** Mingzhe Guo, Weiping Tan, Wenyu Ran, Liping Jing, Liping Jing, Zhipeng Zhang.<br />
