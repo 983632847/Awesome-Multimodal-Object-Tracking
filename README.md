@@ -55,7 +55,7 @@
 - [Awesome Repositories for MMOT](#awesome-repositories-for-mmot)
   
 
-## Citation
+## :fire: Citation
 
 If you find our work useful in your research, please consider citing:
 ```
