@@ -1221,6 +1221,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2025
+- **TransCMD:** Tianlu Zhang; Qiang Zhang; Kurt Debattista; Jungong Han.<br />
+  "Cross-Modality Distillation for Multi-modal Tracking." TPAMI (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10943265)] 
+  [[code](https://github.com/Tianlu-Zhang/TransCMD)]
+  
 - **QuadFusion:** Andong Lu, Mai Wen, Jinhu Wang, Yuanzhi Guo, Chenglong Li, Jin Tang, Bin Luo.<br />
   "Towards General Multimodal Visual Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2503.11218)] 
