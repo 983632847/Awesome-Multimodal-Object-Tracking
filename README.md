@@ -834,6 +834,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **FFTR:** Liao, Donghai and Shu, Xiu and Li, Zhihui and Liu, Qiao and Yuan, Di and Chang, Xiaojun and He, Zhenyu.<br />
+  "Fine-grained Feature and Template Reconstruction for TIR Object Tracking." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10946152)]
+  
 - **NOT-156:** Sun, Chen and Wang, Xinyu and Fan, Shenghua and Dai, Xiaobing and Wan, Yuting and Jiang, Xiao and Zhu, Zengliang and Zhong, Yanfei.<br />
   "NOT-156: Night Object Tracking using Low-light and Thermal Infrared: From Multi-modal Common-aperture Camera to Benchmark Datasets." TGRS (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10938642)] 
