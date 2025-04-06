@@ -834,6 +834,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **TAAT:** Zhangyong Tang and Tianyang Xu and Xiao-Jun Wu and Josef Kittler.<br />
+  "Temporal aggregation for real-time RGBT tracking via fast decision-level fusion." Pattern Recognition Letters (2025).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865525001229)] 
+  [[code](https://github.com/Zhangyong-Tang/TAAT)]
+  
 - **FFTR:** Liao, Donghai and Shu, Xiu and Li, Zhihui and Liu, Qiao and Yuan, Di and Chang, Xiaojun and He, Zhenyu.<br />
   "Fine-grained Feature and Template Reconstruction for TIR Object Tracking." TCSVT (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10946152)]
