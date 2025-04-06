@@ -140,6 +140,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **ProVLT:** Zong, Chengao and Zhao, Jie and Chen, Xin and Lu, Huchuan and Wang, Dong.<br />
+  "Learning Language Prompt for Vision-Language Tracking." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10947500)]
+  
 - **COST:** Chunhui Zhang, Li Liu, Jialin Gao, Xin Sun, Hao Wen, Xi Zhou, Shiming Ge, Yanfeng Wang.<br />
   "COST: Contrastive One-Stage Transformer for Vision-Language Small Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2504.01321)]
