@@ -140,6 +140,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **SAKTrack:** Mao, Kaige and Hong, Xiaopeng and Fan, Xiaopeng and Zuo, Wangmeng.<br />
+  "A Swiss Army Knife for Tracking by Natural Language Specification." TIP (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10947290)] 
+  [[code](https://github.com/mkg1204/SAKTrack)]
+  
 - **ProVLT:** Zong, Chengao and Zhao, Jie and Chen, Xin and Lu, Huchuan and Wang, Dong.<br />
   "Learning Language Prompt for Vision-Language Tracking." TCSVT (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10947500)]
