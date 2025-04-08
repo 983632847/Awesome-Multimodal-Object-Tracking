@@ -71,6 +71,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **EffOWT:** Bingyang Wang, Kaer Huang, Bin Li, Yiqiang Yan, Lihe Zhang, Huchuan Lu, You He.<br />
+  "EffOWT: Transfer Visual Language Models to Open-World Tracking Efficiently and Effectively." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2504.05141)]
+  
 - **COST:** Chunhui Zhang, Li Liu, Jialin Gao, Xin Sun, Hao Wen, Xi Zhou, Shiming Ge, Yanfeng Wang.<br />
   "COST: Contrastive One-Stage Transformer for Vision-Language Small Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2504.01321)] 
