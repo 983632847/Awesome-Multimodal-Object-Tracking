@@ -140,6 +140,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **MAVLT:** Liangtao Shi, Bineng Zhong, Qihua Liang, Xiantao Hu, Zhiyi Mo, Shuxiang Song.<br />
+  "Mamba Adapter: Efficient Multi-Modal Fusion for Vision-Language Tracking." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10948517)] 
+  [[code](https://github.com/GXNU-ZhongLab/MAVLT)]
+  
 - **SAKTrack:** Mao, Kaige and Hong, Xiaopeng and Fan, Xiaopeng and Zuo, Wangmeng.<br />
   "A Swiss Army Knife for Tracking by Natural Language Specification." TIP (2025).
   [[paper](https://ieeexplore.ieee.org/document/10947290)] 
@@ -843,6 +848,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **TVTracker:** Gao, Fang and Wu, Wenjie and Jin, Yan and Tang, Jingfeng and Zheng, Hanbo and Ma, Shengheng and Yu, Jun.<br />
+  "TVTracker: Target-Adaptive Text-Guided Visual Fusion for Multi-Modal RGB-T Tracking." IEEE Internet of Things Journal (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10948521)]
+  
 - **TAAT:** Zhangyong Tang and Tianyang Xu and Xiao-Jun Wu and Josef Kittler.<br />
   "Temporal aggregation for real-time RGBT tracking via fast decision-level fusion." Pattern Recognition Letters (2025).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865525001229)] 
