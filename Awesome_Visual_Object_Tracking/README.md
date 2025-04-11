@@ -361,8 +361,9 @@
 
 - **ARTrackV2:** Yifan Bai, Zeyang Zhao, Yihong Gong, Xing Wei.<br />
   "ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe." CVPR (2024).
-  [[paper](https://arxiv.org/abs/2312.17133)] 
-  [[code](https://artrackv2.github.io/)]
+  [[paper](https://arxiv.org/abs/2312.17133)]
+  [[code](https://github.com/AlexDotHam/ARTrackV2)]
+  [[project](https://artrackv2.github.io/)]
 
 - **DiffusionTrack:** Fei Xie, Zhongdao Wang, Chao Ma.<br />
   "DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking." CVPR (2024).
