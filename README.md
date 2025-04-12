@@ -25,6 +25,7 @@
 ## :collision: Highlights
 ![Last Updated](https://badgen.net/github/last-commit/983632847/Awesome-Multimodal-Object-Tracking?icon=github&label=last%20updated&color=blue)
 - 2025.04.02: We Released UW-COT220 and VL-SAM2, with both Training and Testing Code Available.
+- 2025.04.02: The Paper of VL-SOT500 and COST was Online [arXiv](https://arxiv.org/abs/2504.01321) [project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/VL-SOT500).
 - 2025.02.28: Awesome Visual Object Tracking Project Started at [Awesome-VOT](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/Awesome_Visual_Object_Tracking).
 - 2025.01.20: The Technical Report for UW-COT220 and VL-SAM2 was Updated [arXiv](https://arxiv.org/abs/2409.16902) [知乎](https://zhuanlan.zhihu.com/p/19568835256).
 - 2024.09.26: The WebUOT-1M was Accepted by NeurIPS 2024, and its Extended Version, UW-COT220, was Online.
