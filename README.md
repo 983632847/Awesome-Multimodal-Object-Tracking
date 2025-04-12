@@ -1356,6 +1356,13 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   [[code](https://github.com/LiYunfengLYF/RGBS50)]
 
 
+#### 2020
+- **HOT2020:** Fengchao Xiong, Jun Zhou, Yuntao Qian.<br />
+  "Material Based Object Tracking in Hyperspectral Videos." TIP (2020).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/8960632)] 
+  [[code](https://www.xiongfuli.com/cv/code/MHT_release.zip)]
+
+
 ## Awesome Repositories for MMOT
 - [Awesome-Visual-Language-Tracking](https://github.com/Xuchen-Li/Awesome-Visual-Language-Tracking)
 - [Vision-Language_Tracking_Paper_List](https://github.com/PeterBishop0/Vision-Language_Tracking_Paper_List)
@@ -1364,7 +1371,7 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 - [Datasets-and-benchmark-code](https://github.com/mmic-lcl/Datasets-and-benchmark-code)
 - [RGBT-Tracking-Results-Datasets-and-Methods](https://github.com/Zhangyong-Tang/RGBT-Tracking-Results-Datasets-and-Methods)
 - [Multimodal-Tracking-Survey](https://github.com/zhang-pengyu/Multimodal-Tracking-Survey)
-
+- [Hyperspectral-object-tracking-paperlist](https://github.com/maynardsd/Hyperspectral-object-tracking-paperlist)
 
 
 ## License 
