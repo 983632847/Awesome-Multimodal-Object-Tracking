@@ -1253,6 +1253,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2025
+- **M3Track:** Tang, Zhangyong and Xu, Tianyang and Wu, Xiao-jun and Kittler, Josef.<br />
+  "M3Track: Meta-Prompt for Multi-Modal Tracking." SPL (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10949728)] 
+  [[code](https://github.com/Zhangyong-Tang/M3Track)]
+  
 - **TransCMD:** Tianlu Zhang; Qiang Zhang; Kurt Debattista; Jungong Han.<br />
   "Cross-Modality Distillation for Multi-modal Tracking." TPAMI (2025).
   [[paper](https://ieeexplore.ieee.org/document/10943265)] 
