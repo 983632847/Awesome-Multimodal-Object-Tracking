@@ -207,10 +207,10 @@
   [[paper](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)] 
   [[code](XXXXXXXXXXXXXXXXXXXXXX)]
 
-- You Wu · Xucheng Wang · Xiangyang Yang · Mengyuan Liu · Dan Zeng · Hengzhou Ye · Shuiwang Li.<br />
+- **ORTrack:** You Wu · Xucheng Wang · Xiangyang Yang · Mengyuan Liu · Dan Zeng · Hengzhou Ye · Shuiwang Li.<br />
   "Learning Occlusion-Robust Vision Transformers for Real-Time UAV Tracking." CVPR (2025).
-  [[paper](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)] 
-  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+  [[paper](https://arxiv.org/abs/2504.09228)] 
+  [[code](https://github.com/wuyou3474/ORTrack)]
   
 
   
