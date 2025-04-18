@@ -857,10 +857,6 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
-- **DFM:** Andong Lu, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo.<br />
-  "RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba." AAAI (2025).
-  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32618)]
-  
 - **AINet:** Andong Lu, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo.<br />
   "RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba." AAAI (2025).
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32618)] 
