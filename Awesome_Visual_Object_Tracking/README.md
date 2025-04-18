@@ -269,6 +269,18 @@
   "LVPTrack: High Performance Domain Adaptive UAV Tracking with  Label Aligned Visual Prompt Tuning." AAAI (2025).
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32906)] 
 
+- **AINet:** Andong Lu, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo.<br />
+  "RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba." AAAI (2025).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32618)] 
+
+- **CAFormer:** Yun Xiao, Jiacong Zhao, Andong Lu, Chenglong Li, Bing Yin, Yin Lin, Cong Liu.<br />
+  "Cross-modulated Attention Transformer for RGBT Tracking." AAAI (2025).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32938)] 
+  [[code](https://github.com/opacity-black/CAFormer)]
+
+- **UAWTrack:** Yuxiang Yang, Hongjie Gu, Yingqi Deng, Zhekang Dong, Zhiwei He, Jing Zhang.<br />
+  "UAWTrack: Universal 3D Single Object Tracking in Adverse Weather." AAAI (2025).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33011)] 
 
 ### NeurIPS 2024
 
@@ -484,6 +496,13 @@
   [[paper](https://arxiv.org/abs/2308.00783)] 
   [[code](https://github.com/ymzis69/HybirdSORT)]
 
+- Md Maklachur Rahman.<br />
+  "Target Focused Shallow Transformer Framework for Efficient Visual Tracking." AAAI (2024).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30405)] 
+
+- **STCFormer:** Hu, K., Yang, W., Huang, W., Zhou, X., Cao, M., Ren, J., & Tan, H.<br />
+  "Sequential Fusion Based Multi-Granularity Consistency for Space-Time Transformer Tracking." AAAI (2024).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29145)] 
 
 ### ArXiv 2024
 
