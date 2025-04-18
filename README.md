@@ -857,6 +857,19 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **DFM:** Andong Lu, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo.<br />
+  "RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba." AAAI (2025).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32618)]
+  
+- **AINet:** Andong Lu, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo.<br />
+  "RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba." AAAI (2025).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32618)] 
+
+- **CAFormer:** Yun Xiao, Jiacong Zhao, Andong Lu, Chenglong Li, Bing Yin, Yin Lin, Cong Liu.<br />
+  "Cross-modulated Attention Transformer for RGBT Tracking." AAAI (2025).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32938)] 
+  [[code](https://github.com/opacity-black/CAFormer)]
+  
 - **TVTracker:** Gao, Fang and Wu, Wenjie and Jin, Yan and Tang, Jingfeng and Zheng, Hanbo and Ma, Shengheng and Yu, Jun.<br />
   "TVTracker: Target-Adaptive Text-Guided Visual Fusion for Multi-Modal RGB-T Tracking." IEEE Internet of Things Journal (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10948521)]
@@ -879,7 +892,6 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 "Enhanced RGBT Tracking Network With Semantic Generation and Historical Context." IEEE TIM (2025).
 [[paper](https://ieeexplore.ieee.org/document/10925564)]
 
-
 - **IAMTrack:** Huiwei Shi, Xiaodong Mu, Hao He, Chengliang Zhong, Bo Zhang & Peng Zhao.<br />
   "IAMTrack: interframe appearance and modality tokens propagation with temporal modeling for RGBT tracking." Applied Intelligence (2025).
   [[paper](https://scholar.google.com/scholar_url?url=https://link.springer.com/article/10.1007/s10489-025-06438-w&hl=zh-TW&sa=X&d=15595010303750605411&ei=zBTpZ4nRIKOh6rQPv_T2iAg&scisig=AFWwaeZl_r2bdQoySf260a4aPyWJ&oi=scholaralrt&hist=r_cpud8AAAAJ:10441837062453208129:AFWwaeY_qPHejjD8SbhwqiaY6sXf&html=&pos=0&folt=rel&fols=)] 
@@ -900,6 +912,7 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 - **BTMTrack:** Zhongxuan Zhang, Bi Zeng, Xinyu Ni, Yimin Du.<br />
   "BTMTrack: Robust RGB-T Tracking via Dual-template Bridging and Temporal-Modal Candidate Elimination." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2501.03616)] 
+
 
 #### 2024
 - **STMT:** Sun, Dengdi and Pan, Yajie and Lu, Andong and Li, Chenglong and Luo, Bin.<br />
@@ -993,10 +1006,6 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 - **MambaVT:** Simiao Lai, Chang Liu, Jiawen Zhu, Ben Kang, Yang Liu, Dong Wang, Huchuan Lu.<br />
   "MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.07889)] 
-
-- **DFM:** Andong Lu, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo.<br />
-  "RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba." AAAI (2025).
-  [[paper](https://arxiv.org/abs/2408.08827)]
 
 - **SiamSEA:** Zihan Zhuang, Mingfeng Yin, Qi Gao, Yong Lin, Xing Hong.<br />
   "SiamSEA: Semantic-aware Enhancement and Associative-attention Dual-Modal Siamese Network for Robust RGBT Tracking." IEEE Access (2024).
