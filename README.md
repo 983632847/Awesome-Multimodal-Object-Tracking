@@ -141,6 +141,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **A-CLIP:** Hong Zhu and Qingyang Lu and Lei Xue and Guanglin Yuan and Kaihua Zhang.<br />
+  "Joint feature extraction and alignment in object tracking with vision-language model." Engineering Applications of Artificial Intelligence (2025).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625007870)]
+
 - **MAVLT:** Liangtao Shi, Bineng Zhong, Qihua Liang, Xiantao Hu, Zhiyi Mo, Shuxiang Song.<br />
   "Mamba Adapter: Efficient Multi-Modal Fusion for Vision-Language Tracking." TCSVT (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10948517)] 
