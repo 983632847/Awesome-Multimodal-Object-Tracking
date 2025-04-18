@@ -995,7 +995,7 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   [[paper](https://arxiv.org/abs/2408.07889)] 
 
 - **DFM:** Andong Lu, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo.<br />
-  "RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba." ArXiv (2024).
+  "RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba." AAAI (2025).
   [[paper](https://arxiv.org/abs/2408.08827)]
 
 - **SiamSEA:** Zihan Zhuang, Mingfeng Yin, Qi Gao, Yong Lin, Xing Hong.<br />
