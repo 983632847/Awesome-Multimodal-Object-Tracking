@@ -251,6 +251,15 @@
   [[paper](https://arxiv.org/abs/2412.15691)] 
   [[code](https://github.com/NJU-PCALab/STTrack)]
 
+- **SSTrack:** Zheng, Y., Zhong, B., Liang, Q., Li, N., & Song, S.<br />
+  "Decoupled Spatio-Temporal Consistency Learning for Self-Supervised Tracking." AAAI (2025).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33155)] 
+  [[code](https://github.com/GXNU-ZhongLab/SSTrack)]
+
+- **MIMTrack:** Wang, X., Nie, G., Meng, J., & Yan, Z.<br />
+  "MIMTrack: In-Context Tracking via Masked Image Modeling." AAAI (2025).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32860)]
+
 - **AsymTrack:** Jiawen Zhu,Huayi Tang,Xin Chen,Xinying Wang,Dong  Wang,Huchuan Lu.<br />
   "Two-stream Beats One-stream: Asymmetric Siamese Network for  Efficient Visual Tracking." AAAI (2025).
   [[paper](https://arxiv.org/abs/2503.00516)]
@@ -258,7 +267,7 @@
 
 - **LVPTrack:** Hongjing Wu,Siyuan Yao,Feng Huang,Shu  Wang,Linchao Zhang,Zhuoran Zheng,Wenqi Ren.<br />
   "LVPTrack: High Performance Domain Adaptive UAV Tracking with  Label Aligned Visual Prompt Tuning." AAAI (2025).
-  [[paper]()] 
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32906)] 
 
 
 ### NeurIPS 2024
