@@ -857,6 +857,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **FETA:** Shiguo Chen and Linzhi Xu and Xiangyang Li and Chunna Tian.<br />
+  "Frequency-space enhanced and temporal adaptative RGBT object tracking." Neurocomputing (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0925231225009129)]
+  
 - **AINet:** Andong Lu, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo.<br />
   "RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba." AAAI (2025).
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32618)] 
@@ -916,7 +920,6 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   [[paper](https://ieeexplore.ieee.org/document/10589660)] 
   [[code](https://github.com/yinghaidada/STMT)]
 
-
 - **TGTrack:** Chen, Liang and Zhong, Bineng and Liang, Qihua and Zheng, Yaozong and Mo, Zhiyi and Song, Shuxiang.<br />
   "Top-Down Cross-Modal Guidance for Robust RGB-T Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/document/10614652)] 
@@ -935,6 +938,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   [[paper](https://ieeexplore.ieee.org/abstract/document/10804856)] 
   [[code](https://github.com/zjjqinyu/SiamTFA)]
 
+- **RFFM:** Zeng, D., Luo, H., Li, J., Gao, P.<br />
+  "RGB-T Tracking via Region Filtering-Fusion and Prompt Learning." ICAUS (2024).
+  [[paper](https://link.springer.com/chapter/10.1007/978-981-96-3552-8_15)]
+  
 - **DKDTrack:** Fanghua Hong, Mai Wen, Andong Lu, Qunjing Wang.<br />
   "DKDTrack: dual-granularity knowledge distillation for RGBT tracking." ICGIP (2024).
   [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13539/135392J/DKDTrack-dual-granularity-knowledge-distillation-for-RGBT-tracking/10.1117/12.3057742.short)] 
