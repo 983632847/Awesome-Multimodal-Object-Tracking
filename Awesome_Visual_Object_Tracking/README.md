@@ -74,6 +74,7 @@
 - **FocusTrack:** Ying Wang, Tingfa Xu, Jianan Li.<br />
   "FocusTrack: A Self-Adaptive Local Sampling Algorithm for Efficient Anti-UAV Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2504.13604)]
+  [[code](https://github.com/vero1925/FocusTrack)]
   
 - **TAPNext:** Artem Zholus, Carl Doersch, Yi Yang, Skanda Koppula, Viorica Patraucean, Xu Owen He, Ignacio Rocco, Mehdi S. M. Sajjadi, Sarath Chandar, Ross Goroshin.<br />
   "TAPNext: Tracking Any Point (TAP) as Next Token Prediction." ArXiv (2025).
