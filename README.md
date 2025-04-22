@@ -455,6 +455,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- Qiang Chen, Xiao Wang, Haowen Wang, Bo Jiang, Lin Zhu, Dawei Zhang, Yonghong Tian, Jin Tang.<br />
+  "Adversarial Attack for RGB-Event based Visual Object Tracking." ArXiv (2025).
+  [[paper](Adversarial Attack for RGB-Event based Visual Object Tracking)] 
+  [[code](https://github.com/Event-AHU/Adversarial_Attack_Defense)]
+  
 - **HPL:** Wang, Mianzhao and Shi, Fan and Cheng, Xu and Chen, Shengyong.<br />
   "Prior Knowledge-Driven Hybrid Prompter Learning for RGB-Event Tracking." TCSVT (2025).
   [[paper](https://ieeexplore.ieee.org/document/10962221)]
@@ -857,6 +862,22 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **SMTT:** Shang Zhang, HuiPan Guan, XiaoBo Ding, Ruoyan Xiong, Yue Zhang.<br />
+  "SMTT: Novel Structured Multi-task Tracking with Graph-Regularized Sparse Representation for Robust Thermal Infrared Target Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2504.14566)] 
+
+- **STARS:** Shang Zhang, Xiaobo Ding, Huanbin Zhang, Ruoyan Xiong, Yue Zhang.<br />
+  "STARS: Sparse Learning Correlation Filter with Spatio-temporal Regularization and Super-resolution Reconstruction for Thermal Infrared Target Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2504.14491)] 
+
+- **RAMCT:** Shang Zhang, Yuke Hou, Guoqiang Gong, Ruoyan Xiong, Yue Zhang.<br />
+  "RAMCT: Novel Region-adaptive Multi-channel Tracker with Iterative Tikhonov Regularization for Thermal Infrared Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2504.14278)] 
+
+- **DCFG:** Ruoyan Xiong, Yuke Hou, Princess Retor Torboh, Hui He, Huanbin Zhang, Yue Zhang, Yanpin Wang, Huipan Guan, Shang Zhang.<br />
+  "DCFG: Diverse Cross-Channel Fine-Grained Feature Learning and Progressive Fusion Siamese Tracker for Thermal Infrared Target Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2504.14311)]
+  
 - **FETA:** Shiguo Chen and Linzhi Xu and Xiangyang Li and Chunna Tian.<br />
   "Frequency-space enhanced and temporal adaptative RGBT object tracking." Neurocomputing (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0925231225009129)]
