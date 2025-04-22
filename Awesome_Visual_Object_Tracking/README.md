@@ -71,6 +71,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **TAPIP3D:** Bowei Zhang, Lei Ke, Adam W. Harley, Katerina Fragkiadaki.<br />
+  "TAPIP3D: Tracking Any Point in Persistent 3D Geometry." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2504.14717)] 
+  [[code](https://tapip3d.github.io/)]
+  
 - **FocusTrack:** Ying Wang, Tingfa Xu, Jianan Li.<br />
   "FocusTrack: A Self-Adaptive Local Sampling Algorithm for Efficient Anti-UAV Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2504.13604)]
