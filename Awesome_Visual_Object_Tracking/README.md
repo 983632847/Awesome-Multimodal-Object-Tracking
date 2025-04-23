@@ -71,6 +71,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **SonarT165:** Yunfeng Li, Bo Wang, Jiahao Wan, Xueyi Wu, Ye Li.<br />
+  "SonarT165: A Large-scale Benchmark and STFTrack Framework for Acoustic Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2504.15609)] 
+  [[code](https://github.com/LiYunfengLYF/SonarT165)]
+  
 - **TAPIP3D:** Bowei Zhang, Lei Ke, Adam W. Harley, Katerina Fragkiadaki.<br />
   "TAPIP3D: Tracking Any Point in Persistent 3D Geometry." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2504.14717)] 
