@@ -603,6 +603,11 @@ If you find our work useful in your research, please consider citing:
 |  [ARKitTrack](https://arxiv.org/abs/2303.13885)   |   CVPR-2023   |  [ARKitTrack](https://arkittrack.github.io)  |  300 RGB-D sequences, 455 targets, 229.7K video frames  |  
 
 ### Papers
+#### 2025
+- **HMAD:** Boyue Xu, Yi Xu, Ruichao Hou, Jia Bei, Tongwei Ren, Gangshan Wu.<br />
+  "RGB-D Tracking via Hierarchical Modality Aggregation and Distribution Network." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2504.17595)]
+  
 #### 2024
 - **DAMT:** Yifan Pan, Tianyang Xu, Xue-Feng Zhu, Xiaoqing Luo, Xiao-Jun Wu & Josef Kittler .<br />
   "Learning Explicit Modulation Vectors for Disentangled Transformer Attention-Based RGB-D Visual Tracking." ICPR (2024).
