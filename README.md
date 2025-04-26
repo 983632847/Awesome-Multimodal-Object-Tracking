@@ -867,6 +867,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **MFNet:** Fanghua Hong; Wanyu Wang; Andong Lu; Lei Liu; Qunjing Wang.<br />
+  "Efficient RGBT Tracking via Multi-Path Mamba Fusion Network." SPL (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10971948)]
+  
 - **SMTT:** Shang Zhang, HuiPan Guan, XiaoBo Ding, Ruoyan Xiong, Yue Zhang.<br />
   "SMTT: Novel Structured Multi-task Tracking with Graph-Regularized Sparse Representation for Robust Thermal Infrared Target Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2504.14566)] 
