@@ -141,6 +141,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **SATrack:** Tang, Yuyang and Ma, Yinchao and Zhang, Tianzhu.<br />
+  "Semantic-aware Network for Natural Language Tracking." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10973162)]
+  
 - **A-CLIP:** Hong Zhu and Qingyang Lu and Lei Xue and Guanglin Yuan and Kaihua Zhang.<br />
   "Joint feature extraction and alignment in object tracking with vision-language model." Engineering Applications of Artificial Intelligence (2025).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625007870)]
@@ -867,6 +871,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **AETrack:** Zhu, Zhiruo and Zhong, Bineng and Liang, Qihua and Yang, Hongtao and Zheng, Yaozong and Li, Ning.<br />
+  "Adaptive Expert Decision for RGB-T Tracking." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10973112)]
+  
 - **MFNet:** Fanghua Hong; Wanyu Wang; Andong Lu; Lei Liu; Qunjing Wang.<br />
   "Efficient RGBT Tracking via Multi-Path Mamba Fusion Network." SPL (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10971948)]
@@ -1399,6 +1407,12 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 
 ## Others
+#### 2025
+- **SonarT165:** Yunfeng Li, Bo Wang, Jiahao Wan, Xueyi Wu, Ye Li.<br />
+  "SonarT165: A Large-scale Benchmark and STFTrack Framework for Acoustic Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2504.15609)] 
+  [[code](https://github.com/LiYunfengLYF/SonarT165)]
+  
 #### 2024
 - **GSOT3D:** Yifan Jiao, Yunhao Li, Junhua Ding, Qing Yang, Song Fu, Heng Fan, Libo Zhang.<br />
   "GSOT3D: Towards Generic 3D Single Object Tracking in the Wild." ArXiv (2024).
