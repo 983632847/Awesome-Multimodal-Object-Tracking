@@ -24,6 +24,7 @@
 
 ## :collision: Highlights
 ![Last Updated](https://badgen.net/github/last-commit/983632847/Awesome-Multimodal-Object-Tracking?icon=github&label=last%20updated&color=blue)
+- 2025.04.28: The Paper of UW-COT220 and VL-SAM2 was Accepted by CVPR 2025 Workshop ([arXiv](https://arxiv.org/abs/2409.16902)).
 - 2025.04.02: We Released UW-COT220 and VL-SAM2, with both Training and Testing Code Available ([project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/UW-COT220)).
 - 2025.04.02: The Paper of VL-SOT500 and COST was Online ([arXiv](https://arxiv.org/abs/2504.01321), [project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/VL-SOT500)).
 - 2025.02.28: Awesome Visual Object Tracking Project Started at [Awesome-VOT](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/Awesome_Visual_Object_Tracking).
