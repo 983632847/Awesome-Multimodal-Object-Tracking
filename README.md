@@ -871,6 +871,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **DMD:** Hu, Yufan and Shao, Zekai and Fan, Bin and Liu, Hongmin.<br />
+  "Dual-level Modality De-biasing for RGB-T Tracking." TIP (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10975100)]
+  
 - **AETrack:** Zhu, Zhiruo and Zhong, Bineng and Liang, Qihua and Yang, Hongtao and Zheng, Yaozong and Li, Ning.<br />
   "Adaptive Expert Decision for RGB-T Tracking." TCSVT (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10973112)]
