@@ -71,6 +71,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **DMP:** Zihan Zhou, Changrui Dai, Aibo Song, Xiaolin Fang.<br />
+  "Enhancing Self-Supervised Fine-Grained Video Object Tracking with Dynamic Memory Prediction." ICMR (2025).
+  [[paper](https://arxiv.org/abs/2504.21692)]
+  
 - **SonarT165:** Yunfeng Li, Bo Wang, Jiahao Wan, Xueyi Wu, Ye Li.<br />
   "SonarT165: A Large-scale Benchmark and STFTrack Framework for Acoustic Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2504.15609)] 
