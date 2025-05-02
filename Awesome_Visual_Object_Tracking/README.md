@@ -71,6 +71,9 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **DSTrack:** Zhixing Wang and Kai Wang and Chuanming Tang and Xiang Li and Jianlin Zhang and Lianli Gao.<br />
+  "DSTrack: Diffusion-based sequence learning for visual object tracking." PR (2025).
+  
 - **DMP:** Zihan Zhou, Changrui Dai, Aibo Song, Xiaolin Fang.<br />
   "Enhancing Self-Supervised Fine-Grained Video Object Tracking with Dynamic Memory Prediction." ICMR (2025).
   [[paper](https://arxiv.org/abs/2504.21692)]
