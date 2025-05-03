@@ -71,6 +71,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **ATOTrack:** Sixian Chan, Xianpeng Zeng, Zhoujian Wu, Yu Wang, Xiaolong Zhou, Tinglong Tang, Jie Hu.<br />
+  "Adaptive Target Oriented Tracking." ACM TIST (2025).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3732785)]
+  
 - **DSTrack:** Zhixing Wang and Kai Wang and Chuanming Tang and Xiang Li and Jianlin Zhang and Lianli Gao.<br />
   "DSTrack: Diffusion-based sequence learning for visual object tracking." PR (2025).
   
