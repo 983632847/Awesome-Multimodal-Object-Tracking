@@ -142,6 +142,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **MHITrack:** Lei, Lei and Li, Xianxian.<br />
+  "Multi-modal Hybrid Interaction Vision-language Tracking." TMM (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10980446)]
+  
 - **TCMLTrack:** Du, G., Zhou, P., Yadikar, N. et al.<br />
   "Toward based on concentrated multi-scale linear attention real-time UAV tracking using joint natural language specification." Scientific Reports (2025).
   [[paper](https://www.nature.com/articles/s41598-025-85335-1)]
