@@ -1421,6 +1421,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ## Others
 #### 2025
+- **VUOT & VTUTrack:** Qinghua Song, Xiaolei Wang .<br />
+  "Efficient Transformer Network for Visible and Ultraviolet Object Tracking." CVM (2025).
+  [[paper](https://link.springer.com/chapter/10.1007/978-981-96-5815-2_3)] 
+[[dataset](https://drive.google.com/file/d/1f2FflhUTvfDERJ_j18Plk4XoOur_BLXN/view?usp=drive_link)]
+
 - **SonarT165:** Yunfeng Li, Bo Wang, Jiahao Wan, Xueyi Wu, Ye Li.<br />
   "SonarT165: A Large-scale Benchmark and STFTrack Framework for Acoustic Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2504.15609)] 
