@@ -880,6 +880,15 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **GDSTrack:** Shenglan Li, Rui Yao, Yong Zhou, Hancheng Zhu, Kunyang Sun, Bing Liu, Zhiwen Shao, Jiaqi Zhao.<br />
+  "Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2505.03507)] 
+  [[code](https://github.com/LiShenglana/GDSTrack)]
+
+- **SMMT:** Shang Zhang, Huanbin Zhang, Dali Feng, Yujie Cui, Ruoyan Xiong, Cen He.<br />
+  "SMMT: Siamese Motion Mamba with Self-attention for Thermal Infrared Target Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2505.04088)]
+  
 - **DMD:** Hu, Yufan and Shao, Zekai and Fan, Bin and Liu, Hongmin.<br />
   "Dual-level Modality De-biasing for RGB-T Tracking." TIP (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10975100)]
