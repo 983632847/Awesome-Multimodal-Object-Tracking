@@ -71,6 +71,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- Chenxu Peng, Chenxu Wang, Minrui Zou, Danyang Li, Zhengpeng Yang, Yimian Dai, Ming-Ming Cheng, Xiang Li.<br />
+  "A Simple Detector with Frame Dynamics is a Strong Tracker." CVPR Anti-UAV Workshop (2025).
+  [[paper](https://arxiv.org/abs/2505.04917)] 
+  [[code](https://github.com/facias914/A-Simple-Detector-is-a-Strong-Tracker)]
+  
 - **DARTer:** Xuzhao Li, Xuchen Li, Shiyu Hu.<br />
   "DARTer: Dynamic Adaptive Representation Tracker for Nighttime UAV Tracking." ICMR (2025).
   [[paper](https://arxiv.org/abs/2505.00752)]
