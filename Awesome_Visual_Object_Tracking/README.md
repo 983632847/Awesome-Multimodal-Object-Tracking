@@ -119,11 +119,6 @@
   [[paper](https://arxiv.org/abs/2504.01321)] 
   [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/VL-SOT500)]
   
-- **EdgeTAM:** Chong Zhou, Chenchen Zhu, Yunyang Xiong, Saksham Suri, Fanyi Xiao, Lemeng Wu, Raghuraman Krishnamoorthi, Bo Dai, Chen Change Loy, Vikas Chandra, Bilge Soran.<br />
-  "EdgeTAM: On-Device Track Anything Model." ArXiv (2025).
-  [[paper](https://arxiv.org/abs/2501.07256)] 
-  [[code](https://github.com/facebookresearch/EdgeTAM)]
-
 - **TrackingMeetsLMM:** Ayesha Ishaq, Jean Lahoud, Fahad Shahbaz Khan, Salman Khan, Hisham Cholakkal, Rao Muhammad Anwer.<br />
   "Tracking Meets Large Multimodal Models for Driving Scenario Understanding." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2503.14498)] 
@@ -149,7 +144,7 @@
 - **HyA-T:** Long Gao, Yunhe Zhang, Langkun Chen, Yan Jiang, Weiying Xie, Yunsong Li.<br />
   "Hyperspectral Adapter for Object Tracking based on Hyperspectral Video." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2503.22199)] 
-  [[code](https://github.com/lgao001/HyA-T.)]
+  [[code](https://github.com/lgao001/HyA-T)]
 
 - Shaheer Mohamed, Tharindu Fernando, Sridha Sridharan, Peyman Moghadam, Clinton Fookes.<br />
   "Spectral-Enhanced Transformers: Leveraging Large-Scale Pretrained Models for Hyperspectral Object Tracking." ArXiv (2025).
@@ -158,7 +153,7 @@
 - **ECTTrack:** Liang Xu and Zhiqing Guo and Liejun Wang.<br />
   "Efficient hybrid linear self-attention based visual object tracking with LoRA." Neurocomputing (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0925231225010070)] 
-  [[code](https://github. com/mrlonely426/ECTTrack)]
+  [[code](https://github.com/mrlonely426/ECTTrack)]
 
 - **CCTrack:** Wang, Ye and Mei, Shaohui and Ma, Mingyang and Liu, Yuheng and Gao, Tao and Han, Huiyang.<br />
   "Hyperspectral Object Tracking With Context-Aware Learning and Category Consistency." TGRS (2025).
@@ -181,6 +176,11 @@
 [[paper](https://arxiv.org/abs/2411.17576)]
 [[code](https://github.com/jovanavidenovic/DAM4SAM)]
 
+- **EdgeTAM:** Chong Zhou, Chenchen Zhu, Yunyang Xiong, Saksham Suri, Fanyi Xiao, Lemeng Wu, Raghuraman Krishnamoorthi, Bo Dai, Chen Change Loy, Vikas Chandra, Bilge Soran.<br />
+  "EdgeTAM: On-Device Track Anything Model." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2501.07256)] 
+  [[code](https://github.com/facebookresearch/EdgeTAM)]
+  
 - **MambaVLT:** Xinqi Liu, Li Zhou, Zikun Zhou, Jianqiu Chen, Zhenyu He.<br />
   "MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking." CVPR (2025).
   [[paper](https://arxiv.org/abs/2411.15459)]
