@@ -71,6 +71,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **CGTrack:** Weihong Li, Xiaoqiong Liu, Heng Fan, Libo Zhang.<br />
+  "CGTrack: Cascade Gating Network with Hierarchical Feature Aggregation for UAV Tracking." ICRA (2025).
+  [[paper](https://arxiv.org/abs/2505.05936)] 
+  [[code](https://github.com/Nightwatch-Fox11/CGTrack)]
+  
 - Chenxu Peng, Chenxu Wang, Minrui Zou, Danyang Li, Zhengpeng Yang, Yimian Dai, Ming-Ming Cheng, Xiang Li.<br />
   "A Simple Detector with Frame Dynamics is a Strong Tracker." CVPR Anti-UAV Workshop (2025).
   [[paper](https://arxiv.org/abs/2505.04917)] 
