@@ -119,7 +119,11 @@ If you find our work useful in your research, please consider citing:
 
 - Mengmeng Wang, Teli Ma, Shuo Xin, Xiaojun Hou, Jiazheng Xing, Guang Dai, Jingdong Wang, Yong Liu.<br />
   "Visual Object Tracking across Diverse Data Modalities: A Review." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2412.09991)] 
+  [[paper](https://arxiv.org/abs/2412.09991)]
+
+- Zeshi Chen and Caiping Peng and Shuai Liu and Weiping Ding.<br />
+  "Visual object tracking: Review and challenges." Applied Soft Computing (2025).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S156849462500451X)] 
 
 ## Vision-Language Tracking
 ### Datasets
