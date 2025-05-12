@@ -885,7 +885,7 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 #### 2025
 - **GDSTrack:** Shenglan Li, Rui Yao, Yong Zhou, Hancheng Zhu, Kunyang Sun, Bing Liu, Zhiwen Shao, Jiaqi Zhao.<br />
-  "Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking." ArXiv (2025).
+  "Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking." IJCAI (2025).
   [[paper](https://arxiv.org/abs/2505.03507)] 
   [[code](https://github.com/LiShenglana/GDSTrack)]
 
