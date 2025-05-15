@@ -472,6 +472,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **FAEFTrack:** Shang, Xilong and Zeng, Zhaoyuan and Li, Xiaopeng and Fan, Cien and Jin, Weizheng.<br />
+  "Improving Object Tracking Performances with Frequency Learning for Event Cameras." IEEE Sensors Journal(2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10994255)]
+  
 - Qiang Chen, Xiao Wang, Haowen Wang, Bo Jiang, Lin Zhu, Dawei Zhang, Yonghong Tian, Jin Tang.<br />
   "Adversarial Attack for RGB-Event based Visual Object Tracking." ArXiv (2025).
   [[paper](Adversarial Attack for RGB-Event based Visual Object Tracking)] 
@@ -884,6 +888,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **SiamMLGR:** Peng Gao and Shi-Min Li and Fei Wang and Hamido Fujita and Hanan Aljuaid and Ru-Yue Yuan.<br />
+  "Learning multi-level graph attentional representation for thermal infrared object tracking." Engineering Applications of Artificial Intelligence (2025).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625009571)]
+  
 - **GDSTrack:** Shenglan Li, Rui Yao, Yong Zhou, Hancheng Zhu, Kunyang Sun, Bing Liu, Zhiwen Shao, Jiaqi Zhao.<br />
   "Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking." IJCAI (2025).
   [[paper](https://arxiv.org/abs/2505.03507)] 
