@@ -71,6 +71,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **AMGA:** Wei-Long Tian, Peng Gao, Xiao Liu, Long Xu, Hamido Fujita, Hanan Aljuai, Mao-Li Wang.<br />
+  "Towards Adaptive Meta-Gradient Adversarial Examples for Visual Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2505.08999)] 
+  [[code](https://github.com/pgao-lab/AMGA)]
+  
 - **CGTrack:** Weihong Li, Xiaoqiong Liu, Heng Fan, Libo Zhang.<br />
   "CGTrack: Cascade Gating Network with Hierarchical Feature Aggregation for UAV Tracking." ICRA (2025).
   [[paper](https://arxiv.org/abs/2505.05936)] 
