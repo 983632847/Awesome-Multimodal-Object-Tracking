@@ -625,6 +625,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **RDT-TEF:** Long Gao and Yuze Ke and Wanlin Zhao and Yang Zhang and Yan Jiang and Gang He and Yunsong Li.<br />
+  "RGB-D visual object tracking with transformer-based multi-modal feature fusion." Knowledge-Based Systems (2025).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125005775?via%3Dihub)]
+  
 - **HMAD:** Boyue Xu, Yi Xu, Ruichao Hou, Jia Bei, Tongwei Ren, Gangshan Wu.<br />
   "RGB-D Tracking via Hierarchical Modality Aggregation and Distribution Network." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2504.17595)]
