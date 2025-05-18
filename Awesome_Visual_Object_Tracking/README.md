@@ -71,6 +71,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **MPIT:** Wang, Wuwei and Lv, Meibo and Zhu, Lin and Han, Tuo and Zhang, Yi and Li, Yuanqing.<br />
+  "Siamese Visual Tracking with Multi-Parallel Interactive Transformers." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11003183)]
+  
 - **AMGA:** Wei-Long Tian, Peng Gao, Xiao Liu, Long Xu, Hamido Fujita, Hanan Aljuai, Mao-Li Wang.<br />
   "Towards Adaptive Meta-Gradient Adversarial Examples for Visual Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.08999)] 
@@ -560,7 +564,7 @@
   "Sequential Fusion Based Multi-Granularity Consistency for Space-Time Transformer Tracking." AAAI (2024).
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29145)] 
 
-### ArXiv 2024
+### ArXiv-2024
 
 - **SeqTrack3D:** Yu Lin, Zhiheng Li, Yubo Cui, Zheng Fang.<br />
   "SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking." ICRA (2024).
@@ -581,7 +585,10 @@
   "Correlation-Embedded Transformer Tracking: A Single-Branch Framework." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.12743)] 
   [[code](https://github.com/phiphiphi31/SBT)]
-  
+
+- Yassir Zardoua, Abdes-samed Bernoussi, Mina Amharref & Mustapha Ouardouz .<br />
+  "Adapting a Modern Siamese Framework for 360 Video Object Tracking." icSoftComp (2024).
+  [[paper](https://link.springer.com/book/10.1007/978-3-031-88039-1)] 
 
 ### NeurIPS 2023
 
