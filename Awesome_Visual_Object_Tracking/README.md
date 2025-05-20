@@ -71,6 +71,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **DIMM:** Jirong Zha, Yuxuan Fan, Kai Li, Han Li, Chen Gao, Xinlei Chen, Yong Li.<br />
+  "DIMM: Decoupled Multi-hierarchy Kalman Filter for 3D Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2505.12340)]
+  
 - **MPIT:** Wang, Wuwei and Lv, Meibo and Zhu, Lin and Han, Tuo and Zhang, Yi and Li, Yuanqing.<br />
   "Siamese Visual Tracking with Multi-Parallel Interactive Transformers." TCSVT (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11003183)]
