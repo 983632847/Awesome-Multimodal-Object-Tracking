@@ -472,6 +472,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **SFTrack:** Shiao Wang, Xiao Wang, Liye Jin, Bo Jiang, Lin Zhu, Lan Chen, Yonghong Tian, Bin Luo.<br />
+  "Towards Low-Latency Event Stream-based Visual Object Tracking: A Slow-Fast Approach." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2505.12903)] 
+  [[code](https://github.com/Event-AHU/SlowFast_Event_Track)]
+  
 - **FAEFTrack:** Shang, Xilong and Zeng, Zhaoyuan and Li, Xiaopeng and Fan, Cien and Jin, Weizheng.<br />
   "Improving Object Tracking Performances with Frequency Learning for Event Cameras." IEEE Sensors Journal(2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10994255)]
