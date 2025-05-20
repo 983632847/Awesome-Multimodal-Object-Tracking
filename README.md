@@ -1354,6 +1354,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2025
+- **Diff-MM:** Shiyu Xuan, Zechao Li, Jinhui Tang.<br />
+  "Diff-MM: Exploring Pre-trained Text-to-Image Generation Model for Unified Multi-modal Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2505.12606)] 
+  
 - **M3Track:** Tang, Zhangyong and Xu, Tianyang and Wu, Xiao-jun and Kittler, Josef.<br />
   "M3Track: Meta-Prompt for Multi-Modal Tracking." SPL (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10949728)] 
