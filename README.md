@@ -897,6 +897,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **ARMN:** Ma, Shaoyang and Yang, Yao and Zhang, Kai and Chen, Gang.<br />
+  "Transformer-Based Memory Guided Thermal Infrared Target Tracking Framework for Traffic Assistance." TITS (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11005508)]
+  
 - **SiamMLGR:** Peng Gao and Shi-Min Li and Fei Wang and Hamido Fujita and Hanan Aljuaid and Ru-Yue Yuan.<br />
   "Learning multi-level graph attentional representation for thermal infrared object tracking." Engineering Applications of Artificial Intelligence (2025).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625009571)]
