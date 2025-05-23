@@ -276,7 +276,11 @@
   [[paper](https://arxiv.org/abs/2504.09228)] 
   [[code](https://github.com/wuyou3474/ORTrack)]
   
-
+### ICML 2025
+- **MPT:** Jie Zhao, Xin Chen, Yongsheng Yuan, Michael Felsberg, Dong Wang, Huchuan Lu.<br />
+  "Efficient Motion Prompt Learning for Robust Visual Tracking." ICML(2025).
+  [[paper](https://arxiv.org/abs/2505.16321)] 
+  [[code](https://github.com/zj5559/Motion-Prompt-Tracking)]
   
 ### ICLR 2025
 - **Track-On:** Görkay Aydemir, Xiongyi Cai, Weidi Xie, Fatma Guney.<br />
