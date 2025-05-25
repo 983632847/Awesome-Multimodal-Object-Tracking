@@ -1459,6 +1459,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ## Others
 #### 2025
+- **HOPL:** Zhang, Lu and Yao, Rui and Zhang, Yuhong and Zhou, Yong and Hu, Fuyuan and Zhao, Jiaqi and Shao, Zhiwen.<br />
+  "Historical Object-Aware Prompt Learning for Universal Hyperspectral Object Tracking." TOMM (2025).
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3736581)] 
+  [[code](https://github.com/rayyao/HOPL)]
+  
 - **VUOT & VTUTrack:** Qinghua Song, Xiaolei Wang .<br />
   "Efficient Transformer Network for Visible and Ultraviolet Object Tracking." CVM (2025).
   [[paper](https://link.springer.com/chapter/10.1007/978-981-96-5815-2_3)] 
