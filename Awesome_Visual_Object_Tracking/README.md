@@ -2583,7 +2583,11 @@
 
 
 ## Benchmarks
-
+* **WebUAV-3M:** Chunhui Zhang, Guanjie Huang, Li Liu, Shan Huang, Yinan Yang, Xiang Wan, Shiming Ge, Dacheng Tao.<br />
+  "WebUAV-3M: A Benchmark for Unveiling the Power of Million-Scale Deep UAV Tracking." TPAMI (2023).
+  [[paper](https://arxiv.org/abs/2201.07425)] 
+  [[project](https://github.com/983632847/WebUAV-3M)]
+  
 * **LaSOT:** Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling.
   "LaSOT: A High-quality Benchmark for Large-scale Single Object Tracking.." CVPR (2019). 
   [[paper](https://arxiv.org/pdf/1809.07845.pdf)]
