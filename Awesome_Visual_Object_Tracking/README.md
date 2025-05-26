@@ -69,6 +69,12 @@
   [[paper](https://arxiv.org/abs/2304.03284)] 
   [[code](https://github.com/baaivision/Painter)]
 
+- **VL-SAM2:** Chunhui Zhang, Li Liu, Guanjie Huang, Zhipeng Zhang, Hao Wen, Xi Zhou, Shiming Ge, Yanfeng Wang.<br />
+  "Underwater Camouflaged Object Tracking Meets Vision-Language SAM2." CVPR Workshop (2025).
+  [[paper](https://arxiv.org/abs/2409.16902)]
+  [[project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/UW-COT220)]
+  
+
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
 - **DIMM:** Jirong Zha, Yuxuan Fan, Kai Li, Han Li, Chen Gao, Xinlei Chen, Yong Li.<br />
