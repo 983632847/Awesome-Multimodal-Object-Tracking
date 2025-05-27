@@ -146,6 +146,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **TMTR:** Guocai Du and Peiyong Zhou and Nurbiya Yadikar and Alimjan Aysa and Kurban Ubul.<br />
+  "Toward a dynamic tree-Mamba encoder for UAV tracking with vision-language." KBS (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125007774)]
+  
 - **MHITrack:** Lei, Lei and Li, Xianxian.<br />
   "Multi-modal Hybrid Interaction Vision-language Tracking." TMM (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10980446)]
