@@ -77,6 +77,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **DT-Training:** Jack Hong, Shilin Yan, Zehao Xiao, Jiayin Cai, Xiaolong Jiang, Yao Hu, Henghui Ding.<br />
+  "Progressive Scaling Visual Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2505.19990)]
+  
 - **DIMM:** Jirong Zha, Yuxuan Fan, Kai Li, Han Li, Chen Gao, Xinlei Chen, Yong Li.<br />
   "DIMM: Decoupled Multi-hierarchy Kalman Filter for 3D Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.12340)]
