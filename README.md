@@ -1362,6 +1362,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2025
+- **CSTrack:** X. Feng, D. Zhang, S. Hu, X. Li, M. Wu, J. Zhang, X. Chen, K. Huang.<br />
+  "CSTrack: Enhancing RGB-X Tracking via Compact Spatiotemporal Features." ICML (2025).
+  [[paper](https://arxiv.org/abs/2505.19434)] 
+  [[code](https://github.com/XiaokunFeng/CSTrack)]
+  
 - **Diff-MM:** Shiyu Xuan, Zechao Li, Jinhui Tang.<br />
   "Diff-MM: Exploring Pre-trained Text-to-Image Generation Model for Unified Multi-modal Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.12606)] 
