@@ -476,6 +476,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **SpikeFET.:** Jingjun Yang, Liangwei Fan, Jinpu Zhang, Xiangkai Lian, Hui Shen, Dewen Hu.<br />
+  "Fully Spiking Neural Networks for Unified Frame-Event Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2505.20834)]
+  
 - **SFTrack:** Shiao Wang, Xiao Wang, Liye Jin, Bo Jiang, Lin Zhu, Lan Chen, Yonghong Tian, Bin Luo.<br />
   "Towards Low-Latency Event Stream-based Visual Object Tracking: A Slow-Fast Approach." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.12903)] 
