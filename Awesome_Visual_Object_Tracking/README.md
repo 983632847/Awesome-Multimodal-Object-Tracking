@@ -77,6 +77,16 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **HIEVT:** Kui Wu, Hao Chen, Churan Wang, Fakhri Karray, Zhoujun Li, Yizhou Wang, Fangwei Zhong.<br />
+  "Hierarchical Instruction-aware Embodied Visual Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2505.20710)] 
+  [[code](https://sites.google.com/view/hievt)]
+
+- **EVT-Recovery-Assistant:** Kui Wu, Shuhang Xu, Hao Chen, Churan Wang, Zhoujun Li, Yizhou Wang, Fangwei Zhong.<br />
+  "VLM Can Be a Good Assistant: Enhancing Embodied Visual Tracking with Self-Improving Visual-Language Models." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2505.20718)] 
+  [[code](https://sites.google.com/view/evt-recovery-assistant)]
+  
 - **DT-Training:** Jack Hong, Shilin Yan, Zehao Xiao, Jiayin Cai, Xiaolong Jiang, Yao Hu, Henghui Ding.<br />
   "Progressive Scaling Visual Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.19990)]
