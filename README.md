@@ -1416,7 +1416,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 #### 2024
 - **EMTrack:** Liu, Chang and Guan, Ziqi and Lai, Simiao and Liu, Yang and Lu, Huchuan and Wang, Dong.<br />
   "EMTrack: Efficient Multimodal Object Tracking." TCSVT (2024).
-  [[paper](https://ieeexplore.ieee.org/abstract/document/10747517)] 
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10747517)]
+
+- **VPLMMT:** Simiao Lai, Yuntao Wei, Dong Wang & Huchuan Lu .<br />
+  "Visual Prompt with Larger Model for Multi-modal Tracking." ICPR (2024).
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-031-88217-3_20)] 
 
 - **MixRGBX:** Meng Sun and Xiaotao Liu and Hongyu Wang and Jing Liu.<br />
   "MixRGBX: Universal multi-modal tracking with symmetric mixed attention." Neurocomputing (2024).
