@@ -147,8 +147,14 @@ If you find our work useful in your research, please consider citing:
   "VLM Can Be a Good Assistant: Enhancing Embodied Visual Tracking with Self-Improving Visual-Language Models." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.20718)] 
   [[code](https://sites.google.com/view/evt-recovery-assistant)]
+  
+#### 2024
+- Fangwei Zhong, Kui Wu, Hai Ci, Churan Wang, Hao Chen.<br />
+  "Empowering Embodied Visual Tracking with Visual Foundation Models and Offline RL." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2404.09857)] 
+  [[code](https://sites.google.com/view/offline-evt)]
 
-
+  
 ## Vision-Language Tracking
 ### Datasets
 | Dataset | Pub. & Date  | WebSite | Introduction |
