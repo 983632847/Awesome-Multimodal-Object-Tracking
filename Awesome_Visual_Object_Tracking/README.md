@@ -77,6 +77,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **TrackVLA:**  Shaoan Wang, Jiazhao Zhang, Minghan Li, Jiahang Liu, Anqi Li, Kui Wu, Fangwei Zhong, Junzhi Yu, Zhizheng Zhang, He Wang.<br />
+  "TrackVLA: Embodied Visual Tracking in the Wild." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2505.23189)] 
+  [[code](https://pku-epic.github.io/TrackVLA-web)]
+  
 - **HIEVT:** Kui Wu, Hao Chen, Churan Wang, Fakhri Karray, Zhoujun Li, Yizhou Wang, Fangwei Zhong.<br />
   "Hierarchical Instruction-aware Embodied Visual Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.20710)] 
