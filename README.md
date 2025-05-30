@@ -146,6 +146,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **CLDTracker:** Mohamad Alansari, Sajid Javed, Iyyakutti Iyappan Ganapathi, Sara Alansari, Muzammal Naseer.<br />
+  "CLDTracker: A Comprehensive Language Description for Visual Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2505.23704)] 
+  [[code](https://github.com/HamadYA/CLDTracker)]
+  
 - **TMTR:** Guocai Du and Peiyong Zhou and Nurbiya Yadikar and Alimjan Aysa and Kurban Ubul.<br />
   "Toward a dynamic tree-Mamba encoder for UAV tracking with vision-language." KBS (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125007774)]
