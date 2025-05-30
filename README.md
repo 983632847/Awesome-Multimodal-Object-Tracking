@@ -37,7 +37,10 @@
 
 ## Contents
 
-- [Survey](#survey) 
+- [Survey](#survey)
+- [Embodied Visual Tracking](#embodied-visual-tracking)
+  - [Datasets](#datasets)
+  - [Papers](#papers)
 - [Vision-Language Tracking (RGBL Tracking)](#vision-language-tracking)
   - [Datasets](#datasets)
   - [Papers](#papers)
@@ -124,6 +127,27 @@ If you find our work useful in your research, please consider citing:
 - Zeshi Chen and Caiping Peng and Shuai Liu and Weiping Ding.<br />
   "Visual object tracking: Review and challenges." Applied Soft Computing (2025).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S156849462500451X)] 
+
+## Embodied Visual Tracking
+### Datasets
+
+### Papers
+#### 2025
+- **TrackVLA:**  Shaoan Wang, Jiazhao Zhang, Minghan Li, Jiahang Liu, Anqi Li, Kui Wu, Fangwei Zhong, Junzhi Yu, Zhizheng Zhang, He Wang.<br />
+  "TrackVLA: Embodied Visual Tracking in the Wild." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2505.23189)] 
+  [[code](https://pku-epic.github.io/TrackVLA-web)]
+  
+- **HIEVT:** Kui Wu, Hao Chen, Churan Wang, Fakhri Karray, Zhoujun Li, Yizhou Wang, Fangwei Zhong.<br />
+  "Hierarchical Instruction-aware Embodied Visual Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2505.20710)] 
+  [[code](https://sites.google.com/view/hievt)]
+
+- **EVT-Recovery-Assistant:** Kui Wu, Shuhang Xu, Hao Chen, Churan Wang, Zhoujun Li, Yizhou Wang, Fangwei Zhong.<br />
+  "VLM Can Be a Good Assistant: Enhancing Embodied Visual Tracking with Self-Improving Visual-Language Models." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2505.20718)] 
+  [[code](https://sites.google.com/view/evt-recovery-assistant)]
+
 
 ## Vision-Language Tracking
 ### Datasets
