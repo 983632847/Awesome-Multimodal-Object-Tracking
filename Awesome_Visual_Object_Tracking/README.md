@@ -77,6 +77,16 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **MVTD:**  Ahsan Baidar Bakht, Muhayy Ud Din, Sajid Javed, Irfan Hussain.<br />
+  "MVTD: A Benchmark Dataset for Maritime Visual Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2506.02866)] 
+  [[code](https://github.com/AhsanBaidar/MVTD)]
+
+- **DiffDf:** Long Xu, Peng Gao, Wen-Jia Tang, Fei Wang, Ru-Yue Yuan.<br />
+  "Towards Effective and Efficient Adversarial Defense with Diffusion Models for Robust Visual Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2506.00325)] 
+  [[code](https://github.com/pgao-lab/DiffDf)]
+  
 - **TrackVLA:**  Shaoan Wang, Jiazhao Zhang, Minghan Li, Jiahang Liu, Anqi Li, Kui Wu, Fangwei Zhong, Junzhi Yu, Zhizheng Zhang, He Wang.<br />
   "TrackVLA: Embodied Visual Tracking in the Wild." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.23189)] 
