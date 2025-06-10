@@ -176,6 +176,15 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **Mono3DVLT:** Hongkai Wei · YANG YANG · Shijie Sun · Mingtao Feng · Xiangyu Song · Qi Lei · Hongli Hu · Rong Wang · Huansheng Song · Naveed Akhtar · Ajmal Mian.<br />
+  "Mono3DVLT: Monocular-Video-Based 3D Visual Language Tracking." CVPR (2025).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wei_Mono3DVLT_Monocular-Video-Based_3D_Visual_Language_Tracking_CVPR_2025_paper.pdf)] 
+  [[code](https://github.com/hongkai-wei/Mono3DVLT)]
+  
+- **JTD-UAV:** Yifan Wang, Jian Zhao, Zhaoxin Fan, Xin Zhang, Xuecheng Wu, Yudian Zhang, Lei Jin, Xinyue Li, Gang Wang, Mengxi Jia, Ping Hu, Zheng Zhu, Xuelong Li.<br />
+  "JTD-UAV: MLLM-Enhanced Joint Tracking and Description Framework for Anti-UAV Systems." CVPR (2025).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_JTD-UAV_MLLM-Enhanced_Joint_Tracking_and_Description_Framework_for_Anti-UAV_Systems_CVPR_2025_paper.pdf)]
+  
 - **CLDTracker:** Mohamad Alansari, Sajid Javed, Iyyakutti Iyappan Ganapathi, Sara Alansari, Muzammal Naseer.<br />
   "CLDTracker: A Comprehensive Language Description for Visual Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.23704)] 
@@ -511,6 +520,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **MamTrack:** Chuanyu Sun, Jiqing Zhang, Yang Wang, Huilin Ge, qianchen xia, Baocai Yin, Xin Yang.<br />
+  "Exploring Historical Information for RGBE Visual Tracking with Mamba." CVPR (2025).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_Exploring_Historical_Information_for_RGBE_Visual_Tracking_with_Mamba_CVPR_2025_paper.pdf)] 
+  [[code](https://github.com/scy0712/MamTrack)]
+  
 - **SpikeFET.:** Jingjun Yang, Liangwei Fan, Jinpu Zhang, Xiangkai Lian, Hui Shen, Dewen Hu.<br />
   "Fully Spiking Neural Networks for Unified Frame-Event Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.20834)]
