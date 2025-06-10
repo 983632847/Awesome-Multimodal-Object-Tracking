@@ -222,12 +222,11 @@
 - **DreamTrack:** Mingzhe Guo, Weiping Tan, Wenyu Ran, Liping Jing, Liping Jing, Zhipeng Zhang.<br />
   "DreamTrack: Dreaming the Future for Multimodal Visual Object Tracking." CVPR (2025).
   [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Guo_DreamTrack_Dreaming_the_Future_for_Multimodal_Visual_Object_Tracking_CVPR_2025_paper.pdf)] 
-  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
 
 - **JTD-UAV:** Yifan Wang, Jian Zhao, Zhaoxin Fan, Xin Zhang, Xuecheng Wu, Yudian Zhang, Lei Jin, Xinyue Li, Gang Wang, Mengxi Jia, Ping Hu, Zheng Zhu, Xuelong Li.<br />
   "JTD-UAV: MLLM-Enhanced Joint Tracking and Description Framework for Anti-UAV Systems." CVPR (2025).
   [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_JTD-UAV_MLLM-Enhanced_Joint_Tracking_and_Description_Framework_for_Anti-UAV_Systems_CVPR_2025_paper.pdf)] 
-  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+
 
 - **SAM2.1++:** Jovana Videnovic, Alan Lukezic, Matej Kristan.<br />
 "A Distractor-Aware Memory for Visual Object Tracking with SAM2." CVPR (2025).
@@ -248,7 +247,7 @@
   [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Shao_PURA_Parameter_Update-Recovery_Test-Time_Adaption_for_RGB-T_Tracking_CVPR_2025_paper.pdf)] 
   [[code](https://melantech.github.io/PURA)]
   
-- Chuanyu Sun, Jiqing Zhang, Yang Wang, Huilin Ge, qianchen xia, Baocai Yin, Xin Yang.<br />
+- **MamTrack:** Chuanyu Sun, Jiqing Zhang, Yang Wang, Huilin Ge, qianchen xia, Baocai Yin, Xin Yang.<br />
   "Exploring Historical Information for RGBE Visual Tracking with Mamba." CVPR (2025).
   [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_Exploring_Historical_Information_for_RGBE_Visual_Tracking_with_Mamba_CVPR_2025_paper.pdf)] 
   [[code](https://github.com/scy0712/MamTrack)]
