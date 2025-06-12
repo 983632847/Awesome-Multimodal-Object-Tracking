@@ -520,6 +520,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **EMTrack:** Xu, Xianda and Jing, Shilong and Zhang, Zeshu and Chen, Chao and Guo, Guangsha and Lv, Hengyi and Zhao, Yuchen and Gu, Jialin.<br />
+  "EMTrack: Event-guide Multimodal Transformer for Challenging Single Object Tracking." TGRS (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11026009)] 
+  [[code](https://github.com/lpsg555/EMTrack)]
+  
 - **MamTrack:** Chuanyu Sun, Jiqing Zhang, Yang Wang, Huilin Ge, qianchen xia, Baocai Yin, Xin Yang.<br />
   "Exploring Historical Information for RGBE Visual Tracking with Mamba." CVPR (2025).
   [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_Exploring_Historical_Information_for_RGBE_Visual_Tracking_with_Mamba_CVPR_2025_paper.pdf)] 
@@ -954,6 +959,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **STTrack:** Yuan, Di and Zhang, Haiping and Liu, Qiao and Chang, Xiaojun and He, Zhenyu.<br />
+  "Transformer-based RGBT Tracking with Spatio-Temporal Information Fusion." IEEE Sensors Journal (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11026807)]
+  
 - **ARMN:** Ma, Shaoyang and Yang, Yao and Zhang, Kai and Chen, Gang.<br />
   "Transformer-Based Memory Guided Thermal Infrared Target Tracking Framework for Traffic Assistance." TITS (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11005508)]
