@@ -959,6 +959,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **MGTrack:** Ma, Shaoyang and Yang, Yao and Zhang, Kai and Chen, Gang.<br />
+  "Transformer-Based Memory Guided Thermal Infrared Target Tracking Framework for Traffic Assistance." TITS (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11005508)]
+  
 - **STTrack:** Yuan, Di and Zhang, Haiping and Liu, Qiao and Chang, Xiaojun and He, Zhenyu.<br />
   "Transformer-based RGBT Tracking with Spatio-Temporal Information Fusion." IEEE Sensors Journal (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11026807)]
