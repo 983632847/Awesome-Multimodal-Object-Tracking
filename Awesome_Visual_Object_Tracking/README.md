@@ -77,6 +77,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **DiMPLE:** Wang, Jun and Chai, Bingfei and Zhou, Lingtao and Wang, Yuanyun.<br />
+  "Robust Object Tracking via Long-Range Spatial Representation and Local Feature Enhancement." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11029262)]
+  
 - **MVTD:**  Ahsan Baidar Bakht, Muhayy Ud Din, Sajid Javed, Irfan Hussain.<br />
   "MVTD: A Benchmark Dataset for Maritime Visual Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2506.02866)] 
@@ -294,7 +298,6 @@
   [[paper](https://arxiv.org/abs/2503.17699)] 
   [[code](https://github.com/q2479036243/MUST-Multispectral-UAV-Single-Object-Tracking)]
 
-
 - **SPMTrack:** Wenrui Cai · Qingjie Liu · Yunhong Wang.<br />
   "SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking." CVPR (2025).
   [[paper](https://arxiv.org/abs/2503.18338)] 
@@ -309,6 +312,11 @@
   "Learning Occlusion-Robust Vision Transformers for Real-Time UAV Tracking." CVPR (2025).
   [[paper](https://arxiv.org/abs/2504.09228)] 
   [[code](https://github.com/wuyou3474/ORTrack)]
+
+- **OmniTrack:** Kai Luo · Hao Shi · Sheng Wu · Fei Teng · Mengfei Duan · Chang Huang · Yuhang Wang · Kaiwei Wang · Kailun Yang.<br />
+  "OmniTrack: Omnidirectional Multi-Object Tracking." CVPR (2025).
+  [[paper](https://arxiv.org/pdf/2503.04565)] 
+  [[code](https://github.com/xifen523/OmniTrack)]  
   
 ### ICML 2025
 - **MPT:** Jie Zhao, Xin Chen, Yongsheng Yuan, Michael Felsberg, Dong Wang, Huchuan Lu.<br />
