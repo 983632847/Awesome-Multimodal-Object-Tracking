@@ -56,6 +56,9 @@
 - [Miscellaneous (RGB+X)](#miscellaneous)
   - [Datasets](#datasets)
   - [Papers](#papers)
+- [Hyperspectral Object Tracking](hyperspectral-object-tracking)
+  - [Datasets](#datasets)
+  - [Papers](#papers)
 - [Others](#others)
 - [Awesome Repositories for MMOT](#awesome-repositories-for-mmot)
   
@@ -1535,14 +1538,38 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   "Prompting for Multi-Modal Tracking." ACM MM (2022).
   [[paper](https://arxiv.org/abs/2207.14571)] 
 
+## Hyperspectral Object Tracking
+### Datasets
 
-## Others
+
+### Papers
 #### 2025
+- **UBSTrack:** Islam, Mohammad Aminul and Zhou, Jun and Xing, Wangzhi and Gao, Yongsheng and Paliwal, Kuldip K.<br />
+  "UBSTrack: Unified Band Selection and Multimodel Ensemble for Hyperspectral Object Tracking." TGRS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11007116)] 
+  [[code](https://github.com/aamin0102/UBSTrack/)]
+  
 - **HOPL:** Zhang, Lu and Yao, Rui and Zhang, Yuhong and Zhou, Yong and Hu, Fuyuan and Zhao, Jiaqi and Shao, Zhiwen.<br />
   "Historical Object-Aware Prompt Learning for Universal Hyperspectral Object Tracking." TOMM (2025).
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3736581)] 
   [[code](https://github.com/rayyao/HOPL)]
+
+
+#### 2024
+- **BihoT:** Hanzheng Wang, Wei Li, Xiang-Gen Xia, Qian Du.<br />
+  "BihoT: A Large-Scale Dataset and Benchmark for Hyperspectral Camouflaged Object Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.12232)]
   
+#### 2020
+- **HOT2020:** Fengchao Xiong, Jun Zhou, Yuntao Qian.<br />
+  "Material Based Object Tracking in Hyperspectral Videos." TIP (2020).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/8960632)] 
+  [[code](https://www.xiongfuli.com/cv/code/MHT_release.zip)]
+
+
+
+## Others
+#### 2025
 - **VUOT & VTUTrack:** Qinghua Song, Xiaolei Wang .<br />
   "Efficient Transformer Network for Visible and Ultraviolet Object Tracking." CVM (2025).
   [[paper](https://link.springer.com/chapter/10.1007/978-981-96-5815-2_3)] 
@@ -1569,11 +1596,7 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   [[code](https://github.com/LiYunfengLYF/RGBS50)]
 
 
-#### 2020
-- **HOT2020:** Fengchao Xiong, Jun Zhou, Yuntao Qian.<br />
-  "Material Based Object Tracking in Hyperspectral Videos." TIP (2020).
-  [[paper](https://ieeexplore.ieee.org/abstract/document/8960632)] 
-  [[code](https://www.xiongfuli.com/cv/code/MHT_release.zip)]
+
 
 
 ## Awesome Repositories for MMOT
