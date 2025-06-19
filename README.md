@@ -56,7 +56,7 @@
 - [Miscellaneous (RGB+X)](#miscellaneous)
   - [Datasets](#datasets)
   - [Papers](#papers)
-- [Hyperspectral Object Tracking](hyperspectral-object-tracking)
+- [Hyperspectral Object Tracking](#hyperspectral-object-tracking)
   - [Datasets](#datasets)
   - [Papers](#papers)
 - [Others](#others)
