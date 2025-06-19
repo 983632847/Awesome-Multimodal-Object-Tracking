@@ -962,6 +962,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **MGNet** Jianming Zhang and Jing Yang and Yu Qin and Zhu Xiao and Jin Wang.<br />
+  "MGNet: RGBT tracking via cross-modality cross-region mutual guidance." Neural Networks (2025).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025005878)]
+  
 - **MGTrack:** Ma, Shaoyang and Yang, Yao and Zhang, Kai and Chen, Gang.<br />
   "Transformer-Based Memory Guided Thermal Infrared Target Tracking Framework for Traffic Assistance." TITS (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11005508)]
