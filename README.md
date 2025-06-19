@@ -1548,6 +1548,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2025
+- **SpectralTrack:** Chen, Yuzeng and Yuan, Qiangqiang and Xie, Hong and Tang, Yuqi and Xiao, Yi and He, Jiang and Guan, Renxiang and Liu, Xinwang and Zhang, Liangpei.<br />
+  "Hyperspectral Video Tracking With Spectral–Spatial Fusion and Memory Enhancement." TIP (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11007172)] 
+  [[code](https://github.com/YZCU/SpectralTrack)]
+  
 - **UBSTrack:** Islam, Mohammad Aminul and Zhou, Jun and Xing, Wangzhi and Gao, Yongsheng and Paliwal, Kuldip K.<br />
   "UBSTrack: Unified Band Selection and Multimodel Ensemble for Hyperspectral Object Tracking." TGRS (2025).
   [[paper](https://ieeexplore.ieee.org/document/11007116)] 
