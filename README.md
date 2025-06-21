@@ -962,6 +962,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- Hui Zhao, Lei Zhang.<br />
+  "Dual-stream siamese network for RGB-T dual-modal fusion object tracking on UAV." The Journal of Supercomputing (2025).
+  [[paper](https://link.springer.com/article/10.1007/s11227-025-07519-w)]
+  
 - **MGNet** Jianming Zhang and Jing Yang and Yu Qin and Zhu Xiao and Jin Wang.<br />
   "MGNet: RGBT tracking via cross-modality cross-region mutual guidance." Neural Networks (2025).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025005878)]
