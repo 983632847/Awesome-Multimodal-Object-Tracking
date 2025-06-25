@@ -962,6 +962,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **mmMobileViT:** Mahdi Falaki, Maria A. Amer.<br />
+  "Lightweight RGB-T Tracking with Mobile Vision Transformers." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2506.19154)]
+  
 - Hui Zhao, Lei Zhang.<br />
   "Dual-stream siamese network for RGB-T dual-modal fusion object tracking on UAV." The Journal of Supercomputing (2025).
   [[paper](https://link.springer.com/article/10.1007/s11227-025-07519-w)]
