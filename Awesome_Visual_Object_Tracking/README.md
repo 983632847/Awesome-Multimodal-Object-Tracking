@@ -77,6 +77,19 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **HiT:** Ben Kang, Xin Chen, Jie Zhao, Chunjuan Bo, Dong Wang, Huchuan Lu .<br />
+  "Exploiting Lightweight Hierarchical ViT and Dynamic Framework for Efficient Visual Tracking." IJCV (2025).
+  [[paper](https://link.springer.com/article/10.1007/s11263-025-02500-9)] 
+  [[code](https://github.com/kangben258/HiT)]
+
+- **MRMACF:** Sathiyamoorthi Arthanari, Jae Hoon Jeong, Young Hoon Joo.<br />
+  "Learning multi-regularized mutation-aware correlation filter for object tracking via an adaptive hybrid model." Neural Networks (2025).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025006264)] 
+
+- **HiMTrack:** Ning Li; Bineng Zhong; Qihua Liang; Zhiyi Mo; Shuxiang Song.<br />
+  "Robust Multi-stage Tracking via Multi-scale and Multi-level Representation Learning." TMM (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11045528)]
+  
 - **DiMPLE:** Wang, Jun and Chai, Bingfei and Zhou, Lingtao and Wang, Yuanyun.<br />
   "Robust Object Tracking via Long-Range Spatial Representation and Local Feature Enhancement." TCSVT (2025).
   [[paper](https://ieeexplore.ieee.org/document/11029262)]
