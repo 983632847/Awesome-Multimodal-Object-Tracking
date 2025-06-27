@@ -962,6 +962,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **MCIT:** Yu Qin and Jianming Zhang and Shimeng Fan and Zikang Liu and Jin Wang.<br />
+  "MCIT: Multi-level cross-modal interactive transformer for RGBT tracking." Neurocomputing (2025).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225014304)] 
+  [[code](https://github.com/zjjqinyu/MCIT)]
+  
 - **mmMobileViT:** Mahdi Falaki, Maria A. Amer.<br />
   "Lightweight RGB-T Tracking with Mobile Vision Transformers." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2506.19154)]
