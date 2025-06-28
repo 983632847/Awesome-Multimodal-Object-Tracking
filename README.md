@@ -179,6 +179,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **VLDF:** Zhang, J., Yan, X., Zhang, H. et al.<br />
+  "Vision-language discriminative fusion network for object tracking." The Journal of Supercomputing (2025).
+  [[paper](https://link.springer.com/article/10.1007/s11227-025-07472-8)]
+  
 - **Mono3DVLT:** Hongkai Wei · YANG YANG · Shijie Sun · Mingtao Feng · Xiangyu Song · Qi Lei · Hongli Hu · Rong Wang · Huansheng Song · Naveed Akhtar · Ajmal Mian.<br />
   "Mono3DVLT: Monocular-Video-Based 3D Visual Language Tracking." CVPR (2025).
   [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wei_Mono3DVLT_Monocular-Video-Based_3D_Visual_Language_Tracking_CVPR_2025_paper.pdf)] 
