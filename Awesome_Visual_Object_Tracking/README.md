@@ -77,6 +77,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **MSAF:** Shaoming Li and Kai Huang and Jun Chu and Lu Leng.<br />
+  "MSAF: Multi-Scale Adaptive Filter for Object Tracking." ESWA (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425023334)]
+  
 - **HiT:** Ben Kang, Xin Chen, Jie Zhao, Chunjuan Bo, Dong Wang, Huchuan Lu .<br />
   "Exploiting Lightweight Hierarchical ViT and Dynamic Framework for Efficient Visual Tracking." IJCV (2025).
   [[paper](https://link.springer.com/article/10.1007/s11263-025-02500-9)] 
