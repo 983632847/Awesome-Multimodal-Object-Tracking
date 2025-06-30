@@ -179,6 +179,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **R1-Track:** Biao Wang, Wenwen Li.<br />
+  "R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2506.21980)] 
+  [[code](https://github.com/Wangbiao2/R1-Track)]
+  
 - **VLDF:** Zhang, J., Yan, X., Zhang, H. et al.<br />
   "Vision-language discriminative fusion network for object tracking." The Journal of Supercomputing (2025).
   [[paper](https://link.springer.com/article/10.1007/s11227-025-07472-8)]
