@@ -971,6 +971,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **LRPD:** Qing kuo Hu, Yichen Li, Wenbin Yu.<br />
+  "Exploiting Multimodal Prompt Learning and Distillation for RGB-T Tracking." ICMR (2025).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733332)]
+  
 - **MCIT:** Yu Qin and Jianming Zhang and Shimeng Fan and Zikang Liu and Jin Wang.<br />
   "MCIT: Multi-level cross-modal interactive transformer for RGBT tracking." Neurocomputing (2025).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225014304)] 
