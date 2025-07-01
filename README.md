@@ -532,6 +532,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **Mamba-FETrack V2:** Shiao Wang, Ju Huang, Qingchuan Ma, Jinfeng Gao, Chunyi Xu, Xiao Wang, Lan Chen, Bo Jiang.<br />
+  "Mamba-FETrack V2: Revisiting State Space Model for Frame-Event based Visual Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2506.23783)] 
+  [[code](https://github.com/Event-AHU/Mamba_FETrack)]
+  
 - **EMTrack:** Xu, Xianda and Jing, Shilong and Zhang, Zeshu and Chen, Chao and Guo, Guangsha and Lv, Hengyi and Zhao, Yuchen and Gu, Jialin.<br />
   "EMTrack: Event-guide Multimodal Transformer for Challenging Single Object Tracking." TGRS (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11026009)] 
@@ -1461,6 +1466,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2025
+- **VMDA:** Boyue Xu, Ruichao Hou, Tongwei Ren, Gangshan Wu.<br />
+  "Visual and Memory Dual Adapter for Multi-Modal Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2506.23972)] 
+  [[code](https://github.com/xuboyue1999/mmtrack.git)]
+  
 - **CSTrack:** X. Feng, D. Zhang, S. Hu, X. Li, M. Wu, J. Zhang, X. Chen, K. Huang.<br />
   "CSTrack: Enhancing RGB-X Tracking via Compact Spatiotemporal Features." ICML (2025).
   [[paper](https://arxiv.org/abs/2505.19434)] 
