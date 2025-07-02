@@ -238,6 +238,11 @@
   "Hyperspectral Object Tracking With Context-Aware Learning and Category Consistency." TGRS (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10928989)] 
 
+### ICCV 2025
+- **UMDATrack:** Siyuan Yao, Rui Zhu, Ziqi Wang, Wenqi Ren, Yanyang Yan, Xiaochun Cao.<br />
+  "UMDATrack: Unified Multi-Domain Adaptive Tracking Under Adverse Weather Conditions." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2507.00648)] 
+  [[code](https://github.com/Z-Z188/UMDATrack)]
 
 ### CVPR 2025
 - **DreamTrack:** Mingzhe Guo, Weiping Tan, Wenyu Ran, Liping Jing, Liping Jing, Zhipeng Zhang.<br />
