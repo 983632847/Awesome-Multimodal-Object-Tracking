@@ -179,6 +179,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **ATSTrack:** Yihao Zhen, Qiang Wang, Yu Qiao, Liangqiong Qu, Huijie Fan.<br />
+  "ATSTrack: Enhancing Visual-Language Tracking by Aligning Temporal and Spatial Scales." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2507.00454)]
+  
 - **R1-Track:** Biao Wang, Wenwen Li.<br />
   "R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2506.21980)] 
