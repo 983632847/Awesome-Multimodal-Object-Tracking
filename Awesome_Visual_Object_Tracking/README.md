@@ -77,6 +77,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **TrackingMiM:** Bingxi Liu, Calvin Chen, Junhao Li, Guyang Yu, Haoqian Song, Xuchen Liu, Jinqiang Cui, Hong Zhang.<br />
+  "TrackingMiM: Efficient Mamba-in-Mamba Serialization for Real-time UAV Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2507.01535)]
+  
 - **MSAF:** Shaoming Li and Kai Huang and Jun Chu and Lu Leng.<br />
   "MSAF: Multi-Scale Adaptive Filter for Object Tracking." ESWA (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425023334)]
