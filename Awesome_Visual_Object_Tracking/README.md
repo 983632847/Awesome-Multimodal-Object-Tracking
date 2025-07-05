@@ -77,6 +77,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **TDAT:** Xue, Yuanliang and Jin, Guodong and Shen, Tao and Tan, Lining and Wang, Nian and Gao, Jing and Yu, Ye and Tian, Siyuan.<br />
+  "Target-Distractor Aware UAV Tracking via Global Agent." TITS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11054299)] 
+  [[code](https://github.com/xyl-507/TDAT)]
+  
 - **TrackingMiM:** Bingxi Liu, Calvin Chen, Junhao Li, Guyang Yu, Haoqian Song, Xuchen Liu, Jinqiang Cui, Hong Zhang.<br />
   "TrackingMiM: Efficient Mamba-in-Mamba Serialization for Real-time UAV Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2507.01535)]
