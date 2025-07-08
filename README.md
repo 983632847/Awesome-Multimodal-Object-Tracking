@@ -980,6 +980,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **DIDPT:** Muyang Li; Xiwen Ren; Guangwen Luo; Haofei Zhang; Ruqian Hao; Juanxiu Liu.<br />
+  "DIDPT:Dense Interaction Deep Prompt RGBT Tracking." IEEE Sensors Journal (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11063681)]
+  
 - **LRPD:** Qing kuo Hu, Yichen Li, Wenbin Yu.<br />
   "Exploiting Multimodal Prompt Learning and Distillation for RGB-T Tracking." ICMR (2025).
   [[paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733332)]
