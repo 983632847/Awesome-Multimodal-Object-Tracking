@@ -77,6 +77,25 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **STAR:** Yuzeng Chen; Qiangqiang Yuan; Yi Xiao; Yuqi Tang; Jiang He; Te Han.<br />
+  "STAR: A Unified Spatiotemporal Fusion Framework for Satellite Video Object Tracking." TGRS (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11063306)] 
+  [[code](https://github.com/YZCU/STAR)]
+
+- **SiamTITP:** Zhou, Jiawei and Dong, Yanni and Du, Bo.<br />
+  "SiamTITP: Incorporating Temporal Information and Trajectory Prediction Siamese Network for Satellite Video Object Tracking." TIP (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11051136)] 
+  [[code](https://github.com/jiawei-zhou/SiamTITP)]
+
+- **TMATrack:** Jinguang Chen, Hongxiao Yao & Lili Ma.<br />
+  "TMATrack: token merging for autoregressive visual object tracking." The Journal of Supercomputing (2025).
+  [[paper](https://link.springer.com/article/10.1007/s11227-025-07498-y)] 
+
+- **Stable-SAM2:** Mohamad Alansari and Iyyakutti Iyappan Ganapathi and Sara Alansari and Hasan Al Marzouqi and Sajid Javed.<br />
+  "Visual tracking by matching points using diffusion model." Alexandria Engineering Journal (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1110016825007914)] 
+  [[code](https://github.com/HamadYA/Stable-SAM2)]
+  
 - **TDAT:** Xue, Yuanliang and Jin, Guodong and Shen, Tao and Tan, Lining and Wang, Nian and Gao, Jing and Yu, Ye and Tian, Siyuan.<br />
   "Target-Distractor Aware UAV Tracking via Global Agent." TITS (2025).
   [[paper](https://ieeexplore.ieee.org/document/11054299)] 
