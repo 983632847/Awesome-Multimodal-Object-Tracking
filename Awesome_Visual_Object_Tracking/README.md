@@ -395,7 +395,7 @@
 - **MambaLCT:** Xiaohai Li, Bineng Zhong, Qihua Liang, Guorong Li, Zhiyi Mo, Shuxiang Song.<br />
    "Boosting Tracking via Long-term Context State Space Model." AAAI (2025).
     [[Paper](https://arxiv.org/abs/2412.13615)]
-    [[code](https://github.com/GXNU-ZhongLab/TemTrack)]
+    [[code](https://github.com/GXNU-ZhongLab/MambaLCT)]
 
 - **LMTrack:** Chenlong Xu, Bineng Zhong, Qihua Liang, Yaozong Zheng, Guorong Li, Shuxiang Song.<br />
   "Less is More: Token Context-aware Learning for Object Tracking." AAAI (2025).
