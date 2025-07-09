@@ -267,6 +267,11 @@
   [[paper](https://ieeexplore.ieee.org/abstract/document/10928989)] 
 
 ### ICCV 2025
+- **FlexTrack:** Yuedong Tan, Jiawei Shao, Eduard Zamfir, Ruanjun Li, Zhaochong An, Chao Ma, Danda Paudel, Luc Van Gool, Radu Timofte, Zongwei Wu.<br />
+  "What You Have is What You Track: Adaptive and Robust Multimodal Tracking." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2507.05899)] 
+  [[code](ttps://github.com/supertyd/FlexTrack/tree/main)]
+  
 - **UMDATrack:** Siyuan Yao, Rui Zhu, Ziqi Wang, Wenqi Ren, Yanyang Yan, Xiaochun Cao.<br />
   "UMDATrack: Unified Multi-Domain Adaptive Tracking Under Adverse Weather Conditions." ICCV (2025).
   [[paper](https://arxiv.org/abs/2507.00648)] 
