@@ -77,6 +77,12 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **HiM2SAM:** Ruixiang Chen, Guolei Sun, Yawei Li, Jie Qin, Luca Benini.<br />
+"HiM2SAM: Enhancing SAM2 with Hierarchical Motion Estimation and Memory Optimization towards Long-term Tracking." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.07603)]
+[[code](https://github.com/LouisFinner/HiM2SAM)]
+[2025.07]
+
 - **STAR:** Yuzeng Chen; Qiangqiang Yuan; Yi Xiao; Yuqi Tang; Jiang He; Te Han.<br />
   "STAR: A Unified Spatiotemporal Fusion Framework for Satellite Video Object Tracking." TGRS (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11063306)] 
