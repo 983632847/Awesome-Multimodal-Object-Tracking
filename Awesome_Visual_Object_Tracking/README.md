@@ -273,6 +273,10 @@
   [[paper](https://ieeexplore.ieee.org/abstract/document/10928989)] 
 
 ### ICCV 2025
+- **TUEs:** Qiangqiang Wu, Yi Yu, Chenqi Kong, Ziquan Liu, Jia Wan, Haoliang Li, Alex C. Kot, Antoni B. Chan.<br />
+  "Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2507.07483)]
+  
 - **FlexTrack:** Yuedong Tan, Jiawei Shao, Eduard Zamfir, Ruanjun Li, Zhaochong An, Chao Ma, Danda Paudel, Luc Van Gool, Radu Timofte, Zongwei Wu.<br />
   "What You Have is What You Track: Adaptive and Robust Multimodal Tracking." ICCV (2025).
   [[paper](https://arxiv.org/abs/2507.05899)] 
