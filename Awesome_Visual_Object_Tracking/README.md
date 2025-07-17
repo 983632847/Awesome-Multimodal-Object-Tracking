@@ -291,6 +291,11 @@
   [[paper](https://arxiv.org/abs/2507.00648)] 
   [[code](https://github.com/Z-Z188/UMDATrack)]
 
+- **SpatialTrackerV2:** Yuxi Xiao, Jianyuan Wang, Nan Xue, Nikita Karaev, Yuri Makarov, Bingyi Kang, Xing Zhu, Hujun Bao, Yujun Shen, Xiaowei Zhou.<br />
+  "SpatialTrackerV2: 3D Point Tracking Made Easy." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2507.12462)] 
+  [[code](https://huggingface.co/spaces/Yuxihenry/SpatialTrackerV2)]
+
 ### CVPR 2025
 - **DreamTrack:** Mingzhe Guo, Weiping Tan, Wenyu Ran, Liping Jing, Liping Jing, Zhipeng Zhang.<br />
   "DreamTrack: Dreaming the Future for Multimodal Visual Object Tracking." CVPR (2025).
