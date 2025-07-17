@@ -77,6 +77,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **AUDI-T:** Bin Kang and Zongyu Wang and Dong Liang and Tianyu Ding and Songlin Du.<br />
+  "Robust Unsupervised Visual Tracking Via Image-to-Video Identity Knowledge Transferring." Pattern Recognition (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325007691)]
+  
 - **HiM2SAM:** Ruixiang Chen, Guolei Sun, Yawei Li, Jie Qin, Luca Benini.<br />
 "HiM2SAM: Enhancing SAM2 with Hierarchical Motion Estimation and Memory Optimization towards Long-term Tracking." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.07603)]
