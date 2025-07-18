@@ -980,6 +980,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- Jianming Chen and Dingjian Li and Xiangjin Zeng and Yaman Jing and Zhenbo Ren and Jianglei Di and Yuwen Qin.<br />
+  "Cross-modal information interaction of binocular predictive networks for RGBT tracking." Digital Signal Processing (2025).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1051200425004956)] 
+  [[code](https://github.com/JMChenl/RGBT-tracking.git)]
+  
 - **DIDPT:** Muyang Li; Xiwen Ren; Guangwen Luo; Haofei Zhang; Ruqian Hao; Juanxiu Liu.<br />
   "DIDPT:Dense Interaction Deep Prompt RGBT Tracking." IEEE Sensors Journal (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11063681)]
