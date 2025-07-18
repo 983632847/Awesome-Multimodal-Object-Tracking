@@ -77,6 +77,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- Heegyeong Kim, Alice James, Avishkar Seth, Endrowednes Kuantama, Jane Williamson, Yimeng Feng, Richard Han.<br />
+"Continuous Marine Tracking via Autonomous UAV Handoff." DroNet(2025).
+[[paper](https://arxiv.org/abs/2507.12763)]
+[2025.07]
+
 - **AUDI-T:** Bin Kang and Zongyu Wang and Dong Liang and Tianyu Ding and Songlin Du.<br />
   "Robust Unsupervised Visual Tracking Via Image-to-Video Identity Knowledge Transferring." Pattern Recognition (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325007691)]
