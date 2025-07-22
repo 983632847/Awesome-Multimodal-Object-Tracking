@@ -536,6 +536,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **TrackSSD-FEnet:** Keqi Liu, Rong Xiao, Deng Xiong, Yongsheng Sang & Jiancheng Lv.<br />
+  "Joint Frame and Event Object Tracking via Non-causal State Space Duality." ICIC (2025).
+  [[paper](https://link.springer.com/chapter/10.1007/978-981-96-9964-3_32)]
+  
 - **Mamba-FETrack V2:** Shiao Wang, Ju Huang, Qingchuan Ma, Jinfeng Gao, Chunyi Xu, Xiao Wang, Lan Chen, Bo Jiang.<br />
   "Mamba-FETrack V2: Revisiting State Space Model for Frame-Event based Visual Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2506.23783)] 
@@ -1479,6 +1483,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2025
+- **MPVT:** Xie, Jianyu, Yan Fu, Junlin Zhou, Tianxiang He, Xiaopeng Wang, Yuke Fang, and Duanbing Chen.<br />
+  "MPVT: An Efficient Multi-Modal Prompt Vision Tracker for Visual Target Tracking." Applied Sciences  (2025).
+  [[paper](https://www.mdpi.com/2076-3417/15/14/7967)]
+  
 - **FlexTrack:** Yuedong Tan, Jiawei Shao, Eduard Zamfir, Ruanjun Li, Zhaochong An, Chao Ma, Danda Paudel, Luc Van Gool, Radu Timofte, Zongwei Wu.<br />
   "What You Have is What You Track: Adaptive and Robust Multimodal Tracking." ICCV (2025).
   [[paper](https://arxiv.org/abs/2507.05899)] 
