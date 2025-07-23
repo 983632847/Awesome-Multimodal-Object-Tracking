@@ -77,6 +77,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **RSTrack:** Fansheng Zeng, Bineng Zhong, Haiying Xia, Yufei Tan, Xiantao Hu, Liangtao Shi, Shuxiang Song.<br />
+  "Explicit Context Reasoning with Supervision for Visual Tracking." ACM MM (2025).
+  [[paper](https://arxiv.org/abs/2507.16191)] 
+  [[code](https://github.com/GXNU-ZhongLab/RSTrack)]
+  
 - Heegyeong Kim, Alice James, Avishkar Seth, Endrowednes Kuantama, Jane Williamson, Yimeng Feng, Richard Han.<br />
 "Continuous Marine Tracking via Autonomous UAV Handoff." DroNet(2025).
 [[paper](https://arxiv.org/abs/2507.12763)]
