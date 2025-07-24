@@ -984,6 +984,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **MRTTrack:** Pujian Lai and Dong Gao and Shilei Wang and Gong Cheng.<br />
+  "Mining Representative Tokens via Transformer-based Multi-modal Interaction for RGB-T Tracking." PR (2025).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325008234)] 
+  [[code](https://github.com/gao5yy/MRTTrack)]
+  
 - Jianming Chen and Dingjian Li and Xiangjin Zeng and Yaman Jing and Zhenbo Ren and Jianglei Di and Yuwen Qin.<br />
   "Cross-modal information interaction of binocular predictive networks for RGBT tracking." Digital Signal Processing (2025).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1051200425004956)] 
