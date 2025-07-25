@@ -208,7 +208,8 @@
   
 - **DSTrack:** Zhixing Wang and Kai Wang and Chuanming Tang and Xiang Li and Jianlin Zhang and Lianli Gao.<br />
   "DSTrack: Diffusion-based sequence learning for visual object tracking." PR (2025).
-  
+   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325003541)]
+
 - **PUTrack:** Zhang, Qiuyang and Song, Wei and Liu, Cong and Zhang, Minghua.<br />
   "PUTrack: Improved Underwater Object Tracking via Progressive Prompting." TII (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10892342)] 
