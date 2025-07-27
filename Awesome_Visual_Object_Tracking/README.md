@@ -77,6 +77,12 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+
+- **FWTrack:** Fan, Xuyi and Li, Hongguang and Wang, Yangzhu and Zhao, Minghao and Shen, Li.<br />
+  "Hierarchical Spatial–Temporal UAV Tracking With Three-Dimensional Wavelets for Road Traffic Surveillance." TITS (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11087725)] 
+  [[code](https://github.com/OrigamiSL/FWTrack)]
+  
 - **RSTrack:** Fansheng Zeng, Bineng Zhong, Haiying Xia, Yufei Tan, Xiantao Hu, Liangtao Shi, Shuxiang Song.<br />
   "Explicit Context Reasoning with Supervision for Visual Tracking." ACM MM (2025).
   [[paper](https://arxiv.org/abs/2507.16191)] 
