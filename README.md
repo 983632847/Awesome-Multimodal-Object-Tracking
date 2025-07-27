@@ -984,6 +984,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **MAP:** Guyue Hu, Zhanghuan Wang, Chenglong Li, Duzhi Yuan, Bin He & Jin Tang .<br />
+  "Missingness-aware prompting for modality-missing RGBT tracking." J. King Saud Univ. Comput. Inf. Sci (2025).
+  [[paper](https://link.springer.com/article/10.1007/s44443-025-00142-y)] 
+  [[code](https://github.com/mmic-lcl/Datasets-and-benchmark-code)]
+  
 - **MRTTrack:** Pujian Lai and Dong Gao and Shilei Wang and Gong Cheng.<br />
   "Mining Representative Tokens via Transformer-based Multi-modal Interaction for RGB-T Tracking." PR (2025).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325008234)] 
