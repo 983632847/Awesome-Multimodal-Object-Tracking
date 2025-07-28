@@ -77,6 +77,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **HQ-SMem:** Elham Soltani Kazemi, Imad Eddine Toubal, Gani Rahmon, Jaired Collins, K. Palaniappan.<br />
+"HQ-SMem: Video Segmentation and Tracking Using Memory Efficient Object Embedding With Selective Update and Self-Supervised Distillation Feedback." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.18921)]
+[2025.07]
 
 - **FWTrack:** Fan, Xuyi and Li, Hongguang and Wang, Yangzhu and Zhao, Minghao and Shen, Li.<br />
   "Hierarchical Spatial–Temporal UAV Tracking With Three-Dimensional Wavelets for Road Traffic Surveillance." TITS (2025).
