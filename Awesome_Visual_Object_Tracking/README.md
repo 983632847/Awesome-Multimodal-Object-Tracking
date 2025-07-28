@@ -244,10 +244,6 @@
   [[paper](https://arxiv.org/abs/2504.13604)]
   [[code](https://github.com/vero1925/FocusTrack)]
   
-- **TAPNext:** Artem Zholus, Carl Doersch, Yi Yang, Skanda Koppula, Viorica Patraucean, Xu Owen He, Ignacio Rocco, Mehdi S. M. Sajjadi, Sarath Chandar, Ross Goroshin.<br />
-  "TAPNext: Tracking Any Point (TAP) as Next Token Prediction." ArXiv (2025).
-  [[paper](https://arxiv.org/abs/2504.05579)]
-  
 - **EffOWT:** Bingyang Wang, Kaer Huang, Bin Li, Yiqiang Yan, Lihe Zhang, Huchuan Lu, You He.<br />
   "EffOWT: Transfer Visual Language Models to Open-World Tracking Efficiently and Effectively." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2504.05141)]
@@ -298,6 +294,10 @@
   [[paper](https://ieeexplore.ieee.org/abstract/document/10928989)] 
 
 ### ICCV 2025
+- **TAPNext:** Artem Zholus, Carl Doersch, Yi Yang, Skanda Koppula, Viorica Patraucean, Xu Owen He, Ignacio Rocco, Mehdi S. M. Sajjadi, Sarath Chandar, Ross Goroshin.<br />
+  "TAPNext: Tracking Any Point (TAP) as Next Token Prediction." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2504.05579)]
+  
 - **TUEs:** Qiangqiang Wu, Yi Yu, Chenqi Kong, Ziquan Liu, Jia Wan, Haoliang Li, Alex C. Kot, Antoni B. Chan.<br />
   "Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking." ICCV (2025).
   [[paper](https://arxiv.org/abs/2507.07483)]
