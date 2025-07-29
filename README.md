@@ -989,6 +989,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **TIPTrack:** Kaixiang Yan, Wenhua Qian.<br />
+  "TIPTrack: time-series information prompt network for RGBT tracking." ESWA (2025).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425027721)]
+  
 - **MAP:** Guyue Hu, Zhanghuan Wang, Chenglong Li, Duzhi Yuan, Bin He & Jin Tang .<br />
   "Missingness-aware prompting for modality-missing RGBT tracking." J. King Saud Univ. Comput. Inf. Sci (2025).
   [[paper](https://link.springer.com/article/10.1007/s44443-025-00142-y)] 
