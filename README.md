@@ -1493,6 +1493,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2025
+- **UM-ODTrack:** Yaozong Zheng, Bineng Zhong, Qihua Liang, Shengping Zhang, Guorong Li, Xianxian Li, Rongrong Ji.<br />
+  "Towards Universal Modal Tracking with Online Dense Temporal Token Learning." TPAMI (2025).
+  [[paper](https://arxiv.org/abs/2507.20177)] 
+  [[code](https://github.com/GXNU-ZhongLab/ODTrack)]
+  
 - **MPVT:** Xie, Jianyu, Yan Fu, Junlin Zhou, Tianxiang He, Xiaopeng Wang, Yuke Fang, and Duanbing Chen.<br />
   "MPVT: An Efficient Multi-Modal Prompt Vision Tracker for Visual Target Tracking." Applied Sciences  (2025).
   [[paper](https://www.mdpi.com/2076-3417/15/14/7967)]
