@@ -294,6 +294,11 @@
   [[paper](https://ieeexplore.ieee.org/abstract/document/10928989)] 
 
 ### ICCV 2025
+- **ATCTrack:** X. Feng, S. Hu, X. Li, D. Zhang, M. Wu, J. Zhang, X. Chen, K. Huang.<br />
+  "ATCTrack: Aligning Target-Context Cues with Dynamic Target States for Robust Vision-Language Tracking." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2507.19875)] 
+  [[code](https://github.com/XiaokunFeng/ATCTrack)]
+  
 - **TAPNext:** Artem Zholus, Carl Doersch, Yi Yang, Skanda Koppula, Viorica Patraucean, Xu Owen He, Ignacio Rocco, Mehdi S. M. Sajjadi, Sarath Chandar, Ross Goroshin.<br />
   "TAPNext: Tracking Any Point (TAP) as Next Token Prediction." ICCV (2025).
   [[paper](https://arxiv.org/abs/2504.05579)]
