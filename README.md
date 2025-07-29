@@ -179,6 +179,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **ATCTrack:** X. Feng, S. Hu, X. Li, D. Zhang, M. Wu, J. Zhang, X. Chen, K. Huang.<br />
+  "ATCTrack: Aligning Target-Context Cues with Dynamic Target States for Robust Vision-Language Tracking." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2507.19875)] 
+  [[code](https://github.com/XiaokunFeng/ATCTrack)]
+  
 - **ATSTrack:** Yihao Zhen, Qiang Wang, Yu Qiao, Liangqiong Qu, Huijie Fan.<br />
   "ATSTrack: Enhancing Visual-Language Tracking by Aligning Temporal and Spatial Scales." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2507.00454)]
