@@ -77,6 +77,12 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **SAMITE:** Qianxiong Xu, Lanyun Zhu, Chenxi Liu, Guosheng Lin, Cheng Long, Ziyue Li, Rui Zhao.<br />
+"SAMITE: Position Prompted SAM2 with Calibrated Memory for Visual Object Tracking." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.21732)]
+[[code](https://github.com/Sam1224/SAMITE)]
+[2025.07]
+
 - **HQ-SMem:** Elham Soltani Kazemi, Imad Eddine Toubal, Gani Rahmon, Jaired Collins, K. Palaniappan.<br />
 "HQ-SMem: Video Segmentation and Tracking Using Memory Efficient Object Embedding With Selective Update and Self-Supervised Distillation Feedback." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.18921)]
