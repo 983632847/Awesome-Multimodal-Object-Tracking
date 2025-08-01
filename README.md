@@ -131,6 +131,10 @@ If you find our work useful in your research, please consider citing:
   "Visual object tracking: Review and challenges." Applied Soft Computing (2025).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S156849462500451X)] 
 
+- Fereshteh Aghaee Meibodi, Shadi Alijani, Homayoun Najjaran.<br />
+  "A Deep Dive into Generic Object Tracking: A Survey." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2507.23251)] 
+
 ## Embodied Visual Tracking
 ### Datasets
 
