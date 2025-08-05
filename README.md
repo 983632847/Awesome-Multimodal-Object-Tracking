@@ -993,6 +993,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **CST Anti-UAV:** Bin Xie, Congxuan Zhang, Fagan Wang, Peng Liu, Feng Lu, Zhen Chen, Weiming Hu.<br />
+  "CST Anti-UAV: A Thermal Infrared Benchmark for Tiny UAV Tracking in Complex Scenes." ICCVW (2025).
+  [[paper](https://arxiv.org/abs/2507.23473)]
+  
 - **TIPTrack:** Kaixiang Yan, Wenhua Qian.<br />
   "TIPTrack: time-series information prompt network for RGBT tracking." ESWA (2025).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425027721)]
