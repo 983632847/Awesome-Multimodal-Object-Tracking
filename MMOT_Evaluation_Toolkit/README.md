@@ -6,7 +6,7 @@
 
 
 ## Download
-- You can download the MMOT evaluation toolkit from this repository, or alternatively via [Google Drive](https://drive.google.com/drive/folders/1eKPUZV5vaKwcF0gZFIkOITpEznTd7zv5?usp=sharing) or [Baidu Pan](https://pan.baidu.com/s/1JygwsLTh1HbUGCdLb4LoBQ?pwd=MMOT), the extraction code is ***MMOT***.
+- You can download the MMOT evaluation toolkit from this repository, or alternatively via [Google Drive](https://drive.google.com/drive/folders/1eKPUZV5vaKwcF0gZFIkOITpEznTd7zv5?usp=sharing) or [Baidu Pan](https://pan.baidu.com/s/1JygwsLTh1HbUGCdLb4LoBQ?pwd=MMOT), the extraction code is ***MMOT*** (Last updated on October 2024).
 - Download annotations through [Google Drive](https://drive.google.com/drive/folders/1eKPUZV5vaKwcF0gZFIkOITpEznTd7zv5?usp=sharing) or [Baidu Pan](https://pan.baidu.com/s/1-89I98ngKmRVVZjxqxH6vg?pwd=idmc).
 - Download tracking results through [Google Drive](https://drive.google.com/drive/folders/1eKPUZV5vaKwcF0gZFIkOITpEznTd7zv5?usp=sharing) or [Baidu Pan](https://pan.baidu.com/s/1T-VUhdW4u9Lxin78_Vo-ig?pwd=f7ia).
 
