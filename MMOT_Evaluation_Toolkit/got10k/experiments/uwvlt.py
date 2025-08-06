@@ -536,6 +536,11 @@ class ExperimentUWVLT(object):
                             markers[i % len(markers)],
                             linewidth=2)  ##########################*****************************************
             lines.append(line)
+            # if name=="SAM2-L":
+            #     name_show = r'$\mathrm{OKT}_{\mathrm{OS}}$++'
+            # else:
+            #     name_show = name
+            # legends.append(f'{name_show}:, [{performance[name][key]["success_score"]:.3f}]')
             legends.append('%s: [%.3f]' % (name, performance[name][key]['success_score']))
         matplotlib.rcParams.update({'font.size': 14})
         # matplotlib.rcParams.update({'font.size': 7.4})

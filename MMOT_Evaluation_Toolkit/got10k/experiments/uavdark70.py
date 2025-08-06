@@ -400,11 +400,15 @@ class ExperimentUAVDark70(object):
         legends = []
         for i, name in enumerate(tracker_names):
             line, = ax.plot(thr_iou,
-                            performance[name][key]['success_curve'],
+                            # performance[name][key]['success_curve'],
+                            [x * 100 for x in performance[name][key]['success_curve']],  ###########
+
                             markers[i % len(markers)],
                             linewidth=2)  ##########################*****************************************
             lines.append(line)
-            legends.append('%s: [%.3f]' % (name, performance[name][key]['success_score']))
+            # legends.append('%s: [%.3f]' % (name, performance[name][key]['success_score']))
+
+            legends.append('%s: [%.1f]' % (name, 100*performance[name][key]['success_score']))
         matplotlib.rcParams.update({'font.size': 15})
         # matplotlib.rcParams.update({'font.size': 7.4})
         # matplotlib.rcParams.update({'font.size': 10})           # Top 21 methods, font size 8.0
@@ -427,7 +431,9 @@ class ExperimentUAVDark70(object):
         ax.yaxis.label.set_size(18)
         ax.set(xlabel='Overlap threshold',
                ylabel='Success rate',
-               xlim=(0, 1), ylim=(0, 1),
+               xlim=(0, 1),
+               # ylim=(0, 1),
+               ylim=(0, 100),
                title='Success plots of OPE'+title_name_suffix)
         # ax.grid(True)
         ax.grid(True, linestyle='-.')  ##########################*****************************************

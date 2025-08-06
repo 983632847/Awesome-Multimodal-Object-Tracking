@@ -657,9 +657,9 @@ class ExperimentWebUAV3M(object):
                             linewidth=2)  ##########################*****************************************
             lines.append(line)
             legends.append('%s: [%.3f]' % (name, performance[name][key]['success_score']))
-        matplotlib.rcParams.update({'font.size': 12})
+        # matplotlib.rcParams.update({'font.size': 12})
         # matplotlib.rcParams.update({'font.size': 7.4})
-        # matplotlib.rcParams.update({'font.size': 8.0})           # Top 21 methods, font size 8.0
+        matplotlib.rcParams.update({'font.size': 8.0})           # Top 21 methods, font size 8.0
         # matplotlib.rcParams.update({'font.size': 4.32})        # Top 43 methods, font size 4.32
 
         ##########################*****************************************
@@ -723,8 +723,8 @@ class ExperimentWebUAV3M(object):
             lines.append(line)
             legends.append('%s: [%.3f]' % (name, performance[name][key]['precision_score']))
         # matplotlib.rcParams.update({'font.size': 7.4})
-        matplotlib.rcParams.update({'font.size': 12})
-        # matplotlib.rcParams.update({'font.size': 8.0})           # Top 21 methods, font size 8.0
+        # matplotlib.rcParams.update({'font.size': 12})
+        matplotlib.rcParams.update({'font.size': 8.0})           # Top 21 methods, font size 8.0
         # matplotlib.rcParams.update({'font.size': 4.32})        # Top 43 methods, font size 4.32
 
         ##########################*****************************************
@@ -787,8 +787,8 @@ class ExperimentWebUAV3M(object):
             lines.append(line)
             legends.append('%s: [%.3f]' % (name, performance[name][key]['success_complete_score']))
         # matplotlib.rcParams.update({'font.size': 7.4})
-        matplotlib.rcParams.update({'font.size': 12})
-        # matplotlib.rcParams.update({'font.size': 8.0})           # Top 21 methods, font size 8.0
+        # matplotlib.rcParams.update({'font.size': 12})
+        matplotlib.rcParams.update({'font.size': 8.0})           # Top 21 methods, font size 8.0
         # matplotlib.rcParams.update({'font.size': 4.32})        # Top 43 methods, font size 4.32
 
         ##########################*****************************************
@@ -853,8 +853,8 @@ class ExperimentWebUAV3M(object):
             lines.append(line)
             legends.append('%s: [%.3f]' % (name, performance[name][key]['precision_norm_score']))
         # matplotlib.rcParams.update({'font.size': 7.4})
-        matplotlib.rcParams.update({'font.size': 12})
-        # matplotlib.rcParams.update({'font.size': 8.0})           # Top 21 methods, font size 8.0
+        # matplotlib.rcParams.update({'font.size': 12})
+        matplotlib.rcParams.update({'font.size': 8.0})           # Top 21 methods, font size 8.0
         # matplotlib.rcParams.update({'font.size': 4.32})        # Top 43 methods, font size 4.32
 
         ##########################*****************************************

@@ -33,7 +33,7 @@ class ExperimentGOT10k(object):
         assert subset in ['val', 'test']
         self.subset = subset
         self.dataset = GOT10k(root_dir, subset=subset)
-        self.result_dir = os.path.join(result_dir, 'GOT-10k')
+        self.result_dir = os.path.join(result_dir, 'Baseline_Results', 'GOT-10k')
         self.report_dir = os.path.join(report_dir, 'GOT-10k')
         self.nbins_iou = 101
         self.repetitions = 3

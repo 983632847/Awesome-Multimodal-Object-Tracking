@@ -8,13 +8,13 @@ import json
 import math
 from PIL import Image
 from scipy import signal
-from ..datasets import UWCOT
+from ..datasets import VLA_SES
 from ..utils.metrics import rect_iou, center_error, center_error_norm, rect_iou_complete
 from ..utils.viz import show_frame
 from accuracy.accuracy import eval
 
 
-class ExperimentUWCOT(object):
+class ExperimentVLA_SES(object):
     r"""Experiment pipeline and evaluation toolkit for WebUAV-3M dataset.
 
     Args:
@@ -35,9 +35,9 @@ class ExperimentUWCOT(object):
             evaluation results. Default is ``./reports_scenario``.
     """
     def __init__(self, root_dir, att_name, sce_name, return_meta=True, result_dir='results', report_dir='reports', report_scenario_dir='reports_scenario'):
-        super(ExperimentUWCOT, self).__init__()
+        super(ExperimentVLA_SES, self).__init__()
         self.return_meta = return_meta
-        self.dataset = UWCOT(root_dir, self.return_meta)
+        self.dataset = VLA_SES(root_dir, self.return_meta)   ##########
 
         #############################################################################
         # results root
@@ -45,10 +45,12 @@ class ExperimentUWCOT(object):
         #     self.result_dir = os.path.join(result_dir, 'Baseline_Results', 'WebUAV-3M-AE')
         # else:
         #     self.result_dir = os.path.join(result_dir, 'Baseline_Results', 'WebUAV-3M')             # Test results, the first six scenarios
-        self.result_dir = os.path.join(result_dir, 'Baseline_Results', 'UW-COT')
+        self.result_dir = os.path.join(result_dir, 'Baseline_Results', 'VLA-SES')
+        # self.result_dir = os.path.join(result_dir, 'Baseline_Results', 'FrameRate_Drops')
 
         # report root
-        self.report_dir = os.path.join(report_dir, 'UW-COT')
+        self.report_dir = os.path.join(report_dir, 'VLA-SES')
+        # self.report_dir = os.path.join(report_dir, 'FrameRate_Drops')
 
         self.att_name = att_name        # if att_name == "All" for all sequences, else for each attribute
         self.sce_name = sce_name        # Scenarios
@@ -63,28 +65,11 @@ class ExperimentUWCOT(object):
         ## Attribute-Based Evaluation
         # 10+14+15+16+3=58
         self.att_dict = {
-            'Low_resolution':0, 'Fast_motion':1, 'Scale_variation':2, 'Aspect_ratio_variation':3,
-            'Size_Small':4, 'Size_Medium':5, 'Size_Big':6,
-            'Length_Short':7, 'Length_Medium':8, 'Length_Long':9,
-
-            'Camera_motion':10, 'Viewpoint_change':11, 'Partial_occlusion':12, 'Full_occlusion':13, 'Out_of_view':14,
-            'Rotation':15, 'Deformation':16, 'Similar_distractors':17, 'Illumination_variation':18, 'Motion_blur':19,
-            'Partial_target_information':20, 'Natural_object':21, 'Artificial_object':22, 'Camouflage':23,
-
-            'Underwater_visibility_Low':24, 'Underwater_visibility_Medium':25, 'Underwater_visibility_High':26,
-            'Underwater_scene_Sea':27, 'Underwater_scene_River':28, 'Underwater_scene_Pool':29, 'Underwater_scene_Water_Tank':30,
-            'Underwater_scene_Fish_Tank':31, 'Underwater_scene_Basin':32, 'Underwater_scene_Bowl':33, 'Underwater_scene_Cup':34,
-            'Underwater_scene_Aquaria':35, 'Underwater_scene_Pond':36, 'Underwater_scene_Puddle':37, 'Underwater_scene_Lake':38,
-
-            'Water_color_variation_Colorless':39, 'Water_color_variation_Ash':40, 'Water_color_variation_Gray':41,
-            'Water_color_variation_Green':42, 'Water_color_variation_Light_Green':43, 'Water_color_variation_Dark':44,
-            'Water_color_variation_Blue_Black':45, 'Water_color_variation_Deep_Blue':46, 'Water_color_variation_Blue':47,
-            'Water_color_variation_Light_Blue':48, 'Water_color_variation_Partly_Blue':49, 'Water_color_variation_GrayBlue':50,
-            'Water_color_variation_Light_Yellow':51, 'Water_color_variation_Light_Brown':52, 'Water_color_variation_Cyan':53,
-            'Water_color_variation_Light_Purple':54,
-
-            'Underwater_view':55, 'Fish_eye_view':56, 'Outside_water_view':57,
-        }
+        'Illumination_Variation':0, 'Partial_Occlusion':1, 'Deformation':2,
+        'Motion_Blur':3, 'Camera_Motion':4, 'Rotation':5, 'Background_Clutter':6,
+        'Viewpoint_Change':7, 'Scale_Variation':8, 'Full_Occlusion':9, 'Fast_Motion':10,
+        'Out_of_View':11, 'Low_Resolution':12, 'Aspect_Ration_Change':13
+         }
 
         self.OccN = 5   # The next K (=5) frames after the current frame
 
@@ -174,126 +159,10 @@ class ExperimentUWCOT(object):
                 else:
                     # 10+14+15+16+3=58
                     # 'Low_resolution', 'Fast_motion', 'Scale_variation', 'Aspect_ratio_variation',
-                    if att_dict[att] <= 3:
+                    if att_dict[att] <= 13:
                         Select_FLAG = (meta['att'][att_dict[att]] == True)
-
-                    # 'Size_Small', 'Size_Medium', 'Size_Big',
-                    elif att_dict[att] == 4:
-                        Select_FLAG = (meta['att'][4] == 0)
-                    elif att_dict[att] == 5:
-                        Select_FLAG = (meta['att'][4] == 1)
-                    elif att_dict[att] == 6:
-                        Select_FLAG = (meta['att'][4] == 2)
-
-                    # 'Length_Short', 'Length_Medium', 'Length_Long',
-                    elif att_dict[att] == 7:
-                        Select_FLAG = (meta['att'][5] == 0)
-                    elif att_dict[att] == 8:
-                        Select_FLAG = (meta['att'][5] == 1)
-                    elif att_dict[att] == 9:
-                        Select_FLAG = (meta['att'][5] == 2)
-
-                    # 'Camera_motion', 'Viewpoint_change', 'Partial_occlusion', 'Full_occlusion', 'Out_of_view',
-                    # 'Rotation', 'Deformation', 'Similar_distractors', 'Illumination_variation', 'Motion_blur',
-                    # 'Partial_target_information',
-                    elif att_dict[att]>=10 and att_dict[att]<=20:
-                        Select_FLAG = (meta['att'][att_dict[att]-4] == True)  # 6-16
-
-                    # 'Natural_object', 'Artificial_object',
-                    elif att_dict[att] == 21:
-                        Select_FLAG = (meta['att'][17] == 0)
-                    elif att_dict[att] == 22:
-                        Select_FLAG = (meta['att'][17] == 1)
-
-                    # 'Camouflage',
-                    elif att_dict[att] == 23:
-                        Select_FLAG = (meta['att'][18] == True)
-
-                    # 'Underwater_visibility_Low', 'Underwater_visibility_Medium', 'Underwater_visibility_High',
-                    elif att_dict[att] == 24:
-                        Select_FLAG = (meta['att'][19] == 0)
-                    elif att_dict[att] == 25:
-                        Select_FLAG = (meta['att'][19] == 1)
-                    elif att_dict[att] == 26:
-                        Select_FLAG = (meta['att'][19] == 2)
-
-                    # 'Underwater_scene_Sea', 'Underwater_scene_River', 'Underwater_scene_Pool', 'Underwater_scene_Water_Tank',
-                    # 'Underwater_scene_Fish_Tank', 'Underwater_scene_Basin', 'Underwater_scene_Bowl', 'Underwater_scene_Cup',
-                    # 'Underwater_scene_Aquaria', 'Underwater_scene_Pond', 'Underwater_scene_Puddle', 'Underwater_scene_Lake',
-
-                    elif att_dict[att] == 27:
-                        Select_FLAG = (meta['att'][20] == 0)
-                    elif att_dict[att] == 28:
-                        Select_FLAG = (meta['att'][20] == 1)
-                    elif att_dict[att] == 29:
-                        Select_FLAG = (meta['att'][20] == 2)
-                    elif att_dict[att] == 30:
-                        Select_FLAG = (meta['att'][20] == 3)
-                    elif att_dict[att] == 31:
-                        Select_FLAG = (meta['att'][20] == 4)
-                    elif att_dict[att] == 32:
-                        Select_FLAG = (meta['att'][20] == 5)
-                    elif att_dict[att] == 33:
-                        Select_FLAG = (meta['att'][20] == 6)
-                    elif att_dict[att] == 34:
-                        Select_FLAG = (meta['att'][20] == 7)
-                    elif att_dict[att] == 35:
-                        Select_FLAG = (meta['att'][20] == 8)
-                    elif att_dict[att] == 36:
-                        Select_FLAG = (meta['att'][20] == 9)
-                    elif att_dict[att] == 37:
-                        Select_FLAG = (meta['att'][20] == 10)
-                    elif att_dict[att] == 38:
-                        Select_FLAG = (meta['att'][20] == 11)
-
-                    # 'Water_color_variation_Colorless', 'Water_color_variation_Ash', 'Water_color_variation_Gray',
-                    # 'Water_color_variation_Green', 'Water_color_variation_Light_Green', 'Water_color_variation_Dark',
-                    # 'Water_color_variation_Blue_Black', 'Water_color_variation_Deep_Blue', 'Water_color_variation_Blue',
-                    # 'Water_color_variation_Light_Blue', 'Water_color_variation_Partly_Blue', 'Water_color_variation_GrayBlue',
-                    # 'Water_color_variation_Light_Yellow', 'Water_color_variation_Light_Brown', 'Water_color_variation_Cyan',
-                    # 'Water_color_variation_Light_Purple',
-                    elif att_dict[att] == 39:
-                        Select_FLAG = (meta['att'][21] == 0)
-                    elif att_dict[att] == 40:
-                        Select_FLAG = (meta['att'][21] == 1)
-                    elif att_dict[att] == 41:
-                        Select_FLAG = (meta['att'][21] == 2)
-                    elif att_dict[att] == 42:
-                        Select_FLAG = (meta['att'][21] == 3)
-                    elif att_dict[att] == 43:
-                        Select_FLAG = (meta['att'][21] == 4)
-                    elif att_dict[att] == 44:
-                        Select_FLAG = (meta['att'][21] == 5)
-                    elif att_dict[att] == 45:
-                        Select_FLAG = (meta['att'][21] == 6)
-                    elif att_dict[att] == 46:
-                        Select_FLAG = (meta['att'][21] == 7)
-                    elif att_dict[att] == 47:
-                        Select_FLAG = (meta['att'][21] == 8)
-                    elif att_dict[att] == 48:
-                        Select_FLAG = (meta['att'][21] == 9)
-                    elif att_dict[att] == 49:
-                        Select_FLAG = (meta['att'][21] == 10)
-                    elif att_dict[att] == 50:
-                        Select_FLAG = (meta['att'][21] == 11)
-                    elif att_dict[att] == 51:
-                        Select_FLAG = (meta['att'][21] == 12)
-                    elif att_dict[att] == 52:
-                        Select_FLAG = (meta['att'][21] == 13)
-                    elif att_dict[att] == 53:
-                        Select_FLAG = (meta['att'][21] == 14)
-                    elif att_dict[att] == 54:
-                        Select_FLAG = (meta['att'][21] == 15)
-
-                    # 'Underwater_view', 'Fish_eye_view', 'Outside_water_view',
-                    elif att_dict[att] == 55:
-                        Select_FLAG = (meta['att'][22] == 0)
-                    elif att_dict[att] == 56:
-                        Select_FLAG = (meta['att'][22] == 1)
-                    elif att_dict[att] == 57:
-                        Select_FLAG = (meta['att'][22] == 2)
                     else:
-                        assert (att_dict[att] > 23)
+                        assert (att_dict[att] > 14)
 
                 if Select_FLAG:
                     # print(s)
@@ -313,14 +182,14 @@ class ExperimentUWCOT(object):
                     #     break
 
                     # # not the optimal strategy
-                    # if len(boxes) != len(anno):
-                    #     print(record_file, "Length Error!")
-                    #     # break
-                    #     minLen = min(len(boxes), len(anno))
-                    #     boxes = boxes[0:minLen, :]
-                    #     anno = anno[0:minLen, :]
+                    if len(boxes) != len(anno):
+                        print(record_file, "Length Error!")
+                        # break
+                        minLen = min(len(boxes), len(anno))
+                        boxes = boxes[0:minLen, :]
+                        anno = anno[0:minLen, :]
                     #######################################################
-                    assert len(boxes) == len(anno)
+                    # assert len(boxes) == len(anno)
 
                     # overall
                     ious, center_errors, ious_complete, center_errors_norm = self._calc_metrics(boxes, anno)   # num of frames
@@ -507,7 +376,7 @@ class ExperimentUWCOT(object):
         markers = [c + m for m in markers for c in [''] * 3]
 
         if att_name == "All":
-            title_name_suffix = " on UW-COT220"
+            title_name_suffix = " on VLA-SES"
         else:
             title_name_suffix = " - " + att_name.replace("_", " ")
 
@@ -519,15 +388,13 @@ class ExperimentUWCOT(object):
         tracker_names = [tracker_names[i] for i in inds]
 
         # ####################################################
-        ShowNum = min(30, len(tracker_names))    # Show top 21 methods
+        ShowNum = min(21, len(tracker_names))    # Show top 21 methods
         tracker_names = tracker_names[0:ShowNum]
         # ####################################################
 
         # plot success curves
         thr_iou = np.linspace(0, 1, self.nbins_iou)
-        # fig, ax = plt.subplots(figsize=(10,10.2), dpi=300)
-        fig, ax = plt.subplots(figsize=(10, 8.2), dpi=300)
-        plt.tick_params(labelsize=22)
+        fig, ax = plt.subplots(figsize=(10,8), dpi=300)
         lines = []
         legends = []
         for i, name in enumerate(tracker_names):
@@ -537,31 +404,30 @@ class ExperimentUWCOT(object):
                             linewidth=2)  ##########################*****************************************
             lines.append(line)
             legends.append('%s: [%.3f]' % (name, performance[name][key]['success_score']))
-        # matplotlib.rcParams.update({'font.size': 14})
+        matplotlib.rcParams.update({'font.size': 14})
         # matplotlib.rcParams.update({'font.size': 7.4})
-        matplotlib.rcParams.update({'font.size': 20})           # Top 12 methods
         # matplotlib.rcParams.update({'font.size': 10})           # Top 21 methods, font size 8.0
-        # matplotlib.rcParams.update({'font.size': 4.32})        # Top 43 methods, font size 4.32
+        # matplotlib.rcParams.update({'font.size': 4.32})         # Top 43 methods, font size 4.32
 
         ##########################*****************************************
-        matplotlib.rcParams.update({'axes.titlesize': 24})
+        matplotlib.rcParams.update({'axes.titlesize': 18})
         matplotlib.rcParams.update({'axes.titleweight': 'black'})
-        matplotlib.rcParams.update({'axes.labelsize': 22})
+        matplotlib.rcParams.update({'axes.labelsize': 15})
 
         # legend = ax.legend(lines, legends, loc='center left',
         #                    bbox_to_anchor=(1, 0.5))
         legend = ax.legend(lines, legends, loc='center right')
 
         # matplotlib.rcParams.update({'font.size': 9})
-        matplotlib.rcParams.update({'font.size': 22})
-        plt.rcParams['axes.labelsize'] = 22
-        ax.title.set_size(22)
-        ax.xaxis.label.set_size(22)
-        ax.yaxis.label.set_size(22)
+        matplotlib.rcParams.update({'font.size': 15})
+        # plt.rcParams['axes.labelsize'] = 14
+        # ax.title.set_size(12)
+        ax.xaxis.label.set_size(15)
+        ax.yaxis.label.set_size(15)
         ax.set(xlabel='Overlap threshold',
                ylabel='Success rate',
                xlim=(0, 1), ylim=(0, 1),
-               title='Success plots'+title_name_suffix)
+               title='Success plots of OPE'+title_name_suffix)
         # ax.grid(True)
         ax.grid(True, linestyle='-.')  ##########################*****************************************
         fig.tight_layout()
@@ -593,8 +459,7 @@ class ExperimentUWCOT(object):
 
         # plot precision curves
         thr_ce = np.arange(0, self.nbins_ce)
-        # fig, ax = plt.subplots(figsize=(10,10.2), dpi=300)
-        fig, ax = plt.subplots(figsize=(10, 8.2), dpi=300)
+        fig, ax = plt.subplots(figsize=(10,8), dpi=300)
         lines = []
         legends = []
         for i, name in enumerate(tracker_names):
@@ -605,29 +470,28 @@ class ExperimentUWCOT(object):
             lines.append(line)
             legends.append('%s: [%.3f]' % (name, performance[name][key]['precision_score']))
         # matplotlib.rcParams.update({'font.size': 7.4})
-        # matplotlib.rcParams.update({'font.size': 14})
-        matplotlib.rcParams.update({'font.size': 20})
+        matplotlib.rcParams.update({'font.size': 14})
         # matplotlib.rcParams.update({'font.size': 10.0})           # Top 21 methods, font size 8.0
         # matplotlib.rcParams.update({'font.size': 4.32})        # Top 43 methods, font size 4.32
 
         ##########################*****************************************
-        matplotlib.rcParams.update({'axes.titlesize': 24})
+        matplotlib.rcParams.update({'axes.titlesize': 18})
         matplotlib.rcParams.update({'axes.titleweight': 'black'})
-        matplotlib.rcParams.update({'axes.labelsize': 22})
+        matplotlib.rcParams.update({'axes.labelsize': 15})
 
         # legend = ax.legend(lines, legends, loc='center left',
         #                    bbox_to_anchor=(1, 0.5))
         legend = ax.legend(lines, legends, loc='center left')
 
         # matplotlib.rcParams.update({'font.size': 9})
-        matplotlib.rcParams.update({'font.size': 22})
-        plt.rcParams['axes.labelsize'] = 22
-        ax.xaxis.label.set_size(22)
-        ax.yaxis.label.set_size(22)
+        matplotlib.rcParams.update({'font.size': 15})
+        # plt.rcParams['axes.labelsize'] = 14
+        ax.xaxis.label.set_size(15)
+        ax.yaxis.label.set_size(15)
         ax.set(xlabel='Location error threshold',
                ylabel='Precision',
                xlim=(0, thr_ce.max()), ylim=(0, 1),
-               title='Precision plots'+title_name_suffix)
+               title='Precision plots of OPE'+title_name_suffix)
         # ax.grid(True)
         ax.grid(True, linestyle='-.')  ##########################*****************************************
         fig.tight_layout()
@@ -659,8 +523,7 @@ class ExperimentUWCOT(object):
 
         # plot complete success curves
         thr_iou = np.linspace(0, 1, self.nbins_iou_complete)
-        # fig, ax = plt.subplots(figsize=(10,10.2), dpi=300)
-        fig, ax = plt.subplots(figsize=(10, 8.2), dpi=300)
+        fig, ax = plt.subplots(figsize=(10,8), dpi=300)
         lines = []
         legends = []
         for i, name in enumerate(tracker_names):
@@ -671,28 +534,28 @@ class ExperimentUWCOT(object):
             lines.append(line)
             legends.append('%s: [%.3f]' % (name, performance[name][key]['success_complete_score']))
         # matplotlib.rcParams.update({'font.size': 7.4})
-        matplotlib.rcParams.update({'font.size': 20})
+        matplotlib.rcParams.update({'font.size': 14})
         # matplotlib.rcParams.update({'font.size': 10.0})           # Top 21 methods, font size 8.0
         # matplotlib.rcParams.update({'font.size': 4.32})        # Top 43 methods, font size 4.32
 
         ##########################*****************************************
-        matplotlib.rcParams.update({'axes.titlesize': 24})
+        matplotlib.rcParams.update({'axes.titlesize': 18})
         matplotlib.rcParams.update({'axes.titleweight': 'black'})
-        matplotlib.rcParams.update({'axes.labelsize': 22})
+        matplotlib.rcParams.update({'axes.labelsize': 15})
 
         # legend = ax.legend(lines, legends, loc='center left',
         #                    bbox_to_anchor=(1, 0.5))
         legend = ax.legend(lines, legends, loc='center right')
 
         # matplotlib.rcParams.update({'font.size': 9})
-        matplotlib.rcParams.update({'font.size': 22})
-        plt.rcParams['axes.labelsize'] = 22
-        ax.xaxis.label.set_size(22)
-        ax.yaxis.label.set_size(22)
+        matplotlib.rcParams.update({'font.size': 15})
+        # plt.rcParams['axes.labelsize'] = 12
+        ax.xaxis.label.set_size(15)
+        ax.yaxis.label.set_size(15)
         ax.set(xlabel='Overlap threshold',
                ylabel='Complete success rate',
                xlim=(0, 1), ylim=(0, 1),
-               title='Complete success plots'+title_name_suffix)
+               title='Complete success plots of OPE'+title_name_suffix)
         # ax.grid(True)
         ax.grid(True, linestyle='-.')  ##########################*****************************************
         fig.tight_layout()
@@ -724,8 +587,7 @@ class ExperimentUWCOT(object):
 
         # plot normalized precision curves
         thr_ce = np.arange(0, self.nbins_ce_norm) / 100
-        # fig, ax = plt.subplots(figsize=(10,10.2), dpi=300)
-        fig, ax = plt.subplots(figsize=(10, 8.2), dpi=300)
+        fig, ax = plt.subplots(figsize=(10,8), dpi=300)
         lines = []
         legends = []
         for i, name in enumerate(tracker_names):
@@ -736,28 +598,28 @@ class ExperimentUWCOT(object):
             lines.append(line)
             legends.append('%s: [%.3f]' % (name, performance[name][key]['precision_norm_score']))
         # matplotlib.rcParams.update({'font.size': 7.4})
-        matplotlib.rcParams.update({'font.size': 20})
+        matplotlib.rcParams.update({'font.size': 14})
         # matplotlib.rcParams.update({'font.size': 10.0})           # Top 21 methods, font size 8.0
         # matplotlib.rcParams.update({'font.size': 4.32})        # Top 43 methods, font size 4.32
 
         ##########################*****************************************
-        matplotlib.rcParams.update({'axes.titlesize': 24})
+        matplotlib.rcParams.update({'axes.titlesize': 18})
         matplotlib.rcParams.update({'axes.titleweight': 'black'})
-        matplotlib.rcParams.update({'axes.labelsize': 22})
+        matplotlib.rcParams.update({'axes.labelsize': 15})
 
         # legend = ax.legend(lines, legends, loc='center left',
         #                    bbox_to_anchor=(1, 0.5))
         legend = ax.legend(lines, legends, loc='center left')
 
         # matplotlib.rcParams.update({'font.size': 9})
-        matplotlib.rcParams.update({'font.size': 22})
-        plt.rcParams['axes.labelsize'] = 22
-        ax.xaxis.label.set_size(22)
-        ax.yaxis.label.set_size(22)
+        matplotlib.rcParams.update({'font.size': 15})
+        # plt.rcParams['axes.labelsize'] = 12
+        ax.xaxis.label.set_size(15)
+        ax.yaxis.label.set_size(15)
         ax.set(xlabel='Location error threshold',
                ylabel='Normalized precision',
                xlim=(0, thr_ce.max()), ylim=(0, 1),
-               title='Normalized precision plots'+title_name_suffix)
+               title='Normalized precision plots of OPE'+title_name_suffix)
         # ax.grid(True)
         ax.grid(True, linestyle='-.')  ##########################*****************************************
         fig.tight_layout()
