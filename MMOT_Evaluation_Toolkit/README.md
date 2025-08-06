@@ -21,7 +21,9 @@ For Overall, Attribute, Accuracy and UTUSC Protocol evaluations in OPE using Pre
 
 # Step2. Put the results in MMOT_Evaluation_Toolkit/results/Baseline_Results/WebUAV-3M-Test
 
-# Step3. Report tracking performance
+# Step3. Set the dataset path in the script of Step4 
+
+# Step4. Report tracking performance
 
 python WebUAV-3M_Overall_Evaluation.py
 
@@ -40,7 +42,9 @@ For Overall, Attribute, and Accuracy evaluations in OPE using Pre, nPre, AUC, cA
 
 # Step2. Put the results in MMOT_Evaluation_Toolkit/results/Baseline_Results/WebUOT-1M-Test
 
-# Step3. Report tracking performance
+# Step3. Set the dataset path in the script of Step4 
+
+# Step4. Report tracking performance
 
 python WebUOT-1M_Overall_Evaluation.py
 
@@ -57,7 +61,9 @@ For Overall and Accuracy evaluations in OPE using Pre, nPre, AUC, cAUC and mAcc 
 
 # Step2. Put the results in MMOT_Evaluation_Toolkit/results/Baseline_Results/UW-COT220
 
-# Step3. Report tracking performance
+# Step3. Set the dataset path in the script of Step4 
+
+# Step4. Report tracking performance
 
 python UWCOT220_Overall_Evaluation.py
 
