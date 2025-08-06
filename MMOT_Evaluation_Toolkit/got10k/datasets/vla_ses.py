@@ -6,21 +6,16 @@ import numpy as np
 import six
 
 
-class UWCOT(object):
-    """`WebUAV-3M <https://github.com/flyers/drone-tracking>`_ Dataset.
-
+class VLA_SES(object):
+    """
     Publication:
-        ``WebUAV-3M: A Benchmark for Unveiling the Power of Million-Scale Deep UAV Tracking``,
-        Chunhui Zhang, Guanjie Huang, Li Liu, Shan Huang, Yinan Yang, Xiang Wan,
-        Shiming Ge, Dacheng Tao. arXiv 2022.
-
     Args:
         root_dir (string): Root directory of dataset where sequence
             folders exist.
     """
 
     def __init__(self, root_dir, return_meta=True):
-        super(UWCOT, self).__init__()
+        super(VLA_SES, self).__init__()
         self.root_dir = root_dir
         self._check_integrity(root_dir)
 
@@ -85,23 +80,14 @@ class UWCOT(object):
             att_file = os.path.join(seq_dir, 'attributes.txt')
             meta['att'] = np.loadtxt(att_file, delimiter=',')
         except:
-            # pass
-            print("No attributes.txt")
+            pass
+            # print("No attributes.txt")
 
-        # # scenarios
-        # try:
-        #     att_file = os.path.join(seq_dir, 'scenario.txt')
-        #     meta['sce'] = np.loadtxt(att_file, delimiter=',')
-        # except:
-        #     # pass
-        #     print("No scenario.txt")
-
-        # nlp
         try:
             nlp_file = os.path.join(seq_dir, 'language.txt')
             with open(nlp_file, 'r') as f:
                 meta['nlp'] = f.read().strip()
         except:
             pass
-            # print("No language.txt")
+            print("No language.txt")
         return meta

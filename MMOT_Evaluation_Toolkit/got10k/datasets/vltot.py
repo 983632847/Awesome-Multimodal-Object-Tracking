@@ -6,8 +6,8 @@ import numpy as np
 import six
 
 
-class UWCOT(object):
-    """`WebUAV-3M <https://github.com/flyers/drone-tracking>`_ Dataset.
+class VLTOT(object):
+    """`WebUAV-3M` Dataset.
 
     Publication:
         ``WebUAV-3M: A Benchmark for Unveiling the Power of Million-Scale Deep UAV Tracking``,
@@ -20,7 +20,7 @@ class UWCOT(object):
     """
 
     def __init__(self, root_dir, return_meta=True):
-        super(UWCOT, self).__init__()
+        super(VLTOT, self).__init__()
         self.root_dir = root_dir
         self._check_integrity(root_dir)
 
@@ -46,7 +46,7 @@ class UWCOT(object):
             index = self.seq_names.index(index)
 
         img_files = sorted(glob.glob(
-            os.path.join(self.seq_dirs[index], 'imgs/*.jpg')))
+            os.path.join(self.seq_dirs[index], 'img/*.jpg')))
         anno = np.loadtxt(self.anno_files[index], delimiter=',')
         ##########################################################
         # assert len(img_files) == len(anno)

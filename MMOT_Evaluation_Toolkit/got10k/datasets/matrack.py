@@ -6,7 +6,7 @@ import numpy as np
 import six
 
 
-class UWCOT(object):
+class MATrack(object):
     """`WebUAV-3M <https://github.com/flyers/drone-tracking>`_ Dataset.
 
     Publication:
@@ -20,7 +20,7 @@ class UWCOT(object):
     """
 
     def __init__(self, root_dir, return_meta=True):
-        super(UWCOT, self).__init__()
+        super(MATrack, self).__init__()
         self.root_dir = root_dir
         self._check_integrity(root_dir)
 

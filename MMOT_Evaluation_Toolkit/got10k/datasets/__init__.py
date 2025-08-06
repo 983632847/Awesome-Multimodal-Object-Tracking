@@ -12,6 +12,7 @@ from .trackingnet import TrackingNet
 from .vid import ImageNetVID
 from .webuav3m import WebUAV3M
 from .uwvlt import UWVLT
+from .vltot import VLTOT
 from .vmat import VMAT
 from .utb180 import UTB180
 from .uot100 import UOT100
@@ -20,4 +21,7 @@ from .uavdark70 import UAVDark70
 from .nat2021 import NAT2021
 from .nat2021l import NAT2021L
 from .darktrack2021 import DarkTrack2021
+from .vla_res import VLA_RES
+from .vla_ses import VLA_SES
 from .uwcot import UWCOT
+from .matrack import MATrack

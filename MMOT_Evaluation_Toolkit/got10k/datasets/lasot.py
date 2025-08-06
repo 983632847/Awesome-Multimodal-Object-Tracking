@@ -28,7 +28,8 @@ class LaSOT(object):
         self.root_dir = root_dir
         self.subset = subset
         self.return_meta = return_meta
-        self._check_integrity(root_dir, subset)
+        # self._check_integrity(root_dir, subset)
+        self._check_integrity(root_dir)
 
         self.anno_files = sorted(glob.glob(
             os.path.join(root_dir, '*/*/groundtruth.txt')))
