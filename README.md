@@ -1510,6 +1510,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2025
+- **DMTrack:** Weihong Li, Shaohua Dong, Haonan Lu, Yanhao Zhang, Heng Fan, Libo Zhang.<br />
+  "DMTrack: Spatio-Temporal Multimodal Tracking via Dual-Adapter." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2508.01592)]
+  
 - **UM-ODTrack:** Yaozong Zheng, Bineng Zhong, Qihua Liang, Shengping Zhang, Guorong Li, Xianxian Li, Rongrong Ji.<br />
   "Towards Universal Modal Tracking with Online Dense Temporal Token Learning." TPAMI (2025).
   [[paper](https://arxiv.org/abs/2507.20177)] 
