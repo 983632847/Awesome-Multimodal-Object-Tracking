@@ -551,6 +551,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **AMTTrack:** Xiao Wang, Xufeng Lou, Shiao Wang, Ju Huang, Lan Chen, Bo Jiang.<br />
+  "Long-Term Visual Object Tracking with Event Cameras: An Associative Memory Augmented Tracker and A Benchmark Dataset." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2403.05839)] 
+  [[code](https://github.com/Event-AHU/FELT_SOT_Benchmark)]
+  
 - **TrackSSD-FEnet:** Keqi Liu, Rong Xiao, Deng Xiong, Yongsheng Sang & Jiancheng Lv.<br />
   "Joint Frame and Event Object Tracking via Non-causal State Space Duality." ICIC (2025).
   [[paper](https://link.springer.com/chapter/10.1007/978-981-96-9964-3_32)]
