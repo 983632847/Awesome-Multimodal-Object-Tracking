@@ -545,7 +545,7 @@ If you find our work useful in your research, please consider citing:
 |  [VisEvent](https://arxiv.org/abs/2108.05015)   |   TC-2023   |  [VisEvent](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark)  |  820 RGB-event video pairs |  
 |  [EventVOT](https://arxiv.org/abs/2309.14611)   |   CVPR-2024   |  [EventVOT](https://github.com/Event-AHU/EventVOT_Benchmark)  |  1141 event videos  |  
 |  [CRSOT](https://arxiv.org/abs/2401.02826)   |   arXiv-2024   |  [CRSOT](https://github.com/Event-AHU/Cross_Resolution_SOT)  |   1030 RGB-event video pairs |  
-|  [FELT](https://arxiv.org/pdf/2403.05839.pdf)   |   arXiv-2024   |  [FELT](https://github.com/Event-AHU/FELT_SOT_Benchmark)  |  742 RGB-event video pairs  |  
+|  [FELT](https://arxiv.org/pdf/2403.05839.pdf)   |   arXiv-2024   |  [FELT](https://github.com/Event-AHU/FELT_SOT_Benchmark)  |  1,044 long-term RGB-event video pairs  |  
 |  [MEVDT](https://arxiv.org/abs/2407.20446)   |   arXiv-2024   |  [MEVDT](https://doi.org/10.7302/d5k3-9150)  |  63 multimodal sequences with 13k images, 5M events, 10k object labels and 85 trajectories  |  
 
 
