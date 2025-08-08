@@ -184,6 +184,10 @@ If you find our work useful in your research, please consider citing:
 
 ### Papers
 #### 2025
+- **LGTrack:** Jianbo Song, Hong Zhang, Yachun Feng, Hanyang Liu, Yifan Yang.<br />
+  "Language-guided Visual Tracking: Comprehensive and Effective Multimodal Information Fusion." ACM Trans. Multimedia Comput. Commun. Appl. (2025).
+  [[paper](https://dl.acm.org/doi/10.1145/3757322)]
+  
 - **ReasoningTrack:** Xiao Wang, Liye Jin, Xufeng Lou, Shiao Wang, Lan Chen, Bo Jiang, Zhipeng Zhang.<br />
   "ReasoningTrack: Chain-of-Thought Reasoning for Long-term Vision-Language Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2508.05221)] 
