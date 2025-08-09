@@ -1008,6 +1008,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **MFJA:** Xue, Hu and Zhu, Hao and Ran, Zhidan and Tang, Xianlun and Qi, Guanqiu and Zhu, Zhiqin and Kuok, Sin-Chi and Leung, Henry.<br />
+  "Feature Fusion and Enhancement for Lightweight Visible-Thermal Infrared Tracking via Multiple Adapters." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11112670)] 
+  [[code](https://github.com/huxue/MFJA)]
+  
 - **CST Anti-UAV:** Bin Xie, Congxuan Zhang, Fagan Wang, Peng Liu, Feng Lu, Zhen Chen, Weiming Hu.<br />
   "CST Anti-UAV: A Thermal Infrared Benchmark for Tiny UAV Tracking in Complex Scenes." ICCVW (2025).
   [[paper](https://arxiv.org/abs/2507.23473)]
