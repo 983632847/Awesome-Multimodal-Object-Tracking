@@ -594,7 +594,7 @@ If you find our work useful in your research, please consider citing:
   
 - Qiang Chen, Xiao Wang, Haowen Wang, Bo Jiang, Lin Zhu, Dawei Zhang, Yonghong Tian, Jin Tang.<br />
   "Adversarial Attack for RGB-Event based Visual Object Tracking." ArXiv (2025).
-  [[paper](Adversarial Attack for RGB-Event based Visual Object Tracking)] 
+  [[paper](https://arxiv.org/abs/2504.14423)] 
   [[code](https://github.com/Event-AHU/Adversarial_Attack_Defense)]
   
 - **HPL:** Wang, Mianzhao and Shi, Fan and Cheng, Xu and Chen, Shengyong.<br />
