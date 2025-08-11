@@ -77,6 +77,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **ATCTrack:** Luo, Xudong and Yuan, Di and Shu, Xiu and Liu, Qiao and Chang, Xiaojun and He, Zhenyu.<br />
+  "Adaptive Trajectory Correction for Underwater Object Tracking." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10900462)]
+  
 - **LFCPNet:** Mianzhao Wang and Fan Shi and Xu Cheng and Meng Zhao.<br />
   "Light field collaborative perception for visual object tracking." PR (2025).
   [[paper](https://doi.org/10.1016/j.patcog.2025.112196)]
