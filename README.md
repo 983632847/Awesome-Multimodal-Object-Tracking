@@ -1666,6 +1666,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2025
+- **SUIT:** Fengchao Xiong, Zhenxing Wu, Sen Jia, Yuntao Qian.<br />
+  "SUIT: Spatial-Spectral Union-Intersection Interaction Network for Hyperspectral Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2508.07250)] 
+  [[code](https://github.com/bearshng/suit)]
+  
 - **SpectralTrack:** Chen, Yuzeng and Yuan, Qiangqiang and Xie, Hong and Tang, Yuqi and Xiao, Yi and He, Jiang and Guan, Renxiang and Liu, Xinwang and Zhang, Liangpei.<br />
   "Hyperspectral Video Tracking With Spectral–Spatial Fusion and Memory Enhancement." TIP (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11007172)] 
