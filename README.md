@@ -267,7 +267,8 @@ If you find our work useful in your research, please consider citing:
   
 - **AITtrack:** Basit Alawode, Sajid Javed.<br />
 "AITtrack: Attention-based Image-Text Alignment for Visual Tracking." IEEE Access (2025).
-[[paper](https://www.researchgate.net/publication/390287321_AITtrack_Attention-based_Image-Text_Alignment_for_Visual_Tracking/references)]
+[[paper](https://ieeexplore.ieee.org/document/10944804)]
+[[code](https://github.com/BasitAlawode/AITrack)]
 
 - **TrackingMeetsLMM:** Ayesha Ishaq, Jean Lahoud, Fahad Shahbaz Khan, Salman Khan, Hisham Cholakkal, Rao Muhammad Anwer.<br />
   "Tracking Meets Large Multimodal Models for Driving Scenario Understanding." ArXiv (2025).
