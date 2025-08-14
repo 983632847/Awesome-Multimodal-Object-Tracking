@@ -183,6 +183,11 @@ If you find our work useful in your research, please consider citing:
 |  [TNLLT](https://arxiv.org/abs/2508.05221)   |   arXiv-2025   | [TNLLT](https://github.com/Event-AHU/Open_VLTrack) | A large-scale long-term vision-language tracking benchmark dataset with 200 video sequences. |
 
 ### Papers
+#### 2026
+- **SOIBench:** Yipei Wang, Shiyu Hu, Shukun Jia, Panxi Xu, Hongfei Ma, Yiping Ma, Jing Zhang, Xiaobo Lu, Xin Zhao.<br />
+  "SOI is the Root of All Evil: Quantifying and Breaking Similar Object Interference in Single Object Tracking." AAAI (2026).
+  [[paper](https://arxiv.org/abs/2508.09524)]
+  
 #### 2025
 - **LGTrack:** Jianbo Song, Hong Zhang, Yachun Feng, Hanyang Liu, Yifan Yang.<br />
   "Language-guided Visual Tracking: Comprehensive and Effective Multimodal Information Fusion." ACM Trans. Multimedia Comput. Commun. Appl. (2025).
