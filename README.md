@@ -1533,7 +1533,7 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 |  [WebUAV-3M](https://arxiv.org/abs/2201.07425)   |   TPAMI-2023   |  [WebUAV-3M](https://github.com/983632847/WebUAV-3M)  |  4500 videos, 3.3 million frames, UAV tracking, Vision-language-audio |  
 |  [UniMod1K](https://link.springer.com/article/10.1007/s11263-024-01999-8)   |   IJCV-2024  |  [UniMod1K](https://github.com/xuefeng-zhu5/UniMod1K)  |  1050 video  pairs, 2.5 million frames, Vision-depth-language  |  
 |  [QuadTrack600](https://arxiv.org/abs/2503.11218)   |   arXiv-2025  |  [QuadTrack600](https://arxiv.org/abs/2503.11218)  |  600 video  pairs, 348.7 K frames, RGB-TIR-Language-Event |  
-|  [UniBench300](https://arxiv.org/abs/2508.10655)   |   ACM MM-2024  |  [UniBench300](https://github.com/Zhangyong-Tang/UniBench300)  |  A unified benchmark with 100 RGBT sequences, 100 RGBD sequences, and 100 RGBE sequences, 368.1K frames  |  
+|  [UniBench300](https://arxiv.org/abs/2508.10655)   |   ACM MM-2025  |  [UniBench300](https://github.com/Zhangyong-Tang/UniBench300)  |  A unified benchmark with 100 RGBT sequences, 100 RGBD sequences, and 100 RGBE sequences, 368.1K frames  |  
 
 ### Papers
 #### 2025
