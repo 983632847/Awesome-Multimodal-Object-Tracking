@@ -77,6 +77,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **MST:** Shilei Wang, Gong Cheng, Pujian Lai, Dong Gao, Junwei Han.<br />
+  "Multi-State Tracker: Enhancing Efficient Object Tracking via Multi-State Specialization and Interaction ." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2508.11531)] 
+  [[code](https://github.com/wsumel/MST)]
+  
 - **ATCTrack:** Luo, Xudong and Yuan, Di and Shu, Xiu and Liu, Qiao and Chang, Xiaojun and He, Zhenyu.<br />
   "Adaptive Trajectory Correction for Underwater Object Tracking." TCSVT (2025).
   [[paper](https://ieeexplore.ieee.org/document/10900462)]
