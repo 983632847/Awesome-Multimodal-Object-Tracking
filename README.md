@@ -1020,6 +1020,15 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **RAMR:** Zhao Gao and Dongming Zhou and Yisong Liu and Qingqing Shan.<br />
+  "RAMR: A Role-Adaptive Modality Recalibration Network for RGBT Tracking." Expert Systems with Applications (2025).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425029926)] 
+  [[code](https://github.com/ysqidong-dotcon/RAMR)]
+
+- Augustin Borne, Christophe Hennequin, Stéphane Bazeille, Philippe De Faria, Franz Quint, Sébastien Changey, and Christophe Cudel.<br />
+  "Multimodal object tracking using raw visible and thermal infrared data." QCAV (2025).
+  [[paper](https://doi.org/10.1117/12.3079227)]
+  
 - **MFJA:** Xue, Hu and Zhu, Hao and Ran, Zhidan and Tang, Xianlun and Qi, Guanqiu and Zhu, Zhiqin and Kuok, Sin-Chi and Leung, Henry.<br />
   "Feature Fusion and Enhancement for Lightweight Visible-Thermal Infrared Tracking via Multiple Adapters." TCSVT (2025).
   [[paper](https://ieeexplore.ieee.org/document/11112670)] 
