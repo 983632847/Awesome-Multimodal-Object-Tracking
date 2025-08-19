@@ -185,7 +185,7 @@ If you find our work useful in your research, please consider citing:
 |  [DTVLT](https://arxiv.org/abs/2410.02492)   |   arXiv-2024   | [DTVLT](http://videocube.aitestunion.com/) |  A multi-modal diverse text benchmark for visual language tracking (RGBL Tracking). |  
 |  [SemTrack](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03555.pdf)   |   ECCV-2024   | [SemTrack](https://forms.office.com/Pages/ResponsePage.aspx?id=drd2NJDpck-5UGJImDFiPQJNzw6AhuZDkzEViiWzJltUNjhKM01KWjhXN0FBNjcxNVBZQk03VVFHQi4u) |   A large-scale dataset comprising 6.7 million frames from 6,961 videos, capturing the semantic trajectory of targets across 52 interaction classes and 115 object classes. |
 |  [UW-COT220](https://arxiv.org/abs/2409.16902)   |   CVPR Workshop-2025   | [UW-COT220](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/UW-COT220) |  The first multimodal underwater camouﬂaged object tracking dataset with 220 videos. |  
-|  [VL-SOT500](https://arxiv.org/abs/2504.01321)   |   arXiv-2025   | [VL-SOT500](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/VL-SOT500) | The first large-scale multi-modal small object tracking dataset with two subsets, VL-SOT230 and VL-SOT270, designed for benchmarking generic and high-speed small object tracking, respectively.  |
+|  [VL-SOT500](https://arxiv.org/abs/2504.01321)   |   Information Fusion-2025   | [VL-SOT500](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/VL-SOT500) | The first large-scale multi-modal small object tracking dataset with two subsets, VL-SOT230 and VL-SOT270, designed for benchmarking generic and high-speed small object tracking, respectively.  |
 |  [TNLLT](https://arxiv.org/abs/2508.05221)   |   arXiv-2025   | [TNLLT](https://github.com/Event-AHU/Open_VLTrack) | A large-scale long-term vision-language tracking benchmark dataset with 200 video sequences. |
 
 ### Papers
@@ -271,7 +271,7 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://ieeexplore.ieee.org/abstract/document/10947500)]
   
 - **COST:** Chunhui Zhang, Li Liu, Jialin Gao, Xin Sun, Hao Wen, Xi Zhou, Shiming Ge, Yanfeng Wang.<br />
-  "COST: Contrastive One-Stage Transformer for Vision-Language Small Object Tracking." ArXiv (2025).
+  "COST: Contrastive One-Stage Transformer for Vision-Language Small Object Tracking." Information Fusion (2025).
   [[paper](https://arxiv.org/abs/2504.01321)]
   [[ResearchGate](https://www.researchgate.net/publication/390421740_COST_Contrastive_One-Stage_Transformer_for_Vision-Language_Small_Object_Tracking)]
   [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/VL-SOT500)]
