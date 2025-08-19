@@ -138,7 +138,7 @@ If you find our work useful in your research, please consider citing:
 - Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Hui Li, Shaochuan Zhao, Tao Zhou, Chunyang Cheng, Xiaojun Wu, Josef Kittler.<br />
   "Omni Survey for Multimodality Analysis in Visual Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2508.13000)] 
-  [[code](https://github.com/Zhangyong-Tang/Awesome-MultiModal-Visual-Object-Tracking)]
+  [[project](https://github.com/Zhangyong-Tang/Awesome-MultiModal-Visual-Object-Tracking)]
 
   
 ## Embodied Visual Tracking
@@ -1759,6 +1759,7 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 
 ## Awesome Repositories for MMOT
+- [Awesome-MultiModal-Visual-Object-Tracking](https://github.com/Zhangyong-Tang/Awesome-MultiModal-Visual-Object-Tracking)
 - [Awesome-Visual-Language-Tracking](https://github.com/Xuchen-Li/Awesome-Visual-Language-Tracking)
 - [Vision-Language_Tracking_Paper_List](https://github.com/PeterBishop0/Vision-Language_Tracking_Paper_List)
 - [VisEvent_SOT_Benchmark](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark)
