@@ -34,7 +34,7 @@ The directory should have the below format:
                 ...
             ├── groundtruth_rect.txt
             ├── language.txt
-            ├── pseudo masks
+            ├── pseudo_masks
                 ├── 00000001.png
                 ├── 00000002.png
                 ├── 00000003.png
