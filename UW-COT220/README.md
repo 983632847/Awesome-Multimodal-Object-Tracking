@@ -34,11 +34,13 @@ The directory should have the below format:
                 ...
             ├── groundtruth_rect.txt
             ├── language.txt
-            ├── masks (Coming Soon)
+            ├── pseudo masks
                 ├── 00000001.png
                 ├── 00000002.png
                 ├── 00000003.png
                 ...
+            ├── masks (Coming Soon)
+
     ├── UWCOT220_000002
     ├── UWCOT220_000003
     ...
