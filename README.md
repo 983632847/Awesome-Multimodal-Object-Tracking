@@ -1021,6 +1021,15 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- Hoang, Quynh T. X. and Duong, Soan T. M. and Bui, Ly and Tran, Duy Q..<br />
+  "A Confidence-Based Sampling Strategy for Dense Temporal Token Learning in Thermal Infrared Object Tracking." ICIP (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11084483)] 
+
+- **HFDAE:** Awad, Mohamed and Elliethy, Ahmed and Ahmad, M. Omair and Swamy, M. N. S..<br />
+  "Adaptive Hierarchical Feature Difference Auto-Encoder for Robust RGB-T Object Tracking." ICIP (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11084657)] 
+  [[code](https://github.com/mohamed-e-awad/HFDAE)]
+  
 - **RAMR:** Zhao Gao and Dongming Zhou and Yisong Liu and Qingqing Shan.<br />
   "RAMR: A Role-Adaptive Modality Recalibration Network for RGBT Tracking." Expert Systems with Applications (2025).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425029926)] 
