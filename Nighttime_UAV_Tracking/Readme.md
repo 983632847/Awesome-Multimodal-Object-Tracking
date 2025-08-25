@@ -28,6 +28,8 @@ The directory should have the following format:
 
 ## MambaTrack
 
+![image](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/blob/main/Nighttime_UAV_Tracking/imgs/MambaTrack.png)
+
 ### Download Code from [Baidu Pan](https://pan.baidu.com/s/1Ie4wLPVYGncIaBfjcZSd_Q?pwd=Mamb)
 
 ### Environment Settings 
