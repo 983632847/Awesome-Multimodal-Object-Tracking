@@ -119,7 +119,6 @@ python test.py
 This work was based on [OSTrack](https://github.com/botaoye/OSTrack) and [Mamba_FETrack](https://github.com/Event-AHU/Mamba_FETrack).
 
 
-
 ### :newspaper: Citation 
 If you think this paper is helpful, please feel free to leave a star ⭐ and cite our paper:
 ```bibtex
