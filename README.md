@@ -315,6 +315,7 @@ If you find our work useful in your research, please consider citing:
 - **MambaTrack:** Chunhui Zhang, Li Liu, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
   "MambaTrack: Exploiting Dual-Enhancement for Night UAV Tracking." ICASSP (2025).
   [[paper](https://arxiv.org/abs/2411.15761)]
+  [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/Nighttime_UAV_Tracking)]
   
 - **CTVLT:** X. Feng, D. Zhang, S. Hu, X. Li, M. Wu, J. Zhang, X. Chen, K. Huang.<br />
   "Enhancing Vision-Language Tracking by Effectively Converting Textual Cues into Visual Cues." ICASSP  (2025).
