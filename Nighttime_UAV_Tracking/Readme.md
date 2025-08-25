@@ -48,7 +48,7 @@ conda install -c "nvidia/label/cuda-11.8.0" cuda-nvcc  #  conda install -c nvidi
 conda install packaging  
 pip install -r vim_requirements.txt  
 ```
-* **Install the mamba-1.1.1 and casual-conv1d-1.1.3 for mamb**
+* **Install the mamba-1.1.1 and casual-conv1d-1.1.3 for mamba**
 
 Download the [mamba-1.1.1](https://github.com/state-spaces/mamba/releases/download/v1.1.1/mamba_ssm-1.1.1+cu118torch2.1cxx11abiFALSE-cp310-cp310-linux_x86_64.whl) and [source code](https://github.com/state-spaces/mamba/archive/refs/tags/v1.1.1.zip) and place it in the project path of MambaTrack. Go to source code and install the corresponding environment.
 ```
