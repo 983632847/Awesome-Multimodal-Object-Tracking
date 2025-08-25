@@ -1704,6 +1704,15 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2025
+- **HyA-T:** Long Gao and Yunhe Zhang and Langkun Chen and Yan Jiang and Gang He and Weiying Xie and Yunsong Li.<br />
+  "Domain Adapter for Visual Object Tracking based on Hyperspectral Video." Pattern Recognition (2025).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325009574)] 
+
+- **HyperTrack:** Tan, Yuedong and Sun, Wenfang and Li, Jingyuan and Hou, Shuwei and Li, Xiaobo and Wang, Zhe and Song, Beibei.<br />
+  "HyperTrack: A Unified Network for Hyperspectral Video Object Tracking." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11131287)] 
+  [[code](https://github.com/supertyd/HyperTrack)]
+  
 - **SUIT:** Fengchao Xiong, Zhenxing Wu, Sen Jia, Yuntao Qian.<br />
   "SUIT: Spatial-Spectral Union-Intersection Interaction Network for Hyperspectral Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2508.07250)] 
