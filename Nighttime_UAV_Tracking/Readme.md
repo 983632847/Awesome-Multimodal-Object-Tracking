@@ -1,6 +1,9 @@
 # Vision-Language Night UAV Tracking: Datasets and Method
+Nighttime UAV tracking poses significant challenges due to low-light conditions, low resolution, and poor contrast, making it inherently more difficult than generic object tracking and daytime UAV tracking.
+
 
 ## Datasets
+![image](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/blob/main/Nighttime_UAV_Tracking/imgs/Nighttime_UAV_Tracking.png)
 
 ### Download Dataset
 - To build vision-language night UAV tracking datasets, we annotate 518 language prompts for five existing datasets (i.e., UAVDark135, UAVDark70, NAT2021, NAT2021L, DarkTrack2021).
