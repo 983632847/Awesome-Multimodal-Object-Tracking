@@ -77,6 +77,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **ToS:** Chengao Zong, Xin Chen, Jie Zhao, Yang Liu, Huchuan Lu, Dong Wang.<br />
+  "Enhancing the Two-Stream Framework for Efficient Visual Tracking." TIP (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11131531)]
+  
 - **MST:** Shilei Wang, Gong Cheng, Pujian Lai, Dong Gao, Junwei Han.<br />
   "Multi-State Tracker: Enhancing Efficient Object Tracking via Multi-State Specialization and Interaction ." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2508.11531)] 
