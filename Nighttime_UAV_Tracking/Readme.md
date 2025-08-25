@@ -95,7 +95,7 @@ Download the trained model weights from [Baidu Pan](https://pan.baidu.com/s/1Ie4
 
 * We release the model trained on five datasets (GOT-10k, LaSOT, COCO, TrackingNet, and VastTrack), which is a little different from the [arXiv paper](https://arxiv.org/abs/2411.15761).
 * We found that training the model with more low-light videos yields better results, even without the low-light enhancement model.
-* Existing low-light enhancement models (e.g., [RetinexMamba](https://github.com/YhuoyuH/RetinexMamba), [SCT](https://github.com/vision4robotics/SCT)) exhibit limited generalization capability on the Nighttime UAV Tracking dataset.
+* Existing low-light enhancement models (e.g., [RetinexMamba](https://github.com/YhuoyuH/RetinexMamba), [SCT](https://github.com/vision4robotics/SCT)) exhibit limited generalization capability on the Nighttime UAV Tracking datasets.
 * Readers can use more robust low-light enhancement models based on our code.
 
 
