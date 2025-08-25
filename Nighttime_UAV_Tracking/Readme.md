@@ -112,7 +112,7 @@ python test.py
 
 
 ### Evaluation Toolkit 
-* **The [MMOT Evaluation Toolkit](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/MMOT_Evaluation_Toolkit) now supports evaluation methods on the VL-SOT500 dataset.**
+* **The [MMOT Evaluation Toolkit](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/MMOT_Evaluation_Toolkit) now supports evaluation methods on the Nighttime UAV tracking datasets.**
 
 
 ### Acknowledgment 
