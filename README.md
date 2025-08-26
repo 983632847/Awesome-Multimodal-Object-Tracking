@@ -143,6 +143,7 @@ If you find our work useful in your research, please consider citing:
   
 ## Embodied Visual Tracking
 ### Datasets
+Coming soon.
 
 ### Papers
 #### 2025
@@ -1700,7 +1701,7 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ## Hyperspectral Object Tracking
 ### Datasets
-
+Coming soon.
 
 ### Papers
 #### 2025
