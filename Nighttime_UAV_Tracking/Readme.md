@@ -6,7 +6,7 @@ Nighttime UAV tracking poses significant challenges due to low-light conditions,
 ![image](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/blob/main/Nighttime_UAV_Tracking/imgs/Nighttime_UAV_Tracking.png)
 
 ### Download Dataset
-- To build vision-language night UAV tracking datasets, we annotate 518 language prompts for five existing datasets (i.e., UAVDark135, UAVDark70, NAT2021, NAT2021L, DarkTrack2021).
+- To build vision-language nighttime UAV tracking datasets, we annotate 518 language prompts for five existing datasets (i.e., UAVDark135, UAVDark70, NAT2021, NAT2021L, DarkTrack2021).
 - Download the dataset through [Baidu Pan](https://pan.baidu.com/s/1ABd-OFuKRrBHKgmub1gwkw?pwd=VLUT), the extraction code is ***VLUT***.
 
 The directory should have the following format:
