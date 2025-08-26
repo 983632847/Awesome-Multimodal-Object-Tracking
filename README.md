@@ -1023,6 +1023,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **MTNet:** Ruichao Hou, Boyue Xu, Tongwei Ren, Gangshan Wu.<br />
+  "MTNet: Learning modality-aware representation with transformer for RGBT tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2508.17280)]
+  
 - Hoang, Quynh T. X. and Duong, Soan T. M. and Bui, Ly and Tran, Duy Q..<br />
   "A Confidence-Based Sampling Strategy for Dense Temporal Token Learning in Thermal Infrared Object Tracking." ICIP (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11084483)] 
