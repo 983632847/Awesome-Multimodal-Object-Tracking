@@ -25,13 +25,13 @@ For Overall, Attribute, Accuracy and UTUSC Protocol evaluations in OPE using Pre
 
 # Step4. Report tracking performance
 
-python WebUAV-3M_Overall_Evaluation.py
+        python WebUAV-3M_Overall_Evaluation.py
 
-python WebUAV-3M_Attribute_Evaluation.py
+        python WebUAV-3M_Attribute_Evaluation.py
 
-python WebUAV-3M_Accuracy_Evaluation.py
+        python WebUAV-3M_Accuracy_Evaluation.py
 
-python WebUAV-3M_UTUSC_Protocol.py
+        python WebUAV-3M_UTUSC_Protocol.py
 ```
 
 ### WebUOT-1M
@@ -46,11 +46,11 @@ For Overall, Attribute, and Accuracy evaluations in OPE using Pre, nPre, AUC, cA
 
 # Step4. Report tracking performance
 
-python WebUOT-1M_Overall_Evaluation.py
+        python WebUOT-1M_Overall_Evaluation.py
 
-python WebUOT-1M_Attribute_Evaluation.py
+        python WebUOT-1M_Attribute_Evaluation.py
 
-python WebUOT-1M_Accuracy_Evaluation.py
+        python WebUOT-1M_Accuracy_Evaluation.py
 ```
 
 ### UW-COT220
@@ -65,9 +65,9 @@ For Overall and Accuracy evaluations in OPE using Pre, nPre, AUC, cAUC and mAcc 
 
 # Step4. Report tracking performance
 
-python UWCOT220_Overall_Evaluation.py
+        python UWCOT220_Overall_Evaluation.py
 
-python UWCOT220_Accuracy_Evaluation.py
+        python UWCOT220_Accuracy_Evaluation.py
 ```
 
 
