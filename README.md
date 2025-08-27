@@ -1023,6 +1023,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **FMTrack:** Xue, Yuanliang and Jin, Guodong and Zhong, Bineng and Shen, Tao and Tan, Lining and Xue, Chaocan and Zheng, Yaozong.<br />
+  "FMTrack: Frequency-aware Interaction and Multi-Expert Fusion for RGB-T Tracking." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11134499)] 
+  [[code](https://github.com/xyl-507/FMTrack)]
+  
 - **MTNet:** Ruichao Hou, Boyue Xu, Tongwei Ren, Gangshan Wu.<br />
   "MTNet: Learning modality-aware representation with transformer for RGBT tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2508.17280)]
