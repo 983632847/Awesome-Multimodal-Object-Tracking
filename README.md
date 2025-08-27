@@ -1573,6 +1573,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2025
+- **SRTrack:** Zhiwen Chen, Jinjian Wu, Zhiyu Zhu, Yifan Zhang, Guangming Shi, Junhui Hou.<br />
+  "Optimizing Multi-Modal Trackers via Sensitivity-aware Regularized Tuning." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2508.17488)] 
+  [[code](https://github.com/zhiwen-xdu/SRTrack)]
+  
 - **UniBench300:** Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Chunyang Cheng, Tao Zhou, Xiaojun Wu, Josef Kittler.<br />
   "Serial Over Parallel: Learning Continual Unification for Multi-Modal Visual Object Tracking and Benchmarking." ACM MM (2025).
   [[paper](https://arxiv.org/abs/2508.10655)] 
