@@ -1023,6 +1023,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **Bayer-Thermal:** Augustin Borne, Christophe Hennequin, Stéphane Bazeille, Philippe De Faria, Franz Quint, Sébastien Changey, and Christophe Cudel.<br />
+  "Multimodal object tracking using raw visible and thermal infrared data." SPIE (2025).
+  [[paper](https://doi.org/10.1117/12.3079227)]
+  
 - **FMTrack:** Xue, Yuanliang and Jin, Guodong and Zhong, Bineng and Shen, Tao and Tan, Lining and Xue, Chaocan and Zheng, Yaozong.<br />
   "FMTrack: Frequency-aware Interaction and Multi-Expert Fusion for RGB-T Tracking." TCSVT (2025).
   [[paper](https://ieeexplore.ieee.org/document/11134499)] 
