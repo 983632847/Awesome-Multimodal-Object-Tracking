@@ -812,7 +812,7 @@
 
 - **MGIT:** Shiyu Hu, Dailin Zhang, Meiqi Wu, Xiaokun Feng, Xuchen Li, Xin Zhao, Kaiqi Huang.<br />
   "A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship." NeurIPS (2023).
-  [[paper](https://arxiv.org/abs/xxxxx.xx)] 
+  [[paper](https://papers.nips.cc/paper_files/paper/2023/file/4ea14e6090343523ddcd5d3ca449695f-Paper-Datasets_and_Benchmarks.pdf)] 
   [[code](http://videocube.aitestunion.com/)]
 
 
