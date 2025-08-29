@@ -334,7 +334,7 @@
   "Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking." ICCV (2025).
   [[paper](https://arxiv.org/abs/2507.07483)]
 
-  - **XTrack:** Yuedong Tan, Zongwei Wu, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Eduard Zamfi, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte.<br />
+- **XTrack:** Yuedong Tan, Zongwei Wu, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Eduard Zamfi, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte.<br />
   "XTrack: Multimodal Training Boosts RGB-X Video Object Trackers." ICCV (2025).
   [[paper](https://arxiv.org/abs/2405.17773)] 
   [[code](https://github.com/supertyd/XTrack)]
@@ -409,6 +409,11 @@
   [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Song_Prior-free_3D_Object_Tracking_CVPR_2025_paper.pdf)] 
   [[code](https://github.com/songxiuqiang/BIT.git)]
 
+- **ETAP:** Friedhelm Hamann, Daniel Gehrig, Filbert Febryanto, Kostas Daniilidis, Guillermo Gallego.<br />
+  "ETAP: Event-based Tracking of Any Point." CVPR (2025).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Hamann_ETAP_Event-based_Tracking_of_Any_Point_CVPR_2025_paper.html)] 
+  [[code](https://github.com/tub-rip/ETAP)]
+  
 - **Tracktention:** Zihang Lai, Andrea Vedaldi.<br />
   "Tracktention: Leveraging Point Tracking to Attend Videos Faster and Better." CVPR (2025).
   [[paper](https://arxiv.org/abs/2503.19904)] 
@@ -435,7 +440,7 @@
   [[paper](https://arxiv.org/abs/2503.18338)] 
   [[code](https://github.com/WenRuiCai/SPMTrack)]
 
-- Shiyi Liang · Yifan Bai · Yihong Gong · Xing Wei.<br />
+- **ARPTrack**: Shiyi Liang · Yifan Bai · Yihong Gong · Xing Wei.<br />
   "Autoregressive Sequential Pretraining for Visual Tracking." CVPR (2025).
   [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Liang_Autoregressive_Sequential_Pretraining_for_Visual_Tracking_CVPR_2025_paper.pdf)] 
   [[code](https://arptrack.github.io/)]
