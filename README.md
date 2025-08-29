@@ -1035,7 +1035,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 - **MTNet:** Ruichao Hou, Boyue Xu, Tongwei Ren, Gangshan Wu.<br />
   "MTNet: Learning modality-aware representation with transformer for RGBT tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2508.17280)]
-  
+
+- **EHDA:** Qiao Li, Kanlun Tan, Qiao Liu, Di Yuan, Xin Li, Yunpeng Liu.<br />
+  "Efficient Hierarchical Domain Adaptive Thermal Infrared Tracking." ICASSP (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10890354)]
+
 - Hoang, Quynh T. X. and Duong, Soan T. M. and Bui, Ly and Tran, Duy Q..<br />
   "A Confidence-Based Sampling Strategy for Dense Temporal Token Learning in Thermal Infrared Object Tracking." ICIP (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11084483)] 
@@ -1728,6 +1732,10 @@ Coming soon.
 
 ### Papers
 #### 2025
+- **VSS:** Pengfei Wei, Liu Qiao, Zhenyu He, Di Yuan.<br />
+  "A Multi-Stream Visual-Spectral-Spatial Adaptive Hyperspectral Object Tracking." ICMR (2025).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733262)] 
+
 - **HyA-T:** Long Gao and Yunhe Zhang and Langkun Chen and Yan Jiang and Gang He and Weiying Xie and Yunsong Li.<br />
   "Domain Adapter for Visual Object Tracking based on Hyperspectral Video." Pattern Recognition (2025).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325009574)] 
