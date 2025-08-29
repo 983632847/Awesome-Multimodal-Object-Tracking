@@ -359,11 +359,11 @@
   "DreamTrack: Dreaming the Future for Multimodal Visual Object Tracking." CVPR (2025).
   [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Guo_DreamTrack_Dreaming_the_Future_for_Multimodal_Visual_Object_Tracking_CVPR_2025_paper.pdf)] 
 
-- **JTD-UAV:** Yifan Wang, Jian Zhao, Zhaoxin Fan, Xin Zhang, Xuecheng Wu, Yudian Zhang, Lei Jin, Xinyue Li, Gang Wang, Mengxi Jia, Ping Hu, Zheng Zhu, Xuelong Li.<br />
-  "JTD-UAV: MLLM-Enhanced Joint Tracking and Description Framework for Anti-UAV Systems." CVPR (2025).
-  [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_JTD-UAV_MLLM-Enhanced_Joint_Tracking_and_Description_Framework_for_Anti-UAV_Systems_CVPR_2025_paper.pdf)] 
-
-
+- **ARPTrack**: Shiyi Liang · Yifan Bai · Yihong Gong · Xing Wei.<br />
+  "Autoregressive Sequential Pretraining for Visual Tracking." CVPR (2025).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Liang_Autoregressive_Sequential_Pretraining_for_Visual_Tracking_CVPR_2025_paper.pdf)] 
+  [[code](https://arptrack.github.io/)]
+  
 - **SAM2.1++:** Jovana Videnovic, Alan Lukezic, Matej Kristan.<br />
 "A Distractor-Aware Memory for Visual Object Tracking with SAM2." CVPR (2025).
 [[paper](https://arxiv.org/abs/2411.17576)]
@@ -378,11 +378,6 @@
   "MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking." CVPR (2025).
   [[paper](https://arxiv.org/abs/2411.15459)]
 
-- **PURA:** Zekai Shao, Yufan Hu, Bin Fan, Hongmin Liu.<br />
-  "PURA: Parameter Update-Recovery Test-Time Adaption for RGB-T Tracking." CVPR (2025).
-  [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Shao_PURA_Parameter_Update-Recovery_Test-Time_Adaption_for_RGB-T_Tracking_CVPR_2025_paper.pdf)] 
-  [[code](https://melantech.github.io/PURA)]
-  
 - **MamTrack:** Chuanyu Sun, Jiqing Zhang, Yang Wang, Huilin Ge, qianchen xia, Baocai Yin, Xin Yang.<br />
   "Exploring Historical Information for RGBE Visual Tracking with Mamba." CVPR (2025).
   [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_Exploring_Historical_Information_for_RGBE_Visual_Tracking_with_Mamba_CVPR_2025_paper.pdf)] 
@@ -408,12 +403,7 @@
   "Prior-free 3D Object Tracking." CVPR (2025).
   [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Song_Prior-free_3D_Object_Tracking_CVPR_2025_paper.pdf)] 
   [[code](https://github.com/songxiuqiang/BIT.git)]
-
-- **ETAP:** Friedhelm Hamann, Daniel Gehrig, Filbert Febryanto, Kostas Daniilidis, Guillermo Gallego.<br />
-  "ETAP: Event-based Tracking of Any Point." CVPR (2025).
-  [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Hamann_ETAP_Event-based_Tracking_of_Any_Point_CVPR_2025_paper.html)] 
-  [[code](https://github.com/tub-rip/ETAP)]
-  
+ 
 - **Tracktention:** Zihang Lai, Andrea Vedaldi.<br />
   "Tracktention: Leveraging Point Tracking to Attend Videos Faster and Better." CVPR (2025).
   [[paper](https://arxiv.org/abs/2503.19904)] 
@@ -424,6 +414,11 @@
   [[paper](https://arxiv.org/abs/2501.12218)] 
   [[code](https://github.com/cvlab-kaist/Chrono)]
   [[project](https://cvlab-kaist.github.io/Chrono/)]
+  
+- **ETAP:** Friedhelm Hamann, Daniel Gehrig, Filbert Febryanto, Kostas Daniilidis, Guillermo Gallego.<br />
+  "ETAP: Event-based Tracking of Any Point." CVPR (2025).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Hamann_ETAP_Event-based_Tracking_of_Any_Point_CVPR_2025_paper.html)] 
+  [[code](https://github.com/tub-rip/ETAP)]
 
 - **Mono3DVLT:** Hongkai Wei · YANG YANG · Shijie Sun · Mingtao Feng · Xiangyu Song · Qi Lei · Hongli Hu · Rong Wang · Huansheng Song · Naveed Akhtar · Ajmal Mian.<br />
   "Mono3DVLT: Monocular-Video-Based 3D Visual Language Tracking." CVPR (2025).
@@ -435,21 +430,30 @@
   [[paper](https://arxiv.org/abs/2503.17699)] 
   [[code](https://github.com/q2479036243/MUST-Multispectral-UAV-Single-Object-Tracking)]
 
+- **JTD-UAV:** Yifan Wang, Jian Zhao, Zhaoxin Fan, Xin Zhang, Xuecheng Wu, Yudian Zhang, Lei Jin, Xinyue Li, Gang Wang, Mengxi Jia, Ping Hu, Zheng Zhu, Xuelong Li.<br />
+  "JTD-UAV: MLLM-Enhanced Joint Tracking and Description Framework for Anti-UAV Systems." CVPR (2025).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_JTD-UAV_MLLM-Enhanced_Joint_Tracking_and_Description_Framework_for_Anti-UAV_Systems_CVPR_2025_paper.pdf)]
+  
 - **SPMTrack:** Wenrui Cai · Qingjie Liu · Yunhong Wang.<br />
   "SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking." CVPR (2025).
   [[paper](https://arxiv.org/abs/2503.18338)] 
   [[code](https://github.com/WenRuiCai/SPMTrack)]
-
-- **ARPTrack**: Shiyi Liang · Yifan Bai · Yihong Gong · Xing Wei.<br />
-  "Autoregressive Sequential Pretraining for Visual Tracking." CVPR (2025).
-  [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Liang_Autoregressive_Sequential_Pretraining_for_Visual_Tracking_CVPR_2025_paper.pdf)] 
-  [[code](https://arptrack.github.io/)]
 
 - **ORTrack:** You Wu · Xucheng Wang · Xiangyang Yang · Mengyuan Liu · Dan Zeng · Hengzhou Ye · Shuiwang Li.<br />
   "Learning Occlusion-Robust Vision Transformers for Real-Time UAV Tracking." CVPR (2025).
   [[paper](https://arxiv.org/abs/2504.09228)] 
   [[code](https://github.com/wuyou3474/ORTrack)]
 
+- **PURA:** Zekai Shao, Yufan Hu, Bin Fan, Hongmin Liu.<br />
+  "PURA: Parameter Update-Recovery Test-Time Adaption for RGB-T Tracking." CVPR (2025).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Shao_PURA_Parameter_Update-Recovery_Test-Time_Adaption_for_RGB-T_Tracking_CVPR_2025_paper.pdf)] 
+  [[code](https://melantech.github.io/PURA)]
+    
+- **ACAttack:** Xinyu Xiang, Qinglong Yan, Hao Zhang, Jiayi Ma.<br />
+  "ACAttack: Adaptive Cross Attacking RGB-T Tracker via Multi-Modal Response Decoupling." CVPR (2025).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Xiang_ACAttack_Adaptive_Cross_Attacking_RGB-T_Tracker_via_Multi-Modal_Response_Decoupling_CVPR_2025_paper.html)] 
+  [[code](https://github.com/Xinyu-Xiang/ACAttack)]
+  
 - **OmniTrack:** Kai Luo · Hao Shi · Sheng Wu · Fei Teng · Mengfei Duan · Chang Huang · Yuhang Wang · Kaiwei Wang · Kailun Yang.<br />
   "OmniTrack: Omnidirectional Multi-Object Tracking." CVPR (2025).
   [[paper](https://arxiv.org/pdf/2503.04565)] 
