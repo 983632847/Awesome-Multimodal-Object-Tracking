@@ -1599,7 +1599,12 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 - **MPVT:** Xie, Jianyu, Yan Fu, Junlin Zhou, Tianxiang He, Xiaopeng Wang, Yuke Fang, and Duanbing Chen.<br />
   "MPVT: An Efficient Multi-Modal Prompt Vision Tracker for Visual Target Tracking." Applied Sciences  (2025).
   [[paper](https://www.mdpi.com/2076-3417/15/14/7967)]
-  
+
+- **XTrack:** Yuedong Tan, Zongwei Wu, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Eduard Zamfi, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte.<br />
+  "XTrack: Multimodal Training Boosts RGB-X Video Object Trackers." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2405.17773)] 
+  [[code](https://github.com/supertyd/XTrack)]
+    
 - **FlexTrack:** Yuedong Tan, Jiawei Shao, Eduard Zamfir, Ruanjun Li, Zhaochong An, Chao Ma, Danda Paudel, Luc Van Gool, Radu Timofte, Zongwei Wu.<br />
   "What You Have is What You Track: Adaptive and Robust Multimodal Tracking." ICCV (2025).
   [[paper](https://arxiv.org/abs/2507.05899)] 
