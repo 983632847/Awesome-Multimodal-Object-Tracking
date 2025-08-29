@@ -333,7 +333,12 @@
 - **TUEs:** Qiangqiang Wu, Yi Yu, Chenqi Kong, Ziquan Liu, Jia Wan, Haoliang Li, Alex C. Kot, Antoni B. Chan.<br />
   "Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking." ICCV (2025).
   [[paper](https://arxiv.org/abs/2507.07483)]
-  
+
+  - **XTrack:** Yuedong Tan, Zongwei Wu, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Eduard Zamfi, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte.<br />
+  "XTrack: Multimodal Training Boosts RGB-X Video Object Trackers." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2405.17773)] 
+  [[code](https://github.com/supertyd/XTrack)]
+
 - **FlexTrack:** Yuedong Tan, Jiawei Shao, Eduard Zamfir, Ruanjun Li, Zhaochong An, Chao Ma, Danda Paudel, Luc Van Gool, Radu Timofte, Zongwei Wu.<br />
   "What You Have is What You Track: Adaptive and Robust Multimodal Tracking." ICCV (2025).
   [[paper](https://arxiv.org/abs/2507.05899)] 
@@ -450,12 +455,24 @@
   "Efficient Motion Prompt Learning for Robust Visual Tracking." ICML(2025).
   [[paper](https://arxiv.org/abs/2505.16321)] 
   [[code](https://github.com/zj5559/Motion-Prompt-Tracking)]
+
+- **CSTrack:** Xiaokun Feng, Dailing Zhang, Shiyu Hu, Xuchen Li, Meiqi Wu, Jing Zhang, Xiaotang Chen, Kaiqi Huang.<br />
+  "CSTrack: Enhancing RGB-X Tracking via Compact Spatiotemporal Features." ICML (2025).
+  [[paper](https://arxiv.org/abs/2505.19434)] 
+  [[code](https://github.com/XiaokunFeng/CSTrack)]
+
   
 ### ICLR 2025
 - **Track-On:** Görkay Aydemir, Xiongyi Cai, Weidi Xie, Fatma Guney.<br />
   "Track-On: Transformer-based Online Point Tracking with Memory." ArXiv (2025).
   [[paper](https://openreview.net/attachment?id=oRlANEuqG5&name=pdf)] 
   [[code](https://kuis-ai.github.io/track_on)]
+  
+### IJCAI 2025
+- **GDSTrack:** Shenglan Li, Rui Yao, Yong Zhou, Hancheng Zhu, Kunyang Sun, Bing Liu, Zhiwen Shao, Jiaqi Zhao.<br />
+  "Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking." IJCAI (2025).
+  [[paper](https://arxiv.org/abs/2505.03507)] 
+  [[code](https://github.com/LiShenglana/GDSTrack)]
 
 
 ### AAAI 2025 
