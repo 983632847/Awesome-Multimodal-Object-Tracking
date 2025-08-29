@@ -354,6 +354,12 @@
   [[paper](https://arxiv.org/abs/2507.12462)] 
   [[code](https://huggingface.co/spaces/Yuxihenry/SpatialTrackerV2)]
 
+- **MVTracker:** Frano Rajič, Haofei Xu, Marko Mihajlovic, Siyuan Li, Irem Demir, Emircan Gündoğdu, Lei Ke, Sergey Prokudin, Marc Pollefeys, Siyu Tang.<br />
+  "Multi-View 3D Point Tracking." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2508.21060)] 
+  [[code](https://github.com/ethz-vlg/mvtracker)]
+  [[project](https://ethz-vlg.github.io/mvtracker)]
+  
 ### CVPR 2025
 - **DreamTrack:** Mingzhe Guo, Weiping Tan, Wenyu Ran, Liping Jing, Liping Jing, Zhipeng Zhang.<br />
   "DreamTrack: Dreaming the Future for Multimodal Visual Object Tracking." CVPR (2025).
