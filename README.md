@@ -490,10 +490,10 @@ Coming soon.
   [[paper](https://arxiv.org/abs/2303.12027#:~:text=Tracking%20by%20natural%20language%20specification%20aims%20to%20locate,tracking%20model%20to%20implement%20these%20two%20steps%2C%20respectively.)] 
   [[code](https://github.com/lizhou-cs/JointNLT)]
 
-- **MGIT:** Hu, Shiyu and Zhang, Dailing and meiqi, wu and Feng, Xiaokun and Li, Xuchen and Zhao, Xin and Huang, Kaiqi.<br />
+- **MGIT:** Shiyu Hu, Dailin Zhang, Meiqi Wu, Xiaokun Feng, Xuchen Li, Xin Zhao, Kaiqi Huang.<br />
   "A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship." NeurIPS (2023).
-  [[paper](https://huuuuusy.github.io/files/MGIT.pdf)] 
-  [[project](http://videocube.aitestunion.com/)]
+  [[paper](https://papers.nips.cc/paper_files/paper/2023/file/4ea14e6090343523ddcd5d3ca449695f-Paper-Datasets_and_Benchmarks.pdf)] 
+  [[code](http://videocube.aitestunion.com/)]
 
 - **DecoupleTNL:** Ma, Ding and Wu, Xiangqian.<br />
   "Tracking by Natural Language Specification with Long Short-term Context Decoupling." ICCV (2023).
