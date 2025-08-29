@@ -1023,6 +1023,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **ACAttack:** Xinyu Xiang, Qinglong Yan, Hao Zhang, Jiayi Ma.<br />
+  "ACAttack: Adaptive Cross Attacking RGB-T Tracker via Multi-Modal Response Decoupling." CVPR (2025).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Xiang_ACAttack_Adaptive_Cross_Attacking_RGB-T_Tracker_via_Multi-Modal_Response_Decoupling_CVPR_2025_paper.html)] 
+  [[code](https://github.com/Xinyu-Xiang/ACAttack)]
+  
 - **Bayer-Thermal:** Augustin Borne, Christophe Hennequin, Stéphane Bazeille, Philippe De Faria, Franz Quint, Sébastien Changey, and Christophe Cudel.<br />
   "Multimodal object tracking using raw visible and thermal infrared data." SPIE (2025).
   [[paper](https://doi.org/10.1117/12.3079227)]
