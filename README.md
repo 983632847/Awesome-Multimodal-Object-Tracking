@@ -1023,6 +1023,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **MCINet:** Zhao Gao and Dongming Zhou and Zhiyong Wu and Yisong Liu and Qingqing Shan.<br />
+  "MCINet: Multimodal Context-Aware Network for RGBT Tracking." KBS (2025).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125013826)] 
+  [[code](https://github.com/ysqidong-dotcon/MCINet)]
+  
 - **ACAttack:** Xinyu Xiang, Qinglong Yan, Hao Zhang, Jiayi Ma.<br />
   "ACAttack: Adaptive Cross Attacking RGB-T Tracker via Multi-Modal Response Decoupling." CVPR (2025).
   [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Xiang_ACAttack_Adaptive_Cross_Attacking_RGB-T_Tracker_via_Multi-Modal_Response_Decoupling_CVPR_2025_paper.html)] 
