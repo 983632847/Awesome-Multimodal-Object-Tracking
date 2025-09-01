@@ -1041,7 +1041,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   "FMTrack: Frequency-aware Interaction and Multi-Expert Fusion for RGB-T Tracking." TCSVT (2025).
   [[paper](https://ieeexplore.ieee.org/document/11134499)] 
   [[code](https://github.com/xyl-507/FMTrack)]
-  
+
+- Ma, Shaoyang and Zhang, Kai and Yang, Yao and Liu, Qiyan and Chen, Gang.<br />
+  "Vision-Inspired Transformer-Based Thermal Infrared Target Tracking Framework for Internet of Things." IEEE Internet of Things Journal (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11142785)]
+
 - **MTNet:** Ruichao Hou, Boyue Xu, Tongwei Ren, Gangshan Wu.<br />
   "MTNet: Learning modality-aware representation with transformer for RGBT tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2508.17280)]
