@@ -77,6 +77,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **FPDT:** Lihua Qi, Haijun Wang, Haoyu Qu, Zihao Su.<br />
+  "Learning Adaptive Frequency-Prompt Denoising Transformer for UAV Nighttime Tracking." KBS (2025).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125013802)]
+  
 - **ToS:** Chengao Zong, Xin Chen, Jie Zhao, Yang Liu, Huchuan Lu, Dong Wang.<br />
   "Enhancing the Two-Stream Framework for Efficient Visual Tracking." TIP (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11131531)]
