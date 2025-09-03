@@ -363,6 +363,11 @@
   [[paper](https://arxiv.org/abs/2508.21060)] 
   [[code](https://github.com/ethz-vlg/mvtracker)]
   [[project](https://ethz-vlg.github.io/mvtracker)]
+
+- **TrackAny3D:** Mengmeng Wang, Haonan Wang, Yulong Li, Xiangjie Kong, Jiaxin Du, Guojiang Shen, Feng Xia.<br />
+  "TrackAny3D: Transferring Pretrained 3D Models for Category-unified 3D Point Cloud Tracking." ICCV (2025).
+  [[paper](https://arxiv.org/pdf/2507.19908)] 
+  [[code](https://github.com/sallymmx/TrackAny3D.git)]
   
 ### CVPR 2025
 - **DreamTrack:** Mingzhe Guo, Weiping Tan, Wenyu Ran, Liping Jing, Liping Jing, Zhipeng Zhang.<br />
