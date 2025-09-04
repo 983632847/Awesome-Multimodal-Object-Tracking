@@ -77,6 +77,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **CloudTrack:** Yannik Blei; Michael Krawez; Nisarga Nilavadi; Tanja Katharina Kaiser; Wolfram Burgard.<br />
+  "CloudTrack: Scalable UAV Tracking with Cloud Semantics." ICRA (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11128514)] 
+  [[code](https://github.com/yblei/CloudTrack)]
+  
 - **FPDT:** Lihua Qi, Haijun Wang, Haoyu Qu, Zihao Su.<br />
   "Learning Adaptive Frequency-Prompt Denoising Transformer for UAV Nighttime Tracking." KBS (2025).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125013802)]
