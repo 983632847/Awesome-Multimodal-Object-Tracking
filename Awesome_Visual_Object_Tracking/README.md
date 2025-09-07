@@ -77,6 +77,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **TATrack:** Wenkang Zhang, Tianyang Xu, Fei Xie, Jinhui Wu, Wankou Yang.<br />
+  "TATrack: Target-Oriented Adaptive Vision Transformer for UAV Tracking." Neural Networks (2025).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025009475)]
+  
 - **CloudTrack:** Yannik Blei; Michael Krawez; Nisarga Nilavadi; Tanja Katharina Kaiser; Wolfram Burgard.<br />
   "CloudTrack: Scalable UAV Tracking with Cloud Semantics." ICRA (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11128514)] 
