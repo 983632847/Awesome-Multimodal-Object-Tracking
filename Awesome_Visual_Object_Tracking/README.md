@@ -77,6 +77,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **AVTrack:** You Wu, Yongxin Li, Mengyuan Liu, Xucheng Wang, Xiangyang Yang, Hengzhou Ye, Dan Zeng, Qijun Zhao, Shuiwang Li.<br />
+  "Learning an Adaptive and View-Invariant Vision Transformer for Real-Time UAV Tracking." TCSVT (2025).
+  [[paper](https://arxiv.org/abs/2412.20002)] 
+  [[code](https://github.com/wuyou3474/AVTrack)]
+  
 - **TATrack:** Wenkang Zhang, Tianyang Xu, Fei Xie, Jinhui Wu, Wankou Yang.<br />
   "TATrack: Target-Oriented Adaptive Vision Transformer for UAV Tracking." Neural Networks (2025).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025009475)]
@@ -750,6 +755,12 @@
   "Leveraging the Power of Data Augmentation for Transformer-based Tracking." WACV (2024).
   [[paper](https://arxiv.org/abs/2309.08264)] 
   [[code](https://github.com/zj5559/DATr)]
+
+### ICML 2024
+- **AVTrack:** You Wu, Yongxin Li, Mengyuan Liu, Xucheng Wang, Xiangyang Yang, Hengzhou Ye, Dan Zeng, Qijun Zhao, Shuiwang Li.<br />
+  "Learning an Adaptive and View-Invariant Vision Transformer for Real-Time UAV Tracking." ICML (2024).
+  [[paper](https://arxiv.org/pdf/2412.20002v1)] 
+  [[code](https://github.com/wuyou3474/AVTrack)]
   
 ### AAAI 2024
 
