@@ -1746,6 +1746,11 @@ Coming soon.
 
 ### Papers
 #### 2025
+- **HyMamba:** Long Gao, Yunhe Zhang, Yan Jiang, Weiying Xie, Yunsong Li.<br />
+  "Hyperspectral Mamba for Hyperspectral Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2509.08265)] 
+  [[code](https://github.com/lgao001/HyMamba)]
+  
 - **VSS:** Pengfei Wei, Liu Qiao, Zhenyu He, Di Yuan.<br />
   "A Multi-Stream Visual-Spectral-Spatial Adaptive Hyperspectral Object Tracking." ICMR (2025).
   [[paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733262)] 
