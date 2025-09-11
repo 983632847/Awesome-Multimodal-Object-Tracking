@@ -725,13 +725,13 @@
 
 - **CAI:** Yanyan Shao, Shuting He, Qi Ye, Yuchao Feng, Wenhan Luo, Jiming Chen.<br />
   "Context-Aware Integration of Language and Visual References for Natural Language Tracking." CVPR (2024).
-  [[paper](https://arxiv.org/)] 
-  [[code](https://)]
+  [[paper](https://arxiv.org/pdf/2403.19975)] 
+  [[code](https://github.com/twotwo2/QueryNLT)]
 
 - **ResampleTrack:** Xuhong Ren, Jianlang Chen, Yue Cao, Wanli Xue, Qing Guo, Lei Ma, Jianjun Zhao, Shenyong Chen.<br />
-  "ResampleTrack: Online Resampling for Adversarially Robust Visual Tracking." CVPR (2024).
+  "ResampleTrack: Online Resampling for Adversarially Robust Visual Tracking." CVPRW (2024).
   [[paper](https://openaccess.thecvf.com/content/CVPR2024W/AdvML/html/Ren_ResampleTrack_Online_Resampling_for_Adversarially_Robust_Visual_Tracking_CVPRW_2024_paper.html)] 
-  [[code]( )]
+
   
 
 ### WACV 2024
