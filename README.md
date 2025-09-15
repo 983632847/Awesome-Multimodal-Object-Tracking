@@ -1023,6 +1023,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **HMFF:** Na Li, Kai Huang, Zihang Wang, Yuquan Gan & Jinglu He .<br />
+  "Hierarchical multi-modal feature fusion for RGBT tracking." Signal, Image and Video Processing (2025).
+  [[paper](https://link.springer.com/article/10.1007/s11760-025-04672-w)] 
+  [[code](https://github.com/TrackingR/HMFF.git.)]
+  
 - **MCINet:** Zhao Gao and Dongming Zhou and Zhiyong Wu and Yisong Liu and Qingqing Shan.<br />
   "MCINet: Multimodal Context-Aware Network for RGBT Tracking." KBS (2025).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125013826)] 
