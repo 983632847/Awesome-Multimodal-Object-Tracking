@@ -570,6 +570,11 @@ Coming soon.
 
 ### Papers
 #### 2025
+- **ISTASTrack:** Siying Liu, Zikai Wang, Hanle Zheng, Yifan Hu, Xilin Wang, Qingkai Yang, Jibin Wu, Hao Guo, Lei Deng.<br />
+  "ISTASTrack: Bridging ANN and SNN via ISTA Adapter for RGB-Event Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2509.09977)] 
+  [[code](https://github.com/lsying009/ISTASTrack.git)]
+  
 - **AMTTrack & FELT v2:** Xiao Wang, Xufeng Lou, Shiao Wang, Ju Huang, Lan Chen, Bo Jiang.<br />
   "Long-Term Visual Object Tracking with Event Cameras: An Associative Memory Augmented Tracker and A Benchmark Dataset." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2403.05839)] 
