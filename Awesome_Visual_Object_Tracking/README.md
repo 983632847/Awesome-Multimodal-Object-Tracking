@@ -77,6 +77,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **T-SiamTPN:** Hojat Ardi, Amir Jahanshahi, Ali Diba.<br />
+  "T-SiamTPN: Temporal Siamese Transformer Pyramid Networks for Robust and Efficient UAV Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2509.12913)] 
+  [[code](https://github.com/to/be/released)]
+  
 - **AVTrack:** You Wu, Yongxin Li, Mengyuan Liu, Xucheng Wang, Xiangyang Yang, Hengzhou Ye, Dan Zeng, Qijun Zhao, Shuiwang Li.<br />
   "Learning an Adaptive and View-Invariant Vision Transformer for Real-Time UAV Tracking." TCSVT (2025).
   [[paper](https://arxiv.org/abs/2412.20002)] 
