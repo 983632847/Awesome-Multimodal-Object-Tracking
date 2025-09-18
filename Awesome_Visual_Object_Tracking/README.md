@@ -81,7 +81,6 @@
 "Distractor-Aware Memory-Based Visual Object Tracking." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.13864)]
 [[code](https://github.com/jovanavidenovic/DAM4SAM)]
-[2025.09]
 
 - **T-SiamTPN:** Hojat Ardi, Amir Jahanshahi, Ali Diba.<br />
   "T-SiamTPN: Temporal Siamese Transformer Pyramid Networks for Robust and Efficient UAV Tracking." ArXiv (2025).
