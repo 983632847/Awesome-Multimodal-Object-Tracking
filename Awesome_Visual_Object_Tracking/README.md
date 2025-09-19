@@ -77,6 +77,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **HKDT:** Song, Yidong and Wang, Shilei and Zeng, Zhaochuan and Zheng, Jikai and Wang, Zhenhua and Ning, Jifeng.<br />
+  "Exploring Pruning-based Efficient Object Tracking via Hybrid Knowledge Distillation." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11162677)]
+  
 - **SAM4SAM:** Jovana Videnovic, Matej Kristan, Alan Lukezic.<br />
 "Distractor-Aware Memory-Based Visual Object Tracking." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.13864)]
