@@ -77,6 +77,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **TransSTC:** Hong Zhang and Wanli Xing and Yifan Yang and Hanyang Liu and Ding Yuan.<br />
+  "TransSTC: transformer tracker meets efficient spatial-temporal cues." PR (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325009641)]
+  
 - **HKDT:** Song, Yidong and Wang, Shilei and Zeng, Zhaochuan and Zheng, Jikai and Wang, Zhenhua and Ning, Jifeng.<br />
   "Exploring Pruning-based Efficient Object Tracking via Hybrid Knowledge Distillation." TCSVT (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11162677)]
