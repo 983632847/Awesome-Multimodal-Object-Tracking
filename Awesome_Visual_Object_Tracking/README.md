@@ -77,6 +77,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **DGTrack:** Erfeng Liu and Xinde Li and Heqing Li and Guoliang Wu and Tao Shen.<br />
+  "A Domain Generalized UAV Tracking Framework via Frequency-Aware Learning and Target-Aligned Data Augmentation in Complex Environments." KBS (2025).
+  [[paper](https://doi.org/10.1016/j.knosys.2025.114501)]
+  
 - **TransSTC:** Hong Zhang and Wanli Xing and Yifan Yang and Hanyang Liu and Ding Yuan.<br />
   "TransSTC: transformer tracker meets efficient spatial-temporal cues." PR (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325009641)]
