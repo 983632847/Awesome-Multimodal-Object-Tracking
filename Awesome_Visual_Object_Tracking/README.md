@@ -77,6 +77,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **Track-On2:** Görkay Aydemir, Weidi Xie, Fatma Güney.<br />
+  "Track-On2: Enhancing Online Point Tracking with Memory." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2509.19115)] 
+  [[code](https://kuis-ai.github.io/track_on2)]
+  
 - **DGTrack:** Erfeng Liu and Xinde Li and Heqing Li and Guoliang Wu and Tao Shen.<br />
   "A Domain Generalized UAV Tracking Framework via Frequency-Aware Learning and Target-Aligned Data Augmentation in Complex Environments." KBS (2025).
   [[paper](https://doi.org/10.1016/j.knosys.2025.114501)]
