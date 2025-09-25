@@ -1028,6 +1028,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **VFPTrack:** Hongtao Yang, Bineng Zhong, Qihua Liang, Zhiruo Zhu, Yaozong Zheng, Ning Li.<br />
+  "Robust RGB-T Tracking via Learnable Visual Fourier Prompt Fine-tuning and Modality Fusion Prompt Generation." TMM (2025).
+  [[paper](https://arxiv.org/abs/2509.19733)]
+  
 - **HMFF:** Na Li, Kai Huang, Zihang Wang, Yuquan Gan & Jinglu He .<br />
   "Hierarchical multi-modal feature fusion for RGBT tracking." Signal, Image and Video Processing (2025).
   [[paper](https://link.springer.com/article/10.1007/s11760-025-04672-w)] 
