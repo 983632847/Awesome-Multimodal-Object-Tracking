@@ -1609,6 +1609,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2025
+- **MFATrack:** Ziyu Li, Na You, Tanqing Sun, Mingjia Wang, Xianjun Zhang & Yuping Feng.<br />
+  "MFATrack: multi-modal fusion tracking network with adapter tunning." Signal, Image and Video Processing (2025).
+  [[paper](https://link.springer.com/article/10.1007/s11760-025-04779-0)]
+  
 - **SRTrack:** Zhiwen Chen, Jinjian Wu, Zhiyu Zhu, Yifan Zhang, Guangming Shi, Junhui Hou.<br />
   "Optimizing Multi-Modal Trackers via Sensitivity-aware Regularized Tuning." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2508.17488)] 
