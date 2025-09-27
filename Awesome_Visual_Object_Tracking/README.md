@@ -830,7 +830,10 @@
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29145)] 
 
 ### ArXiv-2024
-
+- **ProLA:** Zhang, Dawei and Xiao, Xin and Zheng, Zhonglong and Jiang, Yunliang and Yang, Yi.<br />
+  "Probabilistic Assignment With Decoupled IoU Prediction for Visual Tracking." TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10440122)]
+  
 - **SeqTrack3D:** Yu Lin, Zhiheng Li, Yubo Cui, Zheng Fang.<br />
   "SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking." ICRA (2024).
   [[paper](https://arxiv.org/abs/2402.16249)] 
