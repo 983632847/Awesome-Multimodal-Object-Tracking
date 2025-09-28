@@ -570,6 +570,11 @@ Coming soon.
 
 ### Papers
 #### 2025
+- **UREPTrack:** Min Lu.<br />
+  "UREPTrack: Unified RGB-Event Visual Tracking via PoolFormer Backbone." ArXiv (2025).
+  [[paper](https://www.researchsquare.com/article/rs-7551764/v1)] 
+  [[code](https://github.com/HamadYA/UREPTrack)]
+  
 - **ISTASTrack:** Siying Liu, Zikai Wang, Hanle Zheng, Yifan Hu, Xilin Wang, Qingkai Yang, Jibin Wu, Hao Guo, Lei Deng.<br />
   "ISTASTrack: Bridging ANN and SNN via ISTA Adapter for RGB-Event Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2509.09977)] 
