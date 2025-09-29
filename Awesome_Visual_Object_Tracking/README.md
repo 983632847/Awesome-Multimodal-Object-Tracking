@@ -77,6 +77,14 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **360VOTS:** Yinzhe Xu, Huajian Huang, Yingshu Chen and Sai-Kit Yeung.<br />
+  "360VOTS: Visual Object Tracking and Segmentation in Omnidirectional Videos." TPAMI (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11090163)] 
+  [[code](https://360vots.hkustvgd.com/)]
+
+- **IDSTT:** Zhao, Kunlong and Zhao, Dawei and Xiao, Liang and Nie, Yiming and Huang, Yulong and Zhang, Yonggang.<br />
+  "IDSTT: Iterative Dual-Sample-Teacher for Semi-Supervised Visual Object Tracking." TCSVT (2025).
+  
 - **Track-On2:** Görkay Aydemir, Weidi Xie, Fatma Güney.<br />
   "Track-On2: Enhancing Online Point Tracking with Memory." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2509.19115)] 
