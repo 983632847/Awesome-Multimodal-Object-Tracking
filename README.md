@@ -1809,6 +1809,11 @@ Coming soon.
 
 
 #### 2024
+- **Trans-DAT:** Wu, Yinan and Jiao, Licheng and Liu, Xu and Liu, Fang and Yang, Shuyuan and Li, Lingling.<br />
+  "Domain Adaptation-Aware Transformer for Hyperspectral Object Tracking." TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10491347)] 
+  [[code](https://github.com/LianYi233/Trans-DAT)]
+  
 - **BihoT:** Hanzheng Wang, Wei Li, Xiang-Gen Xia, Qian Du.<br />
   "BihoT: A Large-Scale Dataset and Benchmark for Hyperspectral Camouflaged Object Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.12232)]
