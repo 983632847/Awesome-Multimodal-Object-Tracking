@@ -1611,9 +1611,14 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 |  [UniMod1K](https://link.springer.com/article/10.1007/s11263-024-01999-8)   |   IJCV-2024  |  [UniMod1K](https://github.com/xuefeng-zhu5/UniMod1K)  |  1050 video  pairs, 2.5 million frames, Vision-depth-language  |  
 |  [QuadTrack600](https://arxiv.org/abs/2503.11218)   |   arXiv-2025  |  [QuadTrack600](https://arxiv.org/abs/2503.11218)  |  600 video  pairs, 348.7 K frames, RGB-TIR-Language-Event |  
 |  [UniBench300](https://arxiv.org/abs/2508.10655)   |   ACM MM-2025  |  [UniBench300](https://github.com/Zhangyong-Tang/UniBench300)  |  A unified benchmark with 100 RGBT sequences, 100 RGBD sequences, and 100 RGBE sequences, 368.1K frames  |  
+|  [RGBDT500](https://arxiv.org/abs/2509.24741)   |   arXiv-2025  |  [RGBDT500](https://arxiv.org/abs/2509.24741)  |  A multi-modal tracking dataset contained 500 videos with synchronised frames across RGB, depth, and thermal infrared modalities  |  
 
 ### Papers
 #### 2025
+- **RDTTrack:** Xue-Feng Zhu, Tianyang Xu, Yifan Pan, Jinjie Gu, Xi Li, Jiwen Lu, Xiao-Jun Wu, Josef Kittler.<br />
+  "Collaborating Vision, Depth, and Thermal Signals for Multi-Modal Tracking: Dataset and Algorithm." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2509.24741)]
+  
 - **MFATrack:** Ziyu Li, Na You, Tanqing Sun, Mingjia Wang, Xianjun Zhang & Yuping Feng.<br />
   "MFATrack: multi-modal fusion tracking network with adapter tunning." Signal, Image and Video Processing (2025).
   [[paper](https://link.springer.com/article/10.1007/s11760-025-04779-0)]
