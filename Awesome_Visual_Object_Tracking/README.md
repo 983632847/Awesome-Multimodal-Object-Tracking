@@ -77,6 +77,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **FSTrack:** Jian Shi and Yang Yu and Bin Hui and Junze Shi and Haibo Luo.<br />
+  "FSTrack: Visual Tracking with Feature Fusion and Adaptive Selection." ESWA (2025).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425035109)]
+  
 - **360VOTS:** Yinzhe Xu, Huajian Huang, Yingshu Chen and Sai-Kit Yeung.<br />
   "360VOTS: Visual Object Tracking and Segmentation in Omnidirectional Videos." TPAMI (2025).
   [[paper](https://ieeexplore.ieee.org/document/11090163)] 
