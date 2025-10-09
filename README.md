@@ -147,6 +147,11 @@ Coming soon.
 
 ### Papers
 #### 2025
+- **TrackVLA++:** Jiahang Liu, Yunpeng Qi, Jiazhao Zhang, Minghan Li, Shaoan Wang, Kui Wu, Hanjing Ye, Hong Zhang, Zhibo Chen, Fangwei Zhong, Zhizheng Zhang, He Wang.<br />
+  "TrackVLA++: Unleashing Reasoning and Memory Capabilities in VLA Models for Embodied Visual Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2510.07134)] 
+  [[code](https://pku-epic.github.io/TrackVLA-plus-plus-Web/)]
+  
 - **TrackVLA:**  Shaoan Wang, Jiazhao Zhang, Minghan Li, Jiahang Liu, Anqi Li, Kui Wu, Fangwei Zhong, Junzhi Yu, Zhizheng Zhang, He Wang.<br />
   "TrackVLA: Embodied Visual Tracking in the Wild." CoRL (2025).
   [[paper](https://arxiv.org/abs/2505.23189)]
@@ -1774,6 +1779,11 @@ Coming soon.
 
 ### Papers
 #### 2025
+- **MSITrack:** Tao Feng, Tingfa Xu, Haolin Qin, Tianhao Li, Shuaihao Han, Xuyang Zou, Zhan Lv, Jianan Li.<br />
+  "MSITrack: A Challenging Benchmark for Multispectral Single Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2510.06619)] 
+  [[code](https://github.com/Fengtao191/MSITrack)]
+  
 - **HyMamba:** Long Gao, Yunhe Zhang, Yan Jiang, Weiying Xie, Yunsong Li.<br />
   "Hyperspectral Mamba for Hyperspectral Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2509.08265)] 
