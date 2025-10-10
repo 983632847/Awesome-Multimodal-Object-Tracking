@@ -77,6 +77,16 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **MSTGT:** Fei Pan and Lianyu Zhao and Chenglin Wang and Chunlei Du and Xiaolei Zhao.<br />
+  "MSTGT: Multi-scale spatio-temporal guidance for visual tracking." Neurocomputing (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0925231225022556)] 
+  [[code](https://github.com/capf-2011/MSTGT)]
+
+- **TSTrack:** Li, Jiafeng and Sun, Shengyao and Wang, Yang and Zhang, Jing and Zhuo, Li.<br />
+  "TSTrack: A Light-weight Transformer-based Spatiotemporal Feature Refinement Tracking Algorithm." TGRS (2025).
+  [[paper](https://doi.org/10.1109/TGRS.2025.3614769)] 
+  [[code](https://github.com/BJUTsipl/TSTrack)]
+  
 - **FSTrack:** Jian Shi and Yang Yu and Bin Hui and Junze Shi and Haibo Luo.<br />
   "FSTrack: Visual Tracking with Feature Fusion and Adaptive Selection." ESWA (2025).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425035109)]
