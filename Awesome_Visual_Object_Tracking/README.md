@@ -77,6 +77,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **ILA:** Liu, Ziyi and Xie, Caiyun and Ding, Wenbing and Ye, Dengpan and Tang, Long and Wang, Qian.<br />
+  "Towards Invisible Decision-Based Adversarial Attacks against Visual Object Tracking." TMM (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11194202)]
+  
 - **MSTGT:** Fei Pan and Lianyu Zhao and Chenglin Wang and Chunlei Du and Xiaolei Zhao.<br />
   "MSTGT: Multi-scale spatio-temporal guidance for visual tracking." Neurocomputing (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0925231225022556)] 
