@@ -202,6 +202,10 @@ Coming soon.
   [[paper](https://arxiv.org/abs/2508.09524)]
   
 #### 2025
+- **THM:** Xu, Wei, Gu Geng, Xinming Zhang, and Di Yuan.<br />
+  "Cross-Modal Alignment Enhancement for Vision–Language Tracking via Textual Heatmap Mapping." AI (2025).
+  [[paper](https://doi.org/10.3390/ai6100263)]
+  
 - **LGTrack:** Jianbo Song, Hong Zhang, Yachun Feng, Hanyang Liu, Yifan Yang.<br />
   "Language-guided Visual Tracking: Comprehensive and Effective Multimodal Information Fusion." ACM Trans. Multimedia Comput. Commun. Appl. (2025).
   [[paper](https://dl.acm.org/doi/10.1145/3757322)]
