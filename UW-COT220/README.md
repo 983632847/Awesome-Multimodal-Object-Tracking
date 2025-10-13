@@ -4,7 +4,7 @@
 
 Over the past decade, significant progress has been made in visual object tracking, largely due to the availability of large-scale datasets. However, these datasets have primarily focused on open-air scenarios and have largely overlooked underwater animal tracking—especially the complex challenges posed by camouflaged marine animals. To bridge this gap, we take a step forward by proposing the first large-scale multi-modal underwater camouflaged object tracking dataset, namely UW-COT220. Based on the proposed dataset, this work first comprehensively evaluates current advanced visual object tracking methods, including SAM- and SAM2-based trackers, in challenging underwater environments, \eg, coral reefs. Our findings highlight the improvements of SAM2 over SAM, demonstrating its enhanced ability to handle the complexities of underwater camouflaged objects. Furthermore, we propose a novel vision-language tracking framework called VL-SAM2, based on the video foundation model SAM2. Experimental results demonstrate that our VL-SAM2 achieves state-of-the-art performance on the UW-COT220 dataset. The dataset and codes are available at here.
 
-:boom:**Our paper was selected as an outstanding paper in CV4Animals workshop in CVPR 2025.**
+:boom:**Our paper was selected as an Outstanding Paper in CV4Animals workshop in CVPR 2025.**
 
 ### TODO
 - [x] UW-COT220 (The First Multimodal UnderWater Camouﬂaged Object Tracking Dataset)
