@@ -77,6 +77,19 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **SU-STTrack:** Liu, Xuelin and Zhou, Huiyu and Dong, Junyu and Xiao, Jingjing and Dong, Xinghui.<br />
+  "Single Target Tracking with Contextual Prompts in Scene Understanding." IEEE TAI (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11199398)] 
+  [[code](https://indtlab.github.io/projects/SUSTTrack)]
+
+- **RMATrack:** Xiaomei Gong and Yi Zhang and Yanli Liu.<br />
+  "Visual Tracking with Unified Relation Modeling and Masked Appearance Learning." Neural Networks (2025).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025010780)] 
+
+- **MCTrack:** Jianbo Song and Hong Zhang and Hanyang Liu and Yachun Feng and Yang Han and Yifan Yang.<br />
+  "MCTrack: Multi-Cue Spatio-Temporal Object Tracking." ESWA (2025).
+  [[paper](https://doi.org/10.1016/j.eswa.2025.129984)]
+  
 - **ILA:** Liu, Ziyi and Xie, Caiyun and Ding, Wenbing and Ye, Dengpan and Tang, Long and Wang, Qian.<br />
   "Towards Invisible Decision-Based Adversarial Attacks against Visual Object Tracking." TMM (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11194202)]
