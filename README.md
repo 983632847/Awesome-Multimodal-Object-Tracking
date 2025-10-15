@@ -1783,6 +1783,11 @@ Coming soon.
 
 ### Papers
 #### 2025
+- **MMOT:** Tianhao Li, Tingfa Xu, Ying Wang, Haolin Qin, Xu Lin, Jianan Li.<br />
+  "MMOT: The First Challenging Benchmark for Drone-based Multispectral Multi-Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2510.12565)] 
+  [[code](https://github.com/Annzstbl/MMOT)]
+  
 - **MSITrack:** Tao Feng, Tingfa Xu, Haolin Qin, Tianhao Li, Shuaihao Han, Xuyang Zou, Zhan Lv, Jianan Li.<br />
   "MSITrack: A Challenging Benchmark for Multispectral Single Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2510.06619)] 
