@@ -1624,6 +1624,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2025
+- **UniSOT:** Ma, Yinchao and Tang, Yuyang and Yang, Wenfei and Zhang, Tianzhu and Zhou, Xu and Wu, Feng.<br />
+  "UniSOT: a Unified Framework for Multi-Modality Single Object Tracking." TPAMI (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11202681)]
+  
 - **RDTTrack:** Xue-Feng Zhu, Tianyang Xu, Yifan Pan, Jinjie Gu, Xi Li, Jiwen Lu, Xiao-Jun Wu, Josef Kittler.<br />
   "Collaborating Vision, Depth, and Thermal Signals for Multi-Modal Tracking: Dataset and Algorithm." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2509.24741)]
