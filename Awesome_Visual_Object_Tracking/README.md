@@ -77,6 +77,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **DPTrack:** Zhiqiang Zhu, Xinbo Gao, Wen Lu, Jie Li, Zhaoyang Wang, Mingqian Ge.<br />
+  "DPTrack: Directional Kernel-Guided Prompt Learning for Robust Nighttime Aerial Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2510.15449)] 
+  [[code](https://github.com/zzq-vipsl/DPTrack)]
+  
 - **SU-STTrack:** Liu, Xuelin and Zhou, Huiyu and Dong, Junyu and Xiao, Jingjing and Dong, Xinghui.<br />
   "Single Target Tracking with Contextual Prompts in Scene Understanding." IEEE TAI (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11199398)] 
