@@ -4,15 +4,16 @@
 <div align="center">
 <img src="https://github.com/983632847/Awesome-Multimodal-Object-Tracking/blob/main/MMOT.png" width="600">
 
-
 ------
 <p align="center">
 </p>
 </div>
 
-#### A continuously updated project to track the latest progress in multi-modal object tracking (MMOT).
-#### If this repository can bring you some inspiration, we would feel greatly honored.
-#### If you have any suggestions, please feel free to contact: [andyzhangchunhui@gmail.com](andyzhangchunhui@gmail.com). 
+> **A Comprehensive Survey: Awesome Multi-modal Object Tracking.** Chunhui Zhang, Li Liu, Hao Wen, Xi Zhou, Yanfeng Wang. [[paper](https://arxiv.org/abs/2405.14200)] [[homepage](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)][[中文解读](https://zhuanlan.zhihu.com/p/699538389)] 
+
+> **<p align="justify"> Abstract:** *Multi-modal object tracking (MMOT) is an emerging field that combines data from various modalities, \eg vision (RGB), depth, thermal infrared, event, language and audio, to estimate the state of an arbitrary object in a video sequence. It is of great significance for many applications such as autonomous driving and intelligent surveillance. In recent years, MMOT has received more and more attention. However, existing MMOT algorithms mainly focus on two modalities (\eg RGB+depth, RGB+thermal infrared, and RGB+language). To leverage more modalities, some recent efforts have been made to learn a unified visual object tracking model for any modality. Additionally, some large-scale multi-modal tracking benchmarks have been established by simultaneously providing more than two modalities, such as vision-language-audio (\eg WebUAV-3M) and vision-depth-language (\eg UniMod1K). To track the latest progress in MMOT, we conduct a comprehensive investigation in this report. Specifically, we first divide existing MMOT tasks into five main categories, \ie RGBL tracking, RGBE tracking, RGBD tracking, RGBT tracking, and miscellaneous (RGB+X), where X can be any modality, such as language, depth, and event. Then, we analyze and summarize each MMOT task, focusing on widely used datasets and mainstream tracking algorithms based on their technical paradigms (\eg self-supervised learning, prompt learning, knowledge distillation, generative models, and state space models). Finally, we maintain a continuously updated paper list for MMOT at [this https URL](https://github.com/983632847/Awesome-Multimodal-Object-Tracking).* </p>
+
+> **Awesome MMOT:** A continuously updated project to track the latest progress in multi-modal object tracking (MMOT). If this repository can bring you some inspiration, we would feel greatly honored. If you have any suggestions, please feel free to contact: [andyzhangchunhui@gmail.com](andyzhangchunhui@gmail.com). 
 ### If you like our project, please give us a star ⭐ on this GitHub.
 ### We welcome researchers to submit pull requests and become contributors to this project.
 ### This project focuses solely on single-object tracking.
