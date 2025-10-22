@@ -16,7 +16,7 @@
 ### If you like our project, please give us a star ⭐ on this GitHub.
 ### We welcome researchers to submit pull requests and become contributors to this project.
 ### This project focuses solely on single-object tracking.
-### Awesome Visual Object Tracking (VOT) Project is at [Awesome-VOT](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/Awesome_Visual_Object_Tracking).
+### :fire: Awesome Visual Object Tracking (VOT) Project is at [Awesome-VOT](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/Awesome_Visual_Object_Tracking).
 
 <p align="center">
 <img src="https://github.com/983632847/Awesome-Multimodal-Object-Tracking/blob/main/Main_MMOT_Paradigms.png" width="600px"/>  
