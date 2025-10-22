@@ -77,6 +77,12 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **SAM 2++:** Jiaming Zhang, Cheng Liang, Yichun Yang, Chenkai Zeng, Yutao Cui, Xinwen Zhang, Xin Zhou, Kai Ma, Gangshan Wu, Limin Wang.<br />
+"SAM 2++: Tracking Anything at Any Granularity." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.18822)]
+[[code](https://tracking-any-granularity.github.io/)]
+[2025.10]
+
 - **DPTrack:** Zhiqiang Zhu, Xinbo Gao, Wen Lu, Jie Li, Zhaoyang Wang, Mingqian Ge.<br />
   "DPTrack: Directional Kernel-Guided Prompt Learning for Robust Nighttime Aerial Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2510.15449)] 
