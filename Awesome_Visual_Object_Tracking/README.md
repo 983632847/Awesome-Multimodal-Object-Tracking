@@ -77,6 +77,13 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **ITTO:** Ilona Demler, Saumya Chauhan, Georgia Gkioxari.<br />
+  "Is This Tracker On? A Benchmark Protocol for Dynamic Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2510.19819)] 
+  [[code](https://github.com/ilonadem/itto)]
+  [[project](https://glab-caltech.github.io/ITTO/)] 
+  [[dataset](https://huggingface.co/datasets/demalenk/itto-dataset)]
+  
 - **SAM 2++:** Jiaming Zhang, Cheng Liang, Yichun Yang, Chenkai Zeng, Yutao Cui, Xinwen Zhang, Xin Zhou, Kai Ma, Gangshan Wu, Limin Wang.<br />
 "SAM 2++: Tracking Anything at Any Granularity." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.18822)]
