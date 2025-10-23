@@ -81,7 +81,7 @@ If you find our work useful in your research, please consider citing:
 
 
 ## Survey
-- **Awesome-MMOT:** Chunhui Zhang, Li Liu, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
+- **Awesome MMOT:** Chunhui Zhang, Li Liu, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
   "Awesome Multi-modal Object Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.14200)] 
   [[project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
@@ -583,6 +583,10 @@ Coming soon.
 
 ### Papers
 #### 2025
+- **HAD:** Yao Deng, Xian Zhong, Wenxuan Liu, Zhaofei Yu, Jingling Yuan, Tiejun Huang.<br />
+  "HAD: Hierarchical Asymmetric Distillation to Bridge Spatio-Temporal Gaps in Event-Based Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2510.19560)]
+  
 - **UREPTrack:** Min Lu.<br />
   "UREPTrack: Unified RGB-Event Visual Tracking via PoolFormer Backbone." ArXiv (2025).
   [[paper](https://www.researchsquare.com/article/rs-7551764/v1)] 
