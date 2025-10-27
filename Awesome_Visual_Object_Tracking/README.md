@@ -481,6 +481,16 @@
   "TrackAny3D: Transferring Pretrained 3D Models for Category-unified 3D Point Cloud Tracking." ICCV (2025).
   [[paper](https://arxiv.org/pdf/2507.19908)] 
   [[code](https://github.com/sallymmx/TrackAny3D.git)]
+
+- **MCATrack:** Jiahao Zhang, Zongli Jiang, Jinli Zhang, Yixin Wei, Liang Li, Yizheng Wang, Gang Wang.<br />
+  "Tracking Tiny Drones against Clutter: Large-Scale Infrared Benchmark with Motion-Centric Adaptive Algorithm." ICCV (2025).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Zhang_Tracking_Tiny_Drones_against_Clutter_Large-Scale_Infrared_Benchmark_with_Motion-Centric_ICCV_2025_paper.html)] 
+  [[code](https://github.com/zhangjiahao02/MCATrack)]
+  
+ - **CAT:** Yongsheng Yuan, Jie Zhao, Dong Wang, Huchuan Lu.<br />
+  "CAT: A Unified Click-and-Track Framework for Realistic Tracking." ICCV (2025).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Yuan_CAT_A_Unified_Click-and-Track_Framework_for_Realistic_Tracking_ICCV_2025_paper.html)] 
+  [[code](https://github.com/ysyuann/CAT)] 
   
 ### CVPR 2025
 - **DreamTrack:** Mingzhe Guo, Weiping Tan, Wenyu Ran, Liping Jing, Liping Jing, Zhipeng Zhang.<br />
