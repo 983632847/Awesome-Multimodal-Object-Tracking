@@ -80,7 +80,12 @@
 - **MATrack:** Xuzhao Li, Xuchen Li, Shiyu Hu.<br />
   "MATrack: Efficient Multiscale Adaptive Tracker for Real-Time Nighttime UAV Operations." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2510.21586)]
-  
+
+ - **GenPT:** Mattie Tesfaldet, Adam W. Harley, Konstantinos G. Derpanis, Derek Nowrouzezahrai, Christopher Pal.<br />
+  "Generative Point Tracking with Flow Matching." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2510.20951)] 
+  [[code](https://mtesfaldet.net/genpt_projpage/)]
+ 
 - **ITTO:** Ilona Demler, Saumya Chauhan, Georgia Gkioxari.<br />
   "Is This Tracker On? A Benchmark Protocol for Dynamic Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2510.19819)] 
