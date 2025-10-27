@@ -583,6 +583,14 @@ Coming soon.
 
 ### Papers
 #### 2025
+- **WTA:** Taha Razzaq, Asim Iqbal.<br />
+  "Multimodal Neuromorphic Event-Frame Fusion in Domain-Generalized Vision Transformer for Dynamic Object Tracking." ICCVW (2025).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025W/NeVi/html/Razzaq_Multimodal_Neuromorphic_Event-Frame_Fusion_in_Domain-Generalized_Vision_Transformer_for_Dynamic_ICCVW_2025_paper.html)] 
+
+- **GUSEM:** Oussama Abdul Hay, Sara Alansari, Mohamad Alansari, Yahya Zweiri.<br />
+  "Comparing Representations for Event Camera-based Visual Object Tracking." ICCVW (2025).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025W/NeVi/html/Hay_Comparing_Representations_for_Event_Camera-based_Visual_Object_Tracking_ICCVW_2025_paper.html)]
+  
 - **HAD:** Yao Deng, Xian Zhong, Wenxuan Liu, Zhaofei Yu, Jingling Yuan, Tiejun Huang.<br />
   "HAD: Hierarchical Asymmetric Distillation to Bridge Spatio-Temporal Gaps in Event-Based Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2510.19560)]
