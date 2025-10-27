@@ -422,6 +422,12 @@
   "Hyperspectral Object Tracking With Context-Aware Learning and Category Consistency." TGRS (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10928989)] 
 
+### NeurIPS 2025
+- **DSATrack:** Xinyu Zhou, Tongxin Pan, Lingyi Hong, Pinxue Guo, Haijing Guo, Zhaoyu Chen, Kaixun Jiang, Wenqiang Zhang.<br />
+  "Dynamic Semantic-Aware Correlation Modeling for UAV Tracking." NeurIPS (2025).
+  [[paper](https://arxiv.org/abs/2510.21351)] 
+  [[code](https://github.com/zxyyxzz/DSATrack)]
+  
 ### ICCV 2025
 - **ATCTrack:** X. Feng, S. Hu, X. Li, D. Zhang, M. Wu, J. Zhang, X. Chen, K. Huang.<br />
   "ATCTrack: Aligning Target-Context Cues with Dynamic Target States for Robust Vision-Language Tracking." ICCV (2025).
