@@ -77,6 +77,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **MATrack:** Xuzhao Li, Xuchen Li, Shiyu Hu.<br />
+  "MATrack: Efficient Multiscale Adaptive Tracker for Real-Time Nighttime UAV Operations." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2510.21586)]
+  
 - **ITTO:** Ilona Demler, Saumya Chauhan, Georgia Gkioxari.<br />
   "Is This Tracker On? A Benchmark Protocol for Dynamic Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2510.19819)] 
