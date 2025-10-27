@@ -206,6 +206,10 @@ Coming soon.
   [[paper](https://arxiv.org/abs/2508.09524)]
   
 #### 2025
+- **MDCT:** Zhongjian Huang, Lingling Li, Licheng Jiao, Jinyue Zhang, Long Sun, Xu Liu, Yuting Yang, Jiaxuan Zhao, Wenping Ma, Xiangrong Zhang.<br />
+  "Multi-granularity Dynamic Conditional Transformer for Vision-Language Tracking." RoboSoft (2025).
+  [[paper](https://dl.acm.org/doi/10.1145/3746267.3762172)] 
+  
 - **THM:** Xu, Wei, Gu Geng, Xinming Zhang, and Di Yuan.<br />
   "Cross-Modal Alignment Enhancement for Vision–Language Tracking via Textual Heatmap Mapping." AI (2025).
   [[paper](https://doi.org/10.3390/ai6100263)]
