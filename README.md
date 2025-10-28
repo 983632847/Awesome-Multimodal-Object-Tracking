@@ -209,6 +209,10 @@ Coming soon.
 - **CMTrack:** Tang, Yuyang and Ma, Yinchao and Yang, Dengqing and Xiao, Jie and Zhang, Tianzhu.<br />
   "State Space Models for Natural Language Tracking: Exploring Context-adaptive Language Cues." TCSVT (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11207713)]
+
+- **MACT:** Guo, Guomao and Geng, Gu and Tang, Jianing and Liu, Qiao and Yuan, Di.<br />
+  "Multi-Scale Adaptive Cascaded Tracking for Vision-Language Integration." SPL (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11214228)]
   
 - **MDCT:** Zhongjian Huang, Lingling Li, Licheng Jiao, Jinyue Zhang, Long Sun, Xu Liu, Yuting Yang, Jiaxuan Zhao, Wenping Ma, Xiangrong Zhang.<br />
   "Multi-granularity Dynamic Conditional Transformer for Vision-Language Tracking." RoboSoft (2025).
@@ -1066,6 +1070,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **MPANet:** Liu, Xiang and Li, Haiyan and Sheng, Victor and Ma, Yujun and Liang, Xiaoguo and Wang, Guanbo.<br />
+  "Scale-Aware Attention and Multi-Modal Prompt Learning with Fusion Adapter for RGBT Tracking." TMM (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11207526)]
+  
 - **VFPTrack:** Hongtao Yang, Bineng Zhong, Qihua Liang, Zhiruo Zhu, Yaozong Zheng, Ning Li.<br />
   "Robust RGB-T Tracking via Learnable Visual Fourier Prompt Fine-tuning and Modality Fusion Prompt Generation." TMM (2025).
   [[paper](https://arxiv.org/abs/2509.19733)]
