@@ -206,6 +206,10 @@ Coming soon.
   [[paper](https://arxiv.org/abs/2508.09524)]
   
 #### 2025
+- **CMTrack:** Tang, Yuyang and Ma, Yinchao and Yang, Dengqing and Xiao, Jie and Zhang, Tianzhu.<br />
+  "State Space Models for Natural Language Tracking: Exploring Context-adaptive Language Cues." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11207713)]
+  
 - **MDCT:** Zhongjian Huang, Lingling Li, Licheng Jiao, Jinyue Zhang, Long Sun, Xu Liu, Yuting Yang, Jiaxuan Zhao, Wenping Ma, Xiangrong Zhang.<br />
   "Multi-granularity Dynamic Conditional Transformer for Vision-Language Tracking." RoboSoft (2025).
   [[paper](https://dl.acm.org/doi/10.1145/3746267.3762172)] 
