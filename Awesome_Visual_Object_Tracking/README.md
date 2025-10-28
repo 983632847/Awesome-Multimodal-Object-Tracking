@@ -77,6 +77,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **PlanarTrack:** Yifan Jiao, Xinran Liu, Xiaoqiong Liu, Xiaohui Yuan, Heng Fan, Libo Zhang.<br />
+  "PlanarTrack: A High-quality and Challenging Benchmark for Large-scale Planar Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2510.23368)] 
+  [[code](https://github.com/HengLan/PlanarTrack)]
+  
 - **MATrack:** Xuzhao Li, Xuchen Li, Shiyu Hu.<br />
   "MATrack: Efficient Multiscale Adaptive Tracker for Real-Time Nighttime UAV Operations." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2510.21586)]
