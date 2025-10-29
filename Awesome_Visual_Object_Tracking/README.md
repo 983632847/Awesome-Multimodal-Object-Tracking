@@ -77,6 +77,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **FocusTrack:** Sifan Zhou, Jiahao Nie, Ziyu Zhao, Yichao Cao, Xiaobo Lu.<br />
+  "FocusTrack: One-Stage Focus-and-Suppress Framework for 3D Point Cloud Object Tracking." ACM MM (2025).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3746027.3754781)]
+  
 - **PlanarTrack:** Yifan Jiao, Xinran Liu, Xiaoqiong Liu, Xiaohui Yuan, Heng Fan, Libo Zhang.<br />
   "PlanarTrack: A High-quality and Challenging Benchmark for Large-scale Planar Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2510.23368)] 
