@@ -597,6 +597,10 @@ Coming soon.
 #### 2025
 - **WTA:** Taha Razzaq, Asim Iqbal.<br />
   "Multimodal Neuromorphic Event-Frame Fusion in Domain-Generalized Vision Transformer for Dynamic Object Tracking." ICCVW (2025).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025W/NeVi/papers/Razzaq_Multimodal_Neuromorphic_Event-Frame_Fusion_in_Domain-Generalized_Vision_Transformer_for_Dynamic_ICCVW_2025_paper.pdf)]
+  
+- **WTA:** Taha Razzaq, Asim Iqbal.<br />
+  "Multimodal Neuromorphic Event-Frame Fusion in Domain-Generalized Vision Transformer for Dynamic Object Tracking." ICCVW (2025).
   [[paper](https://openaccess.thecvf.com/content/ICCV2025W/NeVi/html/Razzaq_Multimodal_Neuromorphic_Event-Frame_Fusion_in_Domain-Generalized_Vision_Transformer_for_Dynamic_ICCVW_2025_paper.html)] 
 
 - **GUSEM:** Oussama Abdul Hay, Sara Alansari, Mohamad Alansari, Yahya Zweiri.<br />
@@ -1656,6 +1660,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2025
+- **FA3T:** Jiahao Wang, Fang Liu, Licheng Jiao, Hao Wang, Shuo Li, Lingling Li, Puhua Chen, Xu Liu, Xinyi Wang.<br />
+  "FA3T: Feature-Aware Adversarial Attacks for Multi-modal Tracking." ACM MM (2025).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3746027.3755155)]
+  
 - **UniSOT:** Ma, Yinchao and Tang, Yuyang and Yang, Wenfei and Zhang, Tianzhu and Zhou, Xu and Wu, Feng.<br />
   "UniSOT: a Unified Framework for Multi-Modality Single Object Tracking." TPAMI (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11202681)]
