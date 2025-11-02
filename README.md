@@ -1660,6 +1660,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2025
+- **SMSTracker:** Sixian Chan, Zedong Li, Wenhao Li, Shijian Lu, Chunhua Shen, Xiaoqin Zhang.<br />
+  "SMSTracker: Tri-path Score Mask Sigma Fusion for Multi-Modal Tracking." ICCV (2025).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Chan_SMSTracker_Tri-path_Score_Mask_Sigma_Fusion_for_Multi-Modal_Tracking_ICCV_2025_paper.html)] 
+  [[code](https://github.com/Leezed525/SMSTracker)]
+  
 - **FA3T:** Jiahao Wang, Fang Liu, Licheng Jiao, Hao Wang, Shuo Li, Lingling Li, Puhua Chen, Xu Liu, Xinyi Wang.<br />
   "FA3T: Feature-Aware Adversarial Attacks for Multi-modal Tracking." ACM MM (2025).
   [[paper](https://dl.acm.org/doi/abs/10.1145/3746027.3755155)]
