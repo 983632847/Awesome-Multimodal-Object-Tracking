@@ -646,7 +646,7 @@ Coming soon.
   [[code](https://github.com/scy0712/MamTrack)]
   
 - **SpikeFET.:** Jingjun Yang, Liangwei Fan, Jinpu Zhang, Xiangkai Lian, Hui Shen, Dewen Hu.<br />
-  "Fully Spiking Neural Networks for Unified Frame-Event Object Tracking." ArXiv (2025).
+  "Fully Spiking Neural Networks for Unified Frame-Event Object Tracking." NeurIPS (2025).
   [[paper](https://arxiv.org/abs/2505.20834)]
   
 - **SFTrack:** Shiao Wang, Xiao Wang, Liye Jin, Bo Jiang, Lin Zhu, Lan Chen, Yonghong Tian, Bin Luo.<br />
