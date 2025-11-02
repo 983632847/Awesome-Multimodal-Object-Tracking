@@ -499,7 +499,53 @@
  - **CAT:** Yongsheng Yuan, Jie Zhao, Dong Wang, Huchuan Lu.<br />
   "CAT: A Unified Click-and-Track Framework for Realistic Tracking." ICCV (2025).
   [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Yuan_CAT_A_Unified_Click-and-Track_Framework_for_Realistic_Tracking_ICCV_2025_paper.html)] 
-  [[code](https://github.com/ysyuann/CAT)] 
+  [[code](https://github.com/ysyuann/CAT)]
+
+- **MATE:** Han Han, Wei Zhai, Yang Cao, Bin Li, Zheng-jun Zha.<br />
+  "MATE: Motion-Augmented Temporal Consistency for Event-based Point Tracking." ICCV (2025).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Han_MATE_Motion-Augmented_Temporal_Consistency_for_Event-based_Point_Tracking_ICCV_2025_paper.html)] 
+ 
+- **ReTracker:** Dongli Tan, Xingyi He, Sida Peng, Yiqing Gong, Xing Zhu, Jiaming Sun, Ruizhen Hu, Yujun Shen, Hujun Bao, Xiaowei Zhou.<br />
+  "ReTracker: Exploring Image Matching for Robust Online Any Point Tracking." ICCV (2025).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Tan_ReTracker_Exploring_Image_Matching_for_Robust_Online_Any_Point_Tracking_ICCV_2025_paper.html)] 
+
+- **CoTracker3:** Nikita Karaev, Yuri Makarov, Jianyuan Wang, Natalia Neverova, Andrea Vedaldi, Christian Rupprecht.<br />
+  "CoTracker3: Simpler and Better Point Tracking by Pseudo-Labelling Real Videos." ICCV (2025).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Karaev_CoTracker3_Simpler_and_Better_Point_Tracking_by_Pseudo-Labelling_Real_Videos_ICCV_2025_paper.html)] 
+
+- **SMSTracker:** Sixian Chan, Zedong Li, Wenhao Li, Shijian Lu, Chunhua Shen, Xiaoqin Zhang.<br />
+  "SMSTracker: Tri-path Score Mask Sigma Fusion for Multi-Modal Tracking." ICCV (2025).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Chan_SMSTracker_Tri-path_Score_Mask_Sigma_Fusion_for_Multi-Modal_Tracking_ICCV_2025_paper.html)] 
+  [[code](https://github.com/Leezed525/SMSTracker)]
+
+- **EDCP:** Zhexiong Wan, Jianqin Luo, Yuchao Dai, Gim Hee Lee.<br />
+  "Event-aided Dense and Continuous Point Tracking: Everywhere and Anytime." ICCV (2025).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Wan_Event-aided_Dense_and_Continuous_Point_Tracking_Everywhere_and_Anytime_ICCV_2025_paper.html)] 
+  [[code](https://npucvr.github.io/EDCP)]
+
+- **SpatialTrackerV2:** Yuxi Xiao, Jianyuan Wang, Nan Xue, Nikita Karaev, Yuri Makarov, Bingyi Kang, Xing Zhu, Hujun Bao, Yujun Shen, Xiaowei Zhou.<br />
+  "SpatialTrackerV2: Advancing 3D Point Tracking with Explicit Camera Motion." ICCV (2025).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Xiao_SpatialTrackerV2_Advancing_3D_Point_Tracking_with_Explicit_Camera_Motion_ICCV_2025_paper.html)] 
+
+- **SPOT:** Qiaole Dong, Yanwei Fu.<br />
+  "Online Dense Point Tracking with Streaming Memory." ICCV (2025).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Dong_Online_Dense_Point_Tracking_with_Streaming_Memory_ICCV_2025_paper.html)] 
+  [[code](https://dqiaole.github.io/SPOT/)]
+
+- **CompressTracker:** Lingyi Hong, Jinglun Li, Xinyu Zhou, Shilin Yan, Pinxue Guo, Kaixun Jiang, Zhaoyu Chen, Shuyong Gao, Runze Li, Xingdong Sheng, Wei Zhang, Hong Lu, Wenqiang Zhang.<br />
+  "General Compression Framework for Efficient Transformer Object Tracking." ICCV (2025).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Hong_General_Compression_Framework_for_Efficient_Transformer_Object_Tracking_ICCV_2025_paper.html)] 
+  [[code](https://github.com/LingyiHongfd/CompressTracker)]
+
+- **AllTracker:** Adam W. Harley, Yang You, Xinglong Sun, Yang Zheng, Nikhil Raghuraman, Yunqi Gu, Sheldon Liang, Wen-Hsuan Chu, Achal Dave, Suya You, Rares Ambrus, Katerina Fragkiadaki, Leonidas Guibas.<br />
+  "AllTracker: Efficient Dense Point Tracking at High Resolution." ICCV (2025).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Harley_AllTracker_Efficient_Dense_Point_Tracking_at_High_Resolution_ICCV_2025_paper.html)] 
+  [[code](https://alltracker.github.io)]
+
+- **GSOT3D:** Yifan Jiao, Yunhao Li, Junhua Ding, Qing Yang, Song Fu, Heng Fan, Libo Zhang.<br />
+  "GSOT3D: Towards Generic 3D Single Object Tracking in the Wild." ICCV (2025).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Jiao_GSOT3D_Towards_Generic_3D_Single_Object_Tracking_in_the_Wild_ICCV_2025_paper.html)] 
+  [[code](https://github.com/ailovejinx/GSOT3D)]
   
 ### CVPR 2025
 - **DreamTrack:** Mingzhe Guo, Weiping Tan, Wenyu Ran, Liping Jing, Liping Jing, Zhipeng Zhang.<br />
