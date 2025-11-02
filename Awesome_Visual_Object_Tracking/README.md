@@ -441,11 +441,40 @@
   [[paper](https://ieeexplore.ieee.org/abstract/document/10928989)] 
 
 ### NeurIPS 2025
+- **LoRATv2:** Liting Lin, Heng Fan, Zhipeng Zhang, Yuqing Huang, Yaowei Wang, Yong Xu, Haibin Ling.<br />
+  "LoRATv2: Enabling Low-Cost Temporal Modeling in One-Stream Trackers." NeurIPS (2025).
+  [[paper](https://openreview.net/forum?id=q06YjUj0FB)] 
+  [[code](https://github.com/LitingLin/LoRATv2)]
+
 - **DSATrack:** Xinyu Zhou, Tongxin Pan, Lingyi Hong, Pinxue Guo, Haijing Guo, Zhaoyu Chen, Kaixun Jiang, Wenqiang Zhang.<br />
   "Dynamic Semantic-Aware Correlation Modeling for UAV Tracking." NeurIPS (2025).
   [[paper](https://arxiv.org/abs/2510.21351)] 
   [[code](https://github.com/zxyyxzz/DSATrack)]
   
+- **SpikeFET.:** Jingjun Yang, Liangwei Fan, Jinpu Zhang, Xiangkai Lian, Hui Shen, Dewen Hu.<br />
+  "Fully Spiking Neural Networks for Unified Frame-Event Object Tracking." NeurIPS (2025).
+  [[paper](https://openreview.net/forum?id=FooiwsnEH9)]
+
+- **SynCL:** Shubo Lin, Yutong Kou, Zirui Wu, Shaoru Wang, Bing Li, Weiming Hu, Jin Gao.<br />
+  "SynCL: A Synergistic Training Strategy with Instance-Aware Contrastive Learning for End-to-End Multi-Camera 3D Tracking." NeurIPS (2025).
+  [[paper](https://openreview.net/forum?id=LrIRYbn3Rn)] 
+  [[code](https://github.com/shubolin028/SynCL%3E)]
+
+- **TAPIP3D:** Bowei Zhang, Lei Ke, Adam W Harley, Katerina Fragkiadaki.<br />
+"TAPIP3D: Tracking Any Point in Persistent 3D Geometry." NeurIPS (2025).
+[[paper](https://openreview.net/forum?id=VzWjHxE8PF)]
+
+- **GC-VAT:** Haowei Sun, Jinwu Hu, Zhirui Zhang, Haoyuan Tian, Xinze Xie, Yufeng Wang, Xiaohua Xie, Yun Lin, Zhuliang Yu, Mingkui Tan.<br />
+"Open-World Drone Active Tracking with Goal-Centered Rewards." NeurIPS (2025).
+[[paper](https://openreview.net/forum?id=Ly2wXKIByI)]
+[[code](https://github.com/SHWplus/DAT_Benchmark)]
+
+- **TubeletGraph:** Yihong Sun, Xinyu Yang, Jennifer J. Sun, Bharath Hariharan.<br />
+"Tracking and Understanding Object Transformations." NeurIPS (2025).
+[[paper](https://openreview.net/forum?id=fz1mm2EsQ9)]
+[[code](https://tubelet-graph.github.io/)]
+
+
 ### ICCV 2025
 - **ATCTrack:** X. Feng, S. Hu, X. Li, D. Zhang, M. Wu, J. Zhang, X. Chen, K. Huang.<br />
   "ATCTrack: Aligning Target-Context Cues with Dynamic Target States for Robust Vision-Language Tracking." ICCV (2025).
