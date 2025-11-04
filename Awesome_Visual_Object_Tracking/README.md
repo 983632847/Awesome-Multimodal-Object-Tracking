@@ -77,6 +77,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **OmniTrack++:** Kai Luo, Hao Shi, Kunyu Peng, Fei Teng, Sheng Wu, Kaiwei Wang, Kailun Yang.<br />
+  "OmniTrack++: Omnidirectional Multi-Object Tracking by Learning Large-FoV Trajectory Feedback." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2511.00510)] 
+  [[code](https://github.com/xifen523/OmniTrack)]
+  
 - **FocusTrack:** Sifan Zhou, Jiahao Nie, Ziyu Zhao, Yichao Cao, Xiaobo Lu.<br />
   "FocusTrack: One-Stage Focus-and-Suppress Framework for 3D Point Cloud Object Tracking." ACM MM (2025).
   [[paper](https://dl.acm.org/doi/abs/10.1145/3746027.3754781)]
