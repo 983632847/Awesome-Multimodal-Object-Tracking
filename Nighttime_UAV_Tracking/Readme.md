@@ -94,15 +94,23 @@ lib/test/evaluation/local.py  # paths about testing
 
 
 ### Download Trained Weights for Model 
-Download the trained model weights from [Baidu Pan](https://pan.baidu.com/s/1Ie4wLPVYGncIaBfjcZSd_Q?pwd=Mamb) and put it under `$/output/train-5datasets/checkpoints/train/mamba_fetrack/mamba_fetrack_felt/` for test directly.
+Download the trained model weight from [Baidu Pan](https://pan.baidu.com/s/1Ie4wLPVYGncIaBfjcZSd_Q?pwd=Mamb) and put it under `$/output/train-5datasets/checkpoints/train/mamba_fetrack/mamba_fetrack_felt/` for testing directly. 
 
-#### We release the model trained on five datasets (GOT-10k, LaSOT, COCO, TrackingNet, and VastTrack) without MLLE, which is a little different from the [arXiv paper](https://arxiv.org/abs/2411.15761).
+* This model was trained on five datasets (GOT-10k, LaSOT, COCO, TrackingNet, and VastTrack) without MLLE, i.e., **MambaTrack w/ CMM**. You can obtain below results:
 
-
+Table 1 Ablation study of our approach on NAT2021 and UAVDark135 datasets.
+|  Method   | NAT2021 | UAVDark135 |
+|:---------:|:-----:|:-----:|
+| Baseline  | 48.7/63.7/51.3 | 51.4/61.1/54.5 | 
+| MambaTrack w/ MLLE | 51.4/66.0/54.3  | 54.5/65.1/58.5|
+| **MambaTrack w/ CMM**  | xxx/xxx/xxx  | xxx/xxx/xxx |
+| MambaTrack | 53.2/67.5/56.8 | 57.2/67.6/61.4 |
 
 * We found that training the model with more low-light videos yields better results, even without the low-light enhancement model.
   
 * Existing low-light enhancement models (e.g., [RetinexMamba](https://github.com/YhuoyuH/RetinexMamba), [SCT](https://github.com/vision4robotics/SCT)) exhibit limited generalization capability on the Nighttime UAV Tracking datasets.
+
+* In some cases, the use of low-light enhancement may degrade tracking performance due to the introduction of noise and artifacts, the disruption of natural features and colors, and irreversible information loss. We manually set thresholds to determine whether to apply low-light enhancement for each video.
   
 * Readers can use more robust low-light enhancement models and more training data based on our code.
 
