@@ -1001,6 +1001,11 @@
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29145)] 
 
 ### ArXiv-2024
+- **MambaNUT:** You Wu, Xiangyang Yang, Xucheng Wang, Hengzhou Ye, Dan Zeng, Shuiwang Li.<br />
+  "MambaNUT: Nighttime UAV Tracking via Mamba-based Adaptive Curriculum Learning." IROS (2025).
+  [[paper](https://arxiv.org/abs/2412.00626)] 
+  [[code](https://github.com/wuyou3474/MambaNUT)]
+  
 - **ProLA:** Zhang, Dawei and Xiao, Xin and Zheng, Zhonglong and Jiang, Yunliang and Yang, Yi.<br />
   "Probabilistic Assignment With Decoupled IoU Prediction for Visual Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/document/10440122)]
