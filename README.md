@@ -206,6 +206,11 @@ Coming soon.
   [[paper](https://arxiv.org/abs/2508.09524)]
   
 #### 2025
+- **UITrack:** Wang, Jingchao and Wu, Zhijian and Zhang, Wenlong and Liu, Wenhui and Zhang, Jianwei and Huang, Dingjiang.<br />
+  "Overcoming Feature Contamination by Unidirectional Information Modeling for Vision-Language Tracking." ICME (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11209477)] 
+  [[code](https://github.com/jcwang0602/UITrack)]
+  
 - **CMTrack:** Tang, Yuyang and Ma, Yinchao and Yang, Dengqing and Xiao, Jie and Zhang, Tianzhu.<br />
   "State Space Models for Natural Language Tracking: Exploring Context-adaptive Language Cues." TCSVT (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11207713)]
