@@ -77,6 +77,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **CVTOT:** Li, Zilong and Yue, Peng and Zhang, Chenxiao.<br />
+  "CVTOT: A Cross-Video Tiny Object Tracking Method and Dataset for Earth Observation Videos." TGRS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11232453)]
+  
 - **OmniTrack++:** Kai Luo, Hao Shi, Kunyu Peng, Fei Teng, Sheng Wu, Kaiwei Wang, Kailun Yang.<br />
   "OmniTrack++: Omnidirectional Multi-Object Tracking by Learning Large-FoV Trajectory Feedback." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2511.00510)] 
