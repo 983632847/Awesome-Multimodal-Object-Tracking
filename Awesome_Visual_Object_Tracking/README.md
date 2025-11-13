@@ -77,6 +77,15 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **AFF-TSCS:** K Nai, G Li.<br />
+  "Visual Object Tracking via Adaptive Feature Fusion and Two-Stage Channel Selection." Pattern Recognition (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325013457)] 
+
+- **ICSPTrack:** Xianxin Jia and Zhiqiang Hou and Yunlong Wang and Hao Yue and Shuai Hu and Sugang Ma and Xiaobao Yang and Lei Pu.<br />
+  "Integrating multi-scale appearance and motion cues for visual tracking via spatio-temporal prompt." KBS (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125017988)] 
+  [[code](https://github.com/jiaxianxin/ICSPTrack)]
+  
 - **CVTOT:** Li, Zilong and Yue, Peng and Zhang, Chenxiao.<br />
   "CVTOT: A Cross-Video Tiny Object Tracking Method and Dataset for Earth Observation Videos." TGRS (2025).
   [[paper](https://ieeexplore.ieee.org/document/11232453)]
