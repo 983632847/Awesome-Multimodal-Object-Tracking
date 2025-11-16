@@ -1837,6 +1837,10 @@ Coming soon.
 
 ### Papers
 #### 2025
+- **BCR-Net:** Zhang, Jingyan, Zhizhong Zheng, Kang Ni, Nan Huang, Qichao Liu, and Pengfei Liu.<br />
+  "Hyperspectral Object Tracking via Band and Context Refinement Network." Remote Sensing (2025).
+  [[paper](https://doi.org/10.3390/rs17223689)]
+  
 - **MMOT:** Tianhao Li, Tingfa Xu, Ying Wang, Haolin Qin, Xu Lin, Jianan Li.<br />
   "MMOT: The First Challenging Benchmark for Drone-based Multispectral Multi-Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2510.12565)] 
