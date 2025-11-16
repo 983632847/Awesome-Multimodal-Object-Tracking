@@ -1079,6 +1079,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **VT2V:** Kaixiang Yan and Wenhua Qian and Cong Bi and Xue Wang.<br />
+  "VT2V: a benchmark of object tracking with aerial & ground cooperation and multi-modal images." KBS (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125019033)] 
+  [[code](https://github.com/MrShardfish94/VT2V)]
+  
 - **MPANet:** Liu, Xiang and Li, Haiyan and Sheng, Victor and Ma, Yujun and Liang, Xiaoguo and Wang, Guanbo.<br />
   "Scale-Aware Attention and Multi-Modal Prompt Learning with Fusion Adapter for RGBT Tracking." TMM (2025).
   [[paper](https://ieeexplore.ieee.org/document/11207526)]
