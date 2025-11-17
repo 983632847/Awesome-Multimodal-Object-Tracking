@@ -1670,6 +1670,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2025
+- **MPTrack:** Xueqi Li, Yongjun Zhang, Jianqiang Xia, Fang Dong, Yuanyuan Wang, Yushe Cao, Junze Zhang, Dianxi Shi.<br />
+  "Memory Prompt for Multi-Modal Visual Object Tracking." ECAI (2025).
+  [[paper](https://ebooks.iospress.nl/volumearticle/75765)]
+  
 - **SMSTracker:** Sixian Chan, Zedong Li, Wenhao Li, Shijian Lu, Chunhua Shen, Xiaoqin Zhang.<br />
   "SMSTracker: Tri-path Score Mask Sigma Fusion for Multi-Modal Tracking." ICCV (2025).
   [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Chan_SMSTracker_Tri-path_Score_Mask_Sigma_Fusion_for_Multi-Modal_Tracking_ICCV_2025_paper.html)] 
