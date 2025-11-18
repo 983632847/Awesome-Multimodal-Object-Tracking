@@ -77,6 +77,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **SOTFormer:** Zhongping Dong, Pengyang Yu, Shuangjian Li, Liming Chen, Mohand Tahar Kechadi.<br />
+  "SOTFormer: A Minimal Transformer for Unified Object Tracking and Trajectory Prediction." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2511.11824)]
+  
 - **AFF-TSCS:** K Nai, G Li.<br />
   "Visual Object Tracking via Adaptive Feature Fusion and Two-Stage Channel Selection." Pattern Recognition (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325013457)] 
