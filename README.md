@@ -206,6 +206,10 @@ Coming soon.
   [[paper](https://arxiv.org/abs/2508.09524)]
   
 #### 2025
+- Borsuk, Vasyl, Vitaliy Yakovyna, and Nataliya Shakhovska.<br />
+  "Lightweight Multimodal Adapter for Visual Object Tracking." Big Data and Cognitive Computing (2025).
+  [[paper](https://www.mdpi.com/2504-2289/9/11/292)]
+  
 - **UITrack:** Wang, Jingchao and Wu, Zhijian and Zhang, Wenlong and Liu, Wenhui and Zhang, Jianwei and Huang, Dingjiang.<br />
   "Overcoming Feature Contamination by Unidirectional Information Modeling for Vision-Language Tracking." ICME (2025).
   [[paper](https://ieeexplore.ieee.org/document/11209477)] 
