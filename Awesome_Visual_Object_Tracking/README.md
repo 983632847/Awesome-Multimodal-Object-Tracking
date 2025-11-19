@@ -52,7 +52,6 @@
 - **ReviewLLM:** Jiaqi Wang, Zhengliang Liu, Lin Zhao, Zihao Wu, Chong Ma, Sigang Yu, Haixing Dai.<br />
   "Review of Large Vision Models and Visual Prompt Engineering." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.00855)]
-  [[code](https://github.com/xxx)]
   
 - **ChatVideo:** Junke Wang, Dongdong Chen, Chong Luo, Xiyang Dai, Lu Yuan, Zuxuan Wu, Yu-Gang Jiang.<br />
   "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System." ArXiv (2023).
@@ -801,17 +800,14 @@
 - **DeTrack:** Xinyu Zhou, Jinglun Li, Lingyi Hong, Kaixun Jiang, Pinxue Guo, Weifeng Ge, Wenqiang Zhang.<br />
   "DeTrack: In-model Latent Denoising Learning for Visual Object Tracking." NeurIPS (2024).
   [[paper](https://openreview.net/forum?id=ZJjuNF0olj)] 
-  [[code]( )]
 
 - **CSAM:** Tianlu Zhang, Kurt Debattista, Qiang Zhang, Guiguang Ding, Jungong Han.<br />
   "Revisiting Motion Information for RGB-Event Tracking with MOT Philosophy." NeurIPS (2024).
   [[paper](https://openreview.net/forum?id=bzGAELYOyL)] 
-  [[code]( )]
 
 - **DINTR:** Pha Nguyen, Ngan Le, Jackson Cothren, Alper Yilmaz, Khoa Luu.<br />
   "DINTR: Tracking via Diffusion-based Interpolation." NeurIPS (2024).
   [[paper](https://arxiv.org/abs/2410.10053)] 
-  [[code]( )]
 
 - **UAV3D:** Hui Ye, Rajshekhar Sunderraman, Shihao Ji.<br />
   "UAV3D: A Large-scale 3D Perception Benchmark for Unmanned Aerial  Vehicles." NeurIPS (2024).
@@ -835,7 +831,6 @@
 - **Diff-Tracker:** Zhengbo Zhang, Li Xu, Duo Peng, Hossein Rahmani, Jun Liu.<br />
   "Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers." ECCV (2024).
   [[paper](https://arxiv.org/abs/2407.08394)] 
-  [[code]( )]
 
 - **LoRAT:** Liting Lin, Heng Fan, Zhipeng Zhang, Yaowei Wang, Yong Xu, Haibin Ling.<br />
   "Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance." ECCV (2024).
@@ -865,7 +860,6 @@
 - **HVTrack:** Qiao Wu, Kun Sun, Pei An, Mathieu Salzmann, Yanning Zhang, Jiaqi Yang.<br />
   "3D Single-object Tracking in Point Clouds with High Temporal Variation." ECCV (2024).
   [[paper](https://arxiv.org/abs/2408.02049)] 
-  [[code]( )]
 
 - **AADN:** Zhewei Wu, Ruilong Yu, Qihe Liu, Shuying Cheng, Shilin Qiu, Shijie Zhou.<br />
   "Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks." ECCV (2024).
@@ -883,7 +877,6 @@
 - **OneTracker:** Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Cheng, Jinglun Li, Zhaoyu Chen, Wenqiang Zhang.<br />
   "OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning." CVPR (2024).
   [[paper](https://arxiv.org/abs/2403.09634)] 
-  [[code](https://)]
 
 - **ARTrackV2:** Yifan Bai, Zeyang Zhao, Yihong Gong, Xing Wei.<br />
   "ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe." CVPR (2024).
@@ -894,12 +887,12 @@
 - **DiffusionTrack:** Fei Xie, Zhongdao Wang, Chao Ma.<br />
   "DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking." CVPR (2024).
   [[paper](https://arxiv.org/)] 
-  [[code](https://)]
+  [[code](https://github.com/VISION-SJTU/DiffusionTrack)]
 
 - **RTracker:** Yuqing Huang, Xin Li, Zikun Zhou, Yaowei Wang, Zhenyu He, Ming-Hsuan Yang.<br />
   "RTracker: Recoverable Tracking via PN Tree Structured Memory." CVPR (2024).
   [[paper](https://arxiv.org/)] 
-  [[code](https://)]
+  [[code](https://github.com/NorahGreen/RTracker)]
 
 - **NetTrack:** Guangze Zheng, Shijie Lin, Haobo Zuo, Changhong Fu, Jia Pan.<br />
   "NetTrack: Tracking Highly Dynamic Objects with a Net." CVPR (2024).
@@ -914,7 +907,7 @@
 - **HIPTrack:** Wenrui Cai, Qingjie Liu, Yunhong Wang.<br />
   "HIPTrack: Visual Tracking with Historical Prompts." CVPR (2024).
   [[paper](https://arxiv.org/abs/2311.02072)] 
-  [[code](https://xxx)]
+  [[code](https://github.com/WenRuiCai/HIPTrack)]
 
 - **AQATrack:** Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, Rongrong Ji.<br />
   "Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers." CVPR (2024).
@@ -929,7 +922,7 @@
 - **SDSTrack:** Xiaojun Hou, Jiazheng Xing, Yijie Qian, Yaowei Guo, Shuo Xin, Junhao Chen, Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu, Yong Liu.<br />
   "SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking." CVPR (2024).
   [[paper](https://arxiv.org/)] 
-  [[code](https://)]
+  [[code](https://github.com/hoqolo/SDSTrack)]
 
 - **HDETrack:** Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang.<br />
   "Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline." CVPR (2024).
@@ -1000,7 +993,6 @@
 - **TATrack:** Hongyu Wang, Xiaotao Liu, Yifan Li, Meng Sun, Dian Yuan, Jing Liu.<br />
   "Temporal Adaptive RGBT Tracking with Modality Prompt." AAAI (2024).
   [[paper](https://arxiv.org/abs/2401.01244)] 
-  [[code]()]
 
 - **Hybrid-SORT:** Mingzhan Yang, Guangxin Han, Bin Yan, Wenhua Zhang, Jinqing Qi, Huchuan Lu, Dong Wang.<br />
   "Hybrid-SORT: Weak Cues Matter for Online Multi-Object Tracking." AAAI (2024).
@@ -1032,8 +1024,7 @@
   
 - **VAT:** Guangtong Zhang, Qihua Liang, Zhiyi Mo, Ning Li, Bineng Zhong.<br />
   "Visual Adapt For RGBD Tracking." ICASSP (2024).
-  [[paper](https://arxiv.org )] 
-  [[code](https://github.com/ )]
+  [[paper](https://ieeexplore.ieee.org/document/10447728)] 
 
 - **UVLTrack:** Yinchao Ma, Yuyang Tang, Wenfei Yang, Tianzhu Zhang, Jinpeng Zhang, Mengxue Kang.<br />
   "Unifying Visual and Vision-Language Tracking via Contrastive Learning." ArXiv (2024).
@@ -1132,7 +1123,6 @@
 - **SyncTrack:** Teli Ma, Mengmeng Wang, Jimin Xiao, Huifeng Wu, Yong Liu.<br />
   "Synchronize Feature Extracting and Matching: A Single Branch Framework for 3D Object Tracking." ICCV (2023).
   [[paper](https://arxiv.org/abs/2308.12549)] 
-  [[code](https://xxxxx)]
   
 - **360VOT:** Huajian Huang, Yinzhe Xu, Yingshu Chen, Sai-Kit Yeung.<br />
   "360VOT: A New Benchmark Dataset for Omnidirectional Visual Object Tracking." ICCV (2023).
@@ -1252,12 +1242,10 @@
 - **UTrack:** Jie Gao, Bineng Zhong, Yan Chen.<br />
   "Unambiguous Object Tracking by Exploiting Target Cues." ACM MM (2023).
   [[paper](https://dl.acm.org/doi/10.1145/3581783.3612240)] 
-  [[code]()]
 
 - **UPVPT:** Guangtong Zhang, Qihua Liang, Ning Li, Zhiyi Mo, Bineng Zhong.<br />
   "Robust Tracking via Unifying Pretrain-Finetuning and Visual Prompt Tuning." ACM MMAsia (2023).
   [[paper](https://dl.acm.org/doi/10.1145/3595916.3626410)] 
-  [[code]()]
 
 - **TAO-Amodal:** Cheng-Yen Hsieh, Tarasha Khurana, Achal Dave, Deva Ramanan.<br />
   "Tracking Any Object Amodally." ArXiv (2023).
@@ -1277,12 +1265,12 @@
 - **OVLM:** Huanlong Zhang, Jingchao Wang, Jianwei Zhang, Tianzhu Zhang, Bineng Zhong.<br />
   "One-stream Vision-Language Memory Network for Object Tracking." TMM (2023).
   [[paper](https://ieeexplore.ieee.org/document/10149530)] 
-  [[code]( )]
+
 
 - **All-in-One:** Chunhui Zhang, Xin Sun, Li Liu, Yiqian Yang, Qiong Liu, Xi Zhou, Yanfeng Wang.<br />
   "All in One: Exploring Unified Vision-Language Tracking with Multi-Modal Alignment." ACM MM (2023).
   [[paper](https://arxiv.org/abs/2307.03373)] 
-  [[code]( )]
+  [[code](https://github.com/983632847/All-in-One)]
   
 - **MPLT:** Yang Luo, Xiqing Guo, Hui Feng, Lei Ao.<br />
   "RGB-T Tracking via Multi-Modal Mutual Prompt Learning." ArXiv (2023).
@@ -1292,12 +1280,11 @@
 - **DCPT:** Jiawen Zhu, Huayi Tang, Zhi-Qi Cheng, Jun-Yan He, Bin Luo, Shihao Qiu, Shengming Li, Huchuan Lu.<br />
   "DCPT: Darkness Clue-Prompted Tracking in Nighttime UAVs." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2309.10491)] 
-  [[code](https://xxx)]
+  [[code](https://github.com/bearyi26/DCPT)]
 
 - **SRT:** Tianpeng Liu, Jing Li, Jia Wu, Lefei Zhang, Jun Chang, Jun Wan, Lezhi Lian.<br />
   "Tracking with Saliency Region Transformer." TIP (2023).
   [[paper](https://ieeexplore.ieee.org/document/10359476)] 
-  [[code](https://github.xxxxx)]
 
 - **TATrans:** Pujian Lai, Meili Zhang, Gong Cheng, Shengyang Li, Xiankai Huang, Junwei Han.<br />
   "Target-aware Transformer for Satellite Video Object Tracking." TGRS (2023).
@@ -1307,7 +1294,6 @@
 - **STRtrack:** Shaochuan Zhao, Tianyang Xu, Xiaojun Wu, Josef Kittler.<br />
   "A Spatio-Temporal Robust Tracker with Spatial-Channel Transformer and Jitter Suppression." IJCV (2023).
   [[paper](https://link.springer.com/article/10.1007/s11263-023-01902-x)] 
-  [[code](https://xxx)]
 
 - **CoTracker:** Nikita Karaev, Ignacio Rocco, Benjamin Graham, Natalia Neverova, Andrea Vedaldi, Christian Rupprecht.<br />
   "CoTracker: It is Better to Track Together." ArXiv (2023).
@@ -1327,12 +1313,10 @@
 - **DETRrack:** Qingmao Wei, Bi Zeng, Guotian Zeng.<br />
   "Efficient Training for Visual Tracking with Deformable Transformer." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2309.02676)] 
-  [[code](https:xxx)]
 
 - **JN:** Qingmao Wei, Bi Zeng, Guotian Zeng.<br />
   "Towards Efficient Training with Negative Samples in Visual Tracking." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2309.02903)] 
-  [[code](hxx)]
 
 - **COHA:** Zhiyu Zhu, Junhui Hou, Dapeng Oliver Wu.<br />
   "Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers." ArXiv (2023).
@@ -1347,12 +1331,10 @@
 - **TransSOT:** Janani Thangavel, Thanikasalam Kokul, Amirthalingam Ramanan, Subha Fernando.<br />
   "Transformers in Single Object Tracking: An Experimental Survey." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2302.11867)] 
-  [[code]()]
   
 - **ProFormer:** Yabin Zhu, Chenglong Li, Xiao Wang, Jin Tang, Zhixiang Huang.<br />
   "RGBT Tracking via Progressive Fusion Transformer with Dynamically Guided Learning." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2303.14778)] 
-  [[code]()]
 
 - **SOTVerse:** Shiyu Hu, Xin Zhao, Kaiqi Huang.<br />
   "SOTVerse: A User-defined Task Space of Single Object Tracking." IJCV (2023).
@@ -1362,14 +1344,11 @@
 - **TSMTrack:** Chuanming Tang, Qintao Hu, Gaofan Zhou, Jinzhen Yao, Jianlin Zhang, Yongmei Huang, Qixiang Ye.<br />
   "Transformer Sub-Patch Matching for High-Performance Visual Object Tracking." TITS (2023).
   [[paper](https://ieeexplore.ieee.org/document/10101686)] 
-  [[code](https:/xx)]
 
 - **TADS:** Xin Li, Wenjie Pei, Yaowei Wang, Zhenyu He, Huchuan Lu, Ming-Hsuan Yang.<br />
   "Self-Supervised Tracking via Target-Aware Data Synthesis." TNNLS (2023).
   [[paper](https://ieeexplore.ieee.org/document/10004981)] 
-  [[code]()]
   
-
 ### IJCAI 2023
 
 - **OSP2B:** Jiahao Nie, Zhiwei He, Yuxiang Yang, Zhengyi Bao, Mingyu Gao, Jing Zhang.<br />
@@ -1487,7 +1466,7 @@
 - **FEAR:** Vasyl Borsuk, Roman Vei, Orest Kupyn, Tetiana Martyniuk, Igor Krashenyi, Jiři Matas.<br />
   "FEAR: Fast, Efficient, Accurate and Robust Visual Tracker." ECCV (2022).
   [[paper](https://arxiv.org/pdf/2112.07957.pdf)] 
-  [[code](https://xxxxxxx)]
+  [[code](https://github.com/PinataFarms/FEARTracker)]
   
 - **PersonPath22:** Bing Shuai, Alessandro Bergamo, Uta Buechler, Andrew Berneshawi, Alyssa Boden, Joseph Tighe.<br />
   "Large Scale Real-World Multi-Person Tracking." ECCV (2022).
@@ -1522,10 +1501,7 @@
 - **MTracker:** Yifu Zhang, Chunyu Wang, Xinggang Wang, Wenjun Zeng, Wenyu Liu.<br />
   "Robust Multi-Object Tracking by Marginal Inference." ECCV (2022).
   [[paper](https://arxiv.org/abs/2208.03727)] 
-  [[code](https://xxxxxxx)]
-  
 
-  
   
 ### CVPR 2022
 
@@ -1567,7 +1543,6 @@
 - **AdaRS:** Yihao Li, Jun Yu, Zhongpeng Cai, Yuwen Pan.<br />
   "Cross-Modal Target Retrieval for Tracking by Natural Language." CVPR (2022).
   [[paper](https://openaccess.thecvf.com/content/CVPR2022W/ODRUM/html/Li_Cross-Modal_Target_Retrieval_for_Tracking_by_Natural_Language_CVPRW_2022_paper.html)] 
-  [[code](xxxx)]
   
 - **STNet:** Jiqing Zhang, Bo Dong, Haiwei Zhang, Jianchuan Ding, Felix Heide, Baocai Yin, Xin Yang.<br />
   "Spiking Transformers for Event-based Single Object Tracking." CVPR (2022).
@@ -1620,7 +1595,6 @@
 - **InBN:** Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing, Yilin Lyu, Bing Li, Weiming Hu.<br />
   "Learning Target-aware Representation for Visual Tracking via Informative Interactions." IJCAI (2022).
   [[paper](https://arxiv.org/abs/2201.02526)] 
-  [[code](https://xxxxxxx)]
   
 - **SparseTT:** Zhihong Fu, Zehua Fu, Qingjie Liu, Zehua Fu, Yunhong Wang.<br />
   "SparseTT: Visual Tracking with Sparse Transformers." IJCAI (2022).
@@ -1646,17 +1620,14 @@
 - **ProTrack:** Jinyu Yang, Zhe Li, Feng Zheng, Aleš Leonardis, Jingkuan Song.<br />
   "Prompting for Multi-Modal Tracking." ACM MM (2022).
   [[paper](https://arxiv.org/abs/2207.14571)] 
-  [[code](https://)]
   
 - **GATransT:** Libo Wang, Si Chen, Zhen Wang, Da-Han Wang, Shunzhi Zhu.<br />
   "Graph Attention Transformer Network for Robust Visual Tracking." ICONIP (2022).
   [[paper](https://link.springer.com/chapter/10.1007/978-981-99-1639-9_14)] 
-  [[code]()]
 
 - **SiamTDN:** Yanjie Liang, Penghui Zhao, Yifei Hao, Hanzi Wang.<br />
   "Siamese Template Diffusion Networks for Robust Visual Tracking." ICME (2022).
   [[paper](https://ieeexplore.ieee.org/document/9859929)] 
-  [[code]()]
   
 - **TAT:** Kaihao Lan, Haobo Jiang, Jin Xie.<br />
   "Temporal-aware Siamese Tracker: Integrate Temporal Context for 3D Object Tracking." ACCV (2022).
@@ -1666,7 +1637,7 @@
  - **COESOT:** Chuanming Tang, Xiao Wang, Ju Huang, Bo Jiang, Lin Zhu, Jianlin Zhang, Yaowei Wang, Yonghong Tian.<br />
   "Revisiting Color-Event based Tracking: A Unified Network, Dataset, and Metric." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2211.11010)] 
-  [[code](COESOT)]
+  [[code](https://github.com/Event-AHU/COESOT)]
   
 - **WATB:** Fasheng Wang, Ping Cao, Fu Li, Xing Wang, Bing He, Fuming Sun.<br />
   "WATB: Wild Animal Tracking Benchmark." IJCV (2022).
@@ -1686,7 +1657,7 @@
 - **NeighborTrack:** Yu-Hsi Chen, Chien-Yao Wang, Cheng-Yun Yang, Hung-Shuo Chang, Youn-Long Lin, Yung-Yu Chuang, Hong-Yuan Mark Liao.<br />
   "NeighborTrack: Improving Single Object Tracking by Bipartite Matching with Neighbor Tracklets." ArXiv (2022).
   [[paper](https://arxiv.org/pdf/2211.06663.pdf)] 
-  [[code](https   )]
+  [[code](https://github.com/franktpmvu/NeighborTrack)]
   
 - **MTTSiam:** Ali Sekhavati, Won-Sook Lee.<br />
   "Multi-Template Temporal Siamese Network for Long-Term Object Tracking." ArXiv (2022).
@@ -1696,7 +1667,6 @@
 - **PruningInTracking:** Saksham Aggarwal, Taneesh Gupta, Pawan Kumar Sahu, Arnav Chavan, Rishabh Tiwari, Dilip K. Prasad, Deepak K. Gupta.<br />
   "On designing light-weight object trackers through network pruning: Use CNNs or transformers?." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2211.13769)] 
-  [[code](https   )]
   
 - **ProContEXT:** Jin-Peng Lan, Zhi-Qi Cheng, Jun-Yan He, Chenyang Li, Bin Luo, Xu Bao, Wangmeng Xiang, Yifeng Geng, Xuansong Xie.<br />
   "ProContEXT: Exploring Progressive Context Transformer for Tracking." ArXiv (2022).
@@ -1773,7 +1743,7 @@
 - **DST:** Yao Sui, Guanghui Wang, Li Zhang.<br />
   "In Defense of Subspace Tracker: Orthogonal Embedding for Visual Tracking." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2204.07927)] 
-  [[code](https://xxxxxxx)]
+
   
 - **DUT-Anti-UAV:** Jie Zhao, Jingshu Zhang, Dongdong Li, Dong Wang.<br />
   "Vision-based Anti-UAV Detection and Tracking." TITS (2022).
@@ -1783,12 +1753,10 @@
 - **CoCoLoT:** Matteo Dunnhofer, Christian Micheloni.<br />
   "CoCoLoT: Combining Complementary Trackers in Long-Term Visual Tracking." ICPR (2022).
   [[paper](https://arxiv.org/abs/2205.04261)] 
-  [[code](https://xxxxxxx)]
   
 - **EUSA:** Siao Liu, Zhaoyu Chen, Wei Li, Jiwei Zhu, Jiafeng Wang, Wenqiang Zhang, Zhongxue Gan.<br />
   "Efficient universal shuffle attack for visual object tracking." ICASSP (2022).
   [[paper](https://arxiv.org/abs/2203.06898)] 
-  [[code](https://xxxxxxx)]
   
 - **ITB:** Xin Li, Qiao Liu, Wenjie Pei, Qiuhong Shen, Yaowei Wang, Huchuan Lu, Ming-Hsuan Yang.<br />
   "An Informative Tracking Benchmark." ArXiv (2021).
@@ -1808,7 +1776,6 @@
 - **TS-RCN:** Ning Zhang, Jingen Liu, Ke Wang, Dan Zeng, Tao Mei.<br />
   "Robust Visual Object Tracking with Two-Stream Residual Convolutional Networks." ArXiv (2020).
   [[paper](https://arxiv.org/pdf/2005.06536.pdf)] 
-  [[code](https://github.com/xxxxx/xxxx)]
   
 - **FCOT:** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu.<br />
   "Fully Convolutional Online Tracking." ArXiv (2020).
