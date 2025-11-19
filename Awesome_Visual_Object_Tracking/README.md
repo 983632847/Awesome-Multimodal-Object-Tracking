@@ -526,10 +526,6 @@
   [[paper](https://arxiv.org/abs/2507.00648)] 
   [[code](https://github.com/Z-Z188/UMDATrack)]
 
-- **SpatialTrackerV2:** Yuxi Xiao, Jianyuan Wang, Nan Xue, Nikita Karaev, Yuri Makarov, Bingyi Kang, Xing Zhu, Hujun Bao, Yujun Shen, Xiaowei Zhou.<br />
-  "SpatialTrackerV2: 3D Point Tracking Made Easy." ICCV (2025).
-  [[paper](https://arxiv.org/abs/2507.12462)] 
-  [[code](https://huggingface.co/spaces/Yuxihenry/SpatialTrackerV2)]
 
 - **MVTracker:** Frano Rajič, Haofei Xu, Marko Mihajlovic, Siyuan Li, Irem Demir, Emircan Gündoğdu, Lei Ke, Sergey Prokudin, Marc Pollefeys, Siyu Tang.<br />
   "Multi-View 3D Point Tracking." ICCV (2025).
@@ -577,7 +573,9 @@
 - **SpatialTrackerV2:** Yuxi Xiao, Jianyuan Wang, Nan Xue, Nikita Karaev, Yuri Makarov, Bingyi Kang, Xing Zhu, Hujun Bao, Yujun Shen, Xiaowei Zhou.<br />
   "SpatialTrackerV2: Advancing 3D Point Tracking with Explicit Camera Motion." ICCV (2025).
   [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Xiao_SpatialTrackerV2_Advancing_3D_Point_Tracking_with_Explicit_Camera_Motion_ICCV_2025_paper.html)] 
-
+  [[code](https://huggingface.co/spaces/Yuxihenry/SpatialTrackerV2)]
+  [[arXiv](https://arxiv.org/abs/2507.12462)]
+  
 - **SPOT:** Qiaole Dong, Yanwei Fu.<br />
   "Online Dense Point Tracking with Streaming Memory." ICCV (2025).
   [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Dong_Online_Dense_Point_Tracking_with_Streaming_Memory_ICCV_2025_paper.html)] 
