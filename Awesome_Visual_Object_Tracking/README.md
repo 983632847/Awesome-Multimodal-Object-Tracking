@@ -1108,7 +1108,7 @@
 - **CiteTracker:** Xin Li, Yuqing Huang, Zhenyu He, Yaowei Wang, Huchuan Lu, Ming-Hsuan Yang.<br />
   "CiteTracker: Correlating Image and Text for Visual Tracking." ICCV (2023).
   [[paper](https://arxiv.org/abs/2308.11322)] 
-  [[code](https://github.com/xinli/citetracker)]
+  [[code](https://github.com/NorahGreen/CiteTracker)]
 
 - **DecoupleTNL:** Ding Ma, Xiangqian Wu.<br />
   "Tracking by Natural Language Specification with Long Short-term Context Decoupling." ICCV (2023).
