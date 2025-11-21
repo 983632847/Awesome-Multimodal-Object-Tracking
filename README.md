@@ -1083,6 +1083,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 ### Papers
 
 #### 2025
+- **SwiTrack:** Boyue Xu, Ruichao Hou, Tongwei Ren, Dongming Zhou, Gangshan Wu, Jinde Cao.<br />
+  "SwiTrack: Tri-State Switch for Cross-Modal Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2511.16227)] 
+  [[code](https://github.com/xuboyue1999/mmtrack.git)]
+  
 - **VT2V:** Kaixiang Yan and Wenhua Qian and Cong Bi and Xue Wang.<br />
   "VT2V: a benchmark of object tracking with aerial & ground cooperation and multi-modal images." KBS (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125019033)] 
