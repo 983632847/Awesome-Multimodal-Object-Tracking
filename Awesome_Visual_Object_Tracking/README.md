@@ -76,6 +76,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **RMATrack:** Xiaomei Gong and Yi Zhang and Yanli Liu.<br />
+  "Visual tracking with unified relation modeling and masked appearance learning." Neural Networks (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0893608025010780)]
+  
 - **SOTFormer:** Zhongping Dong, Pengyang Yu, Shuangjian Li, Liming Chen, Mohand Tahar Kechadi.<br />
   "SOTFormer: A Minimal Transformer for Unified Object Tracking and Trajectory Prediction." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2511.11824)]
