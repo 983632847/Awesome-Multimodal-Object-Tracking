@@ -76,6 +76,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **SatSAM2:** Tianrun Chen, Runlong Cao, Xinda Yu, Lanyun Zhu, Chaotao Ding, Deyi Ji, Cheng Chen, Qi Zhu, Chunyan Xu, Papa Mao, Ying Zang.<br />
+"SatSAM2: Motion-Constrained Video Object Tracking in Satellite Imagery using Promptable SAM2 and Kalman Priors." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.19425)]
+
 - **RMATrack:** Xiaomei Gong and Yi Zhang and Yanli Liu.<br />
   "Visual tracking with unified relation modeling and masked appearance learning." Neural Networks (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0893608025010780)]
