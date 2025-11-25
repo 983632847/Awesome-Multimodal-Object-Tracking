@@ -80,6 +80,14 @@
 "SatSAM2: Motion-Constrained Video Object Tracking in Satellite Imagery using Promptable SAM2 and Kalman Priors." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2511.19425)]
 
+- **LAA3D:** Hai Wu, Shuai Tang, Jiale Wang, Longkun Zou, Mingyue Guo, Rongqin Liang, Ke Chen, Yaowei Wang.<br />
+  "LAA3D: A Benchmark of Detecting and Tracking Low-Altitude Aircraft in 3D Space." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2511.19057)] 
+
+- Alice Smith, Bob Johnson, Xiaoyu Zhu, Carol Lee.<br />
+  "Deep Learning-based Lightweight RGB Object Tracking for Augmented Reality Devices." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2511.17508)]
+  
 - **RMATrack:** Xiaomei Gong and Yi Zhang and Yanli Liu.<br />
   "Visual tracking with unified relation modeling and masked appearance learning." Neural Networks (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0893608025010780)]
