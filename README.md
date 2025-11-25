@@ -1082,7 +1082,15 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 
+
+#### 2026
+- **CADTrack:** Hao Li, Yuhao Wang, Xiantao Hu, Wenning Hao, Pingping Zhang, Dong Wang, Huchuan Lu.<br />
+  "CADTrack: Learning Contextual Aggregation with Deformable Alignment for Robust RGBT Tracking." AAAI (2026).
+  [[paper](https://arxiv.org/abs/2511.17967)] 
+  [[code](https://github.com/IdolLab/CADTrack)]
+
 #### 2025
+
 - **SwiTrack:** Boyue Xu, Ruichao Hou, Tongwei Ren, Dongming Zhou, Gangshan Wu, Jinde Cao.<br />
   "SwiTrack: Tri-State Switch for Cross-Modal Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2511.16227)] 
@@ -1676,9 +1684,15 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 |  [QuadTrack600](https://arxiv.org/abs/2503.11218)   |   arXiv-2025  |  [QuadTrack600](https://arxiv.org/abs/2503.11218)  |  600 video  pairs, 348.7 K frames, RGB-TIR-Language-Event |  
 |  [UniBench300](https://arxiv.org/abs/2508.10655)   |   ACM MM-2025  |  [UniBench300](https://github.com/Zhangyong-Tang/UniBench300)  |  A unified benchmark with 100 RGBT sequences, 100 RGBD sequences, and 100 RGBE sequences, 368.1K frames  |  
 |  [RGBDT500](https://arxiv.org/abs/2509.24741)   |   arXiv-2025  |  [RGBDT500](https://arxiv.org/abs/2509.24741)  |  A multi-modal tracking dataset contained 500 videos with synchronised frames across RGB, depth, and thermal infrared modalities  |  
-
+|  [MM-UAV](https://arxiv.org/abs/2511.18344)   |   arXiv-2025  |  [MM-UAV](https://xuefeng-zhu5.github.io/MM-UAV/)  |  The first large-scale benchmark for Multi-Modal UAV Tracking, integrating three key sensing modalities (RGB, infrared (IR), and event signals), with 1,321 video sequences and 2.8 million annotated frames  |  
 ### Papers
+
 #### 2025
+- **MM-UAV:** Tianyang Xu, Jinjie Gu, Xuefeng Zhu, XiaoJun Wu, Josef Kittler.<br />
+  "A Tri-Modal Dataset and a Baseline System for Tracking Unmanned Aerial Vehicles." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2511.18344)] 
+  [[code](https://xuefeng-zhu5.github.io/MM-UAV/)]
+  
 - **MPTrack:** Xueqi Li, Yongjun Zhang, Jianqiang Xia, Fang Dong, Yuanyuan Wang, Yushe Cao, Junze Zhang, Dianxi Shi.<br />
   "Memory Prompt for Multi-Modal Visual Object Tracking." ECAI (2025).
   [[paper](https://ebooks.iospress.nl/volumearticle/75765)]
