@@ -76,6 +76,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **CPDATrack:** Janani Kugarajeevan, Thanikasalam Kokul, Amirthalingam Ramanan, Subha Fernando.<br />
+  "Context-Aware Token Pruning and Discriminative Selective Attention for Transformer Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2511.19928)]
+  
 - **SatSAM2:** Tianrun Chen, Runlong Cao, Xinda Yu, Lanyun Zhu, Chaotao Ding, Deyi Ji, Cheng Chen, Qi Zhu, Chunyan Xu, Papa Mao, Ying Zang.<br />
 "SatSAM2: Motion-Constrained Video Object Tracking in Satellite Imagery using Promptable SAM2 and Kalman Priors." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2511.19425)]
