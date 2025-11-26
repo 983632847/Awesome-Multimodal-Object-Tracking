@@ -1692,6 +1692,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   [[paper](https://arxiv.org/abs/2511.19475)] 
 
 #### 2025
+- **SMUTrack:** Wu, Jiajia, Haorui Zuo, Yuxing Wei, Meihui Li, and Jianlin Zhang.<br />
+  "Unified Multi-Modal Object Tracking Through Spatial–Temporal Propagation and Modality Synergy." Journal of Imaging(2025).
+  [[paper](https://doi.org/10.3390/jimaging11120421)]
+  
 - **MM-UAV:** Tianyang Xu, Jinjie Gu, Xuefeng Zhu, XiaoJun Wu, Josef Kittler.<br />
   "A Tri-Modal Dataset and a Baseline System for Tracking Unmanned Aerial Vehicles." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2511.18344)] 
