@@ -76,6 +76,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **OTKD:** Yongqi Pan and Cheng Zhu and Lailong Luo and Hanlin Tan and Mingrui Lao and Yuxuan Liang.<br />
+  "OTKD: A General Knowledge Distillation Pipeline for Object Tracking." ESWA (2025).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425041624)]
+  
 - **CPDATrack:** Janani Kugarajeevan, Thanikasalam Kokul, Amirthalingam Ramanan, Subha Fernando.<br />
   "Context-Aware Token Pruning and Discriminative Selective Attention for Transformer Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2511.19928)]
