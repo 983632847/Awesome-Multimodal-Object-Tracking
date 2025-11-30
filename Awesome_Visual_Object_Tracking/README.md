@@ -76,6 +76,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **SkiTrack:** Yu Jiang, Yongji Zhang, Siqi Li, Yuehang Wang, Yue Gao.<br />
+  "SkiTrack: An Aerial Skiing Benchmark for Human-Centric Object Tracking." ACM Transactions on Multimedia Computing, Communications, and Applications (2025).
+  [[paper](https://dl.acm.org/doi/10.1145/3778174)] 
+  [[code](https://github.com/xiaozhangfangyang/FineSkiing)]
+  
 - **OTKD:** Yongqi Pan and Cheng Zhu and Lailong Luo and Hanlin Tan and Mingrui Lao and Yuxuan Liang.<br />
   "OTKD: A General Knowledge Distillation Pipeline for Object Tracking." ESWA (2025).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425041624)]
