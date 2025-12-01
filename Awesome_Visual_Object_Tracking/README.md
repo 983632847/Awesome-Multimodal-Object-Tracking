@@ -76,6 +76,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **MANTA:** Suhas Srinath, Hemang Jamadagni, Aditya Chadrasekar, Prathosh AP.<br />
+  "MANTA: Physics-Informed Generalized Underwater Object Tracking." WACV (2025).
+  [[paper](https://arxiv.org/abs/2511.23405)] 
+  [[code](https://github.com/Kazedaa/MANTA)]
+  
 - **SkiTrack:** Yu Jiang, Yongji Zhang, Siqi Li, Yuehang Wang, Yue Gao.<br />
   "SkiTrack: An Aerial Skiing Benchmark for Human-Centric Object Tracking." ACM Transactions on Multimedia Computing, Communications, and Applications (2025).
   [[paper](https://dl.acm.org/doi/10.1145/3778174)] 
@@ -145,12 +150,6 @@
   [[paper](https://arxiv.org/abs/2510.20951)] 
   [[code](https://mtesfaldet.net/genpt_projpage/)]
  
-- **ITTO:** Ilona Demler, Saumya Chauhan, Georgia Gkioxari.<br />
-  "Is This Tracker On? A Benchmark Protocol for Dynamic Tracking." ArXiv (2025).
-  [[paper](https://arxiv.org/abs/2510.19819)] 
-  [[code](https://github.com/ilonadem/itto)]
-  [[project](https://glab-caltech.github.io/ITTO/)] 
-  [[dataset](https://huggingface.co/datasets/demalenk/itto-dataset)]
   
 - **SAM 2++:** Jiaming Zhang, Cheng Liang, Yichun Yang, Chenkai Zeng, Yutao Cui, Xinwen Zhang, Xin Zhou, Kai Ma, Gangshan Wu, Limin Wang.<br />
 "SAM 2++: Tracking Anything at Any Granularity." ArXiv (2025).
@@ -524,7 +523,18 @@
 [[paper](https://openreview.net/forum?id=fz1mm2EsQ9)]
 [[code](https://tubelet-graph.github.io/)]
 
-
+- **ITTO:** Ilona Demler, Saumya Chauhan, Georgia Gkioxari.<br />
+  "Is This Tracker On? A Benchmark Protocol for Dynamic Tracking." NeurIPS (2025).
+  [[paper](https://arxiv.org/abs/2510.19819)] 
+  [[code](https://github.com/ilonadem/itto)]
+  [[project](https://glab-caltech.github.io/ITTO/)] 
+  [[dataset](https://huggingface.co/datasets/demalenk/itto-dataset)]
+  
+- **TAPVid-360:** Finlay G. C. Hudson, James A. D. Gardner, William A. P. Smith.<br />
+  "TAPVid-360: Tracking Any Point in 360 from Narrow Field of View Video." NeurIPS (2025).
+  [[paper](https://arxiv.org/abs/2511.21946)] 
+  [[code](https://github.com/finlay-hudson/TAPVid360)]
+  
 ### ICCV 2025
 - **ATCTrack:** X. Feng, S. Hu, X. Li, D. Zhang, M. Wu, J. Zhang, X. Chen, K. Huang.<br />
   "ATCTrack: Aligning Target-Context Cues with Dynamic Target States for Robust Vision-Language Tracking." ICCV (2025).
