@@ -268,7 +268,7 @@ Coming soon.
   [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_JTD-UAV_MLLM-Enhanced_Joint_Tracking_and_Description_Framework_for_Anti-UAV_Systems_CVPR_2025_paper.pdf)]
   
 - **CLDTracker:** Mohamad Alansari, Sajid Javed, Iyyakutti Iyappan Ganapathi, Sara Alansari, Muzammal Naseer.<br />
-  "CLDTracker: A Comprehensive Language Description for Visual Tracking." ArXiv (2025).
+  "CLDTracker: A Comprehensive Language Description for Visual Tracking." Information Fusion (2025).
   [[paper](https://arxiv.org/abs/2505.23704)] 
   [[code](https://github.com/HamadYA/CLDTracker)]
   
