@@ -76,6 +76,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **MV-TAP:** Jahyeok Koo, Inès Hyeonsu Kim, Mungyeom Kim, Junghyun Park, Seohyun Park, Jaeyeong Kim, Jung Yi, Seokju Cho, Seungryong Kim.<br />
+  "MV-TAP: Tracking Any Point in Multi-View Videos." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2512.02006)] 
+  [[code](https://cvlab-kaist.github.io/MV-TAP/)]
+  
 - **MANTA:** Suhas Srinath, Hemang Jamadagni, Aditya Chadrasekar, Prathosh AP.<br />
   "MANTA: Physics-Informed Generalized Underwater Object Tracking." WACV (2025).
   [[paper](https://arxiv.org/abs/2511.23405)] 
