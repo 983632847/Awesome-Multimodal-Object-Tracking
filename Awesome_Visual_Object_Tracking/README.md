@@ -1994,7 +1994,7 @@
   [[paper](https://arxiv.org/abs/2104.14545)]
   [[code](https://github.com/cvpr-2021/lighttrack)]
   
-- **TrTrack:** Ning Wang, Wengang Zhou, Jie Wang, Houqiang Li. <br />
+- **TrDiMP:** Ning Wang, Wengang Zhou, Jie Wang, Houqiang Li. <br />
   "Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking." CVPR (2021).
   [[paper](https://arxiv.org/pdf/2103.11681.pdf)]
   [[code](https://github.com/594422814/TransformerTrack)]
