@@ -76,6 +76,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **TrackNetV5:** Tang Haonan, Chen Yanjun, Jiang Lezhi.<br />
+  "TrackNetV5: Residual-Driven Spatio-Temporal Refinement and Motion Direction Decoupling for Fast Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2512.02789)]
+  
 - **MV-TAP:** Jahyeok Koo, Inès Hyeonsu Kim, Mungyeom Kim, Junghyun Park, Seohyun Park, Jaeyeong Kim, Jung Yi, Seokju Cho, Seungryong Kim.<br />
   "MV-TAP: Tracking Any Point in Multi-View Videos." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2512.02006)] 
@@ -539,6 +543,10 @@
   "TAPVid-360: Tracking Any Point in 360 from Narrow Field of View Video." NeurIPS (2025).
   [[paper](https://arxiv.org/abs/2511.21946)] 
   [[code](https://github.com/finlay-hudson/TAPVid360)]
+
+- **TED:** Chenshuang Zhang, Kang Zhang, Joon Son Chung, In So Kweon, Junmo Kim, Chengzhi Mao.<br />
+  "Video Diffusion Models Excel at Tracking Similar-Looking Objects Without Supervision." NeurIPS (2025).
+  [[paper](https://arxiv.org/abs/2512.02339)] 
   
 ### ICCV 2025
 - **ATCTrack:** X. Feng, S. Hu, X. Li, D. Zhang, M. Wu, J. Zhang, X. Chen, K. Huang.<br />
