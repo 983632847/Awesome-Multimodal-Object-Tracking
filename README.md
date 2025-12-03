@@ -206,10 +206,6 @@ Coming soon.
   [[paper](https://arxiv.org/abs/2508.09524)]
   
 #### 2025
-- **UAUTrack:** Qionglin Ren, Dawei Zhang, Chunxu Tian, Dan Zhang.<br />
-  "UAUTrack: Towards Unified Multimodal Anti-UAV Visual Tracking." ArXiv (2025).
-  [[paper](https://arxiv.org/abs/2512.02668)]
-  
 - Borsuk, Vasyl, Vitaliy Yakovyna, and Nataliya Shakhovska.<br />
   "Lightweight Multimodal Adapter for Visual Object Tracking." Big Data and Cognitive Computing (2025).
   [[paper](https://www.mdpi.com/2504-2289/9/11/292)]
@@ -1696,6 +1692,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   [[paper](https://arxiv.org/abs/2511.19475)] 
 
 #### 2025
+- **UAUTrack:** Qionglin Ren, Dawei Zhang, Chunxu Tian, Dan Zhang.<br />
+  "UAUTrack: Towards Unified Multimodal Anti-UAV Visual Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2512.02668)]
+  
 - **SMUTrack:** Wu, Jiajia, Haorui Zuo, Yuxing Wei, Meihui Li, and Jianlin Zhang.<br />
   "Unified Multi-Modal Object Tracking Through Spatial–Temporal Propagation and Modality Synergy." Journal of Imaging(2025).
   [[paper](https://doi.org/10.3390/jimaging11120421)]
