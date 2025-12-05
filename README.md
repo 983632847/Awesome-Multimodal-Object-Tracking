@@ -1090,7 +1090,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   [[code](https://github.com/IdolLab/CADTrack)]
 
 #### 2025
-
+- **SiamDFF:** Houzhang Fang, Chenxing Wu, Kun Bai, Tianqi Chen, Xiaolin Wang, Xiyang Liu, Yi Chang, Luxin Yan.<br />
+  "Infrared UAV Target Tracking with Dynamic Feature Refinement and Global Contextual Attention Knowledge Distillation." TMM (2025).
+  [[paper](https://arxiv.org/abs/2512.04581)]
+  
 - **SwiTrack:** Boyue Xu, Ruichao Hou, Tongwei Ren, Dongming Zhou, Gangshan Wu, Jinde Cao.<br />
   "SwiTrack: Tri-State Switch for Cross-Modal Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2511.16227)] 
