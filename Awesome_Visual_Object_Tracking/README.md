@@ -76,6 +76,16 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **HeFT:** Tianyu Yuan, Yuanbo Yang, Lin-Zhuo Chen, Yao Yao, Zhuzhong Qian.<br />
+  "Denoise to Track: Harnessing Video Diffusion Priors for Robust Correspondence." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2512.04619)] 
+  [[code](https://yuantianyu177.github.io/heft_page/)]
+
+- **SDG-Track:** Jiawen Wen, Yu Hu, Suixuan Qiu, Jinshan Huang, Xiaowen Chu.<br />
+  "SDG-Track: A Heterogeneous Observer-Follower Framework for High-Resolution UAV Tracking on Embedded Platforms." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2512.04883)] 
+  [[code](https://github.com/Jeffry-wen/SDG-Track)]
+  
 - **TrackNetV5:** Tang Haonan, Chen Yanjun, Jiang Lezhi.<br />
   "TrackNetV5: Residual-Driven Spatio-Temporal Refinement and Motion Direction Decoupling for Fast Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2512.02789)]
