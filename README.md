@@ -1089,6 +1089,12 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   [[paper](https://arxiv.org/abs/2511.17967)] 
   [[code](https://github.com/IdolLab/CADTrack)]
 
+ - **GOLA:** Zekai Shao, Yufan Hu, Jingyuan Liu, Bin Fan, Hongmin Liu.<br />
+  "Group Orthogonal Low-Rank Adaptation for RGB-T Tracking." AAAI (2026).
+  [[paper](https://arxiv.org/abs/2512.05359)] 
+  [[code](https://github.com/MelanTech/GOLA)]
+ 
+
 #### 2025
 - **SiamDFF:** Houzhang Fang, Chenxing Wu, Kun Bai, Tianqi Chen, Xiaolin Wang, Xiyang Liu, Yi Chang, Luxin Yan.<br />
   "Infrared UAV Target Tracking with Dynamic Feature Refinement and Global Contextual Attention Knowledge Distillation." TMM (2025).
