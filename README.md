@@ -1096,6 +1096,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
  
 
 #### 2025
+- **CGATrack:** Yun Xiao and Qi Li and Lei Liu and Chenglong Li.<br />
+  "Cross-modal Guiding Attention for RGBT Tracking." Information Fusion (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S156625352501070X)]
+  
 - **SiamDFF:** Houzhang Fang, Chenxing Wu, Kun Bai, Tianqi Chen, Xiaolin Wang, Xiyang Liu, Yi Chang, Luxin Yan.<br />
   "Infrared UAV Target Tracking with Dynamic Feature Refinement and Global Contextual Attention Knowledge Distillation." TMM (2025).
   [[paper](https://arxiv.org/abs/2512.04581)]
