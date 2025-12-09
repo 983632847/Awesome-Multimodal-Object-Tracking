@@ -28,11 +28,12 @@
 
 ## :collision: Highlights
 ![Last Updated](https://badgen.net/github/last-commit/983632847/Awesome-Multimodal-Object-Tracking?icon=github&label=last%20updated&color=blue)
-- 2025.04.28: The Paper of UW-COT220 and VL-SAM2 was Accepted by CVPR 2025 Workshop ([arXiv](https://arxiv.org/abs/2409.16902), [Outstanding Paper](https://www.cv4animals.com/home)).
-- 2025.04.02: We Released UW-COT220 and VL-SAM2, with both Training and Testing Code Available ([project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/UW-COT220)).
-- 2025.04.02: The Paper of VL-SOT500 and COST was Online ([arXiv](https://arxiv.org/abs/2504.01321), [Project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/VL-SOT500)).
+- 2025.12.08: The Paper of UAV-Anti-UAV & MambaSTS was Online ([arXiv](https://arxiv.org/abs/2512.07385)).
+- 2025.04.28: The Paper of UW-COT220 & VL-SAM2 was Accepted by CVPR 2025 Workshop ([arXiv](https://arxiv.org/abs/2409.16902), [Outstanding Paper](https://www.cv4animals.com/home)).
+- 2025.04.02: We Released UW-COT220 & VL-SAM2, with both Training and Testing Code Available ([project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/UW-COT220)).
+- 2025.04.02: The Paper of VL-SOT500 & COST was Online ([arXiv](https://arxiv.org/abs/2504.01321), [Project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/VL-SOT500)).
 - 2025.02.28: Awesome Visual Object Tracking Project Started at [Awesome-VOT](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/Awesome_Visual_Object_Tracking).
-- 2025.01.20: The Technical Report for UW-COT220 and VL-SAM2 was Updated ([arXiv](https://arxiv.org/abs/2409.16902), [知乎](https://zhuanlan.zhihu.com/p/19568835256)).
+- 2025.01.20: The Technical Report for UW-COT220 & VL-SAM2 was Updated ([arXiv](https://arxiv.org/abs/2409.16902), [知乎](https://zhuanlan.zhihu.com/p/19568835256)).
 - 2024.09.26: The WebUOT-1M was Accepted by NeurIPS 2024, and its Extended Version, UW-COT220, was Online ([arXiv](https://arxiv.org/abs/2409.16902)).
 - 2024.05.30: The Paper of WebUOT-1M was Online ([arXiv](https://arxiv.org/abs/2405.19818)).
 - 2024.05.24: The Report of Awesome MMOT Project was Online ([arXiv](https://arxiv.org/abs/2405.14200), [知乎](https://zhuanlan.zhihu.com/p/699538389)).
@@ -198,6 +199,8 @@ Coming soon.
 |  [UW-COT220](https://arxiv.org/abs/2409.16902)   |   CVPR Workshop-2025   | [UW-COT220](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/UW-COT220) |  The first multimodal underwater camouﬂaged object tracking dataset with 220 videos. |  
 |  [VL-SOT500](https://arxiv.org/abs/2504.01321)   |   Information Fusion-2025   | [VL-SOT500](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/VL-SOT500) | The first large-scale multi-modal small object tracking dataset with two subsets, VL-SOT230 and VL-SOT270, designed for benchmarking generic and high-speed small object tracking, respectively.  |
 |  [TNLLT](https://arxiv.org/abs/2508.05221)   |   arXiv-2025   | [TNLLT](https://github.com/Event-AHU/Open_VLTrack) | A large-scale long-term vision-language tracking benchmark dataset with 200 video sequences. |
+|  [UAV-Anti-UAV](https://arxiv.org/abs/2512.07385)   |   arXiv-2025   | [UAV-Anti-UAV](https://github.com/983632847/Awesome-Multimodal-Object-Tracking) | The first million-scale multi-modal UAV-Anti-UAV benchmark, comprising 1.05 million frames across 1,810 videos.  |  
+
 
 ### Papers
 #### 2026
@@ -206,6 +209,11 @@ Coming soon.
   [[paper](https://arxiv.org/abs/2508.09524)]
   
 #### 2025
+- **UAV-Anti-UAV:** Chunhui Zhang, Li Liu, Zhipeng Zhang, Yong Wang, Hao Wen, Xi Zhou, Shiming Ge, Yanfeng Wang.<br />
+  "How Far are Modern Trackers from UAV-Anti-UAV? A Million-Scale Benchmark and New Baseline." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2512.07385)] 
+  [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
+  
 - Borsuk, Vasyl, Vitaliy Yakovyna, and Nataliya Shakhovska.<br />
   "Lightweight Multimodal Adapter for Visual Object Tracking." Big Data and Cognitive Computing (2025).
   [[paper](https://www.mdpi.com/2504-2289/9/11/292)]
