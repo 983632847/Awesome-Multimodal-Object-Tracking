@@ -76,6 +76,14 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **SAM+CSRT:** Chamath Ranasinghe, Uthayasanker Thayasivam.<br />
+"Team-Aware Football Player Tracking with SAM: An Appearance-Based Approach to Occlusion Recovery." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.08467)]
+
+- Senem Aktas, Charles Markham, John McDonald, Rozenn Dahyot.<br />
+  "Benchmarking SAM2-based Trackers on FMOX." AICS (2025).
+  [[paper](https://arxiv.org/abs/2512.09633)]
+  
 - **HeFT:** Tianyu Yuan, Yuanbo Yang, Lin-Zhuo Chen, Yao Yao, Zhuzhong Qian.<br />
   "Denoise to Track: Harnessing Video Diffusion Priors for Robust Correspondence." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2512.04619)] 
@@ -556,7 +564,13 @@
 
 - **TED:** Chenshuang Zhang, Kang Zhang, Joon Son Chung, In So Kweon, Junmo Kim, Chengzhi Mao.<br />
   "Video Diffusion Models Excel at Tracking Similar-Looking Objects Without Supervision." NeurIPS (2025).
-  [[paper](https://arxiv.org/abs/2512.02339)] 
+  [[paper](https://arxiv.org/abs/2512.02339)]
+
+- **TrackingWorld:** Jiahao Lu, Weitao Xiong, Jiacheng Deng, Peng Li, Tianyu Huang, Zhiyang Dou, Cheng Lin, Sai-Kit Yeung, Yuan Liu.<br />
+  "TrackingWorld: World-centric Monocular 3D Tracking of Almost All Pixels." NeurIPS (2025).
+  [[paper](https://arxiv.org/abs/2512.08358)] 
+  [[code](https://igl-hkust.github.io/TrackingWorld.github.io/)]
+
   
 ### ICCV 2025
 - **ATCTrack:** X. Feng, S. Hu, X. Li, D. Zhang, M. Wu, J. Zhang, X. Chen, K. Huang.<br />
