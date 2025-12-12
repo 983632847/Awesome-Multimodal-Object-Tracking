@@ -76,6 +76,15 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **CasBAN:** Qun Li and Haijun Zhang and Kai Yang and Zhili Zhou.<br />
+  "A cascaded border-aware network for visual tracking." EAAI (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0952197625034943)] 
+
+- **SAMViTrack:** Guo, Xiaoyu, Yian Li, Hao Zhang, Xucheng Wang, Dan Zeng, Feixiang He, and Shuiwang Li.<br />
+  "SAMViTrack: A Search-Region Adaptive Mamba-ViT Tracker for Real-Time UAV Tracking." Sensors (2025).
+  [[paper](https://www.mdpi.com/1424-8220/25/24/7454?utm_source=researchgate.net&utm_medium=article)] 
+  [[code](https://github.com/open-at-25/SAMViTrack)]
+  
 - **SAM+CSRT:** Chamath Ranasinghe, Uthayasanker Thayasivam.<br />
 "Team-Aware Football Player Tracking with SAM: An Appearance-Based Approach to Occlusion Recovery." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.08467)]
