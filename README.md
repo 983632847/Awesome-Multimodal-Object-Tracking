@@ -213,6 +213,7 @@ Coming soon.
   "How Far are Modern Trackers from UAV-Anti-UAV? A Million-Scale Benchmark and New Baseline." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2512.07385)] 
   [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
+  [[中文解读](https://mp.weixin.qq.com/s/NKkAKaRbXE2x25FTvoUFoA)]
   
 - Borsuk, Vasyl, Vitaliy Yakovyna, and Nataliya Shakhovska.<br />
   "Lightweight Multimodal Adapter for Visual Object Tracking." Big Data and Cognitive Computing (2025).
