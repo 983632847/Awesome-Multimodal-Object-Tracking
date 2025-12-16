@@ -209,6 +209,11 @@ Coming soon.
   [[paper](https://arxiv.org/abs/2508.09524)]
   
 #### 2025
+- **SAVLT:** Zhao, Jie and Chen, Xin and Li, Shengming and Bo, Chunjuan and Wang, Dong and Lu, Huchuan.<br />
+  "Self-Adaptive Vision-Language Tracking With Context Prompting." TIP (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11284903)] 
+  [[code](https://github.com/zj5559/SAVLT)]
+
 - **UAV-Anti-UAV:** Chunhui Zhang, Li Liu, Zhipeng Zhang, Yong Wang, Hao Wen, Xi Zhou, Shiming Ge, Yanfeng Wang.<br />
   "How Far are Modern Trackers from UAV-Anti-UAV? A Million-Scale Benchmark and New Baseline." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2512.07385)] 
@@ -1717,6 +1722,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 - **UAUTrack:** Qionglin Ren, Dawei Zhang, Chunxu Tian, Dan Zhang.<br />
   "UAUTrack: Towards Unified Multimodal Anti-UAV Visual Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2512.02668)]
+
+- **DIMTrack:** Yuhan Zhao, et al.<br />
+  "DIMTrack: Dynamic Neuron-Based RGBX Tracking for Multimodal Visual Cross-Modal Interaction." DSP (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1051200425008437)]   
   
 - **SMUTrack:** Wu, Jiajia, Haorui Zuo, Yuxing Wei, Meihui Li, and Jianlin Zhang.<br />
   "Unified Multi-Modal Object Tracking Through Spatial–Temporal Propagation and Modality Synergy." Journal of Imaging(2025).
