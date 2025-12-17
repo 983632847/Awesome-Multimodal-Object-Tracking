@@ -76,6 +76,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **K-Track:** https://arxiv.org/abs/2512.10628.<br />
+  "K-Track: Kalman-Enhanced Tracking for Accelerating Deep Point Trackers on Edge Devices." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2512.10628)] 
+  [[code](https://github.com/ostadabbas/K-Track-Kalman-Enhanced-Tracking)]
+  
 - **CasBAN:** Qun Li and Haijun Zhang and Kai Yang and Zhili Zhou.<br />
   "A cascaded border-aware network for visual tracking." EAAI (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0952197625034943)] 
