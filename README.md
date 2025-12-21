@@ -617,6 +617,12 @@ Coming soon.
 |  [FELT v2](https://arxiv.org/pdf/2403.05839.pdf)   |   arXiv-2025   |  [FELT v2](https://github.com/Event-AHU/FELT_SOT_Benchmark)  |  1,044 long-term RGB-event video pairs  |  
 
 ### Papers
+#### 2026
+- **UREPtrack:** Lu, M.<br />
+  "UREPtrack: single-branch PoolFormer for unified attention-free RGB-event visual object tracking." Vis Comput (2026).
+  [[paper](https://doi.org/10.1007/s00371-025-04309-6)]
+
+  
 #### 2025
 - **WTA:** Taha Razzaq, Asim Iqbal.<br />
   "Multimodal Neuromorphic Event-Frame Fusion in Domain-Generalized Vision Transformer for Dynamic Object Tracking." ICCVW (2025).
@@ -1108,7 +1114,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   [[paper](https://arxiv.org/abs/2512.05359)] 
   [[code](https://github.com/MelanTech/GOLA)]
  
-
+- **PATrack:** Shengbo Wang and Yunfeng Li and Lei Deng and Guangkai Sun and Mingli Dong.<br />
+  "PATrack: Infrared–visible image dynamic fusion with prompts and adapters for target tracking." Optics & Laser Technology (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0030399225020651)] 
+  [[code](https://github.com/wwwshengbo/PATrack)]
+  
 #### 2025
 - **CGATrack:** Yun Xiao and Qi Li and Lei Liu and Chenglong Li.<br />
   "Cross-modal Guiding Attention for RGBT Tracking." Information Fusion (2025).
