@@ -1120,6 +1120,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   [[code](https://github.com/wwwshengbo/PATrack)]
   
 #### 2025
+- **QSTNet:** Ding, Zhaodong and Li, Chenglong and Wang, Tao and Wang, Futian.<br />
+  "Quality-Aware Spatio-Temporal Transformer Network for RGBT Tracking." TIP (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11270003)] 
+  [[code](https://zhaodongah.github.io/QSTNet)]
+  
 - **CGATrack:** Yun Xiao and Qi Li and Lei Liu and Chenglong Li.<br />
   "Cross-modal Guiding Attention for RGBT Tracking." Information Fusion (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S156625352501070X)]
