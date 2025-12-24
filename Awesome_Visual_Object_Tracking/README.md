@@ -76,6 +76,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **DiTracker:** Soowon Son, Honggyu An, Chaehyun Kim, Hyunah Ko, Jisu Nam, Dahyun Chung, Siyoon Jin, Jung Yi, Jaewon Min, Junhwa Hur, Seungryong Kim.<br />
+  "Repurposing Video Diffusion Transformers for Robust Point Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2512.20606)] 
+  [[code](https://cvlab-kaist.github.io/DiTracker/)]
+  
 - **K-Track:** https://arxiv.org/abs/2512.10628.<br />
   "K-Track: Kalman-Enhanced Tracking for Accelerating Deep Point Trackers on Edge Devices." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2512.10628)] 
