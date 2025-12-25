@@ -82,7 +82,7 @@ If you find our work useful in your research, please consider citing:
 
 
 ## Survey
-- **Awesome MMOT:** Chunhui Zhang, Li Liu, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
+:boom:**Awesome MMOT:** Chunhui Zhang, Li Liu, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
   "Awesome Multi-modal Object Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.14200)] 
   [[project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
@@ -128,7 +128,7 @@ If you find our work useful in your research, please consider citing:
   "A Comprehensive Review of RGBT Tracking." IEEE TIM (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10616144)] 
 
-- Mengmeng Wang, Teli Ma, Shuo Xin, Xiaojun Hou, Jiazheng Xing, Guang Dai, Jingdong Wang, Yong Liu.<br />
+:boom:Mengmeng Wang, Teli Ma, Shuo Xin, Xiaojun Hou, Jiazheng Xing, Guang Dai, Jingdong Wang, Yong Liu.<br />
   "Visual Object Tracking across Diverse Data Modalities: A Review." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2412.09991)]
 
@@ -140,7 +140,7 @@ If you find our work useful in your research, please consider citing:
   "A Deep Dive into Generic Object Tracking: A Survey." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2507.23251)] 
 
-- Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Hui Li, Shaochuan Zhao, Tao Zhou, Chunyang Cheng, Xiaojun Wu, Josef Kittler.<br />
+:boom:Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Hui Li, Shaochuan Zhao, Tao Zhou, Chunyang Cheng, Xiaojun Wu, Josef Kittler.<br />
   "Omni Survey for Multimodality Analysis in Visual Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2508.13000)] 
   [[project](https://github.com/Zhangyong-Tang/Awesome-MultiModal-Visual-Object-Tracking)]
