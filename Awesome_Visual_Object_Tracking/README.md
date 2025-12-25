@@ -85,7 +85,7 @@
   [[paper](https://arxiv.org/abs/2512.20606)] 
   [[code](https://cvlab-kaist.github.io/DiTracker/)]
   
-- **K-Track:** https://arxiv.org/abs/2512.10628.<br />
+- **K-Track:** Bishoy Galoaa, Pau Closas, Sarah Ostadabbas.<br />
   "K-Track: Kalman-Enhanced Tracking for Accelerating Deep Point Trackers on Edge Devices." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2512.10628)] 
   [[code](https://github.com/ostadabbas/K-Track-Kalman-Enhanced-Tracking)]
