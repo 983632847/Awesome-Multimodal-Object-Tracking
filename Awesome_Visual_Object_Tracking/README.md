@@ -76,6 +76,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
+- **SPOT:** Yujin Noh, Inho Jake Park, Chigon Hwang .<br />
+  "SPOT!: Map-Guided LLM Agent for Unsupervised Multi-CCTV Dynamic Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2512.20975)]
+  
 - **DiTracker:** Soowon Son, Honggyu An, Chaehyun Kim, Hyunah Ko, Jisu Nam, Dahyun Chung, Siyoon Jin, Jung Yi, Jaewon Min, Junhwa Hur, Seungryong Kim.<br />
   "Repurposing Video Diffusion Transformers for Robust Point Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2512.20606)] 
