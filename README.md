@@ -1927,6 +1927,11 @@ Coming soon.
 
 ### Papers
 #### 2025
+- **CSSTrack:** Zhuanfeng Li and Jing Wang and Jue Zhang and Dong Zhao and Guanyiman Fu and Jiangtao Wang and Jianfeng Lu.<br />
+  "A Unified Spatial-Spectral-Temporal Network for Hyperspectral Object Tracking." PR (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325016681)] 
+  [[code](https://github.com/hscv/CSSTrack)]
+  
 - **BCR-Net:** Zhang, Jingyan, Zhizhong Zheng, Kang Ni, Nan Huang, Qichao Liu, and Pengfei Liu.<br />
   "Hyperspectral Object Tracking via Band and Context Refinement Network." Remote Sensing (2025).
   [[paper](https://doi.org/10.3390/rs17223689)]
