@@ -71,19 +71,19 @@
 - **VL-SAM2:** Chunhui Zhang, Li Liu, Guanjie Huang, Zhipeng Zhang, Hao Wen, Xi Zhou, Shiming Ge, Yanfeng Wang.<br />
   "Underwater Camouflaged Object Tracking Meets Vision-Language SAM2." CVPR Workshop (2025).
   [[paper](https://arxiv.org/abs/2409.16902)]
-  
   [[project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/UW-COT220)]
+  
 - **SAM3_Tracking_Zoo:** Mohamad Alansari, Muzammal Naseer, Hasan Al Marzouqi, Naoufel Werghi, Sajid Javed .<br />
   "Rethinking Memory Design in SAM-Based Visual Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2512.22624)] 
-  [[code](https://github.com/HamadYA/SAM3_Tracking_Zoo )]  
+  [[code](https://github.com/HamadYA/SAM3_Tracking_Zoo)]  
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2025
 - **SAM3_Tracking_Zoo:** Mohamad Alansari, Muzammal Naseer, Hasan Al Marzouqi, Naoufel Werghi, Sajid Javed .<br />
   "Rethinking Memory Design in SAM-Based Visual Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2512.22624)] 
-  [[code](https://github.com/HamadYA/SAM3_Tracking_Zoo )]
+  [[code](https://github.com/HamadYA/SAM3_Tracking_Zoo)]
 
 - **K-Track:** Bishoy Galoaa, Pau Closas, Sarah Ostadabbas.<br />
   "K-Track: Kalman-Enhanced Tracking for Accelerating Deep Point Trackers on Edge Devices." ArXiv (2025).
