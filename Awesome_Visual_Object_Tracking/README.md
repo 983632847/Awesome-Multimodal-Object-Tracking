@@ -85,6 +85,11 @@
   [[paper](https://arxiv.org/abs/2512.22624)] 
   [[code](https://github.com/HamadYA/SAM3_Tracking_Zoo)]
 
+- **NT-VOT211:** Yu Liu, Arif Mahmood & Muhammad Haris Khan .<br />
+  "A Comprehensive Benchmark for Evaluating Night-time Visual Object Tracking." IJCV (2025).
+  [[paper](https://link.springer.com/article/10.1007/s11263-025-02661-7)] 
+  [[code](https://github.com/LiuYuML/NT-VOT211)]
+  
 - **K-Track:** Bishoy Galoaa, Pau Closas, Sarah Ostadabbas.<br />
   "K-Track: Kalman-Enhanced Tracking for Accelerating Deep Point Trackers on Edge Devices." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2512.10628)] 
