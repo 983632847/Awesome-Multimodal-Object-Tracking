@@ -1730,7 +1730,7 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 |  [UniMod1K](https://link.springer.com/article/10.1007/s11263-024-01999-8)   |   IJCV-2024  |  [UniMod1K](https://github.com/xuefeng-zhu5/UniMod1K)  |  1050 video  pairs, 2.5 million frames, Vision-depth-language  |  
 |  [QuadTrack600](https://arxiv.org/abs/2503.11218)   |   arXiv-2025  |  [QuadTrack600](https://arxiv.org/abs/2503.11218)  |  600 video  pairs, 348.7 K frames, RGB-TIR-Language-Event |  
 |  [UniBench300](https://arxiv.org/abs/2508.10655)   |   ACM MM-2025  |  [UniBench300](https://github.com/Zhangyong-Tang/UniBench300)  |  A unified benchmark with 100 RGBT sequences, 100 RGBD sequences, and 100 RGBE sequences, 368.1K frames  |  
-|  [RGBDT500](https://arxiv.org/abs/2509.24741)   |   arXiv-2025  |  [RGBDT500](https://arxiv.org/abs/2509.24741)  |  A multi-modal tracking dataset contained 500 videos with synchronised frames across RGB, depth, and thermal infrared modalities  |  
+|  [RGBDT500](https://arxiv.org/abs/2509.24741)   |   NeurIPS-2025  |  [RGBDT500](https://arxiv.org/abs/2509.24741)  |  A multi-modal tracking dataset contained 500 videos with synchronised frames across RGB, depth, and thermal infrared modalities  |  
 |  [MM-UAV](https://arxiv.org/abs/2511.18344)   |   arXiv-2025  |  [MM-UAV](https://xuefeng-zhu5.github.io/MM-UAV/)  |  The first large-scale benchmark for Multi-Modal UAV Tracking, integrating three key sensing modalities (RGB, infrared (IR), and event signals), with 1,321 video sequences and 2.8 million annotated frames  |  
 ### Papers
 #### 2026
@@ -1774,7 +1774,7 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   [[paper](https://ieeexplore.ieee.org/abstract/document/11202681)]
   
 - **RDTTrack:** Xue-Feng Zhu, Tianyang Xu, Yifan Pan, Jinjie Gu, Xi Li, Jiwen Lu, Xiao-Jun Wu, Josef Kittler.<br />
-  "Collaborating Vision, Depth, and Thermal Signals for Multi-Modal Tracking: Dataset and Algorithm." ArXiv (2025).
+  "Collaborating Vision, Depth, and Thermal Signals for Multi-Modal Tracking: Dataset and Algorithm." NeurIPS (2025).
   [[paper](https://arxiv.org/abs/2509.24741)]
   
 - **MFATrack:** Ziyu Li, Na You, Tanqing Sun, Mingjia Wang, Xianjun Zhang & Yuping Feng.<br />
