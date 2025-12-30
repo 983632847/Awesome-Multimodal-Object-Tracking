@@ -573,6 +573,16 @@
   "Fully Spiking Neural Networks for Unified Frame-Event Object Tracking." NeurIPS (2025).
   [[paper](https://openreview.net/forum?id=FooiwsnEH9)]
 
+- **RGBDT500:** Xue-Feng Zhu, Tianyang Xu, Yifan Pan, Jinjie Gu, Xi Li, Jiwen Lu, Xiao-Jun Wu, Josef Kittler.<br />
+  "Collaborating Vision, Depth, and Thermal Signals for Multi-Modal Tracking: Dataset and Algorithm." NeurIPS (2025).
+  [[paper](https://arxiv.org/abs/2509.24741)] 
+  [[code](https://xuefeng-zhu5.github.io/RGBDT500)]
+
+- **MMOT:** Tianhao Li, Tingfa Xu, Ying Wang, Haolin Qin, Xu Lin, Jianan Li.<br />
+  "MMOT: The First Challenging Benchmark for Drone-based Multispectral Multi-Object Tracking." NeurIPS (2025).
+  [[paper](https://arxiv.org/abs/2510.12565)] 
+  [[code](https://github.com/Annzstbl/MMOT)]
+
 - **SynCL:** Shubo Lin, Yutong Kou, Zirui Wu, Shaoru Wang, Bing Li, Weiming Hu, Jin Gao.<br />
   "SynCL: A Synergistic Training Strategy with Instance-Aware Contrastive Learning for End-to-End Multi-Camera 3D Tracking." NeurIPS (2025).
   [[paper](https://openreview.net/forum?id=LrIRYbn3Rn)] 
