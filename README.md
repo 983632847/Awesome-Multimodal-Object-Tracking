@@ -433,11 +433,6 @@ Coming soon.
   "WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark." NeurIPS (2024).
   [[paper](https://arxiv.org/abs/2405.19818)] 
   [[project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/WebUOT-1M)]
-  
-- **ElysiumTrack-1M:** Han Wang, Yanjie Wang, Yongjie Ye, Yuxiang Nie, Can Huang.<br />
-  "Elysium: Exploring Object-level Perception in Videos via MLLM." ECCV (2024).
-  [[paper](https://arxiv.org/abs/2403.16558)] 
-  [[code](https://github.com/Hon-Wong/Elysium)]
 
 - **VLT-MI:** Xuchen Li, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang.<br />
   "Visual Language Tracking with Multi-modal Interaction: A Robust Benchmark." ArXiv (2024).
@@ -462,7 +457,7 @@ Coming soon.
   [[paper](https://arxiv.org/abs/2407.20730)] 
   [[code](https://github.com/SkyeSong38/ALTrack)]
 
-- **Elysium:** Han Wang, Yanjie Wang, Yongjie Ye, Yuxiang Nie, Can Huang.<br />
+- **ElysiumTrack-1M & Elysium:** Han Wang, Yanjie Wang, Yongjie Ye, Yuxiang Nie, Can Huang.<br />
   "Elysium: Exploring Object-level Perception in Videos via MLLM." ECCV (2024).
   [[paper](https://arxiv.org/abs/2403.16558)] 
   [[code](https://github.com/Hon-Wong/Elysium)]
