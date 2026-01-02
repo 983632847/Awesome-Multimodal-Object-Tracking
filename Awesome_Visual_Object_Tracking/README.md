@@ -79,7 +79,18 @@
   [[code](https://github.com/HamadYA/SAM3_Tracking_Zoo)]  
 
 ### :boom: Conference and Journal Papers :boom:
+### ArXiv-2026
+- **CMTT:** Zhenyu Wang and Zenan Lu and Simin Tang and Jianmin Wang.<br />
+  "A novel color marker-based target tracking and motion intent detection method." EAAI (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625029070?via%3Dihub)] 
+  [[code](https://github.com/wzy7421/CMTT.git)]
+  
 ### ArXiv-2025
+- **CMTT:** Zhenyu Wang and Zenan Lu and Simin Tang and Jianmin Wang.<br />
+  "A novel color marker-based target tracking and motion intent detection method." EAAI (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625029070?via%3Dihub)] 
+  [[code](https://github.com/wzy7421/CMTT.git)]
+  
 - **SAM3_Tracking_Zoo:** Mohamad Alansari, Muzammal Naseer, Hasan Al Marzouqi, Naoufel Werghi, Sajid Javed .<br />
   "Rethinking Memory Design in SAM-Based Visual Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2512.22624)] 
