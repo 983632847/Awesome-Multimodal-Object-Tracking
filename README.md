@@ -490,10 +490,6 @@ Coming soon.
   "Textual Tokens Classification for Multi-Modal Alignment in Vision-Language Tracking." ICASSP (2024).
   [[paper](https://ieeexplore.ieee.org/document/10446122)] 
 
-- **OneTracker:** Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Cheng, Jinglun Li, Zhaoyu Chen, Wenqiang Zhang.<br />
-  "OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning." CVPR (2024).
-  [[paper](https://arxiv.org/pdf/2403.09634.pdf)] 
-
 - **MMTrack:** Zheng, Yaozong and Zhong, Bineng and Liang, Qihua and Li, Guorong and Ji, Rongrong and Li, Xianxian.<br />
   "Toward Unified Token Learning for Vision-Language Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10208210)]
