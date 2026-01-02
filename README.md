@@ -112,7 +112,7 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3651308)] 
 
 - **MV-RGBT & MoETrack:** Zhangyong Tang, Tianyang Xu, Zhenhua Feng, Xuefeng Zhu, He Wang, Pengcheng Shao, Chunyang Cheng, Xiao-Jun Wu, Muhammad Awais, Sara Atito, Josef Kittler.<br />
-  "Revisiting RGBT Tracking Benchmarks from the Perspective of Modality Validity: A New Benchmark, Problem, and Method." ArXiv (2024).
+  "Revisiting RGBT Tracking Benchmarks from the Perspective of Modality Validity: A New Benchmark, Problem, and Method." TIP (2025).
   [[paper](https://arxiv.org/abs/2405.00168)] 
   [[code](https://github.com/Zhangyong-Tang/MoETrack)]
 
@@ -714,6 +714,11 @@ Coming soon.
   [[paper](https://arxiv.org/abs/2502.05574)] 
   [[code](https://github.com/Event-AHU/EventVOT_Benchmark)]
 
+- **TENet:** Pengcheng Shao, Tianyang Xu, Zhangyong Tang, Linze Li, Xiao-Jun Wu, Josef Kittler.<br />
+  "TENet: Targetness Entanglement Incorporating with Multi-Scale Pooling and Mutually-Guided Fusion for RGB-E Object Tracking." NN (2025).
+  [[paper](https://arxiv.org/abs/2405.05004)] 
+  [[code](https://github.com/SSSpc333/TENet)]
+  
 #### 2024
 - **CSAM:** Tianlu Zhang, Kurt Debattista, Qiang Zhang, Guiguang Ding, Jungong Han.<br />
   "Revisiting motion information for RGB-Event tracking with MOT philosophy." NeurIPS (2024).
@@ -760,11 +765,6 @@ Coming soon.
   "Long-term Frame-Event Visual Tracking: Benchmark Dataset and Baseline." ArXiv (2024).
   [[paper](https://arxiv.org/pdf/2403.05839v1)] 
   [[code](https://github.com/Event-AHU/FELT_SOT_Benchmark)]
-
-- **TENet:** Pengcheng Shao, Tianyang Xu, Zhangyong Tang, Linze Li, Xiao-Jun Wu, Josef Kittler.<br />
-  "TENet: Targetness Entanglement Incorporating with Multi-Scale Pooling and Mutually-Guided Fusion for RGB-E Object Tracking." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2405.05004)] 
-  [[code](https://github.com/SSSpc333/TENet)]
 
 - **HDETrack:** Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang.<br />
   "Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline." CVPR (2024).
