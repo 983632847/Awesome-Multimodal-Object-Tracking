@@ -64,7 +64,7 @@
 - [Hyperspectral Object Tracking](#hyperspectral-object-tracking)
   - [Datasets](#datasets)
   - [Papers](#papers)
-- [Others](#others)
+- [Others (RGBNIR, RGBS, etc)](#others)
 - [Awesome Repositories for MMOT](#awesome-repositories-for-mmot)
   
 
@@ -2030,7 +2030,8 @@ Coming soon.
 
 
 
-## Others (RGBNIR, RGBS, etc)
+## Others 
+### (RGBNIR, RGBS, etc)
 #### 2025
 - **VUOT & VTUTrack:** Qinghua Song, Xiaolei Wang .<br />
   "Efficient Transformer Network for Visible and Ultraviolet Object Tracking." CVM (2025).
