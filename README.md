@@ -1080,7 +1080,7 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 #### 2013
 - **PT:** Shuran Song, Jianxiong Xiao.<br />
   "Tracking Revisited using RGBD Camera: Unified Benchmark and Baselines." ICCV (2013).
-  [[paper](https://vision.princeton.edu/projects/2013/tracking/paper.pdf)] 
+  [[paper](https://ieeexplore.ieee.org/document/6751138)] 
   [[code](https://tracking.cs.princeton.edu/index.html)]
 
 #### 2012
