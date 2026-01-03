@@ -2031,7 +2031,7 @@ Coming soon.
 
 
 ## Others 
-### (RGBNIR, RGBS, etc)
+### RGBNIR, RGBS, etc
 #### 2025
 - **VUOT & VTUTrack:** Qinghua Song, Xiaolei Wang .<br />
   "Efficient Transformer Network for Visible and Ultraviolet Object Tracking." CVM (2025).
