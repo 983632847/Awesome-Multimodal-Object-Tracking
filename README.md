@@ -15,7 +15,7 @@
 
 > **Awesome MMOT:** A continuously updated project to track the latest progress in multi-modal object tracking (MMOT). This project focuses solely on single-object tracking. If this repository can bring you some inspiration, we would feel greatly honored. If you have any suggestions, please feel free to contact: [andyzhangchunhui@gmail.com](andyzhangchunhui@gmail.com).
 
-> **UPDATE:** Our survey covers common paradigms of multi-modal object tracking, including RGBL, RGBE, RGBD, RGBT, RGB-Sonar, miscellaneous (RGB+X) tracking, embodied visual tracking (EVT), and hyperspectral object tracking (HOT).<br>
+> **UPDATE:** Our survey covers common paradigms of multi-modal object tracking, including RGBL, RGBE, RGBD, RGBT, RGB-Sonar, RGB-NIR, miscellaneous (RGB+X) tracking, Embodied Visual Tracking (EVT), and Hyperspectral Object Tracking (HOT).<br>
 
 ### We welcome researchers to submit pull requests and become contributors to this project.
 ### If you like our project, please give us a star ⭐ on this GitHub.
