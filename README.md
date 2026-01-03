@@ -1580,15 +1580,15 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Hui_Bridging_Search_Region_Interaction_With_Template_for_RGB-T_Tracking_CVPR_2023_paper.pdf)] 
   [[code](https://github.com/RyanHTR/TBSI)]
 
-- **DFNet:** Jingchao Peng , Haitao Zhao , and Zhengwei Hu.<br />
-  "Dynamic Fusion Network for RGBT Tracking." TITS (2023).
-  [[paper](https://arxiv.org/abs/2109.07662)] 
-  [[code](https://github.com/PengJingchao/DFNet)]
-
 - **CMD:** Zhang, Tianlu and Guo, Hongyuan and Jiao, Qiang and Zhang, Qiang and Han, Jungong.<br />
   "Efficient RGB-T Tracking via Cross-Modality Distillation." CVPR (2023).
   [[paper](https://ieeexplore.ieee.org/document/10205202)] 
 
+- **DFNet:** Jingchao Peng , Haitao Zhao , and Zhengwei Hu.<br />
+  "Dynamic Fusion Network for RGBT Tracking." TITS (2023).
+  [[paper](https://arxiv.org/abs/2109.07662)] 
+  [[code](https://github.com/PengJingchao/DFNet)]
+  
 - **DFAT:** Zhangyong Tang, Tianyang Xu, Hui Li, Xiao-Jun Wu, XueFeng Zhu, Josef Kittler.<br />
   "Exploring fusion strategies for accurate RGBT visual object tracking." Information Fusion (2023).
   [[paper](https://arxiv.org/abs/2201.08673)] 
@@ -1602,6 +1602,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   "GuideFuse: A Novel Guided Auto-Encoder Fusion Network for Infrared and Visible Images." TIM (2023).
   [[paper](https://ieeexplore.ieee.org/document/10330731)] 
 
+- Xingchen Zhang, Yiannis Demiris.<br />
+  "Self-Supervised RGB-T Tracking with Cross-Input Consistency." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2301.11274)]
+  
 - **MPLT:** Yang Luo, Xiqing Guo, Hui Feng, Lei Ao.<br />
   "RGB-T Tracking via Multi-Modal Mutual Prompt Learning." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.16386)] 
