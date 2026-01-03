@@ -775,10 +775,6 @@ Coming soon.
   [[paper](https://arxiv.org/abs/2309.14611)] 
   [[code](https://github.com/Event-AHU/EventVOT_Benchmark)]
 
-- **CDFI:** Jiqing Zhang, Xin Yang, Yingkai Fu, Xiaopeng Wei, Baocai Yin, Bo Dong.<br />
-  "Object Tracking by Jointly Exploiting Frame and Event Domain." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2109.09052)]
-
 - **MMHT:** Hongze Sun, Rui Liu, Wuque Cai, Jun Wang, Yue Wang, Huajin Tang, Yan Cui, Dezhong Yao, Daqing Guo.<br />
   "Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.17903)] 
@@ -818,6 +814,9 @@ Coming soon.
 
 
 #### 2021
+- **CDFI:** Jiqing Zhang, Xin Yang, Yingkai Fu, Xiaopeng Wei, Baocai Yin, Bo Dong.<br />
+  "Object Tracking by Jointly Exploiting Frame and Event Domain." ICCV (2021).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Object_Tracking_by_Jointly_Exploiting_Frame_and_Event_Domain_ICCV_2021_paper.pdf)]
 
 - **CFE:** Jiqing Zhang, Kai Zhao, Bo Dong, Yingkai Fu, Yuxin Wang, Xin Yang, Baocai Yin.<br />
   "Multi-domain Collaborative Feature Representation for Robust Visual Object Tracking." The Visual Computer (2021).
