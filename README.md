@@ -1092,9 +1092,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 |  [RGBT234](https://arxiv.org/abs/1805.08982)   |   PR-2018   |  [RGBT234](https://sites.google.com/view/ahutracking001/)  |   234 video pairs, the extension of RGBT210  |  
 |  [LasHeR](https://arxiv.org/pdf/2104.13202.pdf)   |   TIP-2021  |  [LasHeR](https://github.com/BUGPLEASEOUT/LasHeR)  | 1224 video pairs, 730K frames  |  
 |  [VTUAV](https://arxiv.org/pdf/2204.04120.pdf)   |   CVPR-2022   |  [VTUAV](https://zhang-pengyu.github.io/DUT-VTUAV/)  |  Visible-thermal UAV tracking, 500 sequences, 1.7 million high-resolution frame pairs |  
-|  [MV-RGBT](https://arxiv.org/abs/2405.00168)   |   arXiv-2024   |  [MV-RGBT](https://github.com/Zhangyong-Tang/MoETrack)  | 122 video pairs, 89.9K frames   |  
+|  [MV-RGBT](https://arxiv.org/abs/2405.00168)   |   TIP-2025   |  [MV-RGBT](https://github.com/Zhangyong-Tang/MoETrack)  | 122 video pairs, 89.9K frames   |  
 |  [NOT-156](https://ieeexplore.ieee.org/abstract/document/10938642)   | TGRS-2025 | [NOT-156](http://rsidea.whu.edu.cn/NOT156_dataset.htm) | 156 videos with low-light image and thermal infrared |  
-
+|  [UniRTL](https://www.sciencedirect.com/science/article/pii/S0031320324007350)   |   PR-2025   |  [UniRTL](https://github.com/Liamzh0331/Unismot)  | a universal RGBT and low-light benchmark, 3 × 626 videos for SOT, 3 × 50 videos for MOT, 474.2K frames   | 
+|  [LUART](https://github.com/NOP1224/Unaligned_RGBT_Tracking/blob/main/Unaligned_UAV_RGBT_Tracking__A_Largescale_Benchmark_and_A_Novel_Approach_AAAI_CRC.pdf)   |   AAAI-2026   |  [LUART](https://github.com/NOP1224/Unaligned_RGBT_Tracking)  | 1,453 video pairs,42 categories,1.02M frames   | 
 
 ### Papers
 
@@ -1128,6 +1129,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 - **SiamDFF:** Houzhang Fang, Chenxing Wu, Kun Bai, Tianqi Chen, Xiaolin Wang, Xiyang Liu, Yi Chang, Luxin Yan.<br />
   "Infrared UAV Target Tracking with Dynamic Feature Refinement and Global Contextual Attention Knowledge Distillation." TMM (2025).
   [[paper](https://arxiv.org/abs/2512.04581)]
+
+- **UniRTL:** Lian Zhang and Lingxue Wang and Yuzhen Wu and Mingkun Chen and Dezhi Zheng and Liangcai Cao and Bangze Zeng and Yi Cai.<br />
+  "UniRTL: A universal RGBT and low-light benchmark for object tracking." PR (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324007350)] 
+  [[code](https://github.com/Liamzh0331/Unismot)]
   
 - **SwiTrack:** Boyue Xu, Ruichao Hou, Tongwei Ren, Dongming Zhou, Gangshan Wu, Jinde Cao.<br />
   "SwiTrack: Tri-State Switch for Cross-Modal Object Tracking." ArXiv (2025).
