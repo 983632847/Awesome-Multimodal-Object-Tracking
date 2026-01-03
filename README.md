@@ -969,7 +969,7 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 - **H-FCN:** Ming-xin Jiang, Chao Deng, Jing-song Shan, Yuan-yuan Wang, Yin-jie Jia, Xing Sun.<br />
   "Hierarchical multi-modal fusion FCN with attention model for RGB-D tracking." Information Fusion (2019).
-  [[paper](https://www.sciencedirect.com/sdfe/reader/pii/S1566253517306784/pdf)] 
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1566253517306784)] 
 
 - Kuai, Yangliu and Wen, Gongjian and Li, Dongdong and Xiao, Jingjing.<br />
   "Target-Aware Correlation Filter Tracking in RGBD Videos." IEEE Sensors Journal (2019).
