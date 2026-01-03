@@ -807,7 +807,7 @@ Coming soon.
   [[paper](https://ieeexplore.ieee.org/document/9879994)] 
   [[code](https://github.com/Jee-King/CVPR2022_STNet)]
 
-- **CEUTrack:** Chuanming Tang, Xiao Wang, Ju Huang, Bo Jiang, Lin Zhu, Jianlin Zhang, Yaowei Wang, Yonghong Tian.<br />
+- **CEUTrack & COESOT:** Chuanming Tang, Xiao Wang, Ju Huang, Bo Jiang, Lin Zhu, Jianlin Zhang, Yaowei Wang, Yonghong Tian.<br />
   "Revisiting Color-Event based Tracking: A Unified Network, Dataset, and Metric." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2211.11010)] 
   [[code](https://github.com/Event-AHU/COESOT)]
