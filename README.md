@@ -791,7 +791,7 @@ Coming soon.
   [[paper](https://arxiv.org/abs/2305.15688)] 
   [[code](https://github.com/Jee-King/AFNet)]
 
-- **RT-MDNet:** Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, Feng Wu.<br />
+- **VisEvent & RT-MDNet:** Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, Feng Wu.<br />
   "VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows." TC (2023).
   [[paper](https://arxiv.org/abs/2108.05015)] 
   [[code](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark)]
