@@ -208,6 +208,9 @@ Coming soon.
   "SOI is the Root of All Evil: Quantifying and Breaking Similar Object Interference in Single Object Tracking." AAAI (2026).
   [[paper](https://arxiv.org/abs/2508.09524)]
   
+- Guangtong Zhang; Bineng Zhong; Shirui Yang; YangWang; Tian Bai.<br />
+  "Aware Distillation for Robust Vision-Language Tracking Under Linguistic Sparsity." AAAI (2026).
+    
 #### 2025
 - **UAV-Anti-UAV:** Chunhui Zhang, Li Liu, Zhipeng Zhang, Yong Wang, Hao Wen, Xi Zhou, Shiming Ge, Yanfeng Wang.<br />
   "How Far are Modern Trackers from UAV-Anti-UAV? A Million-Scale Benchmark and New Baseline." ArXiv (2025).
@@ -614,6 +617,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+ **AlignTrack:** Chuanyu Sun; Jiqing Zhang; Yang Wang; YuanchenWang; Yutong Jiang; Baocai Yin; Xin Yang.<br />
+  "AlignTrack: Top-Down Spatiotemporal Resolution Alignment for RGB-Event Visual Tracking." AAAI (2026).
+  [[code](https://github.com/scy0712/AlignTrack)]
+  
 - **UREPtrack:** Lu, M.<br />
   "UREPtrack: single-branch PoolFormer for unified attention-free RGB-event visual object tracking." Vis Comput (2026).
   [[paper](https://doi.org/10.1007/s00371-025-04309-6)]
@@ -831,6 +838,10 @@ Coming soon.
 |  [ARKitTrack](https://arxiv.org/abs/2303.13885)   |   CVPR-2023   |  [ARKitTrack](https://arkittrack.github.io)  |  300 RGB-D sequences, 455 targets, 229.7K video frames  |  
 
 ### Papers
+#### 2026
+- Ge Ying; Dawei Zhang; Chengzhuan Yang; Wei Liu;Sang-Woon Jeon; Hua Wang; Changqin Huang; ZhonglongZheng.<br />
+  "Exploiting All Mamba Fusion for Efficient RGB-D Tracking." AAAI (2026).
+
 #### 2025
 - **RDT-TEF:** Long Gao and Yuze Ke and Wanlin Zhao and Yang Zhang and Yan Jiang and Gang He and Yunsong Li.<br />
   "RGB-D visual object tracking with transformer-based multi-modal feature fusion." Knowledge-Based Systems (2025).
@@ -1101,16 +1112,26 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 
 #### 2026
-- **CADTrack:** Hao Li, Yuhao Wang, Xiantao Hu, Wenning Hao, Pingping Zhang, Dong Wang, Huchuan Lu.<br />
-  "CADTrack: Learning Contextual Aggregation with Deformable Alignment for Robust RGBT Tracking." AAAI (2026).
+### AAAI 2026
+- **SFCATrack:** Yun Xiao; Yuhang Wang; Jiandong Jin; Wankang Zhang;Chenglong Li.<br />
+  "Unaligned UAV RGBT Tracking: A Largescale Benchmark and a Novel Approach." AAAI (2026).
+  [[paper](https://github.com/NOP1224/Unaligned_RGBT_Tracking/blob/main/Unaligned_UAV_RGBT_Tracking__A_Largescale_Benchmark_and_A_Novel_Approach_AAAI_CRC.pdf)] 
+  [[code](https://github.com/Yhw-lol127/SFCATrack)]
+  [[project](https://github.com/NOP1224/Unaligned_RGBT_Tracking)]
+
+- **GOLA:** Zekai Shao, Yufan Hu, Jingyuan Liu, Bin Fan, Hongmin Liu.<br />
+  "Group Orthogonal Low-Rank Adaptation for RGB-T Tracking." AAAI (2026).
+  [[paper](https://arxiv.org/html/2512.05359v1)] 
+  [[code](https://github.com/MelanTech/GOLA/blob/main/)]
+  
+- **CADTrack:** Hao Li; Yuhao Wang; Xiantao Hu; Wenning Hao;Pingping Zhang; Dong Wang; Huchuan Lu.<br />
+  "CADTrack: Learning Contextual Aggregation with Deformable Alignment for Robust RGBT Tracking." AAAI (2026).
   [[paper](https://arxiv.org/abs/2511.17967)] 
   [[code](https://github.com/IdolLab/CADTrack)]
 
- - **GOLA:** Zekai Shao, Yufan Hu, Jingyuan Liu, Bin Fan, Hongmin Liu.<br />
-  "Group Orthogonal Low-Rank Adaptation for RGB-T Tracking." AAAI (2026).
-  [[paper](https://arxiv.org/abs/2512.05359)] 
-  [[code](https://github.com/MelanTech/GOLA)]
- 
+- Jiahao Wang; Fang Liu; Hao Wang; Shuo Li; Xinyi Wang;Puhua Chen.<br />
+  "Semantic Feature Purification for Adversarially-Aware RGB-T Tracking." AAAI (2026).
+
 - **PATrack:** Shengbo Wang and Yunfeng Li and Lei Deng and Guangkai Sun and Mingli Dong.<br />
   "PATrack: Infrared–visible image dynamic fusion with prompts and adapters for target tracking." Optics & Laser Technology (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0030399225020651)] 
@@ -1733,7 +1754,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 #### 2026
 - **SATA:** Tianlu Zhang, Qiang Zhang, Guiguang Ding, Jungong Han.<br />
   "Tracking and Segmenting Anything in Any Modality." AAAI (2026).
-  [[paper](https://arxiv.org/abs/2511.19475)] 
+  [[paper](https://arxiv.org/abs/2511.19475)]
+
+- Shilei Wang; Pujian Lai; Dong Gao; Jifeng Ning; GongCheng.<br />
+  "Exploring Modality-Aware Fusion and Decoupled Temporal Propagation for Multi-Modal Object Tracking." AAAI (2026).  
 
 #### 2025
 - **UAUTrack:** Qionglin Ren, Dawei Zhang, Chunxu Tian, Dan Zhang.<br />
