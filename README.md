@@ -954,7 +954,7 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   [[paper](https://www.sciencedirect.com/science/article/pii/S1568494620302428)] 
 
 - **SiamOC:** Wenli Zhang, Kun Yang, Yitao Xin, Rui Meng.<br />
-  "An Occlusion-Aware RGB-D Visual Object Tracking Method Based on Siamese Network.." ICSP (2020).
+  "An Occlusion-Aware RGB-D Visual Object Tracking Method Based on Siamese Network." ICSP (2020).
   [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9320907)] 
 
 - **WCO:** Weichun Liu, Xiaoan Tang, Chengling Zhao.<br />
