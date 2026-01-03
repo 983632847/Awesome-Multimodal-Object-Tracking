@@ -632,10 +632,6 @@ Coming soon.
 - **WTA:** Taha Razzaq, Asim Iqbal.<br />
   "Multimodal Neuromorphic Event-Frame Fusion in Domain-Generalized Vision Transformer for Dynamic Object Tracking." ICCVW (2025).
   [[paper](https://openaccess.thecvf.com/content/ICCV2025W/NeVi/papers/Razzaq_Multimodal_Neuromorphic_Event-Frame_Fusion_in_Domain-Generalized_Vision_Transformer_for_Dynamic_ICCVW_2025_paper.pdf)]
-  
-- **WTA:** Taha Razzaq, Asim Iqbal.<br />
-  "Multimodal Neuromorphic Event-Frame Fusion in Domain-Generalized Vision Transformer for Dynamic Object Tracking." ICCVW (2025).
-  [[paper](https://openaccess.thecvf.com/content/ICCV2025W/NeVi/html/Razzaq_Multimodal_Neuromorphic_Event-Frame_Fusion_in_Domain-Generalized_Vision_Transformer_for_Dynamic_ICCVW_2025_paper.html)] 
 
 - **GUSEM:** Oussama Abdul Hay, Sara Alansari, Mohamad Alansari, Yahya Zweiri.<br />
   "Comparing Representations for Event Camera-based Visual Object Tracking." ICCVW (2025).
