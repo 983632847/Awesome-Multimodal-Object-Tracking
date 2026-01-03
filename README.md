@@ -1568,10 +1568,6 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   "Temporal Adaptive RGBT Tracking with Modality Prompt." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.01244)] 
 
-- **MArMOT:** Chenglong Li, Tianhao Zhu, Lei Liu, Xiaonan Si, Zilin Fan, Sulan Zhai.<br />
-  "Cross-Modal Object Tracking: Modality-Aware Representations and A Unified Benchmark." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2111.04264)] 
-
 - **AMNet:** Zhang, Tianlu and He, Xiaoyi and Jiao, Qiang and Zhang, Qiang and Han, Jungong.<br />
   "AMNet: Learning to Align Multi-modality for RGB-T Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10472533)] 
@@ -2034,7 +2030,7 @@ Coming soon.
 
 
 
-## Others
+## Others (RGBNIR, RGBS, etc)
 #### 2025
 - **VUOT & VTUTrack:** Qinghua Song, Xiaolei Wang .<br />
   "Efficient Transformer Network for Visible and Ultraviolet Object Tracking." CVM (2025).
@@ -2056,7 +2052,23 @@ Coming soon.
   "RGB-Sonar Tracking Benchmark and Spatial Cross-Attention Transformer Tracker." TCSVT (2024).
   [[paper](https://arxiv.org/abs/2406.07189)] 
   [[code](https://github.com/LiYunfengLYF/RGBS50)]
+  
+- **ProtoTrack:** Lei Liu, Chenglong Li, Futian Wang, Longfeng Shen, and Jin Tang.<br />
+  "Prototype-based Cross-Modal Object Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/pdf/2312.14471)] 
+  [[code](https://github.com/liulei970507/ProtoTrack)]  
 
+- **MAFNet & CMOTB:** Lei Liu, Mengya Zhang, Cheng Li, Chenglong Li, and Jin Tang.<br />
+  "Cross-Modal Object Tracking via Modality-Aware Fusion Network and A Large-Scale Dataset." TNNLS (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10545535)] 
+  [[code](https://github.com/mmic-lcl/Datasets-and-benchmark-code)]
+
+#### 2022
+- **MArMOT & CMOTB:** Chenglong Li, Tianhao Zhu, Lei Liu, Xiaonan Si, Zilin Fan, Sulan Zhai.<br />
+  "Cross-Modal Object Tracking: Modality-Aware Representations and A Unified Benchmark." AAAI (2022).
+  [[arXiv](https://arxiv.org/abs/2111.04264)]
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20016)]
+  [[code](https://github.com/mmic-lcl/source-code)]
 
 
 ## Awesome Repositories for MMOT
