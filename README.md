@@ -615,9 +615,11 @@ Coming soon.
 |  [MEVDT](https://arxiv.org/abs/2407.20446)   |   arXiv-2024   |  [MEVDT](https://doi.org/10.7302/d5k3-9150)  |  63 multimodal sequences with 13k images, 5M events, 10k object labels and 85 trajectories  |  
 |  [FELT v2](https://arxiv.org/pdf/2403.05839.pdf)   |   arXiv-2025   |  [FELT v2](https://github.com/Event-AHU/FELT_SOT_Benchmark)  |  1,044 long-term RGB-event video pairs  |  
 
+
 ### Papers
 #### 2026
- **AlignTrack:** Chuanyu Sun; Jiqing Zhang; Yang Wang; YuanchenWang; Yutong Jiang; Baocai Yin; Xin Yang.<br />
+
+- **AlignTrack:** Chuanyu Sun; Jiqing Zhang; Yang Wang; YuanchenWang; Yutong Jiang; Baocai Yin; Xin Yang.<br />
   "AlignTrack: Top-Down Spatiotemporal Resolution Alignment for RGB-Event Visual Tracking." AAAI (2026).
   [[code](https://github.com/scy0712/AlignTrack)]
   
