@@ -721,7 +721,7 @@ Coming soon.
   [[paper](https://openreview.net/forum?id=bzGAELYOyL)] 
 
 - **GM-LSTM:** Jiqing Zhang, Bo Dong, Yingkai Fu, Yuanchen Wang, Xiaopeng Wei, Baocai Yin & Xin Yang.<br />
-  "AUniversal Event-Based Plug-In Module for Visual Object Tracking in DegradedConditions." IJCV (2024).
+  "A Universal Event-Based Plug-In Module for Visual Object Tracking in Degraded Conditions." IJCV (2024).
   [[paper](https://link.springer.com/article/10.1007/s11263-023-01959-8)] 
   
 - **GS-EVT:** Tao Liu, Runze Yuan, Yi'ang Ju, Xun Xu, Jiaqi Yang, Xiangting Meng, Xavier Lagorce, Laurent Kneip.<br />
