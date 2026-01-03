@@ -1543,6 +1543,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   [[paper](https://arxiv.org/abs/2312.10611)] 
   [[code](https://github.com/SparkTempest/BAT)]
 
+- **TATrack:** Hongyu Wang, Xiaotao Liu, Yifan Li, Meng Sun, Dian Yuan, Jing Liu.<br />
+  "Temporal Adaptive RGBT Tracking with Modality Prompt." AAAI (2024).
+  [[paper](https://arxiv.org/abs/2401.01244)] 
+
 - **ProFormer:** Yabin Zhu, Chenglong Li, Xiao Wang, Jin Tang, Zhixiang Huang.<br />
   "RGBT Tracking via Progressive Fusion Transformer with Dynamically Guided Learning." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/document/10506555/)] 
@@ -1554,10 +1558,6 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 - **CAT++:** Liu, Lei and Li, Chenglong and Xiao, Yun and Ruan, Rui and Fan, Minghao.<br />
   "RGBT Tracking via Challenge-Based Appearance Disentanglement and Interaction." TIP (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10460420)] 
-
-- **TATrack:** Hongyu Wang, Xiaotao Liu, Yifan Li, Meng Sun, Dian Yuan, Jing Liu.<br />
-  "Temporal Adaptive RGBT Tracking with Modality Prompt." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2401.01244)] 
 
 - **AMNet:** Zhang, Tianlu and He, Xiaoyi and Jiao, Qiang and Zhang, Qiang and Han, Jungong.<br />
   "AMNet: Learning to Align Multi-modality for RGB-T Tracking." TCSVT (2024).
