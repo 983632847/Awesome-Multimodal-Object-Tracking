@@ -757,7 +757,7 @@ Coming soon.
   [[code](https://github.com/NBELab/UnsupervisedTracking)]
   
 - **Mamba-FETrack:** Ju Huang, Shiao Wang, Shuai Wang, Zhe Wu, Xiao Wang, Bo Jiang.<br />
-  "Mamba-FETrack: Frame-Event Tracking via State Space Model." ArXiv (2024).
+  "Mamba-FETrack: Frame-Event Tracking via State Space Model." PRCV (2024).
   [[paper](https://arxiv.org/abs/2404.18174)] 
   [[code](https://github.com/Event-AHU/Mamba_FETrack)]
 
