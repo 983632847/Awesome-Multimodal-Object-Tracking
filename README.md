@@ -2052,12 +2052,10 @@ Coming soon.
   [[paper](https://arxiv.org/abs/2412.02129)] 
   [[code](https://github.com/ailovejinx/GSOT3D)]
 
-- **SCANet:** Yunfeng Li, Bo Wang, Jiuran Sun, Xueyi Wu, Ye Li.<br />
+- **RGBS50 & SCANet:** Yunfeng Li, Bo Wang, Jiuran Sun, Xueyi Wu, Ye Li.<br />
   "RGB-Sonar Tracking Benchmark and Spatial Cross-Attention Transformer Tracker." TCSVT (2024).
   [[paper](https://arxiv.org/abs/2406.07189)] 
   [[code](https://github.com/LiYunfengLYF/RGBS50)]
-
-
 
 
 
