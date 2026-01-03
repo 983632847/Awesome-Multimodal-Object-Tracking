@@ -1138,6 +1138,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   [[code](https://github.com/wwwshengbo/PATrack)]
   
 #### 2025
+- **MambaVT:** Simiao Lai, Chang Liu, Jiawen Zhu, Ben Kang, Yang Liu, Dong Wang, Huchuan Lu.<br />
+  "MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking." TCSVT (2025).
+  [[paper](https://arxiv.org/abs/2408.07889)]
+  
 - **QSTNet:** Ding, Zhaodong and Li, Chenglong and Wang, Tao and Wang, Futian.<br />
   "Quality-Aware Spatio-Temporal Transformer Network for RGBT Tracking." TIP (2025).
   [[paper](https://ieeexplore.ieee.org/document/11270003)] 
@@ -1482,10 +1486,6 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 - **CFBT:** Zhirong Zeng, Xiaotao Liu, Meng Sun, Hongyu Wang, Jing Liu.<br />
   "Cross Fusion RGB-T Tracking with Bi-directional Adapter." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.16979)] 
-
-- **MambaVT:** Simiao Lai, Chang Liu, Jiawen Zhu, Ben Kang, Yang Liu, Dong Wang, Huchuan Lu.<br />
-  "MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2408.07889)] 
 
 - **SiamSEA:** Zihan Zhuang, Mingfeng Yin, Qi Gao, Yong Lin, Xing Hong.<br />
   "SiamSEA: Semantic-aware Enhancement and Associative-attention Dual-Modal Siamese Network for Robust RGBT Tracking." IEEE Access (2024).
