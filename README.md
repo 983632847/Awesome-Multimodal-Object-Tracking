@@ -1155,7 +1155,12 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   "UniRTL: A universal RGBT and low-light benchmark for object tracking." PR (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324007350)] 
   [[code](https://github.com/Liamzh0331/Unismot)]
-  
+
+- **TAAT:** Zhangyong Tang, Tianyang Xu, Xiao-Jun Wu.<br />
+  "Temporal Aggregation for Adaptive RGBT Tracking." PRL (2025).
+  [[paper](https://arxiv.org/abs/2201.08949)] 
+  [[code](https://github.com/Zhangyong-Tang/TAAT)]
+
 - **SwiTrack:** Boyue Xu, Ruichao Hou, Tongwei Ren, Dongming Zhou, Gangshan Wu, Jinde Cao.<br />
   "SwiTrack: Tri-State Switch for Cross-Modal Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2511.16227)] 
