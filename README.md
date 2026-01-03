@@ -610,11 +610,10 @@ Coming soon.
 |  [COESOT](https://arxiv.org/abs/2211.11010)   |   arXiv-2022   |  [COESOT](https://github.com/Event-AHU/COESOT)  |  1354 RGB-event video pairs  |  
 |  [VisEvent](https://arxiv.org/abs/2108.05015)   |   TC-2023   |  [VisEvent](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark)  |  820 RGB-event video pairs |  
 |  [EventVOT](https://arxiv.org/abs/2309.14611)   |   CVPR-2024   |  [EventVOT](https://github.com/Event-AHU/EventVOT_Benchmark)  |  1141 event videos  |  
-|  [CRSOT](https://arxiv.org/abs/2401.02826)   |   arXiv-2024   |  [CRSOT](https://github.com/Event-AHU/Cross_Resolution_SOT)  |   1030 RGB-event video pairs |  
 |  [FELT](https://arxiv.org/pdf/2403.05839v1)   |   arXiv-2024   |  [FELT](https://github.com/Event-AHU/FELT_SOT_Benchmark)  |  742 RGB-event video pairs  |  
 |  [MEVDT](https://arxiv.org/abs/2407.20446)   |   arXiv-2024   |  [MEVDT](https://doi.org/10.7302/d5k3-9150)  |  63 multimodal sequences with 13k images, 5M events, 10k object labels and 85 trajectories  |  
 |  [FELT v2](https://arxiv.org/pdf/2403.05839.pdf)   |   arXiv-2025   |  [FELT v2](https://github.com/Event-AHU/FELT_SOT_Benchmark)  |  1,044 long-term RGB-event video pairs  |  
-
+|  [CRSOT](https://arxiv.org/abs/2401.02826)   |   TMM-2025   |  [CRSOT](https://github.com/Event-AHU/Cross_Resolution_SOT)  |   1030 RGB-event video pairs |  
 
 ### Papers
 #### 2026
@@ -629,6 +628,11 @@ Coming soon.
 
   
 #### 2025
+- **CRSOT:** Yabin Zhu, Xiao Wang, Chenglong Li, Bo Jiang, Lin Zhu, Zhixiang Huang, Yonghong Tian, Jin Tang.<br />
+  "CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras." TMM (2025).
+  [[paper](https://arxiv.org/abs/2401.02826)] 
+  [[code](https://github.com/Event-AHU/Cross_Resolution_SOT)]
+  
 - **WTA:** Taha Razzaq, Asim Iqbal.<br />
   "Multimodal Neuromorphic Event-Frame Fusion in Domain-Generalized Vision Transformer for Dynamic Object Tracking." ICCVW (2025).
   [[paper](https://openaccess.thecvf.com/content/ICCV2025W/NeVi/papers/Razzaq_Multimodal_Neuromorphic_Event-Frame_Fusion_in_Domain-Generalized_Vision_Transformer_for_Dynamic_ICCVW_2025_paper.pdf)]
@@ -770,11 +774,6 @@ Coming soon.
   "Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline." CVPR (2024).
   [[paper](https://arxiv.org/abs/2309.14611)] 
   [[code](https://github.com/Event-AHU/EventVOT_Benchmark)]
-
-- Yabin Zhu, Xiao Wang, Chenglong Li, Bo Jiang, Lin Zhu, Zhixiang Huang, Yonghong Tian, Jin Tang.<br />
-  "CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras." ArXiv (2024).
-  [[paper](https://arxiv.org/pdf/2403.05839.pdf)] 
-  [[code](https://github.com/Event-AHU/FELT_SOT_Benchmark)]
 
 - **CDFI:** Jiqing Zhang, Xin Yang, Yingkai Fu, Xiaopeng Wei, Baocai Yin, Bo Dong.<br />
   "Object Tracking by Jointly Exploiting Frame and Event Domain." ArXiv (2024).
