@@ -1574,10 +1574,6 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   [[paper](https://arxiv.org/abs/2405.03177)] 
   [[code](https://github.com/LiYunfengLYF/CSTNet)]
 
- - **RFFM:** Zeng, D., Luo, H., Li, J., Gao, P..<br />
-  "RGB-T Tracking via Region Filtering-Fusion and Prompt Learning." ICAUS (2024).
-  [[paper](https://link.springer.com/chapter/10.1007/978-981-96-3552-8_15)]  
-
 #### 2023
 - **TBSI:** Hui, Tianrui and Xun, Zizheng and Peng, Fengguang and Huang, Junshi and Wei, Xiaoming and Wei, Xiaolin and Dai, Jiao and Han, Jizhong and Liu, Si.<br />
   "Bridging Search Region Interaction with Template for RGB-T Tracking." CVPR (2023).
