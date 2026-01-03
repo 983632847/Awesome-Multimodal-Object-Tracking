@@ -940,7 +940,7 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 - **3s-RGBD:** Feng Xiao, Qiuxia Wu, Han Huang.<br />
   "Single-scale siamese network based RGB-D object tracking with adaptive bounding boxes." Neurocomputing (2021).
-  [[paper](https://www.sciencedirect.com/sdfe/reader/pii/S0925231221005439/pdf)] 
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0925231221005439)] 
   
 
 #### 2020
