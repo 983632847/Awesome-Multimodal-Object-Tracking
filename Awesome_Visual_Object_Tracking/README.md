@@ -121,13 +121,18 @@
   
 - **OmniPT:** Teng Fu; Mengyang Zhao; Ke Niu; Kaixin Peng; Bin Li.<br />
   "OmniPT: Unleashing the Potential of Large Vision Language Models for Pedestrian Tracking and Understanding." AAAI (2026).
-  [[paper](https://arxiv.org/abs/2511.17053)] 
-
+  [[paper](https://arxiv.org/abs/2511.17053)]
+  
+- **SOIBench:** Yipei Wang, Shiyu Hu, Shukun Jia, Panxi Xu, Hongfei Ma, Yiping Ma, Jing Zhang, Xiaobo Lu, Xin Zhao.<br />
+  "SOI is the Root of All Evil: Quantifying and Breaking Similar Object Interference in Single Object Tracking." AAAI (2026).
+  [[paper](https://arxiv.org/abs/2508.09524)]
+  
 - Guangtong Zhang; Bineng Zhong; Shirui Yang; YangWang; Tian Bai.<br />
   "Aware Distillation for Robust Vision-Language Tracking Under Linguistic Sparsity." AAAI (2026).
   
 - **MUTrack:** Weijing Wu; Qihua Liang; Bineng Zhong; Xiaohu Tang;Yufei Tan; Ning Li; Yuanliang Xue.<br />
   "MUTrack: A Memory-Aware Unified Representation Framework for Visual Tracking." AAAI (2026).
+  
 - Junze Shi; Yang Yu; Jian Shi; Haibo Luo.<br />
   "Exploring Reliable Spatiotemporal Dependencies for Efficient Visual Tracking." AAAI (2026).
   
