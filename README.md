@@ -951,7 +951,7 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 - **RF-CFF:** Yong Wang, Xian Wei, Hao Shen, Lu Ding, Jiuqing Wan.<br />
   "Robust fusion for RGB-D tracking using CNN features." Applied Soft Computing Journal (2020).
-  [[paper](https://www.sciencedirect.com/sdfe/reader/pii/S1568494620302428/pdf)] 
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1568494620302428)] 
 
 - **SiamOC:** Wenli Zhang, Kun Yang, Yitao Xin, Rui Meng.<br />
   "An Occlusion-Aware RGB-D Visual Object Tracking Method Based on Siamese Network.." ICSP (2020).
