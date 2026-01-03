@@ -1563,9 +1563,6 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   "AMNet: Learning to Align Multi-modality for RGB-T Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10472533)] 
 
-- **MCTrack:** Hu, Xiantao and Zhong, Bineng and Liang, Qihua and Zhang, Shengping and Li, Ning and Li, Xianxian.<br />
-  "Towards Modalities Correlation for RGB-T Tracking." TCSVT (2024).
-  [[paper](https://ieeexplore.ieee.org/abstract/document/10517645)] 
 
 - **AFter:** Andong Lu, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo.<br />
   "AFter: Attention-based Fusion Router for RGBT Tracking." ArXiv (2024).
