@@ -632,7 +632,12 @@ Coming soon.
   "CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras." TMM (2025).
   [[paper](https://arxiv.org/abs/2401.02826)] 
   [[code](https://github.com/Event-AHU/Cross_Resolution_SOT)]
-  
+
+- **CEUTrack & COESOT:** Chuanming Tang, Xiao Wang, Ju Huang, Bo Jiang, Lin Zhu, Jianlin Zhang, Yaowei Wang, Yonghong Tian.<br />
+  "Revisiting Color-Event based Tracking: A Unified Network, Dataset, and Metric." PR (2025).
+  [[paper](https://arxiv.org/abs/2211.11010)] 
+  [[code](https://github.com/Event-AHU/COESOT)]
+    
 - **WTA:** Taha Razzaq, Asim Iqbal.<br />
   "Multimodal Neuromorphic Event-Frame Fusion in Domain-Generalized Vision Transformer for Dynamic Object Tracking." ICCVW (2025).
   [[paper](https://openaccess.thecvf.com/content/ICCV2025W/NeVi/papers/Razzaq_Multimodal_Neuromorphic_Event-Frame_Fusion_in_Domain-Generalized_Vision_Transformer_for_Dynamic_ICCVW_2025_paper.pdf)]
@@ -806,11 +811,6 @@ Coming soon.
   "Spiking Transformers for Event-based Single Object Tracking." CVPR (2022).
   [[paper](https://ieeexplore.ieee.org/document/9879994)] 
   [[code](https://github.com/Jee-King/CVPR2022_STNet)]
-
-- **CEUTrack & COESOT:** Chuanming Tang, Xiao Wang, Ju Huang, Bo Jiang, Lin Zhu, Jianlin Zhang, Yaowei Wang, Yonghong Tian.<br />
-  "Revisiting Color-Event based Tracking: A Unified Network, Dataset, and Metric." ArXiv (2022).
-  [[paper](https://arxiv.org/abs/2211.11010)] 
-  [[code](https://github.com/Event-AHU/COESOT)]
 
 
 #### 2021
