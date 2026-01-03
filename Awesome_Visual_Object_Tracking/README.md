@@ -84,8 +84,7 @@
   "A novel color marker-based target tracking and motion intent detection method." EAAI (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625029070?via%3Dihub)] 
   [[code](https://github.com/wzy7421/CMTT.git)]
-
-
+  
 ### AAAI 2026
 - **SFCATrack:** Yun Xiao; Yuhang Wang; Jiandong Jin; Wankang Zhang;Chenglong Li.<br />
   "Unaligned UAV RGBT Tracking: A Largescale Benchmark and a Novel Approach." AAAI (2026).
@@ -193,11 +192,6 @@
   [[code](https://szupc.github.io/VL-SurgPT/)]
     
 ### ArXiv-2025
-- **CMTT:** Zhenyu Wang and Zenan Lu and Simin Tang and Jianmin Wang.<br />
-  "A novel color marker-based target tracking and motion intent detection method." EAAI (2026).
-  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625029070?via%3Dihub)] 
-  [[code](https://github.com/wzy7421/CMTT.git)]
-  
 - **SAM3_Tracking_Zoo:** Mohamad Alansari, Muzammal Naseer, Hasan Al Marzouqi, Naoufel Werghi, Sajid Javed .<br />
   "Rethinking Memory Design in SAM-Based Visual Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2512.22624)] 
