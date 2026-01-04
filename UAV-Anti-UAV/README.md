@@ -6,7 +6,7 @@ Unmanned Aerial Vehicles (UAVs) offer wide-ranging applications but also pose si
 ### TODO
 - [ ] UAV-Anti-UAV dataset (Scheduled for January 2026)
 - [ ] Baseline Results (Scheduled for January 2026)
-- [ ] Evaluation Toolkits (Scheduled for January 2026)
+- [x] Evaluation Toolkits (Scheduled for January 2026)
 - [ ] Codes for MambaSTS (We are actively improving and expanding MambaSTS for a potential submission)
 - [x] [Technical Report V1.0](https://arxiv.org/abs/2512.07385)
 
