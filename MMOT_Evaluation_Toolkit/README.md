@@ -1,12 +1,12 @@
 # MMOT Evaluation Toolkit
 
-> UPDATE:<br>
-> All common tracking datasets (WebUAV-3M, WebUOT-1M, UW-COT220, VL-SOT230, VL-SOT270, DarkTrack2021, NAT2021, NAT2021L, UAVDark70, UAVDark135, GOT-10k, OTB, VOT, UAV, TColor, DTB, NfS, LaSOT and TrackingNet) are supported.<br>
+## :fire: UPDATE<br>
+> All common tracking datasets (UAV-Anti-UAV, WebUAV-3M, WebUOT-1M, UW-COT220, VL-SOT230, VL-SOT270, DarkTrack2021, NAT2021, NAT2021L, UAVDark70, UAVDark135, GOT-10k, OTB, VOT, UAV, TColor, DTB, NfS, LaSOT and TrackingNet) are supported.<br>
 
 
 
 ## Download
-- You can download the MMOT evaluation toolkit from **this repository (updated 2025.08)**, or alternatively via [Google Drive](https://drive.google.com/drive/folders/1eKPUZV5vaKwcF0gZFIkOITpEznTd7zv5?usp=sharing) or [Baidu Pan](https://pan.baidu.com/s/1JygwsLTh1HbUGCdLb4LoBQ?pwd=MMOT) (updated 2024.10), the extraction code is ***MMOT***.
+- You can download the MMOT evaluation toolkit from **this repository (updated 2026.01)**, ~~or alternatively via [Google Drive](https://drive.google.com/drive/folders/1eKPUZV5vaKwcF0gZFIkOITpEznTd7zv5?usp=sharing) or [Baidu Pan](https://pan.baidu.com/s/1JygwsLTh1HbUGCdLb4LoBQ?pwd=MMOT) (updated 2024.10), the extraction code is ***MMOT***~~.
 - Download annotations through [Google Drive](https://drive.google.com/drive/folders/1eKPUZV5vaKwcF0gZFIkOITpEznTd7zv5?usp=sharing) or [Baidu Pan](https://pan.baidu.com/s/1-89I98ngKmRVVZjxqxH6vg?pwd=idmc).
 - Download **tracking results** through [Google Drive](https://drive.google.com/drive/folders/1eKPUZV5vaKwcF0gZFIkOITpEznTd7zv5?usp=sharing) or [Baidu Pan](https://pan.baidu.com/s/1T-VUhdW4u9Lxin78_Vo-ig?pwd=f7ia).
 
