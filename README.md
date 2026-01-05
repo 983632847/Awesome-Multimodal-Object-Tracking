@@ -1703,7 +1703,7 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   [[paper](https://ar5iv.labs.arxiv.org/abs/2007.13143)] 
 
 - **FANet:** Yabin Zhu, Chenglong Li, Bin Luo, Jin Tang .<br />
- "FANet: Quality-Aware Feature Aggregation Network for Robust RGB-T Tracking." TIV (2020).
+ "Quality-Aware Feature Aggregation Network for Robust RGB-T Tracking." TIV (2020).
   [[paper](https://arxiv.org/abs/1811.09855)] 
 
 
