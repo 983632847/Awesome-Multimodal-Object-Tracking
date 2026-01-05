@@ -1822,7 +1822,7 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 - **FlexTrack:** Yuedong Tan, Jiawei Shao, Eduard Zamfir, Ruanjun Li, Zhaochong An, Chao Ma, Danda Paudel, Luc Van Gool, Radu Timofte, Zongwei Wu.<br />
   "What You Have is What You Track: Adaptive and Robust Multimodal Tracking." ICCV (2025).
   [[paper](https://arxiv.org/abs/2507.05899)] 
-  [[code](ttps://github.com/supertyd/FlexTrack/tree/main)]
+  [[code](https://github.com/supertyd/FlexTrack/tree/main)]
   
 - **VMDA:** Boyue Xu, Ruichao Hou, Tongwei Ren, Gangshan Wu.<br />
   "Visual and Memory Dual Adapter for Multi-Modal Object Tracking." ArXiv (2025).
