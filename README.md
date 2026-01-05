@@ -1783,9 +1783,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   "UniSOT: a Unified Framework for Multi-Modality Single Object Tracking." TPAMI (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11202681)]
   
-- **RDTTrack:** Xue-Feng Zhu, Tianyang Xu, Yifan Pan, Jinjie Gu, Xi Li, Jiwen Lu, Xiao-Jun Wu, Josef Kittler.<br />
+- **RDTTrack & RGBDT500:** Xue-Feng Zhu, Tianyang Xu, Yifan Pan, Jinjie Gu, Xi Li, Jiwen Lu, Xiao-Jun Wu, Josef Kittler.<br />
   "Collaborating Vision, Depth, and Thermal Signals for Multi-Modal Tracking: Dataset and Algorithm." NeurIPS (2025).
   [[paper](https://arxiv.org/abs/2509.24741)]
+  [[code](https://github.com/xuefeng-zhu5/RDTTrack)]
+  [[website](https://xuefeng-zhu5.github.io/RGBDT500/)]
   
 - **MFATrack:** Ziyu Li, Na You, Tanqing Sun, Mingjia Wang, Xianjun Zhang & Yuping Feng.<br />
   "MFATrack: multi-modal fusion tracking network with adapter tunning." Signal, Image and Video Processing (2025).
