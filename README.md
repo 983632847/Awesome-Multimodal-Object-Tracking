@@ -620,7 +620,11 @@ Coming soon.
 
 ### Papers
 #### 2026
-
+- **APMTrack:** Shiao Wang, Xiao Wang, Haonan Zhao, Jiarui Xu, Bo Jiang, Lin Zhu, Xin Zhao, Yonghong Tian, Jin Tang.<br />
+  "Decoupling Amplitude and Phase Attention in Frequency Domain for RGB-Event based Visual Object Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2601.01022)] 
+  [[code](https://github.com/Event-AHU/OpenEvTracking)]
+  
 - **AlignTrack:** Chuanyu Sun; Jiqing Zhang; Yang Wang; YuanchenWang; Yutong Jiang; Baocai Yin; Xin Yang.<br />
   "AlignTrack: Top-Down Spatiotemporal Resolution Alignment for RGB-Event Visual Tracking." AAAI (2026).
   [[code](https://github.com/scy0712/AlignTrack)]
