@@ -1116,6 +1116,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 #### 2026
 ### AAAI 2026
+- **CAMT:** Yisong Xiao and Guixi Liu and Hanlin Huang and Ruke Xiong and Yinghao Li and Qian Lu and Zhiyu Wu.<br />
+  "CAMT: A novel symmetric cross-modal adaptive modulation framework for RGB-T tracking." Neurocomputing (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0925231225032746)]
+  
 - **SFCATrack:** Yun Xiao; Yuhang Wang; Jiandong Jin; Wankang Zhang;Chenglong Li.<br />
   "Unaligned UAV RGBT Tracking: A Largescale Benchmark and a Novel Approach." AAAI (2026).
   [[paper](https://github.com/NOP1224/Unaligned_RGBT_Tracking/blob/main/Unaligned_UAV_RGBT_Tracking__A_Largescale_Benchmark_and_A_Novel_Approach_AAAI_CRC.pdf)] 
