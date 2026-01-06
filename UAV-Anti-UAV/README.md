@@ -4,11 +4,11 @@
 Unmanned Aerial Vehicles (UAVs) offer wide-ranging applications but also pose significant safety and privacy violation risks in areas like airport and infrastructure inspection, spurring the rapid development of Anti-UAV technologies in recent years. However, current Anti-UAV research primarily focuses on RGB, infrared (IR), or RGB-IR videos captured by fixed ground cameras, with little attention to tracking target UAVs from another moving UAV platform. To fill this gap, we propose a new multi-modal visual tracking task termed UAV-Anti-UAV, which involves a pursuer UAV tracking a target adversarial UAV in the video stream. Compared to existing Anti-UAV tasks, UAV-Anti-UAV is more challenging due to severe dual-dynamic disturbances caused by the rapid motion of both the capturing platform and the target. To advance research in this domain, we construct a million-scale dataset consisting of 1,810 videos, each manually annotated with bounding boxes, a language prompt, and 15 tracking attributes. Furthermore, we propose MambaSTS, a Mamba-based baseline method for UAV-Anti-UAV tracking, which enables integrated spatial-temporal-semantic learning. Specifically, we employ Mamba and Transformer models to learn global semantic and spatial features, respectively, and leverage the state space model's strength in long-sequence modeling to establish video-level long-term context via a temporal token propagation mechanism. We conduct experiments on the UAV-Anti-UAV dataset to validate the effectiveness of our method. A thorough experimental evaluation of 50 modern deep tracking algorithms demonstrates that there is still significant room for improvement in the UAV-Anti-UAV domain. The dataset and codes will be available at here.
 
 ### TODO
-- [ ] UAV-Anti-UAV dataset (Scheduled for January 2026)
-- [ ] Baseline Results (Scheduled for January 2026)
-- [x] [Evaluation Toolkits](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/MMOT_Evaluation_Toolkit)
-- [ ] Codes for MambaSTS (We are actively improving and expanding MambaSTS for a potential submission)
-- [x] [Technical Report V1.0](https://arxiv.org/abs/2512.07385)
+- 🚧 UAV-Anti-UAV dataset (Scheduled for January 2026)
+- 🚧 Baseline Results (Scheduled for January 2026)
+- 🚧 Codes for MambaSTS (We are actively improving and expanding MambaSTS for a potential submission)
+- ✅ [Evaluation Toolkits](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/MMOT_Evaluation_Toolkit)
+- ✅ [Technical Report V1.0](https://arxiv.org/abs/2512.07385)
 
 
 
