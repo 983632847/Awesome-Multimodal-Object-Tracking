@@ -146,7 +146,7 @@ If you find our work useful in your research, please consider citing:
   [[project](https://github.com/Zhangyong-Tang/Awesome-MultiModal-Visual-Object-Tracking)]
 
 :boom:Mengmeng Wang, Xiangjie Kong, Guojiang Shen.<br />
-  "Visual Object Tracking across Modalities Foundations, Methods, and Future Directions." e-Book (2026).
+  "Visual Object Tracking across Modalities: Foundations, Methods, and Future Directions." e-Book (2026).
   [[book](https://link.springer.com/book/10.1007/978-981-95-3664-1)]
   
 ## Embodied Visual Tracking
