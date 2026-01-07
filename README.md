@@ -247,7 +247,11 @@ Coming soon.
 - **MACT:** Guo, Guomao and Geng, Gu and Tang, Jianing and Liu, Qiao and Yuan, Di.<br />
   "Multi-Scale Adaptive Cascaded Tracking for Vision-Language Integration." SPL (2025).
   [[paper](https://ieeexplore.ieee.org/document/11214228)]
-  
+
+- Shuo Hu and Tongtong Liu and Liyang Han and Run Xing.<br />
+  "Vision-language tracking with attention-based optimization." Journal of Visual Communication and Image Representation (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1047320325002585)]
+    
 - **MDCT:** Zhongjian Huang, Lingling Li, Licheng Jiao, Jinyue Zhang, Long Sun, Xu Liu, Yuting Yang, Jiaxuan Zhao, Wenping Ma, Xiangrong Zhang.<br />
   "Multi-granularity Dynamic Conditional Transformer for Vision-Language Tracking." RoboSoft (2025).
   [[paper](https://dl.acm.org/doi/10.1145/3746267.3762172)] 
