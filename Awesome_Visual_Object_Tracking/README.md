@@ -80,6 +80,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **LTSTrack:** Zhaochuan Zeng and Shilei Wang and Yidong Song and Zhenhua Wang and Jifeng Ning.<br />
+  "LTSTrack: Visual Tracking with Long-term Temporal Sequence." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326000154)]
+  
 - **CMTT:** Zhenyu Wang and Zenan Lu and Simin Tang and Jianmin Wang.<br />
   "A novel color marker-based target tracking and motion intent detection method." EAAI (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625029070?via%3Dihub)] 
