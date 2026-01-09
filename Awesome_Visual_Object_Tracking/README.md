@@ -1135,12 +1135,12 @@
 
 - **DiffusionTrack:** Fei Xie, Zhongdao Wang, Chao Ma.<br />
   "DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking." CVPR (2024).
-  [[paper](https://arxiv.org/)] 
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_DiffusionTrack_Point_Set_Diffusion_Model_for_Visual_Object_Tracking_CVPR_2024_paper.pdf)] 
   [[code](https://github.com/VISION-SJTU/DiffusionTrack)]
 
 - **RTracker:** Yuqing Huang, Xin Li, Zikun Zhou, Yaowei Wang, Zhenyu He, Ming-Hsuan Yang.<br />
   "RTracker: Recoverable Tracking via PN Tree Structured Memory." CVPR (2024).
-  [[paper](https://arxiv.org/)] 
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_RTracker_Recoverable_Tracking_via_PN_Tree_Structured_Memory_CVPR_2024_paper.pdf)] 
   [[code](https://github.com/NorahGreen/RTracker)]
 
 - **NetTrack:** Guangze Zheng, Shijie Lin, Haobo Zuo, Changhong Fu, Jia Pan.<br />
@@ -1170,7 +1170,7 @@
 
 - **SDSTrack:** Xiaojun Hou, Jiazheng Xing, Yijie Qian, Yaowei Guo, Shuo Xin, Junhao Chen, Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu, Yong Liu.<br />
   "SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking." CVPR (2024).
-  [[paper](https://arxiv.org/)] 
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hou_SDSTrack_Self-Distillation_Symmetric_Adapter_Learning_for_Multi-Modal_Visual_Object_Tracking_CVPR_2024_paper.pdf)] 
   [[code](https://github.com/hoqolo/SDSTrack)]
 
 - **HDETrack:** Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang.<br />
