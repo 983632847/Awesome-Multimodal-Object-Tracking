@@ -420,7 +420,7 @@
   
 - **AVTrack:** You Wu, Yongxin Li, Mengyuan Liu, Xucheng Wang, Xiangyang Yang, Hengzhou Ye, Dan Zeng, Qijun Zhao, Shuiwang Li.<br />
   "Learning an Adaptive and View-Invariant Vision Transformer for Real-Time UAV Tracking." TCSVT (2025).
-  [[joural](https://arxiv.org/abs/2412.20002)] 
+  [[paper](https://arxiv.org/pdf/2412.20002)] 
   [[code](https://github.com/wuyou3474/AVTrack)]
   
 - **TATrack:** Wenkang Zhang, Tianyang Xu, Fei Xie, Jinhui Wu, Wankou Yang.<br />
