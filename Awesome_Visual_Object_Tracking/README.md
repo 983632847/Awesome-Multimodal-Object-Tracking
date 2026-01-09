@@ -1219,12 +1219,6 @@
   [[code](https://github.com/wuyou3474/AVTrack)]
   
 ### AAAI 2024
-
-- **GMMT:** Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Xiao-Jun Wu, Josef Kittler.<br />
-  "Generative-based Fusion Mechanism for Multi-Modal Tracking." AAAI (2024).
-  [[paper](https://arxiv.org/abs/2309.01728)] 
-  [[code](https://github.com/Zhangyong-Tang/GMMT)]
-
 - **ODTrack:** Yaozong Zheng, Bineng Zhong, Qihua Liang, Zhiyi Mo, Shengping Zhang, Xianxian Li.<br />
   "ODTrack: Online Dense Temporal Token Learning for Visual Tracking." AAAI (2024).
   [[paper](https://arxiv.org/abs/2401.01686)] 
@@ -1234,6 +1228,17 @@
   "Explicit Visual Prompts for Visual Object Tracking." AAAI (2024).
   [[paper](https://arxiv.org/abs/2401.03142)] 
   [[code](https://github.com/GXNU-ZhongLab/EVPTrack)] 
+
+
+- **GMMT:** Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Xiao-Jun Wu, Josef Kittler.<br />
+  "Generative-based Fusion Mechanism for Multi-Modal Tracking." AAAI (2024).
+  [[paper](https://arxiv.org/abs/2309.01728)] 
+  [[code](https://github.com/Zhangyong-Tang/GMMT)]
+  
+- **UVLTrack:** Yinchao Ma, Yuyang Tang, Wenfei Yang, Tianzhu Zhang, Jinpeng Zhang, Mengxue Kang.<br />
+  "Unifying Visual and Vision-Language Tracking via Contrastive Learning." AAAI (2024).
+  [[paper](https://arxiv.org/abs/2401.11228)] 
+  [[code](https://github.com/OpenSpaceAI/UVLTrack)]
   
 - **BAT:** Bing Cao, Junliang Guo, Pengfei Zhu, Qinghua Hu.<br />
   "Bi-directional Adapter for Multimodal Tracking." AAAI (2024).
@@ -1275,11 +1280,6 @@
 - **VAT:** Guangtong Zhang, Qihua Liang, Zhiyi Mo, Ning Li, Bineng Zhong.<br />
   "Visual Adapt For RGBD Tracking." ICASSP (2024).
   [[paper](https://ieeexplore.ieee.org/document/10447728)] 
-
-- **UVLTrack:** Yinchao Ma, Yuyang Tang, Wenfei Yang, Tianzhu Zhang, Jinpeng Zhang, Mengxue Kang.<br />
-  "Unifying Visual and Vision-Language Tracking via Contrastive Learning." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2401.11228)] 
-  [[code](https://github.com/OpenSpaceAI/UVLTrack)]
 
 - **SuperSBT:** Fei Xie, Wankou Yang, Chunyu Wang, Lei Chu, Yue Cao, Chao Ma, Wenjun Zeng.<br />
   "Correlation-Embedded Transformer Tracking: A Single-Branch Framework." ArXiv (2024).
