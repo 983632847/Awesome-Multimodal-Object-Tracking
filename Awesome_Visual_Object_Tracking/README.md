@@ -1488,7 +1488,11 @@
   
 
 ### ArXiv 2023
-
+- **All-in-One:** Chunhui Zhang, Xin Sun, Li Liu, Yiqian Yang, Qiong Liu, Xi Zhou, Yanfeng Wang.<br />
+  "All in One: Exploring Unified Vision-Language Tracking with Multi-Modal Alignment." ACM MM (2023).
+  [[paper](https://arxiv.org/abs/2307.03373)] 
+  [[code](https://github.com/983632847/All-in-One)]
+  
 - **UTrack:** Jie Gao, Bineng Zhong, Yan Chen.<br />
   "Unambiguous Object Tracking by Exploiting Target Cues." ACM MM (2023).
   [[paper](https://dl.acm.org/doi/10.1145/3581783.3612240)] 
@@ -1517,11 +1521,6 @@
   [[paper](https://ieeexplore.ieee.org/document/10149530)] 
 
 
-- **All-in-One:** Chunhui Zhang, Xin Sun, Li Liu, Yiqian Yang, Qiong Liu, Xi Zhou, Yanfeng Wang.<br />
-  "All in One: Exploring Unified Vision-Language Tracking with Multi-Modal Alignment." ACM MM (2023).
-  [[paper](https://arxiv.org/abs/2307.03373)] 
-  [[code](https://github.com/983632847/All-in-One)]
-  
 - **MPLT:** Yang Luo, Xiqing Guo, Hui Feng, Lei Ao.<br />
   "RGB-T Tracking via Multi-Modal Mutual Prompt Learning." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.16386)] 
