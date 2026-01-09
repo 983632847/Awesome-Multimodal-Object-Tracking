@@ -1282,7 +1282,7 @@
   [[paper](https://ieeexplore.ieee.org/document/10447728)] 
 
 - **SuperSBT:** Fei Xie, Wankou Yang, Chunyu Wang, Lei Chu, Yue Cao, Chao Ma, Wenjun Zeng.<br />
-  "Correlation-Embedded Transformer Tracking: A Single-Branch Framework." ArXiv (2024).
+  "Correlation-Embedded Transformer Tracking: A Single-Branch Framework." TPAMI (2024).
   [[paper](https://arxiv.org/abs/2401.12743)] 
   [[code](https://github.com/phiphiphi31/SBT)]
 
