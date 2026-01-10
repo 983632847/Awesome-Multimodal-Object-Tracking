@@ -1419,7 +1419,7 @@
   
 - **VideoTrack:** Fei Xie, Lei Chu, Jiahao Li, Yan Lu, Chao Ma.<br />
   "VideoTrack: Learning to Track Objects via Video Transformer." CVPR (2023).
-  [[paper](https://arxiv.org/abs/x)] 
+  [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xie_VideoTrack_Learning_To_Track_Objects_via_Video_Transformer_CVPR_2023_paper.html)] 
   [[code](https://github.com/phiphiphi31/VideoTrack)]
   
 - **SwinV2:** Zhenda Xie, Zigang Geng, Jingcheng Hu, Zheng Zhang, Han Hu, Yue Cao.<br />
