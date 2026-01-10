@@ -1479,7 +1479,8 @@
   
  - **SeqTrack:** Xin Chen, Houwen Peng, Dong Wang, Huchuan Lu, Han Hu.<br />
   "SeqTrack: Sequence to Sequence Learning for Visual Object Tracking." CVPR (2023).
-  [[paper](https://arxiv.org/abs/2304.14394)] 
+  [[paper](https://arxiv.org/abs/2304.14394v1)]
+  [[journal](https://arxiv.org/abs/2304.14394v3)]
   [[code](https://github.com/microsoft/VideoX)]
   
  - **ImageBind:** Rohit Girdhar, Alaaeldin El-Nouby, Zhuang Liu, Mannat Singh, Kalyan Vasudev Alwala, Armand Joulin, Ishan Misra.<br />
