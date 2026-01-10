@@ -80,6 +80,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **HiViTrack:** Yang Fang and Yujie Hu and Bailian Xie and Yujie Wang and Zongyi Xu and Weisheng Li and Xinbo Gao.<br />
+  "HiViTrack: Hierarchical Vision Transformer with Efficient Target-Prompt Update for Visual Object Tracking." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325016553)] 
+  [[code](https://github.com/huyj2001-ship-it/HiViTrack)]
+  
 - **LTSTrack:** Zhaochuan Zeng and Shilei Wang and Yidong Song and Zhenhua Wang and Jifeng Ning.<br />
   "LTSTrack: Visual Tracking with Long-term Temporal Sequence." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326000154)]
