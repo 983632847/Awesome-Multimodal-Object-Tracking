@@ -144,6 +144,7 @@
   
 - Junze Shi; Yang Yu; Jian Shi; Haibo Luo.<br />
   "Exploring Reliable Spatiotemporal Dependencies for Efficient Visual Tracking." AAAI (2026).
+  [[paper](https://arxiv.org/abs/2601.09078)]
   
 - Hongtao Yang; Bineng Zhong; Qihua Liang; Xiantao Hu;Yufei Tan; Haiying Xia; Shuxiang Song.<br />
   "Motion-Aware Object Tracking via Motion and Geometry-Aware Cues." AAAI (2026).
