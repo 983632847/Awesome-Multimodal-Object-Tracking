@@ -80,6 +80,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **SAMURAI:** Yang, Cheng-Yeng and Huang, Hsiang-Wei and Jiang, Zhongyu and Chai, Wenhao and Hwang, Jenq-Neng.<br />
+"SAMURAI: Motion-Aware Memory for Training-Free Visual Object Tracking with SAM 2." TIP (2026).
+[[paper](https://ieeexplore.ieee.org/document/11351313)]
+[[code](https://github.com/yangchris11/samurai)]
+
 - **HiViTrack:** Yang Fang and Yujie Hu and Bailian Xie and Yujie Wang and Zongyi Xu and Weisheng Li and Xinbo Gao.<br />
   "HiViTrack: Hierarchical Vision Transformer with Efficient Target-Prompt Update for Visual Object Tracking." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325016553)] 
