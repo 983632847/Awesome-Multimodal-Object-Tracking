@@ -1123,7 +1123,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 
 #### 2026
-### AAAI 2026
+- **SiamCCA:** Xing Hong et al.<br />
+  "An Efficient Siamese Triple-Stream Network with Collaborative Channel-Spatial Aggregation for RGBT Tracking." Results in Engineering (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S2590123026001568)] 
+  [[code](https://github.com/Mrxing-abc/SiamCCA/tree/master)]
+  
 - **CAMT:** Yisong Xiao and Guixi Liu and Hanlin Huang and Ruke Xiong and Yinghao Li and Qian Lu and Zhiyu Wu.<br />
   "CAMT: A novel symmetric cross-modal adaptive modulation framework for RGB-T tracking." Neurocomputing (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0925231225032746)]
