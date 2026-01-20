@@ -1768,6 +1768,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   "Exploring Modality-Aware Fusion and Decoupled Temporal Propagation for Multi-Modal Object Tracking." AAAI (2026).  
 
 #### 2025
+- **AMVTrack:** Wang, Jiahao and Liu, Fang and Jiao, Licheng and Wang, Hao and Li, Shuo and Li, Lingling and Chen, Puhua and Liu, Xu and Ma, Wenping and Wang, Xinyi.<br />
+  "Adaptive Multi-Modal Visual Tracking With Dynamic Semantic Prompts." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11248958)]
+  
 - **UAUTrack:** Qionglin Ren, Dawei Zhang, Chunxu Tian, Dan Zhang.<br />
   "UAUTrack: Towards Unified Multimodal Anti-UAV Visual Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2512.02668)]
