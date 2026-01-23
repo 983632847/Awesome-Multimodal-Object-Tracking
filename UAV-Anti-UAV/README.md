@@ -38,11 +38,13 @@ The directory should have the following format:
         ├── UAV-Anti-UAV_Test_000002
         ├── UAV-Anti-UAV_Test_000003
         ...
+        ├── UAV-Anti-UAV_Test_000420
 
     ├──Train
         ├── UAV-Anti-UAV_Train_000001
         ├── UAV-Anti-UAV_Train_000002
         ...
+        ├── UAV-Anti-UAV_Train_001400
 ```
 
 
