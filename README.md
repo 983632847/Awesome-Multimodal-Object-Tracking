@@ -28,9 +28,10 @@
 
 ## :collision: Highlights
 ![Last Updated](https://badgen.net/github/last-commit/983632847/Awesome-Multimodal-Object-Tracking?icon=github&label=last%20updated&color=blue)
+- 2026.01.23: We Released UAV-Anti-UAV dataset V1.5 with both Training and Test Sets Available ([Project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/UAV-Anti-UAV)).
 - 2025.12.08: The Paper of UAV-Anti-UAV & MambaSTS was Online ([arXiv](https://arxiv.org/abs/2512.07385)).
 - 2025.04.28: The Paper of UW-COT220 & VL-SAM2 was Accepted by CVPR 2025 Workshop ([arXiv](https://arxiv.org/abs/2409.16902), [Outstanding Paper](https://www.cv4animals.com/home)).
-- 2025.04.02: We Released UW-COT220 & VL-SAM2, with both Training and Testing Code Available ([project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/UW-COT220)).
+- 2025.04.02: We Released UW-COT220 & VL-SAM2, with both Training and Testing Code Available ([Project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/UW-COT220)).
 - 2025.04.02: The Paper of VL-SOT500 & COST was Online ([arXiv](https://arxiv.org/abs/2504.01321), [Project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/VL-SOT500)).
 - 2025.02.28: Awesome Visual Object Tracking Project Started at [Awesome-VOT](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/Awesome_Visual_Object_Tracking).
 - 2025.01.20: The Technical Report for UW-COT220 & VL-SAM2 was Updated ([arXiv](https://arxiv.org/abs/2409.16902), [知乎](https://zhuanlan.zhihu.com/p/19568835256)).
