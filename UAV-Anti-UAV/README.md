@@ -15,7 +15,7 @@ Unmanned Aerial Vehicles (UAVs) offer wide-ranging applications but also pose si
 
 ![image](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/blob/main/UAV-Anti-UAV/UAV-Anti-UAV.png)
 
-### ⚖️ [License & Disclaimer](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/blob/main/UAV-Anti-UAV/LICENSE.txt)
+## ⚖️ [License & Disclaimer](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/blob/main/UAV-Anti-UAV/LICENSE.txt)
 The UAV-Anti-UAV Dataset is released for **Academic Research Use Only**.
 
 By accessing, downloading, or using the UAV-Anti-UAV dataset, you expressly agree to the following terms:
