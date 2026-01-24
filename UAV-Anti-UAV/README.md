@@ -5,7 +5,7 @@ Unmanned Aerial Vehicles (UAVs) offer wide-ranging applications but also pose si
 
 ### TODO
 - 🚧 Codes for MambaSTS (We are actively improving and expanding MambaSTS for a potential submission)
-- ✅ UAV-Anti-UAV Dataset V1.5(Contains 1,820 videos in total, with 1,400 allocated for training and 420 for testing)
+- ✅ UAV-Anti-UAV Dataset V1.5 (Contains 1,820 videos in total, with 1,400 allocated for training and 420 for testing)
 - ✅ Baseline Results
 - ✅ [Evaluation Toolkits](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/MMOT_Evaluation_Toolkit)
 - ✅ [Technical Report V1.0](https://arxiv.org/abs/2512.07385)
