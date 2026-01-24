@@ -17,6 +17,7 @@ Unmanned Aerial Vehicles (UAVs) offer wide-ranging applications but also pose si
 
 #### Step 1: Download dataset
 - Download the UAV-Anti-UAV through [Baidu Pan](https://pan.baidu.com/s/139xn-nKY4KbTOupCn2XDyg?pwd=UAVU), the extraction code is ***UAVU***.
+- Or download the UAV-Anti-UAV through [Google Drive](https://drive.google.com/drive/folders/1Rvd7HcYirOEclB1xcnPNA_mL3fpvwgWI?usp=sharing).
 #### Step 2: Extract frames from videos: run python [Videos2Frames.py](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/blob/main/WebUOT-1M/Videos2Frames.py)
 
 The directory should have the following format:
