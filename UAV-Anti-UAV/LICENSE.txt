@@ -1,0 +1,22 @@
+Terms of Use and License Agreement for the UAV-Anti-UAV Dataset
+
+This dataset is made publicly available by the UAV-Anti-UAV Team strictly for academic and non-commercial research purposes only.
+
+By accessing, downloading, or using the UAV-Anti-UAV dataset, you expressly agree to the following terms:
+
+1.  Permitted Use: The dataset may be used solely for non-commercial academic research, such as for educational purposes, scientific inquiry, technology evaluation, and the development and benchmarking of algorithms in fields including but not limited to computer vision, machine learning, and autonomous systems.
+
+2.  Explicitly Prohibited Uses: Any use of this dataset for commercial purposes or military applications is strictly forbidden. This includes, but is not limited to:
+       Developing, testing, or improving commercial products or services.
+       Integrating the dataset or models trained on it into any commercial offering.
+       Any application related to military operations, warfare, weapon systems, surveillance for military purposes, or any activity that could contribute to harm or conflict.
+
+3.  Redistribution: Redistribution of this dataset in its original or modified form must include this usage agreement and adhere to the same restrictions. The dataset cannot be redistributed as part of a commercial product or service.
+
+4.  Liability: The UAV-Anti-UAV Team and its affiliated institutions make no representations or warranties regarding the dataset. Users assume full responsibility for their use of the dataset and agree to hold the providers harmless from any claims, damages, or liabilities arising from such use, including any misuse or violation of this agreement.
+
+5.  Violation: Failure to comply with these terms may result in revocation of access to the dataset and related resources. The UAV-Anti-UAV Team reserves the right to take appropriate action against any unauthorized use.
+
+By using the UAV-Anti-UAV dataset, you acknowledge that you have read, understood, and agreed to be bound by this agreement.
+
+For any inquiries regarding potential permissible uses outside these strict terms, please contact the UAV-Anti-UAV Team prior to use.
