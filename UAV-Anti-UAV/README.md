@@ -15,6 +15,16 @@ Unmanned Aerial Vehicles (UAVs) offer wide-ranging applications but also pose si
 
 ![image](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/blob/main/UAV-Anti-UAV/UAV-Anti-UAV.png)
 
+## ⚖️ License & Disclaimer
+The UAV-Anti-UAV Dataset is released for Academic Research Use Only.
+
+By accessing, downloading, or using the UAV-Anti-UAV dataset, you expressly agree to the following terms:
+
+Commercial use is strictly prohibited.
+
+Military applications are strictly prohibited. This dataset must not be used for any military, defense, or weapon-related technologies.
+
+
 #### Step 1: Download dataset
 - Download the UAV-Anti-UAV through [Baidu Pan](https://pan.baidu.com/s/139xn-nKY4KbTOupCn2XDyg?pwd=UAVU), the extraction code is ***UAVU***.
 - Or download the UAV-Anti-UAV through [Google Drive](https://drive.google.com/drive/folders/1Rvd7HcYirOEclB1xcnPNA_mL3fpvwgWI?usp=sharing).
