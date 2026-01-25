@@ -67,7 +67,7 @@ The directory should have the following format:
 
 
 
-### BibTeX
+### :newspaper: BibTeX
 If you find our dataset and method both interesting and helpful, please consider citing us in your research or publications:
 
     @article{zhang2025far,
