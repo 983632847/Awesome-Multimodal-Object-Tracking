@@ -80,6 +80,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **LAOT:** Ding, Junjie and Huang, Defeng and He, Yijun and Zhang, Ninghao and Ye, Hengzhou and Li, Shuiwang.<br />
+  "Low-Light Amodal Objects Tracking: A Benchmark." IEEE Robotics and Automation Letters (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11299415)] 
+  [[dataset](https://github.com/LSW-CVLab/LAOT)]
+  
 - **SSTrack:** Sugang Ma et al.<br />
   "SSTrack: Joint scale-aware temporal prompts and spatio-temporal prior transformer for visual object tracking." KBS (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126001139)] 
