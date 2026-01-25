@@ -1,7 +1,7 @@
 # MMOT Evaluation Toolkit
 
 ## :fire: UPDATE<br>
-> All common tracking datasets (UAV-Anti-UAV, WebUAV-3M, WebUOT-1M, UW-COT220, VL-SOT230, VL-SOT270, DarkTrack2021, NAT2021, NAT2021L, UAVDark70, UAVDark135, GOT-10k, OTB, VOT, UAV, TColor, DTB, NfS, LaSOT and TrackingNet) are supported.<br>
+> All common tracking datasets (UAV-Anti-UAV, WebUAV-3M, WebUOT-1M, UW-COT220, VL-SOT230, VL-SOT270, DarkTrack2021, NAT2021, NAT2021L, UAVDark70, UAVDark135, NUT318, GOT-10k, OTB, VOT, UAV, TColor, DTB, NfS, LaSOT and TrackingNet) are supported.<br>
 
 
 
