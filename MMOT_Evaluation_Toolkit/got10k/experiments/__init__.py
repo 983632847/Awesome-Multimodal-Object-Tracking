@@ -19,6 +19,7 @@ from .uavdark70 import ExperimentUAVDark70
 from .nat2021 import ExperimentNAT2021
 from .nat2021l import ExperimentNAT2021L
 from .darktrack2021 import ExperimentDarkTrack2021
+from .nut318 import ExperimentNUT318
 from .vla_res import ExperimentVLA_RES
 from .vla_ses import ExperimentVLA_SES
 from .uwcot import ExperimentUWCOT
