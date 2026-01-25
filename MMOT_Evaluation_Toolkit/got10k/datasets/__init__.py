@@ -21,6 +21,7 @@ from .uavdark70 import UAVDark70
 from .nat2021 import NAT2021
 from .nat2021l import NAT2021L
 from .darktrack2021 import DarkTrack2021
+from .nut318 import NUT318
 from .vla_res import VLA_RES
 from .vla_ses import VLA_SES
 from .uwcot import UWCOT
