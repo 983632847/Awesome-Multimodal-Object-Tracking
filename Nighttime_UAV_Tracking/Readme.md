@@ -6,12 +6,13 @@ Nighttime UAV tracking poses significant challenges due to low-light conditions,
 ![image](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/blob/main/Nighttime_UAV_Tracking/imgs/Nighttime_UAV_Tracking.png)
 
 ### Download Dataset
-- To build vision-language nighttime UAV tracking datasets, we annotate 518 language prompts for five existing datasets (i.e., UAVDark135, UAVDark70, NAT2021, NAT2021L, DarkTrack2021).
-- Download the dataset through [Baidu Pan](https://pan.baidu.com/s/1ABd-OFuKRrBHKgmub1gwkw?pwd=VLUT), the extraction code is ***VLUT***.
+- To build vision-language (VL) nighttime UAV tracking datasets, we annotate 518 language prompts for five existing datasets (i.e., UAVDark135, UAVDark70, NAT2021, NAT2021L, DarkTrack2021).
+- We construct a new VL nighttime UAV tracking dataset, [NUT318](https://link.springer.com/chapter/10.1007/978-981-95-5755-4_1), based on [WebUAV-3M](https://github.com/983632847/WebUAV-3M).
+- Download existing five datasets and NUT318 through [Baidu Pan](https://pan.baidu.com/s/1ABd-OFuKRrBHKgmub1gwkw?pwd=VLUT), the extraction code is ***VLUT***.
 
 The directory should have the following format:
 ```
-├── Dataset (e.g., UAVDark135, UAVDark70, NAT2021, NAT2021L, DarkTrack2021)
+├── Dataset (e.g., UAVDark135, UAVDark70, NAT2021, NAT2021L, DarkTrack2021, NUT318)
     ├── Video-1
         ├── 00000001.jpg
         ├── imgs
@@ -27,6 +28,7 @@ The directory should have the following format:
     ├── Video-3
     ...
 ```
+
 
 
 ## MambaTrack
@@ -73,7 +75,7 @@ pip install causal_conv1d-1.1.3+cu118torch2.1cxx11abiFALSE-cp310-cp310-linux_x86
 pip install mamba_ssm-1.1.1+cu118torch2.1cxx11abiFALSE-cp310-cp310-linux_x86_64.whl 
 ```  
 
-copy the "mamba_ssm" in Vim to your local "Anaconda envs" as "mamba-1.1.1" in this package has been changed
+Copy the "mamba_ssm" in Vim to your local "Anaconda envs" as "mamba-1.1.1" in this package has been changed
 
 
 * **Install the package for tracking**
@@ -147,6 +149,15 @@ If you think this paper is helpful, please feel free to leave a star ⭐ and cit
   pages={1--5},
   year={2025}
 }
+
+@inproceedings{zhang2026boosting,
+  title={Boosting Nighttime UAV Tracking via Self-prompting Autoregressive Learning},
+  author={Zhang, Chunhui and Liu, Li and Wen, Hao and Zhou, Xi},
+  booktitle={PRCV},
+  pages={3--24},
+  year={2025}
+}
+
 ```
 
 
