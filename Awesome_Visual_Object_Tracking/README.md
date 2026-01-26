@@ -80,6 +80,15 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **Aba-ViTrack:** Yang, Xiangyang and Zeng, Dan and Wang, Xucheng and Ye, Hengzhou and Xie, Xiaolan and Zhao, Qijun and Zhu, Jihua and Li, Shuiwang.<br />
+  "Towards Real-Time UAV Tracking with Adaptive and Background-Aware Vision Transformers." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11343838)] 
+  [[code](https://github.com/xyyang317/Aba-ViTrack)]
+
+- **TrHelpTr:** Jiazheng Wen, Huanyu Liu, Junbao Li.<br />
+  "TrHelpTr: A Long-Term Single-Object Tracking Paradigm Based on Sequence Modeling Reinforcement Learning." Pattern Recognition (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326001068)]
+  
 - **LAOT:** Ding, Junjie and Huang, Defeng and He, Yijun and Zhang, Ninghao and Ye, Hengzhou and Li, Shuiwang.<br />
   "Low-Light Amodal Objects Tracking: A Benchmark." IEEE Robotics and Automation Letters (2026).
   [[paper](https://ieeexplore.ieee.org/document/11299415)] 
