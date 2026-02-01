@@ -1121,9 +1121,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 |  [LUART](https://github.com/NOP1224/Unaligned_RGBT_Tracking/blob/main/Unaligned_UAV_RGBT_Tracking__A_Largescale_Benchmark_and_A_Novel_Approach_AAAI_CRC.pdf)   |   AAAI-2026   |  [LUART](https://github.com/NOP1224/Unaligned_RGBT_Tracking)  | 1,453 video pairs,42 categories,1.02M frames   | 
 
 ### Papers
-
-
 #### 2026
+- **ProMoT:** Chen, Jia and Xu, Rui and Chen, Si and Niu, Yuzhen and Yan, Yan and Wang, Da-Han.<br />
+  "ProMoT: Progressive Prompting of Modality and Temporal Dynamics for RGB-T Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11363450)]
+  
 - **SiamCCA:** Xing Hong et al.<br />
   "An Efficient Siamese Triple-Stream Network with Collaborative Channel-Spatial Aggregation for RGBT Tracking." Results in Engineering (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S2590123026001568)] 
