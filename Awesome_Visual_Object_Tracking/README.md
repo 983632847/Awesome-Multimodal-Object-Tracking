@@ -13,7 +13,6 @@
 
 ## Papers
 ### :star2: Recommendations :star2:
-
 - **VOTSurvey:** Sajid Javed, Martin Danelljan, Fahad Shahbaz Khan, Muhammad Haris Khan, Michael Felsberg, Jiri Matas.<br />
   "Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook." TAPMI (2023).
   [[paper](https://arxiv.org/abs/2112.02838)] 
@@ -80,6 +79,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **DG-Track:** Zhou, Jinglin and Xu, Tianyang and Zhu, Xuefeng and Wu, Xiao-Jun and Kittler, Josef.<br />
+  "Adaptive Continual Learning for Online Visual Object Tracking via Dynamic Grassmannian Appearance Modelling." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11363582)] 
+  [[code](https://github.com/xiaoqing0825/DGTrack)]
+  
 - **Aba-ViTrack:** Yang, Xiangyang and Zeng, Dan and Wang, Xucheng and Ye, Hengzhou and Xie, Xiaolan and Zhao, Qijun and Zhu, Jihua and Li, Shuiwang.<br />
   "Towards Real-Time UAV Tracking with Adaptive and Background-Aware Vision Transformers." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11343838)] 
