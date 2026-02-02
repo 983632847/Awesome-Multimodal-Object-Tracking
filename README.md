@@ -1160,6 +1160,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   [[code](https://github.com/wwwshengbo/PATrack)]
   
 #### 2025
+- **MV-RGBT & MoETrack:** Zhangyong Tang, Tianyang Xu, Zhenhua Feng, Xuefeng Zhu, He Wang, Pengcheng Shao, Chunyang Cheng, Xiao-Jun Wu, Muhammad Awais, Sara Atito, Josef Kittler.<br />
+  "Revisiting RGBT Tracking Benchmarks from the Perspective of Modality Validity: A New Benchmark, Problem, and Method." TIP (2025).
+  [[paper](https://arxiv.org/abs/2405.00168)] 
+  [[code](https://github.com/Zhangyong-Tang/MoETrack)]
+  
 - **MambaVT:** Simiao Lai, Chang Liu, Jiawen Zhu, Ben Kang, Yang Liu, Dong Wang, Huchuan Lu.<br />
   "MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking." TCSVT (2025).
   [[paper](https://arxiv.org/abs/2408.07889)]
