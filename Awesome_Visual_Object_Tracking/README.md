@@ -79,6 +79,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **SMTrack:** Yinchao Ma, Dengqing Yang, Zhangyu He, Wenfei Yang, Tianzhu Zhang.<br />
+  "SMTrack: State-Aware Mamba for Efficient Temporal Modeling in Visual Tracking." IEEE TIP (2026).
+  [[paper](https://arxiv.org/abs/2602.01677)]
+  
 - **DG-Track:** Zhou, Jinglin and Xu, Tianyang and Zhu, Xuefeng and Wu, Xiao-Jun and Kittler, Josef.<br />
   "Adaptive Continual Learning for Online Visual Object Tracking via Dynamic Grassmannian Appearance Modelling." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11363582)] 
