@@ -208,6 +208,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **GLAD:** Xingyu Luo, Yidong Cai, Jie Liu, Jie Tang, Gangshan Wu, Limin Wang.<br />
+  "GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2602.00570)] 
+  [[code](https://github.com/Confetti-lxy/GLAD)]
+  
 - **SOIBench:** Yipei Wang, Shiyu Hu, Shukun Jia, Panxi Xu, Hongfei Ma, Yiping Ma, Jing Zhang, Xiaobo Lu, Xin Zhao.<br />
   "SOI is the Root of All Evil: Quantifying and Breaking Similar Object Interference in Single Object Tracking." AAAI (2026).
   [[paper](https://arxiv.org/abs/2508.09524)]
