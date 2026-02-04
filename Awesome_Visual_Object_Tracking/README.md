@@ -79,6 +79,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **WATS-DA:** Ganggang Huang, Fasheng Wang, Binbin Wang, Hanwei Li, Mingshu Zhang, Mengyin Wang, Fuming Sun & Haojie Li.<br />
+  "Wild Animal Tracking with High-Quality Segment Anything Model and Domain Adaptation." IJCV (2026).
+  [[paper](https://link.springer.com/article/10.1007/s11263-025-02710-1)] 
+  [[code](https://github.com/Hgg12/WATS-DA)]
+  
 - **SMTrack:** Yinchao Ma, Dengqing Yang, Zhangyu He, Wenfei Yang, Tianzhu Zhang.<br />
   "SMTrack: State-Aware Mamba for Efficient Temporal Modeling in Visual Tracking." IEEE TIP (2026).
   [[paper](https://arxiv.org/abs/2602.01677)]
