@@ -136,6 +136,19 @@
   "FARTrack: Fast Autoregressive Visual Tracking with High Performance." ICLR (2026).
   [[paper](https://arxiv.org/abs/2602.03214)] 
   [[code](https://github.com/AlexDotHam/FARTrack)]
+
+- **TAPTRv3:** TAPTRv3<br />
+  "TAPTRv3: Spatial and Temporal Context Foster Robust Tracking of Any Point in Long Video." ICLR (2026).
+  [[paper](https://openreview.net/forum?id=N3WAcxTX6J)] 
+
+- **PointRePar:** <br />
+  "PointRePar: SpatioTemporal Point Relation Parsing for Robust Category-Unified 3D Tracking." ICLR (2026).
+  [[paper](https://openreview.net/forum?id=DLcnrY5Uqo)] 
+
+- **GOT-Edit:** <br />
+  "GOT-Edit: Geometry-Aware Generic Object Tracking via Online Model Editing." ICLR  (2026).
+  [[paper](https://openreview.net/forum?id=aVa7etWnwF)]  
+
   
 ### AAAI 2026
 - **SFCATrack:** Yun Xiao; Yuhang Wang; Jiandong Jin; Wankang Zhang;Chenglong Li.<br />
