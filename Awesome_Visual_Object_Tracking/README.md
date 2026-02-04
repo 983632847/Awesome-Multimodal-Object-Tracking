@@ -130,6 +130,12 @@
   "A novel color marker-based target tracking and motion intent detection method." EAAI (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625029070?via%3Dihub)] 
   [[code](https://github.com/wzy7421/CMTT.git)]
+
+### ICLR 2026
+- **FARTrack:** Guijie Wang, Tong Lin, Yifan Bai, Anjia Cao, Shiyi Liang, Wangbo Zhao, Xing Wei.<br />
+  "FARTrack: Fast Autoregressive Visual Tracking with High Performance." ICLR (2026).
+  [[paper](https://arxiv.org/abs/2602.03214)] 
+  [[code](https://github.com/AlexDotHam/FARTrack)]
   
 ### AAAI 2026
 - **SFCATrack:** Yun Xiao; Yuhang Wang; Jiandong Jin; Wankang Zhang;Chenglong Li.<br />
