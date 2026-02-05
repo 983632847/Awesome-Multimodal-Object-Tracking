@@ -135,7 +135,7 @@
 - **FARTrack:** Guijie Wang, Tong Lin, Yifan Bai, Anjia Cao, Shiyi Liang, Wangbo Zhao, Xing Wei.<br />
   "FARTrack: Fast Autoregressive Visual Tracking with High Performance." ICLR (2026).
   [[paper](https://arxiv.org/abs/2602.03214)] 
-  [[code](https://github.com/AlexDotHam/FARTrack)]
+  [[code](https://github.com/wangguijiepedeval/FARTrack)]
 
 - **TAPTRv3:** TAPTRv3<br />
   "TAPTRv3: Spatial and Temporal Context Foster Robust Tracking of Any Point in Long Video." ICLR (2026).
