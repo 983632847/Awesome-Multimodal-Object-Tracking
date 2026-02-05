@@ -79,6 +79,16 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **SynthVerse:** Weiguang Zhao, Haoran Xu, Xingyu Miao, Qin Zhao, Rui Zhang, Kaizhu Huang, Ning Gao, Peizhou Cao, Mingze Sun, Mulin Yu, Tao Lu, Linning Xu, Junting Dong, Jiangmiao Pang.<br />
+  "SynthVerse: A Large-Scale Diverse Synthetic Dataset for Point Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2602.04441)] 
+  [[code](https://weiguangzhao.github.io/SynthVerse/)]
+
+- **CoWTracker:** Zihang Lai, Eldar Insafutdinov, Edgar Sucar, Andrea Vedaldi.<br />
+  "CoWTracker: Tracking by Warping instead of Correlation." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2602.04877)] 
+  [[code](https://cowtracker.github.io/)]
+  
 - **WATS-DA:** Ganggang Huang, Fasheng Wang, Binbin Wang, Hanwei Li, Mingshu Zhang, Mengyin Wang, Fuming Sun & Haojie Li.<br />
   "Wild Animal Tracking with High-Quality Segment Anything Model and Domain Adaptation." IJCV (2026).
   [[paper](https://link.springer.com/article/10.1007/s11263-025-02710-1)] 
