@@ -79,6 +79,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **TSETrack:** Jiqing Zhang, Xin Yang, Haoming Tang, Yuanchen Wang, Baocai Yin, Huibing Wang & Xianping Fu.<br />
+  "Efficient Vision Transformer with Token Sparsification for Event-Based Object Tracking." IJCV (2026).
+  [[paper](https://link.springer.com/article/10.1007/s11263-025-02666-2)]
+  
 - **SynthVerse:** Weiguang Zhao, Haoran Xu, Xingyu Miao, Qin Zhao, Rui Zhang, Kaizhu Huang, Ning Gao, Peizhou Cao, Mingze Sun, Mulin Yu, Tao Lu, Linning Xu, Junting Dong, Jiangmiao Pang.<br />
   "SynthVerse: A Large-Scale Diverse Synthetic Dataset for Point Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2602.04441)] 
