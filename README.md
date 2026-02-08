@@ -1127,6 +1127,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **TPMRI:** He Li, Jia Liang, Weihang Kong, Xingchen Zhang.<br />
+  "Three-stage progressive modality reweighting and interaction framework for robust RGB-T tracking." KBS (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126001966)]
+  
 - **ProMoT:** Chen, Jia and Xu, Rui and Chen, Si and Niu, Yuzhen and Yan, Yan and Wang, Da-Han.<br />
   "ProMoT: Progressive Prompting of Modality and Temporal Dynamics for RGB-T Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11363450)]
