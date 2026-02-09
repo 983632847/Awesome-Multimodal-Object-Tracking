@@ -1120,6 +1120,7 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 |  [RGBT234](https://arxiv.org/abs/1805.08982)   |   PR-2018   |  [RGBT234](https://sites.google.com/view/ahutracking001/)  |   234 video pairs, the extension of RGBT210  |  
 |  [LasHeR](https://arxiv.org/pdf/2104.13202.pdf)   |   TIP-2021  |  [LasHeR](https://github.com/BUGPLEASEOUT/LasHeR)  | 1224 video pairs, 730K frames  |  
 |  [VTUAV](https://arxiv.org/pdf/2204.04120.pdf)   |   CVPR-2022   |  [VTUAV](https://zhang-pengyu.github.io/DUT-VTUAV/)  |  Visible-thermal UAV tracking, 500 sequences, 1.7 million high-resolution frame pairs |  
+|  [MMRGBT](https://link.springer.com/article/10.1007/s11263-024-02311-4)   |   IJCV-2024   |  [MMRGBT](https://github.com/Alexadlu/Modality-missing-RGBT-Tracking)  | three modality-missing RGBT tracking datasets based on the previously collected datasets: RGBT234-Miss, LasHeR245-Miss, and VTUAV176-Miss   | 
 |  [MV-RGBT](https://arxiv.org/abs/2405.00168)   |   TIP-2025   |  [MV-RGBT](https://github.com/Zhangyong-Tang/MoETrack)  | 122 video pairs, 89.9K frames   |  
 |  [NOT-156](https://ieeexplore.ieee.org/abstract/document/10938642)   | TGRS-2025 | [NOT-156](http://rsidea.whu.edu.cn/NOT156_dataset.htm) | 156 videos with low-light image and thermal infrared |  
 |  [UniRTL](https://www.sciencedirect.com/science/article/pii/S0031320324007350)   |   PR-2025   |  [UniRTL](https://github.com/Liamzh0331/Unismot)  | a universal RGBT and low-light benchmark, 3 × 626 videos for SOT, 3 × 50 videos for MOT, 474.2K frames   | 
@@ -1432,6 +1433,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 
 #### 2024
+- **MMRGBT:** Lu, Andong and Li, Chenglong and Zhao, Jiacong and Tang, Jin and Luo, Bin.<br />
+  "Modality-missing RGBT Tracking: Invertible Prompt Learning and High-quality Benchmarks." IJCV (2024).
+  [[paper](https://link.springer.com/article/10.1007/s11263-024-02311-4)] 
+  [[code](https://github.com/Alexadlu/Modality-missing-RGBT-Tracking)]
+  
 - **STMT:** Sun, Dengdi and Pan, Yajie and Lu, Andong and Li, Chenglong and Luo, Bin.<br />
   "Transformer RGBT Tracking With Spatio-Temporal Multimodal Tokens." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/document/10589660)] 
