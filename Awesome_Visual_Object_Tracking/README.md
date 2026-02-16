@@ -79,6 +79,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **Eva-Tracker:** Yue Lin, Yang Liu, Dong Wang, Huchuan Lu.<br />
+  "Eva-Tracker: ESDF-update-free, Visibility-aware Planning with Target Reacquisition for Robust Aerial Tracking." ICRA  (2026).
+  [[paper](https://arxiv.org/abs/2602.12549)] 
+  [[code](https://github.com/Yue-0/Eva-Tracker)]
+  
 - **TSETrack:** Jiqing Zhang, Xin Yang, Haoming Tang, Yuanchen Wang, Baocai Yin, Huibing Wang & Xianping Fu.<br />
   "Efficient Vision Transformer with Token Sparsification for Event-Based Object Tracking." IJCV (2026).
   [[paper](https://link.springer.com/article/10.1007/s11263-025-02666-2)]
