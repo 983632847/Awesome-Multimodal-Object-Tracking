@@ -79,6 +79,15 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **GOT-JEPA:** Shih-Fang Chen, Jun-Cheng Chen, I-Hong Jhuo, Yen-Yu Lin.<br />
+  "GOT-JEPA: Generic Object Tracking with Model Adaptation and Occlusion Handling using Joint-Embedding Predictive Architecture." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2602.14771)] 
+
+- **LGTrack:** Yang Zhou, Derui Ding, Ran Sun, Ying Sun, Haohua Zhang.<br />
+  "Layer-Guided UAV Tracking: Enhancing Efficiency and Occlusion Robustness." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2602.13636)] 
+  [[code](https://github.com/XiaoMoc/LGTrack)]
+  
 - **Eva-Tracker:** Yue Lin, Yang Liu, Dong Wang, Huchuan Lu.<br />
   "Eva-Tracker: ESDF-update-free, Visibility-aware Planning with Target Reacquisition for Robust Aerial Tracking." ICRA  (2026).
   [[paper](https://arxiv.org/abs/2602.12549)] 
