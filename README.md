@@ -1128,6 +1128,15 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **STIFormer:** Boyue Xu, Yaqun Fang, Ruichao Hou, Tongwei Ren.<br />
+  "STIFormer: RGB-T tracking via Spatial–Temporal Interaction Transformer." IVC (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885626000351)] 
+  [[code](https://github.com/xuboyue1999/STIFormer)]
+
+- Dae-Hyeon Park, et al.<br />
+  "Gated side adapters with memory-efficient fine tuning for RGB-T tracking." ICT Express (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S2405959526000226)]
+  
 - **TPMRI:** He Li, Jia Liang, Weihang Kong, Xingchen Zhang.<br />
   "Three-stage progressive modality reweighting and interaction framework for robust RGB-T tracking." KBS (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126001966)]
