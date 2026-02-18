@@ -79,6 +79,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **SELA-ViT:** Zhou, Sai and Liu, Meiqin and Zhou, Jing and Zheng, Ronghao.<br />
+  "Enhancing Vision Transformer with Shift Expansion Linear Attention for Image Classification and Object Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11386976)] 
+  [[code](https://github.com/saizhou777/SELA-ViT)]
+  
 - **GOT-JEPA:** Shih-Fang Chen, Jun-Cheng Chen, I-Hong Jhuo, Yen-Yu Lin.<br />
   "GOT-JEPA: Generic Object Tracking with Model Adaptation and Occlusion Handling using Joint-Embedding Predictive Architecture." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2602.14771)] 
