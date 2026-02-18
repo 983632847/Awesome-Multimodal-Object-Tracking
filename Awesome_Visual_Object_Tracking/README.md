@@ -79,6 +79,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **UAV-DC-Track:** Xiongyou Cai and Shuguang Wu and Shiwen Li and Hongru Zhang.<br />
+  "Data-centric is a novel perspective for UAV-based tracking: A new benchmark via efficient data utilization strategy." Journal of Visual Communication and Image Representation (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320326000386)] 
+  [[code](https://github.com/caixiongyou/UAV-DC-Track)]
+  
 - **SELA-ViT:** Zhou, Sai and Liu, Meiqin and Zhou, Jing and Zheng, Ronghao.<br />
   "Enhancing Vision Transformer with Shift Expansion Linear Attention for Image Classification and Object Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11386976)] 
