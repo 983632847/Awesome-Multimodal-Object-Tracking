@@ -1997,6 +1997,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 Coming soon.
 
 ### Papers
+#### 2026
+- **S3T-FFS:** Wang, Hanzheng and Li, Wei and Xia, Xiang-Gen and Cui, Bolun and Shi, Zhicheng and Lin, Hongyang.<br />
+  "Bring KANs to Tracker: A Nonlinear Fusion Strategy Over Frequency Decoupling for Temporal Hyperspectral Object Tracking." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11367018)]
+  
 #### 2025
 - **CSSTrack:** Zhuanfeng Li and Jing Wang and Jue Zhang and Dong Zhao and Guanyiman Fu and Jiangtao Wang and Jianfeng Lu.<br />
   "A Unified Spatial-Spectral-Temporal Network for Hyperspectral Object Tracking." PR (2025).
