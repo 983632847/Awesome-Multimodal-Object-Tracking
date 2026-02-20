@@ -208,6 +208,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **MPVLT:** Xie, Jianyu and Li, Xin and Lyu, Bo and Fu, Yan and Zhou, Junlin and Chen, Duanbing.<br />
+  "MPVLT: An efficient lightweight multi-modal prompted vision-language tracker for target tracking." ICCBDAI (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11387955)]
+  
 - **GLAD:** Xingyu Luo, Yidong Cai, Jie Liu, Jie Tang, Gangshan Wu, Limin Wang.<br />
   "GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2602.00570)] 
