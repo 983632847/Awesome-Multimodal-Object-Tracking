@@ -204,10 +204,15 @@ Coming soon.
 |  [VL-SOT500](https://arxiv.org/abs/2504.01321)   |   Information Fusion-2025   | [VL-SOT500](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/VL-SOT500) | The first large-scale multi-modal small object tracking dataset with two subsets, VL-SOT230 and VL-SOT270, designed for benchmarking generic and high-speed small object tracking, respectively.  |
 |  [TNLLT](https://arxiv.org/abs/2508.05221)   |   arXiv-2025   | [TNLLT](https://github.com/Event-AHU/Open_VLTrack) | A large-scale long-term vision-language tracking benchmark dataset with 200 video sequences. |
 |  [UAV-Anti-UAV](https://arxiv.org/abs/2512.07385)   |   arXiv-2025   | [UAV-Anti-UAV](https://github.com/983632847/Awesome-Multimodal-Object-Tracking) | The first million-scale multi-modal UAV-Anti-UAV benchmark, comprising 1.05 million frames across 1,810 videos.  |  
-
+|  [MUOT-3M](https://arxiv.org/abs/2602.18006)   |   arXiv-2026   | MUOT-3M](https://github.com/AhsanBaidar/MUOT-3M_Dataset) | A 3 million frame multimodal underwater benchmark, comprising 3,030 videos.  |
 
 ### Papers
 #### 2026
+- **MUOT-3M:** Ahsan Baidar Bakht, Mohamad Alansari, Muhayy Ud Din, Muzammal Naseer, Sajid Javed, Irfan Hussain, Jiri Matas, Arif Mahmood.<br />
+"MUOT-3M: A 3 Million Frame Multimodal Underwater Benchmark and the MUTrack Tracking Method ." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.18006)]
+[[code](https://github.com/AhsanBaidar/MUOT-3M_Dataset)]
+
 - **MPVLT:** Xie, Jianyu and Li, Xin and Lyu, Bo and Fu, Yan and Zhou, Junlin and Chen, Duanbing.<br />
   "MPVLT: An efficient lightweight multi-modal prompted vision-language tracker for target tracking." ICCBDAI (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11387955)]
