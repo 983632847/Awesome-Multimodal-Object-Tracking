@@ -79,6 +79,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **MUOT-3M:** Ahsan Baidar Bakht, Mohamad Alansari, Muhayy Ud Din, Muzammal Naseer, Sajid Javed, Irfan Hussain, Jiri Matas, Arif Mahmood.<br />
+"MUOT-3M: A 3 Million Frame Multimodal Underwater Benchmark and the MUTrack Tracking Method ." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.18006)]
+[[code](https://github.com/AhsanBaidar/MUOT-3M_Dataset)]
+
 - **UAV-DC-Track:** Xiongyou Cai and Shuguang Wu and Shiwen Li and Hongru Zhang.<br />
   "Data-centric is a novel perspective for UAV-based tracking: A new benchmark via efficient data utilization strategy." Journal of Visual Communication and Image Representation (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320326000386)] 
