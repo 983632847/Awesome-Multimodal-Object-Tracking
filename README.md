@@ -1137,6 +1137,14 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- Wei Wei, et al.<br />
+  "Category Text-Guided RGBT Tracking with Shared-Specific Feature Representation." Pattern Recognition (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326002761)] 
+
+- Liu, Jun and Ke, Wei and Sheng, Hao.<br />
+  "Robust RGB-T Tracking via Multi-Feature Response Adaptive Fusion and Dynamic Selection Recovery." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11112641)]
+  
 - **STIFormer:** Boyue Xu, Yaqun Fang, Ruichao Hou, Tongwei Ren.<br />
   "STIFormer: RGB-T tracking via Spatial–Temporal Interaction Transformer." IVC (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885626000351)] 
