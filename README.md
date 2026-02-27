@@ -1137,6 +1137,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **PromptTrack:** Li, Hangfei and Liu, Guangbin and Guo, Xiao and Zha, Yufei and Zhang, Peng.<br />
+  "PromptTrack: Streaming Spatial-Temporal Prompt Learning for RGB-T Tracking." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11397188)]
+  
 - Wei Wei, et al.<br />
   "Category Text-Guided RGBT Tracking with Shared-Specific Feature Representation." Pattern Recognition (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326002761)] 
