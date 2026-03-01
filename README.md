@@ -1137,6 +1137,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **TCM-tracking:** Y Zhao, Y Wu, K Cao, D Zhang, B Liu, G Wan.<br />
+  "TCM-tracking: Real-time cross-modal interactive RGBT tracking based on temporal correlation." IVC (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0262885626000491)] 
+  [[code](https://github.com/yunqi831017/TCM-Tracking-Real-Time-Cross-Modal-Interactive-RGBT-Tracking-Based-on-Temporal-Correlation)]
+  
 - **PromptTrack:** Li, Hangfei and Liu, Guangbin and Guo, Xiao and Zha, Yufei and Zhang, Peng.<br />
   "PromptTrack: Streaming Spatial-Temporal Prompt Learning for RGB-T Tracking." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11397188)]
