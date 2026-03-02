@@ -174,6 +174,18 @@
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625029070?via%3Dihub)] 
   [[code](https://github.com/wzy7421/CMTT.git)]
 
+### CVPR 2026
+- **SpikeTrack:** Qiuyang Zhang, Jiujun Cheng, Qichao Mao, Cong Liu, Yu Fang, Yuhong Li, Mengying Ge, Shangce Gao.<br />
+  "SpikeTrack: A Spike-driven Framework for Efficient Visual Tracking." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2602.23963)] 
+  [[code](https://github.com/faicaiwawa/SpikeTrack)]
+
+- **UTPTrack:** Hao Wu, Xudong Wang, Jialiang Zhang, Junlong Tong, Xinghao Chen, Junyan Lin, Yunpu Ma, Xiaoyu Shen.<br />
+  "UTPTrack: Towards Simple and Unified Token Pruning for Visual Tracking." CVPR  (2026).
+  [[paper](https://arxiv.org/abs/2602.23734)] 
+  [[code](https://github.com/EIT-NLP/UTPTrack)]
+  
+
 ### ICLR 2026
 - **FARTrack:** Guijie Wang, Tong Lin, Yifan Bai, Anjia Cao, Shiyi Liang, Wangbo Zhao, Xing Wei.<br />
   "FARTrack: Fast Autoregressive Visual Tracking with High Performance." ICLR (2026).
