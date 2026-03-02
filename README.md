@@ -1137,6 +1137,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **ACMI:** Xiao, Zile and Zhao, Yuhan and Ning, Chuanzhi and Hu, Yaocong and Tian, Jing and Liu, Bingyou.<br />
+  "Adaptable Cross-Modality Interactive RGB-T Tracking for Extreme Scenarios." IEEE Sensors Journal (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11410036)] 
+  
 - **TCM-tracking:** Y Zhao, Y Wu, K Cao, D Zhang, B Liu, G Wan.<br />
   "TCM-tracking: Real-time cross-modal interactive RGBT tracking based on temporal correlation." IVC (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0262885626000491)] 
