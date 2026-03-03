@@ -79,6 +79,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **UETrack:** Ben Kang, Jie Zhao, Xin Chen, Wanting Geng, Bin Zhang, Lu Zhang, Dong Wang, Huchuan Lu.<br />
+  "UETrack: A Unified and Efficient Framework for Single Object Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2603.01412)] 
+  [[code](https://github.com/kangben258/UETrack)]
+  
 - **MUOT-3M:** Ahsan Baidar Bakht, Mohamad Alansari, Muhayy Ud Din, Muzammal Naseer, Sajid Javed, Irfan Hussain, Jiri Matas, Arif Mahmood.<br />
 "MUOT-3M: A 3 Million Frame Multimodal Underwater Benchmark and the MUTrack Tracking Method ." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.18006)]
