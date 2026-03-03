@@ -1137,6 +1137,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **DDAT:** Liu, Qiao and Li, Qiao and Li, Xin and Pi, Jiatian and Yuan, Di and Liu, Yunpeng.<br />
+  "Unsupervised Domain Adaptive Thermal Infrared Tracking." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11417270)] 
+  [[code](https://github.com/QiaoLiuHit/DDAT)]
+  
 - **ACMI:** Xiao, Zile and Zhao, Yuhan and Ning, Chuanzhi and Hu, Yaocong and Tian, Jing and Liu, Bingyou.<br />
   "Adaptable Cross-Modality Interactive RGB-T Tracking for Extreme Scenarios." IEEE Sensors Journal (2026).
   [[paper](https://ieeexplore.ieee.org/document/11410036)] 
