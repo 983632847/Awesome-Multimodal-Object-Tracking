@@ -1137,6 +1137,24 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- Wang, Xu and Zheng, Huanxin and Liao, Haohong and Zhang, Qiudan and Ma, Lin and Jiang, Jianmin.<br />
+  "A Visual-Linguistic Approach for Robust RGB-Thermal Tracking with Dynamic Template Adaptation." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11417308)] 
+
+- **MSD:** Awad, Mohamed and Elliethy, Ahmed and Ahmad, M. Omair and Swamy, M.N.S..<br />
+  "A Multi-level Self-Distillation-Based Unified Tracker for Efficient RGB-T Tracking." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11415354)] 
+ 
+
+- **VCT:** Deng, Jiaqi and Chen, Si and Wang, Da-Han and Zhang, Xu-Yao and Yan, Yan.<br />
+  "Video-Level Cross-Modal Temporal-Navigation for RGBT Tracking." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11417207)] 
+ 
+
+- **CMCLTrack:** Li, Pengfei, Xiaohe Li, and Zide Fan.<br />
+  "CMCLTrack: Reliability-Modulated Cross-Modal Adapter and Cross-Layer Mamba Fusion for RGB-T Tracking." Electronics  (2026).
+  [[paper](https://www.mdpi.com/2079-9292/15/5/989)]
+  
 - **DDAT:** Liu, Qiao and Li, Qiao and Li, Xin and Pi, Jiatian and Yuan, Di and Liu, Yunpeng.<br />
   "Unsupervised Domain Adaptive Thermal Infrared Tracking." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11417270)] 
