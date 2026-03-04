@@ -79,6 +79,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **SPT:** Chen, Chenglizhao and Liang, Shaofeng and Li, Luming and Song, Mengke and Yu, Xu and Pang, Shanchen.<br />
+  "Adapting Visual Trackers to Dynamic View Transitions with Shift-view Prompt Tuning." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11417211)] 
+  [[code](https://github.com/sydy0567/SPT)]
+  
 - **UETrack:** Ben Kang, Jie Zhao, Xin Chen, Wanting Geng, Bin Zhang, Lu Zhang, Dong Wang, Huchuan Lu.<br />
   "UETrack: A Unified and Efficient Framework for Single Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2603.01412)] 
@@ -197,17 +202,19 @@
   [[paper](https://arxiv.org/abs/2602.03214)] 
   [[code](https://github.com/wangguijiepedeval/FARTrack)]
 
-- **TAPTRv3:** TAPTRv3<br />
+- **TAPTRv3:** Jinyuan Qu, Hongyang Li, Shilong Liu, Tianhe Ren, Zhaoyang Zeng, Lei Zhang<br />
   "TAPTRv3: Spatial and Temporal Context Foster Robust Tracking of Any Point in Long Video." ICLR (2026).
-  [[paper](https://openreview.net/forum?id=N3WAcxTX6J)] 
+  [[paper](https://openreview.net/forum?id=N3WAcxTX6J)]
+  [[website](https://taptr.github.io/)]
 
-- **PointRePar:** <br />
+- **PointRePar:** Juntao Liu, Zikun Zhou, Zhuotao Tian, Guangming Lu, Jun Yu, Wenjie Pei<br />
   "PointRePar: SpatioTemporal Point Relation Parsing for Robust Category-Unified 3D Tracking." ICLR (2026).
   [[paper](https://openreview.net/forum?id=DLcnrY5Uqo)] 
 
-- **GOT-Edit:** <br />
+- **GOT-Edit:** Shih-Fang Chen, Jun-Cheng Chen, I-Hong Jhuo, Yen-Yu Lin<br />
   "GOT-Edit: Geometry-Aware Generic Object Tracking via Online Model Editing." ICLR  (2026).
-  [[paper](https://openreview.net/forum?id=aVa7etWnwF)]  
+  [[paper](https://openreview.net/forum?id=aVa7etWnwF)]
+  [[code](https://chenshihfang.github.io/GOT-EDIT)]  
 
   
 ### AAAI 2026
