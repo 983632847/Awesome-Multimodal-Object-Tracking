@@ -194,7 +194,11 @@
   "UTPTrack: Towards Simple and Unified Token Pruning for Visual Tracking." CVPR  (2026).
   [[paper](https://arxiv.org/abs/2602.23734)] 
   [[code](https://github.com/EIT-NLP/UTPTrack)]
-  
+
+- **RAGTrack:** Hao Li, Yuhao Wang, Wenning Hao, Pingping Zhang, Dong Wang, Huchuan Lu.<br />
+  "RAGTrack: Language-aware RGBT Tracking with Retrieval-Augmented Generation." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2603.03617)] 
+  [[code](https://github.com/IdolLab/RAGTrack)]  
 
 ### ICLR 2026
 - **FARTrack:** Guijie Wang, Tong Lin, Yifan Bai, Anjia Cao, Shiyi Liang, Wangbo Zhao, Xing Wei.<br />
