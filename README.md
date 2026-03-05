@@ -1137,11 +1137,16 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **RAGTrack:** Hao Li, Yuhao Wang, Wenning Hao, Pingping Zhang, Dong Wang, Huchuan Lu.<br />
+  "RAGTrack: Language-aware RGBT Tracking with Retrieval-Augmented Generation." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2603.03617)] 
+  [[code](https://github.com/IdolLab/RAGTrack)]
+  
 - Wang, Xu and Zheng, Huanxin and Liao, Haohong and Zhang, Qiudan and Ma, Lin and Jiang, Jianmin.<br />
   "A Visual-Linguistic Approach for Robust RGB-Thermal Tracking with Dynamic Template Adaptation." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11417308)] 
 
-- **MSD:** Awad, Mohamed and Elliethy, Ahmed and Ahmad, M. Omair and Swamy, M.N.S..<br />
+- **MSD:** Awad, Mohamed and Elliethy, Ahmed and Ahmad, M. Omair and Swamy, M.N.S.<br />
   "A Multi-level Self-Distillation-Based Unified Tracker for Efficient RGB-T Tracking." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11415354)] 
  
