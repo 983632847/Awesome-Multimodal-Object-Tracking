@@ -84,11 +84,6 @@
   [[paper](https://ieeexplore.ieee.org/document/11417211)] 
   [[code](https://github.com/sydy0567/SPT)]
   
-- **UETrack:** Ben Kang, Jie Zhao, Xin Chen, Wanting Geng, Bin Zhang, Lu Zhang, Dong Wang, Huchuan Lu.<br />
-  "UETrack: A Unified and Efficient Framework for Single Object Tracking." ArXiv (2026).
-  [[paper](https://arxiv.org/abs/2603.01412)] 
-  [[code](https://github.com/kangben258/UETrack)]
-  
 - **MUOT-3M:** Ahsan Baidar Bakht, Mohamad Alansari, Muhayy Ud Din, Muzammal Naseer, Sajid Javed, Irfan Hussain, Jiri Matas, Arif Mahmood.<br />
 "MUOT-3M: A 3 Million Frame Multimodal Underwater Benchmark and the MUTrack Tracking Method ." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.18006)]
@@ -185,6 +180,11 @@
   [[code](https://github.com/wzy7421/CMTT.git)]
 
 ### CVPR 2026
+- **UETrack:** Ben Kang, Jie Zhao, Xin Chen, Wanting Geng, Bin Zhang, Lu Zhang, Dong Wang, Huchuan Lu.<br />
+  "UETrack: A Unified and Efficient Framework for Single Object Tracking." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2603.01412)] 
+  [[code](https://github.com/kangben258/UETrack)]
+  
 - **SpikeTrack:** Qiuyang Zhang, Jiujun Cheng, Qichao Mao, Cong Liu, Yu Fang, Yuhong Li, Mengying Ge, Shangce Gao.<br />
   "SpikeTrack: A Spike-driven Framework for Efficient Visual Tracking." CVPR (2026).
   [[paper](https://arxiv.org/abs/2602.23963)] 
