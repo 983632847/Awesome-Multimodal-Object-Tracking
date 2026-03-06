@@ -79,6 +79,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **EdgeDAM:** Syed Muhammad Raza, Syed Murtaza Hussain Abidi, Khawar Islam, Muhammad Ibrahim, Ajmal Saeed Mian.<br />
+  "EdgeDAM: Real-time Object Tracking for Mobile Devices." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2603.05463)] 
+
 - **SPT:** Chen, Chenglizhao and Liang, Shaofeng and Li, Luming and Song, Mengke and Yu, Xu and Pang, Shanchen.<br />
   "Adapting Visual Trackers to Dynamic View Transitions with Shift-view Prompt Tuning." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11417211)] 
