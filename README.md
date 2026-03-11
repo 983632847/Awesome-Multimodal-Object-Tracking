@@ -208,6 +208,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **GLAD:** Xingyu Luo, Yidong Cai, Jie Liu, Jie Tang, Gangshan Wu, Limin Wang.<br />
+  "GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates." IJCV (2026).
+  [[paper](https://arxiv.org/abs/2602.00570)] 
+  [[code](https://github.com/Confetti-lxy/GLAD)]
+  
 - **MUOT-3M:** Ahsan Baidar Bakht, Mohamad Alansari, Muhayy Ud Din, Muzammal Naseer, Sajid Javed, Irfan Hussain, Jiri Matas, Arif Mahmood.<br />
 "MUOT-3M: A 3 Million Frame Multimodal Underwater Benchmark and the MUTrack Tracking Method ." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.18006)]
@@ -216,11 +221,6 @@ Coming soon.
 - **MPVLT:** Xie, Jianyu and Li, Xin and Lyu, Bo and Fu, Yan and Zhou, Junlin and Chen, Duanbing.<br />
   "MPVLT: An efficient lightweight multi-modal prompted vision-language tracker for target tracking." ICCBDAI (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11387955)]
-  
-- **GLAD:** Xingyu Luo, Yidong Cai, Jie Liu, Jie Tang, Gangshan Wu, Limin Wang.<br />
-  "GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates." ArXiv (2026).
-  [[paper](https://arxiv.org/abs/2602.00570)] 
-  [[code](https://github.com/Confetti-lxy/GLAD)]
   
 - **SOIBench:** Yipei Wang, Shiyu Hu, Shukun Jia, Panxi Xu, Hongfei Ma, Yiping Ma, Jing Zhang, Xiaobo Lu, Xin Zhao.<br />
   "SOI is the Root of All Evil: Quantifying and Breaking Similar Object Interference in Single Object Tracking." AAAI (2026).
