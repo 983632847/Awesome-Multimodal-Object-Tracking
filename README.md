@@ -208,16 +208,16 @@ Coming soon.
 
 ### Papers
 #### 2026
-- **GLAD:** Xingyu Luo, Yidong Cai, Jie Liu, Jie Tang, Gangshan Wu, Limin Wang.<br />
-  "GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates." IJCV (2026).
-  [[paper](https://arxiv.org/abs/2602.00570)] 
-  [[code](https://github.com/Confetti-lxy/GLAD)]
-  
 - **MUOT-3M:** Ahsan Baidar Bakht, Mohamad Alansari, Muhayy Ud Din, Muzammal Naseer, Sajid Javed, Irfan Hussain, Jiri Matas, Arif Mahmood.<br />
 "MUOT-3M: A 3 Million Frame Multimodal Underwater Benchmark and the MUTrack Tracking Method ." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.18006)]
 [[code](https://github.com/AhsanBaidar/MUOT-3M_Dataset)]
 
+- **GLAD:** Xingyu Luo, Yidong Cai, Jie Liu, Jie Tang, Gangshan Wu, Limin Wang.<br />
+  "GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2602.00570)] 
+  [[code](https://github.com/Confetti-lxy/GLAD)]
+  
 - **MPVLT:** Xie, Jianyu and Li, Xin and Lyu, Bo and Fu, Yan and Zhou, Junlin and Chen, Duanbing.<br />
   "MPVLT: An efficient lightweight multi-modal prompted vision-language tracker for target tracking." ICCBDAI (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11387955)]
