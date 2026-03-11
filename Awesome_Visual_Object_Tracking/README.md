@@ -261,8 +261,10 @@
   "Tracking and Segmenting Anything in Any Modality." AAAI (2026).
   [[paper](https://arxiv.org/abs/2511.19475)]
 
-- Shilei Wang; Pujian Lai; Dong Gao; Jifeng Ning; GongCheng.<br />
+- **MDTrack:** Shilei Wang; Pujian Lai; Dong Gao; Jifeng Ning; GongCheng.<br />
   "Exploring Modality-Aware Fusion and Decoupled Temporal Propagation for Multi-Modal Object Tracking." AAAI (2026).
+  [[paper](https://arxiv.org/abs/2603.09287)]
+  [[code](https://github.com/wsumel/MDTrack)]
   
 - **OmniPT:** Teng Fu; Mengyang Zhao; Ke Niu; Kaixin Peng; Bin Li.<br />
   "OmniPT: Unleashing the Potential of Large Vision Language Models for Pedestrian Tracking and Understanding." AAAI (2026).
