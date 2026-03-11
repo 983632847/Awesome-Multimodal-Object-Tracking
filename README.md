@@ -214,8 +214,8 @@ Coming soon.
 [[code](https://github.com/AhsanBaidar/MUOT-3M_Dataset)]
 
 - **GLAD:** Xingyu Luo, Yidong Cai, Jie Liu, Jie Tang, Gangshan Wu, Limin Wang.<br />
-  "GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates." ArXiv (2026).
-  [[paper](https://arxiv.org/abs/2602.00570)] 
+  "GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates." IJCV (2026).
+  [[paper](https://link.springer.com/article/10.1007/s11263-026-02774-7)] 
   [[code](https://github.com/Confetti-lxy/GLAD)]
   
 - **MPVLT:** Xie, Jianyu and Li, Xin and Lyu, Bo and Fu, Yan and Zhou, Junlin and Chen, Duanbing.<br />
