@@ -79,6 +79,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **TSMamba:** Han Wu and Hao Sun and Kui Liu and Kefeng Ji and Gangyao Kuang.<br />
+  "TSMamba: Multi-drone feature interaction via temporal-spatial mamba networks for aerial object tracking." Information Fusion (2026).
+  [[paper](TSMamba: Multi-drone feature interaction via temporal-spatial mamba networks for aerial object tracking)] 
+  [[code](https://github.com/HanJin0326/TSMamba)]
+  
 - **EdgeDAM:** Syed Muhammad Raza, Syed Murtaza Hussain Abidi, Khawar Islam, Muhammad Ibrahim, Ajmal Saeed Mian.<br />
   "EdgeDAM: Real-time Object Tracking for Mobile Devices." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2603.05463)] 
