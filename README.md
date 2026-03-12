@@ -1228,6 +1228,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   [[paper](https://arxiv.org/abs/2511.17967)] 
   [[code](https://github.com/IdolLab/CADTrack)]
 
+- **MoKA-HP:** Zhixi Wu, Si Chen, Da-Han Wang, Shunzhi Zhu.<br />
+  "MoKA-HP: Motion-aware KAdaptation with historical prompts for efficient and robust RGB-T tracking." Neurocomputing (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225028358)]
+
 - Jiahao Wang; Fang Liu; Hao Wang; Shuo Li; Xinyi Wang;Puhua Chen.<br />
   "Semantic Feature Purification for Adversarially-Aware RGB-T Tracking." AAAI (2026).
 
