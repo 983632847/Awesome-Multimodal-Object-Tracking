@@ -211,8 +211,13 @@
 - **RAGTrack:** Hao Li, Yuhao Wang, Wenning Hao, Pingping Zhang, Dong Wang, Huchuan Lu.<br />
   "RAGTrack: Language-aware RGBT Tracking with Retrieval-Augmented Generation." CVPR (2026).
   [[paper](https://arxiv.org/abs/2603.03617)] 
-  [[code](https://github.com/IdolLab/RAGTrack)]  
-
+  [[code](https://github.com/IdolLab/RAGTrack)]
+  
+- **Track-On-R:** Görkay Aydemir, Fatma Güney, Weidi Xie.<br />
+  "Real-World Point Tracking with Verifier-Guided Pseudo-Labeling." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2603.12217)] 
+  [[code](https://kuis-ai.github.io/track_on_r)]
+  
 ### ICLR 2026
 - **FARTrack:** Guijie Wang, Tong Lin, Yifan Bai, Anjia Cao, Shiyi Liang, Wangbo Zhao, Xing Wei.<br />
   "FARTrack: Fast Autoregressive Visual Tracking with High Performance." ICLR (2026).
