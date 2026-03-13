@@ -79,6 +79,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **LoongTrack:** Wenkang Zhang and Tianyang Xu and Fei Xie and Mu Nie and Wankou Yang.<br />
+  "LoongTrack: Exploring Long-Sequence Modeling for Visual Tracking." NN (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0893608026002868)]
+  
 - **TSMamba:** Han Wu and Hao Sun and Kui Liu and Kefeng Ji and Gangyao Kuang.<br />
   "TSMamba: Multi-drone feature interaction via temporal-spatial mamba networks for aerial object tracking." Information Fusion (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253526001582)] 
