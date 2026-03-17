@@ -1854,6 +1854,14 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 |  [MM-UAV](https://arxiv.org/abs/2511.18344)   |   arXiv-2025  |  [MM-UAV](https://xuefeng-zhu5.github.io/MM-UAV/)  |  The first large-scale benchmark for Multi-Modal UAV Tracking, integrating three key sensing modalities (RGB, infrared (IR), and event signals), with 1,321 video sequences and 2.8 million annotated frames  |  
 ### Papers
 #### 2026
+- **SDMoEA:** Yabin Zhu, Jianqi Li, Chenglong Li, Jiaxiang Wang, Chengjie Gu, Jin Tang.<br />
+  "Sparse-Dense Mixture of Experts Adapter for Multi-Modal Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2603.13719)] 
+
+- **Uni-MDTrack:** Wenrui Cai, Zhenyi Lu, Yuzhe Li, Yongchao Feng, Jinqing Zhang, Qingjie Liu, Yunhong Wang.<br />
+  "Uni-MDTrack: Learning Decoupled Memory and Dynamic States for Parameter-Efficient Visual Tracking in All Modality." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2603.14452)]
+  
 - **DSPT:** Gang He and Long Gao and Yuze Ke and Haijun Chen and Yan Jiang.<br />
   "Multi-modal object tracking with detailed spatial prompt learning." Pattern Recognition (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326003985)] 
