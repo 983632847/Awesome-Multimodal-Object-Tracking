@@ -79,6 +79,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- Huang, Xingsen and Huang, Yuqing and Wang, Hongpeng and Wang, Yaowei and Li, Xin.<br />
+  "Saliency-Aware Adversarial Attacks on Visual Trackers." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11432987)]
+  
 - **LoongTrack:** Wenkang Zhang and Tianyang Xu and Fei Xie and Mu Nie and Wankou Yang.<br />
   "LoongTrack: Exploring Long-Sequence Modeling for Visual Tracking." NN (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0893608026002868)]
