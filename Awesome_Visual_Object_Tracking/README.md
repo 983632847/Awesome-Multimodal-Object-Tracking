@@ -79,6 +79,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **M2P:** Qiangqiang Wu, Tianyu Yang, Bo Fang, Jia Wan, Matias Di Martino, Guillermo Sapiro, Antoni B. Chan.<br />
+  "M2P: Improving Visual Foundation Models with Mask-to-Point Weakly-Supervised Learning for Dense Point Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2603.17813)]
+  
 - Huang, Xingsen and Huang, Yuqing and Wang, Hongpeng and Wang, Yaowei and Li, Xin.<br />
   "Saliency-Aware Adversarial Attacks on Visual Trackers." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11432987)]
