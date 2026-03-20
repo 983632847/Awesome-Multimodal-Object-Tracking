@@ -1137,6 +1137,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **CAST:** Xiantao Hu and Fansheng Zeng and Bineng Zhong and Zhangyong Tang and Wenxuan Fang and Jun Li and Ying Tai and Jian Yang.<br />
+  "Curriculum Adaptation for One-Stream RGB–T Tracking." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326004607)]
+  
 - **RAGTrack:** Hao Li, Yuhao Wang, Wenning Hao, Pingping Zhang, Dong Wang, Huchuan Lu.<br />
   "RAGTrack: Language-aware RGBT Tracking with Retrieval-Augmented Generation." CVPR (2026).
   [[paper](https://arxiv.org/abs/2603.03617)] 
