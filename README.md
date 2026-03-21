@@ -208,6 +208,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **ChatTracker:** Zhang, Yu and Sun, Yiming and Zhang, Mi and Yu, Fan and Chen, Shaoxiang and Li, Yang and Wang, Changbo and Zhu, Jianke and Hoi, Steven C.H.<br />
+  "ChatTracker: Enhancing Visual Tracking via LLM-Driven Iterative Description Refinement." TPAMI (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11435004)] 
+  [[code](https://ymsun2020.github.io/ChatTrackerV2_website/)]
+  
 - **MUOT-3M:** Ahsan Baidar Bakht, Mohamad Alansari, Muhayy Ud Din, Muzammal Naseer, Sajid Javed, Irfan Hussain, Jiri Matas, Arif Mahmood.<br />
 "MUOT-3M: A 3 Million Frame Multimodal Underwater Benchmark and the MUTrack Tracking Method ." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.18006)]
@@ -862,9 +867,15 @@ Coming soon.
 |  [RGBD1K](https://arxiv.org/abs/2208.09787)   |   AAAI-2023   |  [RGBD1K](https://github.com/xuefeng-zhu5/RGBD1K)  |   1,050 sequences, 2.5M frames |  
 |  [DTTD](https://arxiv.org/abs/2302.05991)   |   CVPR Workshops-2023   |  [DTTD](https://github.com/augcog/DTTDv1)  | 103 scenes, 55691 frames   |  
 |  [ARKitTrack](https://arxiv.org/abs/2303.13885)   |   CVPR-2023   |  [ARKitTrack](https://arkittrack.github.io)  |  300 RGB-D sequences, 455 targets, 229.7K video frames  |  
+|  [UWRGBD1k](https://www.sciencedirect.com/science/article/abs/pii/S003132032600453X)   |   PR-2026   |  [UWRGBD1k](https://github.com/yan245836977/UWRGBD1k)  |  1,223 RGB-D video sequences consisting of 641.76k frames and 15 challenging attributes  | 
 
 ### Papers
 #### 2026
+- **UWRGBD1k:** Kaixiang Yan and Wenhua Qian and Cong Bi and Peng Liu.<br />
+  "UWRGBD1k: a large-scale RGBD dataset of underwater object tracking." Pattern Recognition (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S003132032600453X)] 
+  [[code](https://github.com/yan245836977/UWRGBD1k)]
+  
 - Ge Ying; Dawei Zhang; Chengzhuan Yang; Wei Liu;Sang-Woon Jeon; Hua Wang; Changqin Huang; ZhonglongZheng.<br />
   "Exploiting All Mamba Fusion for Efficient RGB-D Tracking." AAAI (2026).
 
