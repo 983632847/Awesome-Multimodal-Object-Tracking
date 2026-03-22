@@ -1148,6 +1148,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **CoReTrack:** Yujia Dong, et al.<br />
+  "CoReTrack: Consensus-residual fusion for reliability-aware RGBT tracking." ESWA (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426009942)]
+  
 - **CAST:** Xiantao Hu and Fansheng Zeng and Bineng Zhong and Zhangyong Tang and Wenxuan Fang and Jun Li and Ying Tai and Jian Yang.<br />
   "Curriculum Adaptation for One-Stream RGB–T Tracking." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326004607)]
