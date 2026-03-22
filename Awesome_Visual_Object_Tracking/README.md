@@ -79,6 +79,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **IMSETrack:** Xianxin Jia, et al.<br />
+  "Implicit Motion State Modeling for Efficient and Effective Video-Level Object Tracking." ESWA (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426009966)]
+  
 - **M2P:** Qiangqiang Wu, Tianyu Yang, Bo Fang, Jia Wan, Matias Di Martino, Guillermo Sapiro, Antoni B. Chan.<br />
   "M2P: Improving Visual Foundation Models with Mask-to-Point Weakly-Supervised Learning for Dense Point Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2603.17813)]
