@@ -231,8 +231,9 @@ Coming soon.
   "SOI is the Root of All Evil: Quantifying and Breaking Similar Object Interference in Single Object Tracking." AAAI (2026).
   [[paper](https://arxiv.org/abs/2508.09524)]
   
-- Guangtong Zhang; Bineng Zhong; Shirui Yang; YangWang; Tian Bai.<br />
+- **ADTrack:** Guangtong Zhang; Bineng Zhong; Shirui Yang; YangWang; Tian Bai.<br />
   "Aware Distillation for Robust Vision-Language Tracking Under Linguistic Sparsity." AAAI (2026).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38237)]
     
 #### 2025
 - **UAV-Anti-UAV:** Chunhui Zhang, Li Liu, Zhipeng Zhang, Yong Wang, Hao Wen, Xi Zhou, Shiming Ge, Yanfeng Wang.<br />
