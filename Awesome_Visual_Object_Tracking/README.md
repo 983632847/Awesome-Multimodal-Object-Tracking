@@ -254,7 +254,7 @@
 ### AAAI 2026
 - **SFCATrack:** Yun Xiao; Yuhang Wang; Jiandong Jin; Wankang Zhang;Chenglong Li.<br />
   "Unaligned UAV RGBT Tracking: A Largescale Benchmark and a Novel Approach." AAAI (2026).
-  [[paper](https://github.com/NOP1224/Unaligned_RGBT_Tracking/blob/main/Unaligned_UAV_RGBT_Tracking__A_Largescale_Benchmark_and_A_Novel_Approach_AAAI_CRC.pdf)] 
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38079)] 
   [[code](https://github.com/Yhw-lol127/SFCATrack)]
   [[project](https://github.com/NOP1224/Unaligned_RGBT_Tracking)]
 
@@ -268,19 +268,18 @@
   [[paper](https://arxiv.org/abs/2511.17967)] 
   [[code](https://github.com/IdolLab/CADTrack)]
 
-- Jiahao Wang; Fang Liu; Hao Wang; Shuo Li; Xinyi Wang;Puhua Chen.<br />
+- **SFPT:** Jiahao Wang; Fang Liu; Hao Wang; Shuo Li; Xinyi Wang;Puhua Chen.<br />
   "Semantic Feature Purification for Adversarially-Aware RGB-T Tracking." AAAI (2026).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37949)]
 
 - **AlignTrack:** Chuanyu Sun; Jiqing Zhang; Yang Wang; YuanchenWang; Yutong Jiang; Baocai Yin; Xin Yang.<br />
   "AlignTrack: Top-Down Spatiotemporal Resolution Alignment for RGB-Event Visual Tracking." AAAI (2026).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37874)]
   [[code](https://github.com/scy0712/AlignTrack)]
 
-- Ge Ying; Dawei Zhang; Chengzhuan Yang; Wei Liu;Sang-Woon Jeon; Hua Wang; Changqin Huang; ZhonglongZheng.<br />
+- **AMTrack:** Ge Ying; Dawei Zhang; Chengzhuan Yang; Wei Liu;Sang-Woon Jeon; Hua Wang; Changqin Huang; ZhonglongZheng.<br />
   "Exploiting All Mamba Fusion for Efficient RGB-D Tracking." AAAI (2026).
-
-- **SATA:** Tianlu Zhang, Qiang Zhang, Guiguang Ding, Jungong Han.<br />
-  "Tracking and Segmenting Anything in Any Modality." AAAI (2026).
-  [[paper](https://arxiv.org/abs/2511.19475)]
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38195)]
 
 - **MDTrack:** Shilei Wang; Pujian Lai; Dong Gao; Jifeng Ning; GongCheng.<br />
   "Exploring Modality-Aware Fusion and Decoupled Temporal Propagation for Multi-Modal Object Tracking." AAAI (2026).
@@ -295,22 +294,26 @@
   "SOI is the Root of All Evil: Quantifying and Breaking Similar Object Interference in Single Object Tracking." AAAI (2026).
   [[paper](https://arxiv.org/abs/2508.09524)]
   
-- Guangtong Zhang; Bineng Zhong; Shirui Yang; YangWang; Tian Bai.<br />
+- **ADTrack:** Guangtong Zhang; Bineng Zhong; Shirui Yang; YangWang; Tian Bai.<br />
   "Aware Distillation for Robust Vision-Language Tracking Under Linguistic Sparsity." AAAI (2026).
-  
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38237)]
+
 - **MUTrack:** Weijing Wu; Qihua Liang; Bineng Zhong; Xiaohu Tang;Yufei Tan; Ning Li; Yuanliang Xue.<br />
   "MUTrack: A Memory-Aware Unified Representation Framework for Visual Tracking." AAAI (2026).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38052)]
   
-- Junze Shi; Yang Yu; Jian Shi; Haibo Luo.<br />
+- **MoDTrack:** Hongtao Yang; Bineng Zhong; Qihua Liang; Xiantao Hu;Yufei Tan; Haiying Xia; Shuxiang Song.<br />
+  "Motion-Aware Object Tracking via Motion and Geometry-Aware Cues." AAAI (2026).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38144)]
+
+- **STDTrack:** Junze Shi; Yang Yu; Jian Shi; Haibo Luo.<br />
   "Exploring Reliable Spatiotemporal Dependencies for Efficient Visual Tracking." AAAI (2026).
   [[paper](https://arxiv.org/abs/2601.09078)]
   
-- Hongtao Yang; Bineng Zhong; Qihua Liang; Xiantao Hu;Yufei Tan; Haiying Xia; Shuxiang Song.<br />
-  "Motion-Aware Object Tracking via Motion and Geometry-Aware Cues." AAAI (2026).
-
 - **HTTrack:** Jiahao Wang; Fang Liu; Licheng Jiao; Hao Wang;Shuo Li; Xinyi Wang; Lingling Li; Puhua Chen;Xu Liu.<br />
   "HTTrack: Learning to Perceive Targets via Historical Trajectories in Satellite Video Tracking." AAAI (2026).
-  
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37950)]
+
 - **AerialMind:** Chenglizhao Chen; Shaofeng Liang; RunweiGuan; Xiaolou Sun; Haocheng Zhao; HaiyunJiang; Tao Huang; Henghui Ding; Qing-Long Han.<br />
   "AerialMind: Towards Referring Multi-Object Tracking in UAV Scenarios." AAAI (2026).
   [[paper](https://arxiv.org/abs/2511.21053)] 
@@ -326,6 +329,10 @@
   [[paper](https://arxiv.org/abs/2503.06983)] 
   [[code](https://github.com/wang-jh18-SVM/Griffin)]
 
+- **SATA:** Tianlu Zhang, Qiang Zhang, Guiguang Ding, Jungong Han.<br />
+  "Tracking and Segmenting Anything in Any Modality." AAAI (2026).
+  [[paper](https://arxiv.org/abs/2511.19475)]
+  
 - **SAM2-OV:** Yangkai Chen; Qiangqiang Wu; Guangyao Li; JunlongGao; Guanglin Niu; Hanzi Wang.<br />
   "SAM2-OV: A Novel Detection-Only Tuning Paradigm for Open-Vocabulary Multi-Object Tracking." AAAI (2026).
   [[code](https://github.com/kaiycv/SAM2-OV)]
@@ -350,8 +357,9 @@
   [[paper](https://arxiv.org/abs/2508.11323)] 
   [[code](https://github.com/zhn12343333/DSCTrack)]
 
-- Chenzhi Zhao; Wufan Wang; Bo Zhang; Wendong Wang.<br />
+- **LEAP-Track:** Chenzhi Zhao; Wufan Wang; Bo Zhang; Wendong Wang.<br />
   "Learning to LEAP: Efficient Dense Point Tracking by Focusing Where It Matters." AAAI (2026).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38311)]
 
 - **CompTrack:** Sifan Zhou; Yichao Cao; Jiahao Nie; Yuqian Fu;Ziyu Zhao; Xiaobo Lu; Shuo Wang.<br />
   "CompTrack: Information Bottleneck-Guided Low-Rank Dynamic Token Compression for Point Cloud Tracking." AAAI (2026).
@@ -359,6 +367,7 @@
 
 - **E-MaT:** Han Han; Wei Zhai; Baocai Yin; Yang Cao; Bin Li;Zheng-jun Zha.<br />
   "E-MaT: Event-oriented Mamba for Egocentric Point Tracking." AAAI (2026).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/42454)]
   
 - Rulin Zhou; Wenlong He; An Wang; JianhangZhang; Xuanhui Zeng; Xi Zhang; Chaowei Zhu;Haijun Hu; Hongliang Ren.<br />
   "Bridging Vision and Language for Robust Context-Aware Surgical Point Tracking: The VL-SurgPT Dataset and Benchmark." AAAI (2026).
