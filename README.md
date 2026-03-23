@@ -877,8 +877,9 @@ Coming soon.
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S003132032600453X)] 
   [[code](https://github.com/yan245836977/UWRGBD1k)]
   
-- Ge Ying; Dawei Zhang; Chengzhuan Yang; Wei Liu;Sang-Woon Jeon; Hua Wang; Changqin Huang; ZhonglongZheng.<br />
+- **AMTrack:** Ge Ying; Dawei Zhang; Chengzhuan Yang; Wei Liu;Sang-Woon Jeon; Hua Wang; Changqin Huang; ZhonglongZheng.<br />
   "Exploiting All Mamba Fusion for Efficient RGB-D Tracking." AAAI (2026).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38195)]
 
 #### 2025
 - **RDT-TEF:** Long Gao and Yuze Ke and Wanlin Zhao and Yang Zhang and Yan Jiang and Gang He and Yunsong Li.<br />
@@ -1252,8 +1253,9 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   "MoKA-HP: Motion-aware KAdaptation with historical prompts for efficient and robust RGB-T tracking." Neurocomputing (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225028358)]
 
-- Jiahao Wang; Fang Liu; Hao Wang; Shuo Li; Xinyi Wang;Puhua Chen.<br />
+- **SFPT** Jiahao Wang; Fang Liu; Hao Wang; Shuo Li; Xinyi Wang;Puhua Chen.<br />
   "Semantic Feature Purification for Adversarially-Aware RGB-T Tracking." AAAI (2026).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37949)]
 
 - **PATrack:** Shengbo Wang and Yunfeng Li and Lei Deng and Guangkai Sun and Mingli Dong.<br />
   "PATrack: Infrared–visible image dynamic fusion with prompts and adapters for target tracking." Optics & Laser Technology (2026).
