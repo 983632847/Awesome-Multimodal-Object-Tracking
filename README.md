@@ -1876,6 +1876,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 |  [MM-UAV](https://arxiv.org/abs/2511.18344)   |   arXiv-2025  |  [MM-UAV](https://xuefeng-zhu5.github.io/MM-UAV/)  |  The first large-scale benchmark for Multi-Modal UAV Tracking, integrating three key sensing modalities (RGB, infrared (IR), and event signals), with 1,321 video sequences and 2.8 million annotated frames  |  
 ### Papers
 #### 2026
+- Boyue Xu and Ruichao Hou and Tongwei Ren and Dongming Zhou and Gangshan Wu and Jinde Cao.<br />
+  "Learning Frequency and Memory-Aware Prompts for Multi-Modal Object Tracking." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S003132032600498X)] 
+  [[code](https://github.com/xuboyue1999/mmtrack.git)]
+  
 - **PATrack:** He Wang, Tianyang Xu, Zhangyong Tang, Xiao-Jun Wu, Josef Kittler.<br />
   "Learning Progressive Adaptation for Multi-Modal Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2603.21100)] 
