@@ -79,6 +79,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **DPTracker:** Yiheng Wang, Changhong Fu, Liangliang Yao, Haobo Zuo, Zijie Zhang.<br />
+  "Dual Prompt-Driven Feature Encoding for Nighttime UAV Tracking." IEEE ICRA (2026).
+  [[paper](https://arxiv.org/abs/2603.19628)] 
+  [[code](https://github.com/yiheng-wang-duke/DPTracker)]
+  
 - **IMSETrack:** Xianxin Jia, et al.<br />
   "Implicit Motion State Modeling for Efficient and Effective Video-Level Object Tracking." ESWA (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426009966)]
@@ -230,6 +235,11 @@
   [[paper](https://arxiv.org/abs/2603.12217)] 
   [[code](https://kuis-ai.github.io/track_on_r)]
   
+- **TCEI:** Wen Guo, Pengfei Zhao, Zongmeng Wang, Yufan Hu, Junyu Gao.<br />
+  "Dual-level Adaptation for Multi-Object Tracking: Building Test-Time Calibration from Experience and Intuition." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2603.21629)] 
+  [[code](https://github.com/1941Zpf/TCEI)]
+
 ### ICLR 2026
 - **FARTrack:** Guijie Wang, Tong Lin, Yifan Bai, Anjia Cao, Shiyi Liang, Wangbo Zhao, Xing Wei.<br />
   "FARTrack: Fast Autoregressive Visual Tracking with High Performance." ICLR (2026).
