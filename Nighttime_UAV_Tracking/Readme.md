@@ -129,6 +129,7 @@ cd tracking/
 python test.py
 ```
 
+Training Datasets: GOT-10k, LaSOT, COCO, TrackingNet, and VastTrack.
 
 ### Evaluation Toolkit 
 * Download baseline results through [Baidu Pan](https://pan.baidu.com/s/1bhCRBOrDr6CnfKI-lJ_87g?pwd=VLS2). 
