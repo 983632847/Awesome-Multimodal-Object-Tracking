@@ -208,6 +208,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **ETS-VLTrack:** Changjun Wu and Mengqi Lin and Qiaohua Wang and Huanlong Zhang and Zhoujingzi Qiu and Xiao Wang.<br />
+  "Enhancing target semantic information for vision-language tracking." Journal of Visual Communication and Image Representation (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320326000817)]
+  
 - **ChatTracker:** Zhang, Yu and Sun, Yiming and Zhang, Mi and Yu, Fan and Chen, Shaoxiang and Li, Yang and Wang, Changbo and Zhu, Jianke and Hoi, Steven C.H.<br />
   "ChatTracker: Enhancing Visual Tracking via LLM-Driven Iterative Description Refinement." TPAMI (2026).
   [[paper](https://ieeexplore.ieee.org/document/11435004)] 
