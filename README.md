@@ -208,6 +208,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **GVLTrack:** Jian Tao, Sixian Chan, Bai Cong, Xiaoqin Zhang.<br />
+  "GVLTrack: Global Vision-Language Tracking with Multi-Stage Modal Fusion." ACM Trans. Multimedia Comput. Commun. Appl. (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3803863)]
+  
 - **ETS-VLTrack:** Changjun Wu and Mengqi Lin and Qiaohua Wang and Huanlong Zhang and Zhoujingzi Qiu and Xiao Wang.<br />
   "Enhancing target semantic information for vision-language tracking." Journal of Visual Communication and Image Representation (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320326000817)]
