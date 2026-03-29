@@ -208,6 +208,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **SDTrack:** Tian Bai and Shirui Yang and Yang Wang and Guangtong Zhang.<br />
+  "Selective Distillation of Language Tokens for Redundancy Suppression in Vision-Language Tracking." ESWA (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426011681)]
+  
 - **GVLTrack:** Jian Tao, Sixian Chan, Bai Cong, Xiaoqin Zhang.<br />
   "GVLTrack: Global Vision-Language Tracking with Multi-Stage Modal Fusion." ACM Trans. Multimedia Comput. Commun. Appl. (2026).
   [[paper](https://dl.acm.org/doi/10.1145/3803863)]
