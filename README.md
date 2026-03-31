@@ -657,6 +657,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **SOR-Track:** Dexing Huang, Shiao Wang, Fan Zhang, Xiao Wang.<br />
+  "Spatial Orthogonal Refinement for Robust RGB-Event Visual Object Tracking." ICAIS and ISAS (2026).
+  [[paper](https://arxiv.org/abs/2603.27913)] 
+  [[code](https://github.com/Event-AHU/OpenEvTracking)]
+  
 - **APMTrack:** Shiao Wang, Xiao Wang, Haonan Zhao, Jiarui Xu, Bo Jiang, Lin Zhu, Xin Zhao, Yonghong Tian, Jin Tang.<br />
   "Decoupling Amplitude and Phase Attention in Frequency Domain for RGB-Event based Visual Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2601.01022)] 
