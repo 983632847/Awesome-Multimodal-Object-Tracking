@@ -79,6 +79,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **STATrack:** Pengzhi Zhong, Jiwei Mo, Dan Zeng, Feixiang He, Shuiwang Li.<br />
+  "Fully Spiking Neural Networks with Target Awareness for Energy-Efficient UAV Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2603.27493)]
+  
 - **DPTracker:** Yiheng Wang, Changhong Fu, Liangliang Yao, Haobo Zuo, Zijie Zhang.<br />
   "Dual Prompt-Driven Feature Encoding for Nighttime UAV Tracking." IEEE ICRA (2026).
   [[paper](https://arxiv.org/abs/2603.19628)] 
