@@ -208,6 +208,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **ESMT:** Zhang, J., Wei, Y., Li, Y. et al.<br />
+  "ESMT: Context-adaptive vision-language tracking with episodic-semantic memory." Applied Intelligence (2026).
+  [[paper](https://link.springer.com/article/10.1007/s10489-026-07218-w)]
+  
 - **SDTrack:** Tian Bai and Shirui Yang and Yang Wang and Guangtong Zhang.<br />
   "Selective Distillation of Language Tokens for Redundancy Suppression in Vision-Language Tracking." ESWA (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426011681)]
