@@ -244,6 +244,10 @@
   [[paper](https://arxiv.org/abs/2603.21629)] 
   [[code](https://github.com/1941Zpf/TCEI)]
 
+- **FADE:** Halima Bouzidi, Haoyu Liu, Yonatan Gizachew Achamyeleh, Praneetsai Vasu Iddamsetty, Mohammad Abdullah Al Faruque .<br />
+  "Out of Sight, Out of Track: Adversarial Attacks on Propagation-based Multi-Object Trackers via Query State Manipulation." CVPR  (2026).
+  [[paper](https://arxiv.org/abs/2604.00452)]
+  
 ### ICLR 2026
 - **FARTrack:** Guijie Wang, Tong Lin, Yifan Bai, Anjia Cao, Shiyi Liang, Wangbo Zhao, Xing Wei.<br />
   "FARTrack: Fast Autoregressive Visual Tracking with High Performance." ICLR (2026).
