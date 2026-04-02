@@ -1501,7 +1501,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   "Cross-modulated Attention Transformer for RGBT Tracking." AAAI (2025).
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32938)] 
   [[code](https://github.com/opacity-black/CAFormer)]
-  
+
+- Wei Wang, Xuming Wang, Yanjie Pu, Pengfei Zhang, Yinglong Feng, and Wanlong Qi.<br />
+  "An RGB-T multimodal information fusion visual object tracking algorithm based on correlation filtering." ICGIP(2025).
+  [[paper](https://doi.org/10.1117/12.3095449)]
+
 - **TVTracker:** Gao, Fang and Wu, Wenjie and Jin, Yan and Tang, Jingfeng and Zheng, Hanbo and Ma, Shengheng and Yu, Jun.<br />
   "TVTracker: Target-Adaptive Text-Guided Visual Fusion for Multi-Modal RGB-T Tracking." IEEE Internet of Things Journal (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10948521)]
