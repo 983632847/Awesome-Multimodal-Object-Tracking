@@ -156,6 +156,12 @@ If you find our work useful in your research, please consider citing:
 Coming soon.
 
 ### Papers
+#### 2026
+- **UAV-Track VLA:** Qiyao Zhang, Shuhua Zheng, Jianli Sun, Chengxiang Li, Xianke Wu, Zihan Song, Zhiyong Cui, Yisheng Lv, Yonglin Tian.<br />
+  "UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2604.02241)] 
+  [[code](https://github.com/Hub-Tian/UAVTrack_VLA)]
+  
 #### 2025
 - **TrackVLA++:** Jiahang Liu, Yunpeng Qi, Jiazhao Zhang, Minghan Li, Shaoan Wang, Kui Wu, Hanjing Ye, Hong Zhang, Zhibo Chen, Fangwei Zhong, Zhizheng Zhang, He Wang.<br />
   "TrackVLA++: Unleashing Reasoning and Memory Capabilities in VLA Models for Embodied Visual Tracking." ArXiv (2025).
@@ -209,6 +215,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **IMAT:** Yuqing Huang, Guotian Zeng, Zhenqiao Yuan, Zhenyu He, Xin Li, Yaowei Wang, Ming-Hsuan Yang.<br />
+  "Interactive Tracking: A Human-in-the-Loop Paradigm with Memory-Augmented Adaptation." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2604.01974)] 
+  [[code](https://github.com/NorahGreen/InteractTrack.git)]
+  
 - **ESMT:** Zhang, J., Wei, Y., Li, Y. et al.<br />
   "ESMT: Context-adaptive vision-language tracking with episodic-semantic memory." Applied Intelligence (2026).
   [[paper](https://link.springer.com/article/10.1007/s10489-026-07218-w)]
