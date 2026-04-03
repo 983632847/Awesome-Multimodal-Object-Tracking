@@ -28,6 +28,7 @@
 
 ## :collision: Highlights
 ![Last Updated](https://badgen.net/github/last-commit/983632847/Awesome-Multimodal-Object-Tracking?icon=github&label=last%20updated&color=blue)
+- 2026.04.03: We Released WebUAV-3M dataset on ([ScienceDB](https://www.scidb.cn/detail?dataSetId=ac5c6e585d4f44469d89e45699a4e8a5&version=V1)).
 - 2026.01.23: We Released UAV-Anti-UAV dataset V1.5 with both Training and Test Sets Available ([Project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/UAV-Anti-UAV)).
 - 2025.12.08: The Paper of UAV-Anti-UAV & MambaSTS was Online ([arXiv](https://arxiv.org/abs/2512.07385)).
 - 2025.04.28: The Paper of UW-COT220 & VL-SAM2 was Accepted by CVPR 2025 Workshop ([arXiv](https://arxiv.org/abs/2409.16902), [Outstanding Paper](https://www.cv4animals.com/home)).
