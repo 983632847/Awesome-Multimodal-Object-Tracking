@@ -1183,6 +1183,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **MIFMNet:** Runze Guo and Xiaoyong Sun and Bei Sun and Hanxiang Qian and Zhaoyang Dang and Peida Zhou and Feiyang Liu and Shaojing Su.<br />
+  "MIFMNet: A Multimodal Interactions and Fusion Mamba for RGBT Tracking with UAV Platforms." Remote Sensing (2026).
+  [[paper](https://api.semanticscholar.org/CorpusID:286996758)]
+  
 - **CoReTrack:** Yujia Dong, et al.<br />
   "CoReTrack: Consensus-residual fusion for reliability-aware RGBT tracking." ESWA (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426009942)]
