@@ -905,6 +905,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **DPTracker:** Junzhe Zhao and Jintao Su and Ye Liu and Jun Liu and Miaohui Wang.<br />
+  "DPTracker: DYNAMIC PROMPTER FOR RGB-D Tracking." PRL (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0167865526001224)] 
+  [[code](https://github.com/neilzhao996/DPTracker)]
+  
 - **UWRGBD1k:** Kaixiang Yan and Wenhua Qian and Cong Bi and Peng Liu.<br />
   "UWRGBD1k: a large-scale RGBD dataset of underwater object tracking." Pattern Recognition (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S003132032600453X)] 
