@@ -18,16 +18,10 @@
   [[paper](https://arxiv.org/abs/2112.02838)] 
   
 - **DL4VT:** Seyed Mojtaba Marvasti-Zadeh, Li Cheng, Senior Member, Hossein Ghanei-Yakhdan, Shohreh Kasaei, Senior Member.<br />
-  "Deep Learning for Visual Tracking: A Comprehensive Survey." ArXiv (2021).
+  "Deep Learning for Visual Tracking: A Comprehensive Survey." TITS (2022).
   [[paper](https://arxiv.org/pdf/1912.00535.pdf)] 
   [[code](https://github.com/MMarvasti/Deep-Learning-for-Visual-Tracking-Survey)]
       
-- **SAM:** Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick.<br />
-  "Segment Anything." ArXiv (2023).
-  [[paper](https://arxiv.org/pdf/2304.02643v1.pdf)] 
-  [[homepage](https://segment-anything.com/)] 
-  [[code](https://github.com/facebookresearch/segment-anything)]
-  
 - **TAM:** Jinyu Yang, Mingqi Gao, Zhe Li, Shang Gao, Fangjing Wang, Feng Zheng.<br />
   "Track Anything: Segment Anything Meets Videos." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2304.11968)] 
@@ -38,35 +32,11 @@
   [[paper](https://arxiv.org/abs/2305.06558)] 
   [[code](https://github.com/z-x-yang/Segment-and-Track-Anything)]
   
-- **SEEM:** Xueyan Zou, Jianwei Yang, Hao Zhang, Feng Li, Linjie Li, Jianfeng Gao, Yong Jae Lee.<br />
-  "Segment Everything Everywhere All at Once." ArXiv (2023).
-  [[paper](https://arxiv.org/pdf/2304.06718v1.pdf)] 
-  [[code](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)]
-
 - **SAM-PT:** Frano Rajič, Lei Ke, Yu-Wing Tai, Chi-Keung Tang, Martin Danelljan, Fisher Yu.<br />
   "Segment Anything Meets Point Tracking." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.01197)] 
   [[code](https:/github.com/syscv/sam-pt)]
-  
-- **ReviewLLM:** Jiaqi Wang, Zhengliang Liu, Lin Zhao, Zihao Wu, Chong Ma, Sigang Yu, Haixing Dai.<br />
-  "Review of Large Vision Models and Visual Prompt Engineering." ArXiv (2023).
-  [[paper](https://arxiv.org/abs/2307.00855)]
-  
-- **ChatVideo:** Junke Wang, Dongdong Chen, Chong Luo, Xiyang Dai, Lu Yuan, Zuxuan Wu, Yu-Gang Jiang.<br />
-  "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System." ArXiv (2023).
-  [[paper](https://arxiv.org/abs/2304.14407)] 
-  [[code](https://www.wangjunke.info/ChatVideo/)]
-  
-- **Video-ChatGPT:** Muhammad Maaz, Hanoona Rasheed, Salman Khan, Fahad Shahbaz Khan.<br />
-  "Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models." ArXiv (2023).
-  [[paper](https://arxiv.org/abs/2306.05424)] 
-  [[code](https://github.com/mbzuai-oryx/Video-ChatGPT)]
-  
-- **SegGPT:** Xinlong Wang, Xiaosong Zhang, Yue Cao, Wen Wang, Chunhua Shen, Tiejun Huang.<br />
-  "SegGPT: Segmenting Everything In Context." ArXiv (2023).
-  [[paper](https://arxiv.org/abs/2304.03284)] 
-  [[code](https://github.com/baaivision/Painter)]
-
+   
 - **VL-SAM2:** Chunhui Zhang, Li Liu, Guanjie Huang, Zhipeng Zhang, Hao Wen, Xi Zhou, Shiming Ge, Yanfeng Wang.<br />
   "Underwater Camouflaged Object Tracking Meets Vision-Language SAM2." CVPR Workshop (2025).
   [[paper](https://arxiv.org/abs/2409.16902)]
