@@ -214,6 +214,11 @@
   [[code](https://github.com/wzy7421/CMTT.git)]
 
 ### CVPR 2026
+- **DTPTrack:** Yuqing Huang, Liting Lin, Weijun Zhuang, Zhenyu He, Xin Li.<br />
+  "Drift-Resilient Temporal Priors for Visual Tracking." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2604.02654)] 
+  [[code](https://github.com/NorahGreen/DTPTrack)]
+  
 - **UETrack:** Ben Kang, Jie Zhao, Xin Chen, Wanting Geng, Bin Zhang, Lu Zhang, Dong Wang, Huchuan Lu.<br />
   "UETrack: A Unified and Efficient Framework for Single Object Tracking." CVPR (2026).
   [[paper](https://arxiv.org/abs/2603.01412)] 
