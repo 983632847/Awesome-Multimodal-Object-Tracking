@@ -222,6 +222,16 @@
 - **FADE:** Halima Bouzidi, Haoyu Liu, Yonatan Gizachew Achamyeleh, Praneetsai Vasu Iddamsetty, Mohammad Abdullah Al Faruque .<br />
   "Out of Sight, Out of Track: Adversarial Attacks on Propagation-based Multi-Object Trackers via Query State Manipulation." CVPR  (2026).
   [[paper](https://arxiv.org/abs/2604.00452)]
+
+- **STORM:** Zijia Lu, Jingru Yi, Jue Wang, Yuxiao Chen, Junwen Chen, Xinyu Li, Davide Modolo.<br />
+  "STORM: End-to-End Referring Multi-Object Tracking in Videos." CVPR Findings (2026).
+  [[paper](https://arxiv.org/abs/2604.10527)] 
+  [[code](https://github.com/amazon-science/storm-referring-multi-object-grounding)]
+
+- **TAPNext++:** Sebastian Jung, Artem Zholus, Martin Sundermeyer, Carl Doersch, Ross Goroshin, David Joseph Tan, Sarath Chandar, Rudolph Triebel, Federico Tombari.<br />
+  "TAPNext++: What's Next for Tracking Any Point (TAP)?." CVPR Findings (2026).
+  [[paper](https://arxiv.org/abs/2604.10582)] 
+  [[code](https://tap-next-plus-plus.github.io)]
   
 ### ICLR 2026
 - **FARTrack:** Guijie Wang, Tong Lin, Yifan Bai, Anjia Cao, Shiyi Liang, Wangbo Zhao, Xing Wei.<br />
