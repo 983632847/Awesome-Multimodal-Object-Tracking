@@ -1188,6 +1188,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **HATrack:** Shengbo Wang and Yunfeng Li and Lei Deng and Guangkai Sun and Mingli Dong and Lianqing Zhu.<br />
+  "HATrack: Cross-modal Fusion RGBT Tracking with Heterogeneous Adapter." ESWA (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426013394)] 
+  [[code](https://github.com/wwwshengbo/HATrack)]
+  
 - **MIFMNet:** Runze Guo and Xiaoyong Sun and Bei Sun and Hanxiang Qian and Zhaoyang Dang and Peida Zhou and Feiyang Liu and Shaojing Su.<br />
   "MIFMNet: A Multimodal Interactions and Fusion Mamba for RGBT Tracking with UAV Platforms." Remote Sensing (2026).
   [[paper](https://api.semanticscholar.org/CorpusID:286996758)]
