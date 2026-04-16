@@ -228,6 +228,11 @@
   [[paper](https://arxiv.org/abs/2604.10527)] 
   [[code](https://github.com/amazon-science/storm-referring-multi-object-grounding)]
 
+- **ChronoTrack:** Jaejoon Yoo, SuBeen Lee, Yerim Jeon, Miso Lee, Jae-Pil Heo.<br />
+  "Temporally Consistent Long-Term Memory for 3D Single Object Tracking." CVPR Findings (2026).
+  [[paper](https://arxiv.org/abs/2604.13789)] 
+  [[code](https://github.com/ujaejoon/ChronoTrack)]
+  
 - **TAPNext++:** Sebastian Jung, Artem Zholus, Martin Sundermeyer, Carl Doersch, Ross Goroshin, David Joseph Tan, Sarath Chandar, Rudolph Triebel, Federico Tombari.<br />
   "TAPNext++: What's Next for Tracking Any Point (TAP)?." CVPR Findings (2026).
   [[paper](https://arxiv.org/abs/2604.10582)] 
