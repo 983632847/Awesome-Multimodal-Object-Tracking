@@ -184,6 +184,11 @@
   [[code](https://github.com/wzy7421/CMTT.git)]
 
 ### CVPR 2026
+- **SEATrack:** Junbin Su and Ziteng Xue and Shihui Zhang and Kun Chen and Weiming Hu and Zhipeng Zhang.<br />
+  "SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2604.12502)] 
+  [[code](https://github.com/AutoLab-SAI-SJTU/SEATrack)]
+  
 - **DTPTrack:** Yuqing Huang, Liting Lin, Weijun Zhuang, Zhenyu He, Xin Li.<br />
   "Drift-Resilient Temporal Priors for Visual Tracking." CVPR (2026).
   [[paper](https://arxiv.org/abs/2604.02654)] 
