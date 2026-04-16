@@ -673,6 +673,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- Jinlin You, Muyu Li, Xudong Zhao.<br />
+  "Event-Adaptive State Transition and Gated Fusion for RGB-Event Object Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2604.13426)]
+  
 - **SOR-Track:** Dexing Huang, Shiao Wang, Fan Zhang, Xiao Wang.<br />
   "Spatial Orthogonal Refinement for Robust RGB-Event Visual Object Tracking." ICAIS and ISAS (2026).
   [[paper](https://arxiv.org/abs/2603.27913)] 
