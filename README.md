@@ -1196,6 +1196,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **DRGBT:** Ding, Zhaodong and Li, Chenglong and Miao, Shengqing and Tang, Jin.<br />
+  "Causality-Based Modality- and Platform-Invariant Representation Learning for Dynamic RGBT Tracking and a Benchmark." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11449406)] 
+  [[code](https://github.com/dongdong2061/DRGBT)]
+  
 - **HATrack:** Shengbo Wang and Yunfeng Li and Lei Deng and Guangkai Sun and Mingli Dong and Lianqing Zhu.<br />
   "HATrack: Cross-modal Fusion RGBT Tracking with Heterogeneous Adapter." ESWA (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426013394)] 
