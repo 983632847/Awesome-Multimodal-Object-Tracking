@@ -673,6 +673,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **FreqTrack:** Jinlin You, Muyu Li, Xudong Zhao.<br />
+  "FreqTrack: Frequency Learning based Vision Transformer for RGB-Event Object Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2604.14526)]
+  
 - Jinlin You, Muyu Li, Xudong Zhao.<br />
   "Event-Adaptive State Transition and Gated Fusion for RGB-Event Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2604.13426)]
