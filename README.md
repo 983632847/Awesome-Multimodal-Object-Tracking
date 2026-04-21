@@ -1203,6 +1203,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **TAPTrack:** Cui, Xiaolong and Li, Xingxiu and Wu, Panlong and Liu, Xinan and He, Shan.<br />
+  "TAPTrack: An Efficient Temporal-Aware Prompt Tracker for Infrared Anti-UAV Tracking." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11477854)] 
+  [[code](https://github.com/cui344119693/TAPTrack)]
+  
 - **DRGBT:** Ding, Zhaodong and Li, Chenglong and Miao, Shengqing and Tang, Jin.<br />
   "Causality-Based Modality- and Platform-Invariant Representation Learning for Dynamic RGBT Tracking and a Benchmark." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11449406)] 
