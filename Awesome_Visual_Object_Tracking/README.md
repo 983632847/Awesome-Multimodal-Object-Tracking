@@ -49,6 +49,15 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **IGP-tracker:** Qinghua Liu and Wanli Xue and Huayu Ma and Yunpeng Li and Yangcan Wu and Shengyong Chen.<br />
+  "Instance-level geometric prompting for visual object tracking." Pattern Recognition (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326006400)] 
+
+- **TFTG:** Xuan Wang and Li Zhao and Dawei Zhang and Chengzhuan Yang and Jungang Lou and Yunliang Jiang and Jinli Cao and Zhonglong Zheng.<br />
+  "Template-Free Tracking Guidance for transformer trackers." KBS (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126007562)] 
+  [[code](https://github.com/XWang2025/OSTrack-TFTG)]
+  
 - **STATrack:** Pengzhi Zhong, Jiwei Mo, Dan Zeng, Feixiang He, Shuiwang Li.<br />
   "Fully Spiking Neural Networks with Target Awareness for Energy-Efficient UAV Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2603.27493)]
