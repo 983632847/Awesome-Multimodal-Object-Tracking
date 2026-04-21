@@ -670,9 +670,16 @@ Coming soon.
 |  [MEVDT](https://arxiv.org/abs/2407.20446)   |   arXiv-2024   |  [MEVDT](https://doi.org/10.7302/d5k3-9150)  |  63 multimodal sequences with 13k images, 5M events, 10k object labels and 85 trajectories  |  
 |  [FELT v2](https://arxiv.org/pdf/2403.05839.pdf)   |   arXiv-2025   |  [FELT v2](https://github.com/Event-AHU/FELT_SOT_Benchmark)  |  1,044 long-term RGB-event video pairs  |  
 |  [CRSOT](https://arxiv.org/abs/2401.02826)   |   TMM-2025   |  [CRSOT](https://github.com/Event-AHU/Cross_Resolution_SOT)  |   1030 RGB-event video pairs |  
+|  [VETD220](https://ieeexplore.ieee.org/document/11458000)   |   TCSVT-2026   |  [VETD220](https://github.com/QiuuuJY/VETD220)  |   220 videos and 68,379 visible-event sequence pairs for tracking drones |  
+
 
 ### Papers
 #### 2026
+- **VETD220:** Qiu, Jiayu and Zhang, Yasheng and Zheng, Kaiyuan and Li, Pengju and Li, Jianan and Sun, Gege and Fang, Yuqiang.<br />
+  "VETD220: A Visible-Event Benchmark and Baseline for Tracking Drones." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11458000)] 
+  [[code](https://github.com/QiuuuJY/VETD220)]
+  
 - **FreqTrack:** Jinlin You, Muyu Li, Xudong Zhao.<br />
   "FreqTrack: Frequency Learning based Vision Transformer for RGB-Event Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2604.14526)]
