@@ -157,6 +157,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **AdaTracker:** Kui Wu, Hao Chen, Jinzhu Han, Haijun Liu, Churan Wang, Yizhou Wang, Zhoujun Li, Si Liu, Fangwei Zhong.<br />
+  "AdaTracker: Learning Adaptive In-Context Policy for Cross-Embodiment Active Visual Tracking." IEEE ROBOTICS AND AUTOMATION LETTERS (2026).
+  [[paper](https://arxiv.org/abs/2604.20305)]
+  
 - **UAV-Track VLA:** Qiyao Zhang, Shuhua Zheng, Jianli Sun, Chengxiang Li, Xianke Wu, Zihan Song, Zhiyong Cui, Yisheng Lv, Yonglin Tian.<br />
   "UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2604.02241)] 
