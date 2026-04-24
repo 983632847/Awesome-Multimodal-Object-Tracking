@@ -251,6 +251,16 @@
   "TAPNext++: What's Next for Tracking Any Point (TAP)?." CVPR Findings (2026).
   [[paper](https://arxiv.org/abs/2604.10582)] 
   [[code](https://tap-next-plus-plus.github.io)]
+
+- **MVTrackTrans:** Qi Zhang, Jixuan Chen, Kaiyi Zhang, Xinquan Yu, Antoni B. Chan, Hui Huang.<br />
+  "Multi-view Crowd Tracking Transformer with View-Ground Interactions Under Large Real-World Scenes." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2604.19318)] 
+  [[code](https://github.com/zqyq/MVTrackTrans)]
+
+- **OA-VAT:** Haowei Sun, Kai Zhou, Hao Gao, Shiteng Zhang, Jinwu Hu, Xutao Wen, Qixiang Ye, Mingkui Tan.<br />
+  "Instance-level Visual Active Tracking with Occlusion-Aware Planning." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2604.21453)] 
+  [[code](https://github.com/SHWplus/OA-VAT)]
   
 ### ICLR 2026
 - **FARTrack:** Guijie Wang, Tong Lin, Yifan Bai, Anjia Cao, Shiyi Liang, Wangbo Zhao, Xing Wei.<br />
