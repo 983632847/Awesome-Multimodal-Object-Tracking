@@ -219,6 +219,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **DIFTrack:** Zhou, Ze and Wu, Chen and YongWu and Li, Chaobo and Xu, Yanwei.<br />
+  "DIFTrack: Vision-Language Tracking with Deep Interaction Fusion." ICASSP (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11464901)] 
+  [[code](https://github.com/ChenWu6369/DIFTrack)]
+  
 - **DCVLT:** Guo, Guomao and Geng, Gu and Xiong, Youqiang and Zhu, Huayi and Wei, Pengfei and Chen, Rui and Yuan, Di.<br />
   "Dynamic Language Adaptation and Collaborative Memory Modeling for Vision-Language Tracking." ICASSP (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11462109)]
