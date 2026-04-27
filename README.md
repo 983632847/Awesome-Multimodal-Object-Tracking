@@ -219,6 +219,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **DCVLT:** Guo, Guomao and Geng, Gu and Xiong, Youqiang and Zhu, Huayi and Wei, Pengfei and Chen, Rui and Yuan, Di.<br />
+  "Dynamic Language Adaptation and Collaborative Memory Modeling for Vision-Language Tracking." ICASSP (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11462109)]
+  
 - **IMAT:** Yuqing Huang, Guotian Zeng, Zhenqiao Yuan, Zhenyu He, Xin Li, Yaowei Wang, Ming-Hsuan Yang.<br />
   "Interactive Tracking: A Human-in-the-Loop Paradigm with Memory-Augmented Adaptation." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2604.01974)] 
