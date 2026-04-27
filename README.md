@@ -2196,6 +2196,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **EA-Track:** Wei, Pengfei and Chen, Rui and Guo, Guomao and Xiong, Youqiang and Liu, Qiao and He, Zhenyu and Yuan, Di.<br />
+  "Hyperspectral Object Tracking Method Based on General Expert Adapter." ICASSP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11464759/)]
+  
 - **S3T-FFS:** Wang, Hanzheng and Li, Wei and Xia, Xiang-Gen and Cui, Bolun and Shi, Zhicheng and Lin, Hongyang.<br />
   "Bring KANs to Tracker: A Nonlinear Fusion Strategy Over Frequency Decoupling for Temporal Hyperspectral Object Tracking." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11367018)]
