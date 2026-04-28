@@ -1962,9 +1962,16 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 |  [QuadTrack600](https://arxiv.org/abs/2503.11218)   |   arXiv-2025  |  [QuadTrack600](https://arxiv.org/abs/2503.11218)  |  600 video  pairs, 348.7 K frames, RGB-TIR-Language-Event |  
 |  [UniBench300](https://arxiv.org/abs/2508.10655)   |   ACM MM-2025  |  [UniBench300](https://github.com/Zhangyong-Tang/UniBench300)  |  A unified benchmark with 100 RGBT sequences, 100 RGBD sequences, and 100 RGBE sequences, 368.1K frames  |  
 |  [RGBDT500](https://arxiv.org/abs/2509.24741)   |   NeurIPS-2025  |  [RGBDT500](https://arxiv.org/abs/2509.24741)  |  A multi-modal tracking dataset contained 500 videos with synchronised frames across RGB, depth, and thermal infrared modalities  |  
-|  [MM-UAV](https://arxiv.org/abs/2511.18344)   |   arXiv-2025  |  [MM-UAV](https://xuefeng-zhu5.github.io/MM-UAV/)  |  The first large-scale benchmark for Multi-Modal UAV Tracking, integrating three key sensing modalities (RGB, infrared (IR), and event signals), with 1,321 video sequences and 2.8 million annotated frames  |  
+|  [MM-UAV](https://arxiv.org/abs/2511.18344)   |   arXiv-2025  |  [MM-UAV](https://xuefeng-zhu5.github.io/MM-UAV/)  |  The first large-scale benchmark for Multi-Modal UAV Tracking, integrating three key sensing modalities (RGB, infrared (IR), and event signals), with 1,321 video sequences and 2.8 million annotated frames |
+|  [VDT1k](https://ieeexplore.ieee.org/document/11494035)   |   TCSVT-2026  |  [VDT1k](https://github.com/yan245836977/VDT1k)  |  1,325 RGB-D-T image sequences (totaling 240k RGBDT image pairs)  | 
+
 ### Papers
 #### 2026
+- **TOTrack:** Yan, Kaixiang and Qian, Wenhua and Cao, Jinde and Bi, Cong and Gan, Rufei.<br />
+  "Visual object tracking via integrating images of visible, thermal, and depth modalities." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11494035)] 
+  [[code](https://github.com/yan245836977/VDT1k)]
+  
 - **SEATrack:** Junbin Su and Ziteng Xue and Shihui Zhang and Kun Chen and Weiming Hu and Zhipeng Zhang.<br />
   "SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker." CVPR (2026).
   [[paper](https://arxiv.org/abs/2604.12502)] 
