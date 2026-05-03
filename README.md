@@ -1216,6 +1216,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **CAT:** Anqi Bian, et al.<br />
+  "CAT: Cross-Attention Adapter Transformer for RGB-Thermal Object Tracking." ArXiv (2026).
+  [[paper](https://fyust.edu.cn/gjhyqk/cscwd2026/papers/paper_617.pdf)]
+  
 - **TAPTrack:** Cui, Xiaolong and Li, Xingxiu and Wu, Panlong and Liu, Xinan and He, Shan.<br />
   "TAPTrack: An Efficient Temporal-Aware Prompt Tracker for Infrared Anti-UAV Tracking." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11477854)] 
