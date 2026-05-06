@@ -262,6 +262,11 @@
   [[paper](https://arxiv.org/abs/2604.21453)] 
   [[code](https://github.com/SHWplus/OA-VAT)]
   
+### ICML
+- **OneTrackerV2:** Lingyi Hong, Jinglun Li, Xinyu Zhou, Kaixun Jiang, Pinxue Guo, Zhaoyu Chen, Runze Li, Xingdong Sheng, Wenqiang Zhang.<br />
+  "Unified Multimodal Visual Tracking with Dual Mixture-of-Experts." ICML (2026).
+  [[paper](https://arxiv.org/abs/2605.03716)] 
+  
 ### ICLR 2026
 - **FARTrack:** Guijie Wang, Tong Lin, Yifan Bai, Anjia Cao, Shiyi Liang, Wangbo Zhao, Xing Wei.<br />
   "FARTrack: Fast Autoregressive Visual Tracking with High Performance." ICLR (2026).
