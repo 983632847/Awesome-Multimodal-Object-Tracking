@@ -1971,6 +1971,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **OneTrackerV2:** Lingyi Hong, Jinglun Li, Xinyu Zhou, Kaixun Jiang, Pinxue Guo, Zhaoyu Chen, Runze Li, Xingdong Sheng, Wenqiang Zhang.<br />
+  "Unified Multimodal Visual Tracking with Dual Mixture-of-Experts." ICML (2026).
+  [[paper](https://arxiv.org/abs/2605.03716)]
+  
 - **TOTrack:** Yan, Kaixiang and Qian, Wenhua and Cao, Jinde and Bi, Cong and Gan, Rufei.<br />
   "Visual object tracking via integrating images of visible, thermal, and depth modalities." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11494035)] 
