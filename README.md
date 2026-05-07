@@ -219,6 +219,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **VL-UniTrack:** Boyue Xu, Ruichao Hou, Tongwei Ren, Gangshan Wu.<br />
+  "VL-UniTrack: A Unified Framework with Visual-Language Prompts for UAV-Ground Visual Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2605.04574)] 
+  [[code](https://github.com/xuboyue1999/VL-UniTrack.git)]
+  
 - **DIFTrack:** Zhou, Ze and Wu, Chen and YongWu and Li, Chaobo and Xu, Yanwei.<br />
   "DIFTrack: Vision-Language Tracking with Deep Interaction Fusion." ICASSP (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11464901)] 
