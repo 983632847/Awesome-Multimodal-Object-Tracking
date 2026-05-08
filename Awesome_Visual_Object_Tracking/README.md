@@ -227,7 +227,16 @@
   "Real-World Point Tracking with Verifier-Guided Pseudo-Labeling." CVPR (2026).
   [[paper](https://arxiv.org/abs/2603.12217)] 
   [[code](https://kuis-ai.github.io/track_on_r)]
-  
+
+- **LAMP:** Nan Yang, Julian Straub, Fan Zhang, Richard Newcombe, Jakob Engel, Lingni Ma.<br />
+  "LAMP: Localization Aware Multi-camera People Tracking in Metric 3D World." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2605.05390)] 
+  [[code](https://facebookresearch.github.io/LAMP)]
+
+- **PNTrack:** Yaozong Zheng, Qihua Liang, Bineng Zhong, Shuimu Zeng, Yuanliang Xue, Ning Li, Shuxiang Song.<br />
+  "Boosting Self-Supervised Tracking with Contextual Prompts and Noise Learning." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2605.06092)]
+    
 - **TCEI:** Wen Guo, Pengfei Zhao, Zongmeng Wang, Yufan Hu, Junyu Gao.<br />
   "Dual-level Adaptation for Multi-Object Tracking: Building Test-Time Calibration from Experience and Intuition." CVPR (2026).
   [[paper](https://arxiv.org/abs/2603.21629)] 
