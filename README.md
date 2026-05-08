@@ -693,6 +693,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **PSMTrack:** Shiao Wang, Xiao Wang, Duoqing Yang, Wenhao Zhang, Bo Jiang, Lin Zhu, Yonghong Tian, Bin Luo.<br />
+  "Dynamic Pondering Sparsity-aware Mixture-of-Experts Transformer for Event Stream based Visual Object Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2605.06112)] 
+  [[code](https://github.com/Event-AHU/OpenEvTracking)]
+  
 - **VETD220:** Qiu, Jiayu and Zhang, Yasheng and Zheng, Kaiyuan and Li, Pengju and Li, Jianan and Sun, Gege and Fang, Yuqiang.<br />
   "VETD220: A Visible-Event Benchmark and Baseline for Tracking Drones." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11458000)] 
