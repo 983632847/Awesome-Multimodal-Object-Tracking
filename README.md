@@ -1985,6 +1985,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   "Unified Multimodal Visual Tracking with Dual Mixture-of-Experts." ICML (2026).
   [[paper](https://arxiv.org/abs/2605.03716)]
   
+- **PoATrack:** Yang, Hongtao and Zhong, Bineng and Zheng, Yaozong and Liang, Qihua and Zhu, Zhiruo and Song, Shuxiang.<br />
+  "Unified Multi-Modal Tracking via Proxy Visual Prompts." IEEE TASE (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11505919)]
+    
 - **TOTrack:** Yan, Kaixiang and Qian, Wenhua and Cao, Jinde and Bi, Cong and Gan, Rufei.<br />
   "Visual object tracking via integrating images of visible, thermal, and depth modalities." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11494035)] 
