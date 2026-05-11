@@ -49,6 +49,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **AS-SAM2:** Lv, Tao and Ding, Shenrun and Wang, Yuji and Li, Yue and Lu, Xiaohuan and Tian, Youliang.<br />
+  "AS-SAM2: Adaptive Self-correction for Visual Tracking with SAM2." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11506610)] 
+  [[code](https://github.com/oatlvv/AS-SAM2)]
+  
 - **IGP-tracker:** Qinghua Liu and Wanli Xue and Huayu Ma and Yunpeng Li and Yangcan Wu and Shengyong Chen.<br />
   "Instance-level geometric prompting for visual object tracking." Pattern Recognition (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326006400)] 
