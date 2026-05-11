@@ -219,6 +219,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **SVLTrack:** Yaozong Zheng, Bineng Zhong, Qihua Liang, Shuimu Zeng, Haiying Xia, Shuxiang Song.<br />
+  "Learning to Track Instance from Single Nature Language Description." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2605.07064)]
+  
 - **VL-UniTrack:** Boyue Xu, Ruichao Hou, Tongwei Ren, Gangshan Wu.<br />
   "VL-UniTrack: A Unified Framework with Visual-Language Prompts for UAV-Ground Visual Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2605.04574)] 
