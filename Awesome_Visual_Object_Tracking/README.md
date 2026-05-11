@@ -276,10 +276,15 @@
   [[paper](https://arxiv.org/abs/2604.21453)] 
   [[code](https://github.com/SHWplus/OA-VAT)]
   
-### ICML
+### ICML 2026
 - **OneTrackerV2:** Lingyi Hong, Jinglun Li, Xinyu Zhou, Kaixun Jiang, Pinxue Guo, Zhaoyu Chen, Runze Li, Xingdong Sheng, Wenqiang Zhang.<br />
   "Unified Multimodal Visual Tracking with Dual Mixture-of-Experts." ICML (2026).
   [[paper](https://arxiv.org/abs/2605.03716)] 
+
+- **RELO:** Xin Chen, Chuanyu Sun, Jiao Xu, Houwen Peng, Dong Wang, Huchuan Lu, Kede Ma.<br />
+  "RELO: Reinforcement Learning to Localize for Visual Object Tracking." ICML (2026).
+  [[paper](https://arxiv.org/abs/2605.07379)] 
+  [[code](https://github.com/Multimedia-Analytics-Laboratory/RELO)]
   
 ### ICLR 2026
 - **FARTrack:** Guijie Wang, Tong Lin, Yifan Bai, Anjia Cao, Shiyi Liang, Wangbo Zhao, Xing Wei.<br />
