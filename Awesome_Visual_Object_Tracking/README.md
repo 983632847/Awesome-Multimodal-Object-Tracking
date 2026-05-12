@@ -240,9 +240,13 @@
 
 - **ETCTrack:** Weijing Wu, Qihua Liang, Bineng Zhong, Haiying Xia, Zhiyi Mo, Shuxiang Song.<br />
   "An Efficient Token Compression Framework for Visual Object Tracking." CVPR (2026).
-  [[paper](https://arxiv.org/abs/2605.08329)] 
-  [[code](https://github.com/PJD-WJ/ETCTrack)]
+  [[paper](https://arxiv.org/abs/2605.08329)]
   
+  [[code](https://github.com/PJD-WJ/ETCTrack)]
+- **SVLTrack:** Yaozong Zheng, Bineng Zhong, Qihua Liang, Shuimu Zeng, Haiying Xia, Shuxiang Song.<br />
+  "Learning to Track Instance from Single Nature Language Description." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2605.07064)]
+    
 - **PNTrack:** Yaozong Zheng, Qihua Liang, Bineng Zhong, Shuimu Zeng, Yuanliang Xue, Ning Li, Shuxiang Song.<br />
   "Boosting Self-Supervised Tracking with Contextual Prompts and Noise Learning." CVPR (2026).
   [[paper](https://arxiv.org/abs/2605.06092)]
