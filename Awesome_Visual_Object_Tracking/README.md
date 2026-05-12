@@ -238,6 +238,11 @@
   [[paper](https://arxiv.org/abs/2605.05390)] 
   [[code](https://facebookresearch.github.io/LAMP)]
 
+- **ETCTrack:** Weijing Wu, Qihua Liang, Bineng Zhong, Haiying Xia, Zhiyi Mo, Shuxiang Song.<br />
+  "An Efficient Token Compression Framework for Visual Object Tracking." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2605.08329)] 
+  [[code](https://github.com/PJD-WJ/ETCTrack)]
+  
 - **PNTrack:** Yaozong Zheng, Qihua Liang, Bineng Zhong, Shuimu Zeng, Yuanliang Xue, Ning Li, Shuxiang Song.<br />
   "Boosting Self-Supervised Tracking with Contextual Prompts and Noise Learning." CVPR (2026).
   [[paper](https://arxiv.org/abs/2605.06092)]
