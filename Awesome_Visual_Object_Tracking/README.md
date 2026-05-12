@@ -286,6 +286,10 @@
   [[paper](https://arxiv.org/abs/2605.07379)] 
   [[code](https://github.com/Multimedia-Analytics-Laboratory/RELO)]
   
+- **FATrack:** Jiahao Wang ⋅ Fang Liu ⋅ Licheng Jiao ⋅ Shuo Li ⋅ Hao Wang ⋅ Lingling Li ⋅ Xinyi Wang ⋅ Xu Liu.<br />
+  "Foreground-Aware Token Routing Vision Transformer for Real-Time Satellite Video Tracking." ICML (2026).
+  [[paper](https://icml.cc/virtual/2026/poster/60644)]
+    
 ### ICLR 2026
 - **FARTrack:** Guijie Wang, Tong Lin, Yifan Bai, Anjia Cao, Shiyi Liang, Wangbo Zhao, Xing Wei.<br />
   "FARTrack: Fast Autoregressive Visual Tracking with High Performance." ICLR (2026).
