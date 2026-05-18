@@ -49,6 +49,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **PVMTrack:** Binbin Wang and Ziqing Yan and Lifeng Wang and Fasheng Wang and Fuming Sun and Haojie Li.<br />
+  "Towards a prompt-driven framework with state space models for UAV object tracking." KBS (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126009299)]
+  
 - **AS-SAM2:** Lv, Tao and Ding, Shenrun and Wang, Yuji and Li, Yue and Lu, Xiaohuan and Tian, Youliang.<br />
   "AS-SAM2: Adaptive Self-correction for Visual Tracking with SAM2." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11506610)] 
