@@ -219,6 +219,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **UOVLT:** Hao Dong, Ziang Li, Peipei Song, Huanlong Zhang, Bin Jiang, Bineng Zhong.<br />
+  "Updatable one-stream Vision-Language tracking via multilayer perceptual memory network." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326007569)]
+  
 - **SVLTrack:** Yaozong Zheng, Bineng Zhong, Qihua Liang, Shuimu Zeng, Haiying Xia, Shuxiang Song.<br />
   "Learning to Track Instance from Single Nature Language Description." CVPR (2026).
   [[paper](https://arxiv.org/abs/2605.07064)]
