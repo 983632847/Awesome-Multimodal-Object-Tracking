@@ -157,6 +157,15 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **DeTrack:** Guyue Hu, Haoming Liu, Siyuan Song, Chenglong Li, Feng Chen, Jin Tang.<br />
+  "DeTrack: A Benchmark and Altitude-Aware Dual World Model for Drone-embodied Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2605.17451)]
+
+- **CosFly-Track:** Xiangyue Wang, Hanxuan Chen, Songsheng Cheng, Ruilong Ren, Jie Zheng, Shuai Yuan, Tianle Zeng, Hanzhong Guo, Kangli Wang, Ji Pei.<br />
+  "CosFly-Track: A Large-Scale Multi-Modal Dataset for UAV Visual Tracking via Multi-Constraint Trajectory Optimization." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2605.17776)] 
+  [[code](https://huggingface.co/AutelRobotics/CosFly-Track)]
+  
 - **AdaTracker:** Kui Wu, Hao Chen, Jinzhu Han, Haijun Liu, Churan Wang, Yizhou Wang, Zhoujun Li, Si Liu, Fangwei Zhong.<br />
   "AdaTracker: Learning Adaptive In-Context Policy for Cross-Embodiment Active Visual Tracking." IEEE ROBOTICS AND AUTOMATION LETTERS (2026).
   [[paper](https://arxiv.org/abs/2604.20305)]
