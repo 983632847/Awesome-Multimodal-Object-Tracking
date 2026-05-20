@@ -49,6 +49,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **TinySAM 2:** Zhaoyuan Ding, Yijing Yang, Han Shu, Xinghao Chen.<br />
+"TinySAM 2: Extreme Memory Compression for Efficient Track Anything Model." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.18013)]
+[2026.05]
+
 - **PVMTrack:** Binbin Wang and Ziqing Yan and Lifeng Wang and Fasheng Wang and Fuming Sun and Haojie Li.<br />
   "Towards a prompt-driven framework with state space models for UAV object tracking." KBS (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126009299)]
