@@ -49,6 +49,12 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **SAMOSA:** Deyi Zhu, Yuji Wang, Yong Liu, Yansong Tang, Bingyao Yu, Jiwen Lu, Jie Zhou.<br />
+"Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.22538)]
+[[code](https://github.com/DurYi/SAMOSA)]
+[2026.05]
+
 - **TinySAM 2:** Zhaoyuan Ding, Yijing Yang, Han Shu, Xinghao Chen.<br />
 "TinySAM 2: Extreme Memory Compression for Efficient Track Anything Model." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.18013)]
