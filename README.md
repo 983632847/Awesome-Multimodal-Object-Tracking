@@ -2247,6 +2247,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **E2EMPT:** Xu Han, Mohammad Aminul Islam, Lei Wang, Zekun Long, Guanmanyi Fu, Wangshu Cai, Kuldip K. Paliwal, Jun Zhou.<br />
+  "End-to-End Unmixing with Material Prompts for Hyperspectral Object Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2605.20569)] 
+  [[code](https://github.com/han030927/E2EMPT)]
+  
 - **EA-Track:** Wei, Pengfei and Chen, Rui and Guo, Guomao and Xiong, Youqiang and Liu, Qiao and He, Zhenyu and Yuan, Di.<br />
   "Hyperspectral Object Tracking Method Based on General Expert Adapter." ICASSP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11464759/)]
