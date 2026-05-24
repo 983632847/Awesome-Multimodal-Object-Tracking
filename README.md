@@ -228,6 +228,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **TVT-Net:** Arne De, VosJules Vercauteren, Callum Hensley, Callum Hensley, Kobe Van Loon.<br />
+  "Foundation-Grounded Heatmap Conversion for Robust Vision-Language Tracking." ArXiv (2026).
+  [[paper](https://www.researchgate.net/publication/404945916_Foundation-Grounded_Heatmap_Conversion_for_Robust_Vision-Language_Tracking)]
+  
 - **UOVLT:** Hao Dong, Ziang Li, Peipei Song, Huanlong Zhang, Bin Jiang, Bineng Zhong.<br />
   "Updatable one-stream Vision-Language tracking via multilayer perceptual memory network." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326007569)]
