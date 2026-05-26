@@ -2002,6 +2002,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **Switcher:** He Wang and Tianyang Xu and Zhangyong Tang and Xiao-Jun Wu and Josef Kittler.<br />
+  "Switcher: Adaptive framework for unified and customised multi-modal object tracking." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326009878)] 
+  [[code](https://github.com/ouha1998/Switcher)]
+  
 - **OneTrackerV2:** Lingyi Hong, Jinglun Li, Xinyu Zhou, Kaixun Jiang, Pinxue Guo, Zhaoyu Chen, Runze Li, Xingdong Sheng, Wenqiang Zhang.<br />
   "Unified Multimodal Visual Tracking with Dual Mixture-of-Experts." ICML (2026).
   [[paper](https://arxiv.org/abs/2605.03716)]
@@ -2251,6 +2256,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **FSMT:** Gao, Long and Liu, Zhuoyan and Zhang, Yunhe and Jiang, Yan and Xie, Weiying and Li, Yunsong.<br />
+  "FSMT: Frequency-Spatial Mixture-of-Experts Hyperspectral Object Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11526988)] 
+  [[code](https://github.com/lgao001/FSMT)]
+  
 - **E2EMPT:** Xu Han, Mohammad Aminul Islam, Lei Wang, Zekun Long, Guanmanyi Fu, Wangshu Cai, Kuldip K. Paliwal, Jun Zhou.<br />
   "End-to-End Unmixing with Material Prompts for Hyperspectral Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2605.20569)] 
