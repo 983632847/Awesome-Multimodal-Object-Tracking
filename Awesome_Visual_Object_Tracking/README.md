@@ -49,6 +49,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **MiA:** Yao Chen, Guancheng Jia, Ding Ma, Yufei Zha, Peng Zhang.<br />
+  "MiA: A plug-and-play hyperparameter-free Mamba in Attention module for spatial-temporal consistent visual tracking." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326009982)] 
+  [[code](https://github.com/Xiaochen918/MiATrack)]
+  
 - **SAMOSA:** Deyi Zhu, Yuji Wang, Yong Liu, Yansong Tang, Bingyao Yu, Jiwen Lu, Jie Zhou.<br />
 "Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.22538)]
