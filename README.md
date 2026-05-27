@@ -228,6 +228,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **Diff-Tracking:** Zhengbo Zhang, Zhigang Tu, Junsong Yuan, De Wen Soh, Bo Du.<br />
+  "Leveraging Text-to-Image Diffusion Models for Unsupervised Visual Object Tracking." TPAMI (2026).
+  [[paper](https://arxiv.org/abs/2605.26933)]
+  
 - **TVT-Net:** Arne De, VosJules Vercauteren, Callum Hensley, Callum Hensley, Kobe Van Loon.<br />
   "Foundation-Grounded Heatmap Conversion for Robust Vision-Language Tracking." ArXiv (2026).
   [[paper](https://www.researchgate.net/publication/404945916_Foundation-Grounded_Heatmap_Conversion_for_Robust_Vision-Language_Tracking)]
