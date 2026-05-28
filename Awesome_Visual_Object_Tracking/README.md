@@ -261,8 +261,13 @@
 - **ETCTrack:** Weijing Wu, Qihua Liang, Bineng Zhong, Haiying Xia, Zhiyi Mo, Shuxiang Song.<br />
   "An Efficient Token Compression Framework for Visual Object Tracking." CVPR (2026).
   [[paper](https://arxiv.org/abs/2605.08329)]
-  
   [[code](https://github.com/PJD-WJ/ETCTrack)]
+  
+- **EATrack:** Hongtao Yang, Bineng Zhong, Qihua Liang, Yaozong Zheng, Xiantao Hu, Yuanliang Xue, Shuxiang Song.<br />
+  "Dual-branch Distilled Transformer for Efficient Asymmetric UAV Tracking." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2605.28018)] 
+  [[code](https://github.com/GXNU-ZhongLab/EATrack)]
+    
 - **SVLTrack:** Yaozong Zheng, Bineng Zhong, Qihua Liang, Shuimu Zeng, Haiying Xia, Shuxiang Song.<br />
   "Learning to Track Instance from Single Nature Language Description." CVPR (2026).
   [[paper](https://arxiv.org/abs/2605.07064)]
