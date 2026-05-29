@@ -980,6 +980,10 @@ Jamshidjon Ganiev, Seung-Hwan Bae.<br />
 
 ### Papers
 #### 2026
+- **FMATrack:** Dawei Zhang and Kaiwei Jiang and Zhou Ou and Yufan Zhu and Zenan Zhou and Xiaowei He and Zhonglong Zheng and Jun Zhang.<br />
+  "A frequency mixing single-stream framework with LoRA prompt tuning for RGBD tracking." Neurocomputing (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0925231226014803)]
+  
 - **DPTracker:** Junzhe Zhao and Jintao Su and Ye Liu and Jun Liu and Miaohui Wang.<br />
   "DPTracker: DYNAMIC PROMPTER FOR RGB-D Tracking." PRL (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0167865526001224)] 
