@@ -259,7 +259,7 @@ Coming soon.
   [[paper](https://ieeexplore.ieee.org/abstract/document/11462109)]
   
 - **IMAT:** Yuqing Huang, Guotian Zeng, Zhenqiao Yuan, Zhenyu He, Xin Li, Yaowei Wang, Ming-Hsuan Yang.<br />
-  "Interactive Tracking: A Human-in-the-Loop Paradigm with Memory-Augmented Adaptation." ArXiv (2026).
+  "Interactive Tracking: A Human-in-the-Loop Paradigm with Memory-Augmented Adaptation." CVPR (2026).
   [[paper](https://arxiv.org/abs/2604.01974)] 
   [[code](https://github.com/NorahGreen/InteractTrack.git)]
   
