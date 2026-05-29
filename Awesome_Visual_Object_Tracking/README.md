@@ -49,6 +49,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **DarkSOT:** Yanyan Chen, Ruigang Fu, Yu Song, Ping Zhong.<br />
+  "TAE: Target-aware enhancer for nighttime UAV tracking." ICIP (2026).
+  [[paper](https://arxiv.org/abs/2605.29558)] 
+  [[dataset](https://github.com/Fu0511/DarkSOT-Dataset)]
+  
 - **MiA:** Yao Chen, Guancheng Jia, Ding Ma, Yufei Zha, Peng Zhang.<br />
   "MiA: A plug-and-play hyperparameter-free Mamba in Attention module for spatial-temporal consistent visual tracking." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326009982)] 
