@@ -319,6 +319,73 @@
   "MV-TAP: Tracking Any Point in Multi-View Videos." CVPR (2026).
   [[paper](https://arxiv.org/abs/2512.02006)] 
   [[code](https://cvlab-kaist.github.io/MV-TAP/)]
+
+- Tian Ding ⋅ Hongtao Yang ⋅ Liangtao Shi ⋅ Jun Li ⋅ Xiantao Hu ⋅ Jian Yang ⋅ Ying Tai.<br />
+  "Adaptive Depth Lightweight RGB-T Tracking with Holistic Token Routing." CVPR (2026).
+  [[paper](https://cvpr.thecvf.com/virtual/2026/poster/39098)] 
+  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+
+- **SpikeTrack:** Yang Wang ⋅ Jiqing Zhang ⋅ Chuanyu Sun ⋅ Qianhui Liu ⋅ Huilin Ge ⋅ Ziqi Wei ⋅ Xin Yang.<br />
+  "SpikeTrack: High-performance and Energy-efficient Event-Based Object Tracking with Spiking Neural Network." CVPR (2026).
+  [[paper](https://cvpr.thecvf.com/virtual/2026/poster/37464)] 
+
+- **SCDT:** Andong Lu ⋅ Ziyi Zha ⋅ Jiandong Jin ⋅ Shihao Li ⋅ Chenglong Li ⋅ Jin Tang ⋅ Bin Luo.<br />
+  "Spatio-Temporal Conditional Denoising Transformer for Modality-Missing RGBT Tracking." CVPR (2026).
+  [[paper](https://cvpr.thecvf.com/virtual/2026/poster/38117)] 
+  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+
+- Kaiyang Lan ⋅ Ying Cui ⋅ Chenchen Jing ⋅ Jianwei Zheng ⋅ Dongyan Guo.<br />
+  "Beyond Explicit Language: Plug-and-Play Visual-to-Linguistic Modeling Toward General Object Tracking." CVPR (2026).
+  [[paper](https://cvpr.thecvf.com/virtual/2026/poster/39805)] 
+  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+
+- **ARTrack-AC:** Tong Lin ⋅ Yifan Bai ⋅ Shiyi Liang ⋅ Ruigang Niu ⋅ Xing Wei.<br />
+  "Adaptive Capacity Autoregressive Visual Tracking." CVPR (2026).
+  [[paper](https://cvpr.thecvf.com/virtual/2026/poster/37355)] 
+  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+
+- **SDTrack:** Yimeng Shan ⋅ Zhenbang Ren ⋅ Haodi Wu ⋅ Wenjie Wei ⋅ Rui-Jie Zhu ⋅ Shuai Wang ⋅ Dehao Zhang ⋅ Yichen Xiao ⋅ Jieyuan Zhang ⋅ Kexin Shi ⋅ Jingzhinan Wang ⋅ Jason K. Eshraghian ⋅ Haicheng Qu ⋅ Malu Zhang.<br />
+  "SDTrack: A Baseline for Event-based Tracking via Spiking Neural Networks." CVPR (2026).
+  [[paper](https://cvpr.thecvf.com/virtual/2026/poster/40098)] 
+
+- **TGTrack:** Wanting Geng ⋅ Xin Chen ⋅ Chuanyu Sun ⋅ Jie Zhao ⋅ Ben Kang ⋅ Dong Wang ⋅ Huchuan Lu.<br />
+  "TGTrack: Temporal Generative Learning for Unified Single Object Tracking." CVPR (2026).
+  [[paper](https://cvpr.thecvf.com/virtual/2026/poster/37963)] 
+  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+
+- **IMAT:** Yuqing Huang, Guotian Zeng, Zhenqiao Yuan, Zhenyu He, Xin Li, Yaowei Wang, Ming-Hsuan Yang.<br />
+  "Interactive Tracking: A Human-in-the-Loop Paradigm with Memory-Augmented Adaptation." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2604.01974)] 
+  [[code](https://github.com/NorahGreen/InteractTrack.git)]
+
+- **OCTrack:** Jian Zhang ⋅ Xincheng Yu ⋅ Yi Lin.<br />
+  "Rethinking Occlusion Modeling for UAV Tracking." CVPR (2026).
+  [[paper](https://cvpr.thecvf.com/virtual/2026/poster/39062)] 
+  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+
+- **PMATrack:** Jiandong Jin ⋅ Chenglong Li ⋅ Hao Feng ⋅ Andong Lu ⋅ Lili Huang ⋅ Jin Tang.<br />
+  "Progressive Multi-cue Alignment for Unaligned RGBT Tracking." CVPR (2026).
+  [[paper](https://cvpr.thecvf.com/virtual/2026/poster/38417)] 
+
+- **UniKPT:** Jie Xiao ⋅ Yinchao Ma ⋅ Yuyang Tang ⋅ Dengqing Yang ⋅ Jianpeng Yang ⋅ Xu Zhou ⋅ Qiao Li ⋅ Wenfei Yang ⋅ Tianzhu Zhang.<br />
+  "Generalizable Structure-Aware Keypoint Correspondence for Category-Unified 3D Single Object Tracking." CVPR (2026).
+  [[paper](https://cvpr.thecvf.com/virtual/2026/poster/37042)] 
+
+- **LETrack:** chaocan xue ⋅ Qihua Liang ⋅ Bineng Zhong ⋅ Yanting Zu ⋅ Yuanliang Xue ⋅ Haiying Xia ⋅ Shuxiang Song.<br />
+  "Toward Low-Cost yet Effective Temporal Learning for UAV Tracking." CVPR (2026).
+  [[paper](https://cvpr.thecvf.com/virtual/2026/poster/38646)] 
+
+- **MVLM:** Dae-Hyeon Park, Mina Baek, Jeong-Hun Ha, Chan-Seop Park,
+Jamshidjon Ganiev, Seung-Hwan Bae.<br />
+  "MVLM: Template-Free Tracking via Vision–Language Margin Confidence and Memory-Gated Tracking." CVPR (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Park_MVLM_Template-Free_Tracking_via_Vision-Language_Margin_Confidence_and_Memory-Gated_Tracking_CVPR_2026_paper.html)] 
+  [[project](https://mvlm-tft.github.io/)]
+  [[code](https://github.com/inha-vllab/MVLM)]
+
+- Xuanchen Lu ⋅ Ang Cao ⋅ Chao Feng ⋅ Andrew Owens.<br />
+  "Generative Point Tracking and Forecasting." CVPR (2026).
+  [[paper](https://cvpr.thecvf.com/virtual/2026/poster/39462)] 
+
   
 ### ICML 2026
 - **OneTrackerV2:** Lingyi Hong, Jinglun Li, Xinyu Zhou, Kaixun Jiang, Pinxue Guo, Zhaoyu Chen, Runze Li, Xingdong Sheng, Wenqiang Zhang.<br />
