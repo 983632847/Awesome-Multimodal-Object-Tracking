@@ -228,6 +228,18 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **MVLM:** Dae-Hyeon Park, Mina Baek, Jeong-Hun Ha, Chan-Seop Park,
+Jamshidjon Ganiev, Seung-Hwan Bae.<br />
+  "MVLM: Template-Free Tracking via Vision–Language Margin Confidence and Memory-Gated Tracking." CVPR (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Park_MVLM_Template-Free_Tracking_via_Vision-Language_Margin_Confidence_and_Memory-Gated_Tracking_CVPR_2026_paper.html)] 
+  [[project](https://mvlm-tft.github.io/)]
+  [[code](https://github.com/inha-vllab/MVLM)]
+  
+- Kaiyang Lan ⋅ Ying Cui ⋅ Chenchen Jing ⋅ Jianwei Zheng ⋅ Dongyan Guo.<br />
+  "Beyond Explicit Language: Plug-and-Play Visual-to-Linguistic Modeling Toward General Object Tracking." CVPR (2026).
+  [[paper](https://cvpr.thecvf.com/virtual/2026/poster/39805)] 
+  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+  
 - **Diff-Tracking:** Zhengbo Zhang, Zhigang Tu, Junsong Yuan, De Wen Soh, Bo Du.<br />
   "Leveraging Text-to-Image Diffusion Models for Unsupervised Visual Object Tracking." TPAMI (2026).
   [[paper](https://arxiv.org/abs/2605.26933)]
@@ -1251,6 +1263,20 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **PMATrack:** Jiandong Jin ⋅ Chenglong Li ⋅ Hao Feng ⋅ Andong Lu ⋅ Lili Huang ⋅ Jin Tang.<br />
+  "Progressive Multi-cue Alignment for Unaligned RGBT Tracking." CVPR (2026).
+  [[paper](https://cvpr.thecvf.com/virtual/2026/poster/38417)]
+  
+- **SCDT:** Andong Lu ⋅ Ziyi Zha ⋅ Jiandong Jin ⋅ Shihao Li ⋅ Chenglong Li ⋅ Jin Tang ⋅ Bin Luo.<br />
+  "Spatio-Temporal Conditional Denoising Transformer for Modality-Missing RGBT Tracking." CVPR (2026).
+  [[paper](https://cvpr.thecvf.com/virtual/2026/poster/38117)] 
+  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+  
+- Tian Ding ⋅ Hongtao Yang ⋅ Liangtao Shi ⋅ Jun Li ⋅ Xiantao Hu ⋅ Jian Yang ⋅ Ying Tai.<br />
+  "Adaptive Depth Lightweight RGB-T Tracking with Holistic Token Routing." CVPR (2026).
+  [[paper](https://cvpr.thecvf.com/virtual/2026/poster/39098)] 
+  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+
 - **CAT:** Anqi Bian, et al.<br />
   "CAT: Cross-Attention Adapter Transformer for RGB-Thermal Object Tracking." ArXiv (2026).
   [[paper](https://fyust.edu.cn/gjhyqk/cscwd2026/papers/paper_617.pdf)]
