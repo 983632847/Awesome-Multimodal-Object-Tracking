@@ -314,6 +314,11 @@
   "Instance-level Visual Active Tracking with Occlusion-Aware Planning." CVPR (2026).
   [[paper](https://arxiv.org/abs/2604.21453)] 
   [[code](https://github.com/SHWplus/OA-VAT)]
+
+- **MV-TAP:** Jahyeok Koo, Inès Hyeonsu Kim, Mungyeom Kim, Junghyun Park, Seohyun Park, Jaeyeong Kim, Jung Yi, Seokju Cho, Seungryong Kim.<br />
+  "MV-TAP: Tracking Any Point in Multi-View Videos." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2512.02006)] 
+  [[code](https://cvlab-kaist.github.io/MV-TAP/)]
   
 ### ICML 2026
 - **OneTrackerV2:** Lingyi Hong, Jinglun Li, Xinyu Zhou, Kaixun Jiang, Pinxue Guo, Zhaoyu Chen, Runze Li, Xingdong Sheng, Wenqiang Zhang.<br />
@@ -537,11 +542,6 @@
 - **TrackNetV5:** Tang Haonan, Chen Yanjun, Jiang Lezhi.<br />
   "TrackNetV5: Residual-Driven Spatio-Temporal Refinement and Motion Direction Decoupling for Fast Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2512.02789)]
-  
-- **MV-TAP:** Jahyeok Koo, Inès Hyeonsu Kim, Mungyeom Kim, Junghyun Park, Seohyun Park, Jaeyeong Kim, Jung Yi, Seokju Cho, Seungryong Kim.<br />
-  "MV-TAP: Tracking Any Point in Multi-View Videos." ArXiv (2025).
-  [[paper](https://arxiv.org/abs/2512.02006)] 
-  [[code](https://cvlab-kaist.github.io/MV-TAP/)]
   
 - **MANTA:** Suhas Srinath, Hemang Jamadagni, Aditya Chadrasekar, Prathosh AP.<br />
   "MANTA: Physics-Informed Generalized Underwater Object Tracking." WACV (2025).
