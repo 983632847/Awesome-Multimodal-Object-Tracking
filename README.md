@@ -1267,6 +1267,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **MOSSTrack:** Yisong Liu, He Yao, Junlong Cheng, Yujie Lu, Junqi Bai, Min Zhu.<br />
+  "MOSSTrack: Modality-Specific Spatio-Temporal Context Learning for RGB-T Tracking." CVPR Findings (2026).
+  [[paper](https://github.com/lyssyl157/MoSSTrack)] 
+  [[code](https://github.com/lyssyl157/MOSSTrack)]
+  
 - **DCTrack:** Shilei Wang, et al.<br />
   "DCTrack: Divide-and-Conquer for Modality-Missing RGBT Tracking." CVPR Workshops (2026).
 [[paper](https://openaccess.thecvf.com/content/CVPR2026W/URVIS/papers/Wang_DCTrack_Divide-and-Conquer_for_Modality-Missing_RGBT_Tracking_CVPRW_2026_paper.pdf)] 
