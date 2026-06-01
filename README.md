@@ -1267,6 +1267,15 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **DCTrack:** Shilei Wang, et al.<br />
+  "DCTrack: Divide-and-Conquer for Modality-Missing RGBT Tracking." CVPR Workshops (2026).
+[[paper](https://openaccess.thecvf.com/content/CVPR2026W/URVIS/papers/Wang_DCTrack_Divide-and-Conquer_for_Modality-Missing_RGBT_Tracking_CVPRW_2026_paper.pdf)] 
+
+- **UATrack:** Zhaodong Ding, Chenglong Li, Futian Wang & Jin Tang .<br />
+  "Uncertainty-Aware RGBT Tracking." IJCV (2026).
+  [[paper](https://link.springer.com/article/10.1007/s11263-026-02878-0)] 
+  [[code](https://github.com/dongdong2061/UATrack)]
+  
 - **PMATrack:** Jiandong Jin ⋅ Chenglong Li ⋅ Hao Feng ⋅ Andong Lu ⋅ Lili Huang ⋅ Jin Tang.<br />
   "Progressive Multi-cue Alignment for Unaligned RGBT Tracking." CVPR (2026).
   [[paper](https://cvpr.thecvf.com/virtual/2026/poster/38417)]
@@ -2036,6 +2045,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **M3FusionTrack:** Haiwen Ying, et al.<br />
+  "M3FusionTrack: All-Weather Visual Object Tracking via a Multi-modal Multi-frequency Foundation Model with Adaptive Gated Fusion." ArXiv (2026).
+  [[paper](https://www.researchsquare.com/article/rs-9732826/v1)] 
+  [[code](https://anonymous.4open.science/r/M3fusiontrack-3B11)]
+  
 - **Switcher:** He Wang and Tianyang Xu and Zhangyong Tang and Xiao-Jun Wu and Josef Kittler.<br />
   "Switcher: Adaptive framework for unified and customised multi-modal object tracking." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326009878)] 
