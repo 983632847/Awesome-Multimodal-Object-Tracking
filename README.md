@@ -228,6 +228,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **ATA:** Kang, Wenchao, Xuekai Zhang, Yueping Peng, Wei Tang, Qilong Li, Hexiang Hao, Kang Liu, and Qinghe Chen.<br />
+  "ATA: A Benchmark for Vision–Language Tracking in Air-to-Air Counter-UAV of Tiny Drones." Drones (2026).
+  [[paper](https://www.mdpi.com/2504-446X/10/6/429)] 
+  [[code](https://github.com/kkbushi/ATA)]
+  
 - **MVLM:** Dae-Hyeon Park, Mina Baek, Jeong-Hun Ha, Chan-Seop Park,
 Jamshidjon Ganiev, Seung-Hwan Bae.<br />
   "MVLM: Template-Free Tracking via Vision–Language Margin Confidence and Memory-Gated Tracking." CVPR (2026).
