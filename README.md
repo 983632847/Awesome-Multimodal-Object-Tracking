@@ -228,6 +228,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **DAVL-Track:** Wu, C., Lin, M., Wang, Q. et al.<br />
+  "Dynamic language adjustment and asymmetric fusion for vision-language tracking." Cluster Comput  (2026).
+  [[paper](https://doi.org/10.1007/s10586-026-06019-7)]
+  
 - **ATA:** Kang, Wenchao, Xuekai Zhang, Yueping Peng, Wei Tang, Qilong Li, Hexiang Hao, Kang Liu, and Qinghe Chen.<br />
   "ATA: A Benchmark for Vision–Language Tracking in Air-to-Air Counter-UAV of Tiny Drones." Drones (2026).
   [[paper](https://www.mdpi.com/2504-446X/10/6/429)] 
