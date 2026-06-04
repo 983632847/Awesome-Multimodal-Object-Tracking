@@ -49,6 +49,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **PNPM-Net:** Teng, Xiang and Zhao, Dong and Xiang, Pei and Yu, Xin and Li, Zhuanfeng and Hsu, Chih-Chung and Yang, Tianfang and Zhou, Huixin and Ren, Jinchang.<br />
+  "UAV-Based Multispectral Object Tracking with Positive-Negative Prompt Mining Network." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11540194)]
+  
 - **DarkSOT:** Yanyan Chen, Ruigang Fu, Yu Song, Ping Zhong.<br />
   "TAE: Target-aware enhancer for nighttime UAV tracking." ICIP (2026).
   [[paper](https://arxiv.org/abs/2605.29558)] 
