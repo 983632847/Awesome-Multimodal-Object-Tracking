@@ -1276,6 +1276,12 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **MMRGBT:** Andong Lu, Zhaodong Ding, Chenglong Li, Jin Tang, Zongwei Wu, Yuedong Tan, Radu Timofte, Xiantao Hu, He Wang, Zhangyong Tang, Tianyang Xu, Xiaojun Wu, Ying Tai, Jian Yang, Yabin Zhu, Chunhui Zhang, Li Liu, Hao Wen, Xi Zhou, Yanfeng Wang, Shilei Wang, Yipin Du, Yongkang Cheng, Pujian Lai, Dong Gao, Gong Cheng, Jihuan Xi, Yong Zhou, Jinglin Zhou, Xuefeng Zhu.<br />
+  "Object Tracking in the Real World: URVIS 2026 Study and Benchmark." ArXiv (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026W/URVIS/papers/Lu_Object_Tracking_in_the_Real_World_URVIS_2026_Study_and_CVPRW_2026_paper.pdf)] 
+  [[project](https://urvis-workshop.github.io/)] 
+  [[code](https://github.com/Multi-Modality-Tracking/URVIS-2026-ObjectTracking-MMRGBT.git)]
+  
 - **MOSSTrack:** Yisong Liu, He Yao, Junlong Cheng, Yujie Lu, Junqi Bai, Min Zhu.<br />
   "MOSSTrack: Modality-Specific Spatio-Temporal Context Learning for RGB-T Tracking." CVPR Findings (2026).
   [[paper](https://github.com/lyssyl157/MoSSTrack)] 
