@@ -1276,6 +1276,14 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **TFTrack:** Yuan, Di and Zhang, Haiping and Li, Xuyang and Liu, Qiao and He, Zhenyu.<br />
+  "Temporal Information and Feature Fusion for RGBT Tracking." IEEE Sensors Journal (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11547855)] 
+
+- **GTUTrack:** Liu, Lei, Qi Li, Jiaxin Lv, and Jiaxiang Wang.<br />
+  "Search Region-Guided Adaptive Template Update for Robust Multi-Modal UAV Tracking." Remote Sensing (2026).
+  [[paper](https://www.mdpi.com/2072-4292/18/11/1817)]
+  
 - Qilong Li, Yueping Peng, Wenchao Kang, Wei Tang & Xuekai Zhang.<br />
   "RGBT Tracking via Spatial Prior Feature Extraction for Attention." ICFEICT (2026).
   [[paper](https://link.springer.com/chapter/10.1007/978-981-95-8660-8_16)]
