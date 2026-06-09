@@ -2336,6 +2336,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **VLHTrack:** Rui Yao, Yuhong Zhang, Kunyang Sun, Hancheng Zhu, Jiaqi Zhao, Zhiwen Shao, Abdulmotaleb El Saddik.<br />
+  "Vision-Language Guided Hyperspectral Object Tracking via Semantics Fusion and Contextual Template Updating." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2606.09167)]
+  
 - **FSMT:** Gao, Long and Liu, Zhuoyan and Zhang, Yunhe and Jiang, Yan and Xie, Weiying and Li, Yunsong.<br />
   "FSMT: Frequency-Spatial Mixture-of-Experts Hyperspectral Object Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11526988)] 
