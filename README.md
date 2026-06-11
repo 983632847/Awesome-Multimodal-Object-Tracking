@@ -228,6 +228,14 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **CFPTrack:** Zhibin Zhang, et al.<br />
+  "Cross-Modality Fourier Prompt Tuning for Generalizable Visual-Language Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11552016/)] 
+
+- **DMPGTrack:** Huanlong Zhang, et al.<br />
+  "Dynamic multi-modal prompt generation for Visual-Language Tracking." Signal Processing: Image Communication (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0923596526001062)]
+  
 - **DAVL-Track:** Wu, C., Lin, M., Wang, Q. et al.<br />
   "Dynamic language adjustment and asymmetric fusion for vision-language tracking." Cluster Comput  (2026).
   [[paper](https://doi.org/10.1007/s10586-026-06019-7)]
