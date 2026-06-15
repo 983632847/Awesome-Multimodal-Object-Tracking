@@ -1284,6 +1284,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **HRPG:** Zhou, Yun and Wang, Weijie and Tan, Chunyu and Hong, Richang.<br />
+  "HRPG: Hierarchical Relational Propagation and Guidance for Robust RGBT Tracking." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11553422)]
+  
 - **TFTrack:** Yuan, Di and Zhang, Haiping and Li, Xuyang and Liu, Qiao and He, Zhenyu.<br />
   "Temporal Information and Feature Fusion for RGBT Tracking." IEEE Sensors Journal (2026).
   [[paper](https://ieeexplore.ieee.org/document/11547855)] 
