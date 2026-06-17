@@ -157,6 +157,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **HCLT:** Wei, Xile, Jiacheng Li, and Meili Lu.<br />
+  "A Hybrid Closed-Loop Tracker Fusing a Kalman Filter State Observer for Fast and Robust Embedded Visual Tracking." Electronics (2026).
+  [[paper](https://www.mdpi.com/2079-9292/15/11/2276)]
+  
 - **DeTrack:** Guyue Hu, Haoming Liu, Siyuan Song, Chenglong Li, Feng Chen, Jin Tang.<br />
   "DeTrack: A Benchmark and Altitude-Aware Dual World Model for Drone-embodied Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2605.17451)]
