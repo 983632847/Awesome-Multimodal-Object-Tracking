@@ -49,6 +49,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **DINOTrack:** Wei Xu, Gu Geng, Di Yuan, Rui Chen, Qiao Liu.<br />
+  "DINOTrack: Leverage Differential Attention for Noise-Aware Visual Tracking with DINOv3." ICMR (2026).
+  [[paper](https://dl.acm.org/doi/full/10.1145/3805622.3810664)]
+  
 - **PNPM-Net:** Teng, Xiang and Zhao, Dong and Xiang, Pei and Yu, Xin and Li, Zhuanfeng and Hsu, Chih-Chung and Yang, Tianfang and Zhou, Huixin and Ren, Jinchang.<br />
   "UAV-Based Multispectral Object Tracking with Positive-Negative Prompt Mining Network." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11540194)]
