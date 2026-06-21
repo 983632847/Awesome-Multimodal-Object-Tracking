@@ -232,6 +232,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **TFBTrack:** Jiahao Wang, Fang Liu, Licheng Jiao, Hao Wang, Shuo Li, Lingling Li, Puhua Chen, Xu Liu, Xinyan Huang.<br />
+  "TFBTrack: Target-Aware Foreground-Background Modeling for vision-language tracking." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326012380)] 
+  
 - **CFPTrack:** Zhibin Zhang, et al.<br />
   "Cross-Modality Fourier Prompt Tuning for Generalizable Visual-Language Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11552016/)] 
