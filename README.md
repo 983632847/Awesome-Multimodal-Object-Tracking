@@ -232,6 +232,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **4DVLT:** Chaoyue Li, Boxue Yang, Shengyao Zhou, Haoyang Wu, Rui Qian, Linfeng Zhang.<br />
+  "4DVLT: Dynamic Scene Understanding with Worldline-Centered Vision-Language Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2606.22631)] 
+  [[code](https://github.com/mikubaka88/4DVLT)]
+  
 - **TFBTrack:** Jiahao Wang, Fang Liu, Licheng Jiao, Hao Wang, Shuo Li, Lingling Li, Puhua Chen, Xu Liu, Xinyan Huang.<br />
   "TFBTrack: Target-Aware Foreground-Background Modeling for vision-language tracking." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326012380)] 
