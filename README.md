@@ -157,6 +157,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **USS:** Yuchen Xie, Xinyu Zhou, Kuangji Zuo, Yanshuo Lu, Fengrui Huang, Boyu Ma, Jianfei Yang.<br />
+  "USS: Unified Spatial-Semantic Prompts for Embodied Visual Tracking with Latent Dynamics Learning." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2606.25880)] 
+  [[code](https://arescheah.github.io/uss-project-page/)]
+  
 - **HCLT:** Wei, Xile, Jiacheng Li, and Meili Lu.<br />
   "A Hybrid Closed-Loop Tracker Fusing a Kalman Filter State Observer for Fast and Robust Embedded Visual Tracking." Electronics (2026).
   [[paper](https://www.mdpi.com/2079-9292/15/11/2276)]
