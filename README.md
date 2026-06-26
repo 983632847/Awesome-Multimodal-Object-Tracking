@@ -765,6 +765,11 @@ Jamshidjon Ganiev, Seung-Hwan Bae.<br />
 
 ### Papers
 #### 2026
+- **APRTrack:** Xiao Wang, Xufeng Lou, Zikang Yan, Lan Chen, Sibao Chen, Yaowei Wang, Yonghong Tian, Jin Tang.<br />
+  "Active Adversarial Perturbation-driven Associative Memory Retrieval for RGB-Event Visual Object Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2606.26455)] 
+  [[code](https://github.com/Event-AHU/OpenEvTracking)]
+  
 - **PSMTrack:** Shiao Wang, Xiao Wang, Duoqing Yang, Wenhao Zhang, Bo Jiang, Lin Zhu, Yonghong Tian, Bin Luo.<br />
   "Dynamic Pondering Sparsity-aware Mixture-of-Experts Transformer for Event Stream based Visual Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2605.06112)] 
