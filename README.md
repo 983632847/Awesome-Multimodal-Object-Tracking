@@ -237,6 +237,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **CET-Track:** Kang, W., Peng, Y., Li, Q. et al.<br />
+  "CET-Track: exploring fine-grained information enhancement for visual-language object tracking." Complex & Intelligent Systems (2026).
+  [[paper](https://link.springer.com/article/10.1007/s40747-026-02365-6)]
+  
 - **4DVLT:** Chaoyue Li, Boxue Yang, Shengyao Zhou, Haoyang Wu, Rui Qian, Linfeng Zhang.<br />
   "4DVLT: Dynamic Scene Understanding with Worldline-Centered Vision-Language Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2606.22631)] 
@@ -765,6 +769,11 @@ Jamshidjon Ganiev, Seung-Hwan Bae.<br />
 
 ### Papers
 #### 2026
+- **RELTrack:** Sara Alansari, et al.<br />
+  "RELTrack: A language-guided RGB-event object tracking framework." Information Processing & Management (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0306457326003663)] 
+  [[code](https://github.com/XXXXX/RELTrack)]
+  
 - **APRTrack:** Xiao Wang, Xufeng Lou, Zikang Yan, Lan Chen, Sibao Chen, Yaowei Wang, Yonghong Tian, Jin Tang.<br />
   "Active Adversarial Perturbation-driven Associative Memory Retrieval for RGB-Event Visual Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2606.26455)] 
@@ -1307,6 +1316,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **TCTracker:** Chunmao Li, Weidai Xia, Fang Liu.<br />
+  "TCTracker: A RGB-T Tracking via Text-Guided and Contrast-Learning Enhancement." ArXiv (2026).
+  [[paper](https://www.researchsquare.com/article/rs-9939783/v1)]
+  
 - **HRPG:** Zhou, Yun and Wang, Weijie and Tan, Chunyu and Hong, Richang.<br />
   "HRPG: Hierarchical Relational Propagation and Guidance for Robust RGBT Tracking." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11553422)]
