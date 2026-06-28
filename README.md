@@ -250,8 +250,8 @@ Coming soon.
   "TFBTrack: Target-Aware Foreground-Background Modeling for vision-language tracking." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326012380)] 
   
-- **CFPTrack:** Zhibin Zhang, et al.<br />
-  "Cross-Modality Fourier Prompt Tuning for Generalizable Visual-Language Tracking." TCSVT (2026).
+- **CFPTrack:** Zhang, Zhibin and Xue, Wanli and Zhang, Kaihua and Wu, Yangcan and Chen, Shengyong.<br />
+  "Cross-Modality Fourier Prompt Tuning for Generalizable Visual-Language Tracking." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11552016/)] 
 
 - **DMPGTrack:** Huanlong Zhang, et al.<br />
