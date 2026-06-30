@@ -1316,6 +1316,15 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **PMFNet:** Jie Cao, Xue Feng, Haopeng Liang, Xiaoyang Shi & Shanqin Yuan.<br />
+  "PMFNet: collaborative prompt enhancement and dynamic fusion for robust RGB-thermal tracking." The Visual Computer (2026).
+  [[paper](https://link.springer.com/article/10.1007/s00371-026-04520-z)] 
+  [[code](https://github.com/limomo-xuehua/PMFNet)]
+
+- **TPF:** Lu, Andong and Guo, Yuanzhi and Wang, Kunpeng and Li, Chenglong and Tang, Jin and Luo, Bin.<br />
+  "Pixel-Level RGBT Fusion Tracking via Heterogeneous Multi-Expert Distillation and Decoupled Representation Learning." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11574556)]
+  
 - **TCTracker:** Chunmao Li, Weidai Xia, Fang Liu.<br />
   "TCTracker: A RGB-T Tracking via Text-Guided and Contrast-Learning Enhancement." ArXiv (2026).
   [[paper](https://www.researchsquare.com/article/rs-9939783/v1)]
