@@ -237,6 +237,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- Xiao Wang, Liye Jin, Dan Xu, Yuehang Li, Lan Chen, Yaowei Wang, Yonghong Tian, Jin Tang.<br />
+  "Dynamic Parsing and Updating Natural Language Specification using VLMs for Robust Vision-Language Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2606.29357)] 
+  [[code](https://github.com/Event-AHU/Open_VLTrack)]
+  
 - **CET-Track:** Kang, W., Peng, Y., Li, Q. et al.<br />
   "CET-Track: exploring fine-grained information enhancement for visual-language object tracking." Complex & Intelligent Systems (2026).
   [[paper](https://link.springer.com/article/10.1007/s40747-026-02365-6)]
