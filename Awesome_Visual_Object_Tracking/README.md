@@ -49,6 +49,16 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **SRTrack:** Zeng, Fansheng and Liang, Qihua and Zhong, Bineng and Xue, Chaocan and Tan, Yufei and Mo, Zhiyi and Song, Shuxiang.<br />
+  "Learning Shallow-Robust Vision Transformers with Selective Distillation for Real-time UAV Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11578102)] 
+  [[code](https://github.com/GXNU-ZhongLab/SRTrack)]
+
+- **SD-STSAtt:** Zhao, S., Xu, T., Zhou, Y. et al.<br />
+  "Attack Intensity is Target-Related: Exploration of Sparse Adversarial Attack against Visual Object Trackers." IJCV (2026).
+  [[paper](https://link.springer.com/article/10.1007/s11263-026-02909-w)] 
+  [[code](https://github.com/DjangoChaogh/STSAtt-main)]
+  
 - **DINOTrack:** Wei Xu, Gu Geng, Di Yuan, Rui Chen, Qiao Liu.<br />
   "DINOTrack: Leverage Differential Attention for Noise-Aware Visual Tracking with DINOv3." ICMR (2026).
   [[paper](https://dl.acm.org/doi/full/10.1145/3805622.3810664)]
