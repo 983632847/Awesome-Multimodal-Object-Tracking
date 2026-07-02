@@ -246,7 +246,11 @@
 [[paper](https://arxiv.org/abs/2606.24449)]
 [[code](https://hamadya.github.io/SENTRY/page/)]
 
+- **HieDG:** Chenxun Deng, Zhongde Zhang, Ye Yuan, Chengyang Zhang, Yifan Zhang, Bohao Chen, Hongying Yan, Hang Zhou, Hua Han, Xi Chen.<br />
+  "HieDG: A Hierarchical Discrete Geometry-Guided Framework for Multi-Animal Tracking." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2607.00494)]
 
+  
 ### CVPR 2026
 - **SEATrack:** Junbin Su and Ziteng Xue and Shihui Zhang and Kun Chen and Weiming Hu and Zhipeng Zhang.<br />
   "SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker." CVPR (2026).
