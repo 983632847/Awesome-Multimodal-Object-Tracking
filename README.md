@@ -237,6 +237,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **DFD-CLIP:** Bai, Jing and Fu, Xiwen and Zhu, Guopu and Wu, Ligang and You, Jinkun and Gao, Yang and Kwong, Sam.<br />
+  "DFD-CLIP: A Unified Vision-Language Framework for Driving Fatigue Detection with Temporal Modeling and Adaptive Prompt Learning." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11558523)] 
+  [[code](https://github.com/JingBai-bit/DFD-CLIP)]
+  
 - Xiao Wang, Liye Jin, Dan Xu, Yuehang Li, Lan Chen, Yaowei Wang, Yonghong Tian, Jin Tang.<br />
   "Dynamic Parsing and Updating Natural Language Specification using VLMs for Robust Vision-Language Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2606.29357)] 
