@@ -49,6 +49,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **A2A-UAV-Tracking:** Yu Luo, Hao Cha, Hongwei Fu, Tingting Fu, Bin Tian, Huatao Tang.<br />
+  "A2A-UAV-Tracking: A Benchmark for Air-to-Air UAV Tracking." International Journal of Antennas and Propagation (2026).
+  [[paper](https://onlinelibrary.wiley.com/doi/full/10.1155/ijap/5024734)] 
+  [[code](https://github.com/KingArthurYu/A2A-UAV-Tracking)]
+  
 - **SRTrack:** Zeng, Fansheng and Liang, Qihua and Zhong, Bineng and Xue, Chaocan and Tan, Yufei and Mo, Zhiyi and Song, Shuxiang.<br />
   "Learning Shallow-Robust Vision Transformers with Selective Distillation for Real-time UAV Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11578102)] 
