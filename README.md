@@ -2403,6 +2403,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **CASS:** Chen, Yuzeng and Yuan, Qiangqiang and Zhong, Bineng and Hu, Xiantao and Zhou, Jie and Zhao, Xi and Su, Xin and Tang, Yuqi and Zhang, Liangpei.<br />
+  "CASS: A Context-Aware Memory Framework with Spectral-Spatial Modulation for UAV Multispectral Video Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11586086)]
+  
 - **VLHTrack:** Rui Yao, Yuhong Zhang, Kunyang Sun, Hancheng Zhu, Jiaqi Zhao, Zhiwen Shao, Abdulmotaleb El Saddik.<br />
   "Vision-Language Guided Hyperspectral Object Tracking via Semantics Fusion and Contextual Template Updating." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2606.09167)]
