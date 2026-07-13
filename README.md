@@ -2144,6 +2144,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **DTTrack:** Liang, Yijun and Chen, Ziyi and Chen, Yewang and Chen, Yun and Li, Dilong and Liu, Weiquan and Wang, Cheng and Li, Jonathan.<br />
+  "DTTrack: Metric-Guided Dynamic Template Tracking Network." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11595036)]
+  
 - **M3FusionTrack:** Haiwen Ying, et al.<br />
   "M3FusionTrack: All-Weather Visual Object Tracking via a Multi-modal Multi-frequency Foundation Model with Adaptive Gated Fusion." ArXiv (2026).
   [[paper](https://www.researchsquare.com/article/rs-9732826/v1)] 
@@ -2403,6 +2407,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **TMMSAM2:** Fu, Xiyou and Zhang, Ting and Zhang, Xiaoyu and Lin, Mingying and Lv, Zijun and He, Wangquan and Ren, Qi and Xu, Meng and Jia, Sen.<br />
+  "TMMSAM2: Tracker-Aided Multitemporal Memory SAM2 for Hyperspectral Object Tracking." TNNLS (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11597947)]
+  
 - **CASS:** Chen, Yuzeng and Yuan, Qiangqiang and Zhong, Bineng and Hu, Xiantao and Zhou, Jie and Zhao, Xi and Su, Xin and Tang, Yuqi and Zhang, Liangpei.<br />
   "CASS: A Context-Aware Memory Framework with Spectral-Spatial Modulation for UAV Multispectral Video Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11586086)]
