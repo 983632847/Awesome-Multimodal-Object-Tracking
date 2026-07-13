@@ -49,6 +49,15 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **TMQRTrack:** Xiong, Jiabing and Lu, Yuejie and Ling, Qiang.<br />
+  "Temporal Mask-Embedding Learning and Query-Refined Head Network for Visual Tracking."  TNNLS (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11597913)] 
+
+- **ODVTrack:** Gu Geng, Di Yuan, et al.<br />
+  "ODVTrack: Only Decoder for Visual Tracking with Multiple Templates." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11593887)] 
+  [[code](https://github.com/cute-koala/ODVTrack/tree/main)]
+  
 - **A2A-UAV-Tracking:** Yu Luo, Hao Cha, Hongwei Fu, Tingting Fu, Bin Tian, Huatao Tang.<br />
   "A2A-UAV-Tracking: A Benchmark for Air-to-Air UAV Tracking." International Journal of Antennas and Propagation (2026).
   [[paper](https://onlinelibrary.wiley.com/doi/full/10.1155/ijap/5024734)] 
