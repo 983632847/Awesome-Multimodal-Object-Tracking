@@ -1326,6 +1326,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **CMPTrack:** Xinyang Xie, Yun Gao, Ading Jin.<br />
+  "CMPTrack: Four-branch RGBT tracker based on cross Mamba prompt." DSP (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1051200426005117)]
+  
 - **PMFNet:** Jie Cao, Xue Feng, Haopeng Liang, Xiaoyang Shi & Shanqin Yuan.<br />
   "PMFNet: collaborative prompt enhancement and dynamic fusion for robust RGB-thermal tracking." The Visual Computer (2026).
   [[paper](https://link.springer.com/article/10.1007/s00371-026-04520-z)] 
