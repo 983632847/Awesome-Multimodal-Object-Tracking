@@ -779,6 +779,11 @@ Jamshidjon Ganiev, Seung-Hwan Bae.<br />
 
 ### Papers
 #### 2026
+- **JEAT:** Haidong Wang, Hengxing Cai, Wanlei Li, Xiaogang Xiong, Renxin Zhong.<br />
+  "Event-RGB Adaptive Tracking for Nighttime Highway Perception." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.11646)] 
+  [[code](https://github.com/haidongwang96/SEHN)]
+  
 - **RELTrack:** Sara Alansari, et al.<br />
   "RELTrack: A language-guided RGB-event object tracking framework." Information Processing & Management (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0306457326003663)] 
