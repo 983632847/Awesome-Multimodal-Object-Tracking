@@ -157,6 +157,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **CosFly-VLA:** Ruilong Ren, Songsheng Cheng, Yunpeng Zhou, Hanxuan Chen, Xiangyue Wang, Tianle Zeng, Shuai Yuan, Binbo Li, Hanzhong Guo, Ji Pei, Da Zhang, Kangli Wang.<br />
+  "CosFly-VLA: A Spatially Aware Vision-Language-Action Model for UAV Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.15004)]
+  
 - **USS:** Yuchen Xie, Xinyu Zhou, Kuangji Zuo, Yanshuo Lu, Fengrui Huang, Boyu Ma, Jianfei Yang.<br />
   "USS: Unified Spatial-Semantic Prompts for Embodied Visual Tracking with Latent Dynamics Learning." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2606.25880)] 
@@ -779,6 +783,11 @@ Jamshidjon Ganiev, Seung-Hwan Bae.<br />
 
 ### Papers
 #### 2026
+- **AE-UAV:** Zixin Jiang, Bing He, Chaoran Xiong, Zhenzhen Wang, Xin Zhao, Ling Pei.<br />
+  "AE-UAV: An Air-to-Air Event-Based UAV Tracking Benchmark and a Real-Time Frequency-Domain Tracker." TGRS (2026).
+  [[paper](https://arxiv.org/abs/2607.14726)] 
+  [[code](https://github.com/MSP-xEN/AE-UAV)]
+  
 - **JEAT:** Haidong Wang, Hengxing Cai, Wanlei Li, Xiaogang Xiong, Renxin Zhong.<br />
   "Event-RGB Adaptive Tracking for Nighttime Highway Perception." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2607.11646)] 
