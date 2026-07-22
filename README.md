@@ -1337,9 +1337,15 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 |  [NOT-156](https://ieeexplore.ieee.org/abstract/document/10938642)   | TGRS-2025 | [NOT-156](http://rsidea.whu.edu.cn/NOT156_dataset.htm) | 156 videos with low-light image and thermal infrared |  
 |  [UniRTL](https://www.sciencedirect.com/science/article/pii/S0031320324007350)   |   PR-2025   |  [UniRTL](https://github.com/Liamzh0331/Unismot)  | a universal RGBT and low-light benchmark, 3 × 626 videos for SOT, 3 × 50 videos for MOT, 474.2K frames   | 
 |  [LUART](https://github.com/NOP1224/Unaligned_RGBT_Tracking/blob/main/Unaligned_UAV_RGBT_Tracking__A_Largescale_Benchmark_and_A_Novel_Approach_AAAI_CRC.pdf)   |   AAAI-2026   |  [LUART](https://github.com/NOP1224/Unaligned_RGBT_Tracking)  | 1,453 video pairs,42 categories,1.02M frames   | 
+|  [CM-UOT](https://arxiv.org/abs/2607.18768)   |  arXiv-2026 | [CM-UOT](ttps://github.com/hongsmile365/sarla-)  | 1079 cross-modal sequences,over 671K frames | 
 
 ### Papers
 #### 2026
+- **CM-UOT & SARLA:** Yun Xiao, Zhihong Hong, Jiandong Jin, Chenglong Li, Jin Tang, Amir Hussain.<br />
+  "Cross-Modal UAV Object Tracking: State-Aware Representation Learning and A Unified Benchmark." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.18768)] 
+  [[code](ttps://github.com/hongsmile365/sarla-)]
+  
 - **CMPTrack:** Xinyang Xie, Yun Gao, Ading Jin.<br />
   "CMPTrack: Four-branch RGBT tracker based on cross Mamba prompt." DSP (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1051200426005117)]
