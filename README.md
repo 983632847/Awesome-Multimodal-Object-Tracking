@@ -783,6 +783,10 @@ Jamshidjon Ganiev, Seung-Hwan Bae.<br />
 
 ### Papers
 #### 2026
+- **TDTrack:** Jiaqi Zhang, Rui Song, Jiaqiang Jiang, Jing Fan & Rui Yan .<br />
+  "TDTrack: Adaptive Trajectory Prompt Encoding for Efficient Event-Based Single-Object Tracking." ICIC (2026).
+  [[paper](https://link.springer.com/chapter/10.1007/978-981-92-3531-5_27)]
+  
 - **AE-UAV:** Zixin Jiang, Bing He, Chaoran Xiong, Zhenzhen Wang, Xin Zhao, Ling Pei.<br />
   "AE-UAV: An Air-to-Air Event-Based UAV Tracking Benchmark and a Real-Time Frequency-Domain Tracker." TGRS (2026).
   [[paper](https://arxiv.org/abs/2607.14726)] 
