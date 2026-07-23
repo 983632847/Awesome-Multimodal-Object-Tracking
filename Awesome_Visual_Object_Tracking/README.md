@@ -49,6 +49,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **PCTrack:** Zu, Yanting and Liang, Qihua and Xue, Chaocan and Tan, Yufei and Song, Shuxiang and Zhong, Bineng.<br />
+  "Robust Nighttime UAV Tracking Via Parameter and Computation Efficient Transfer Learning."  TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11613180)]
+  
 - **IMTrack:** Zhiqiang Hou, Chuangye Xu, Sugang Ma, Xiaobao Yang, Lei Pu.<br />
 "Robust visual tracking via implicit memory-guided re-detection." EAAI (2026).
 [[paper](https://doi.org/10.1016/j.engappai.2026.115596)]
