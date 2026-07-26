@@ -49,6 +49,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **GOT-JEPA:** Chen, Shih-Fang and Chen, Jun-Cheng and Jhuo, I-Hong and Lin, Yen-Yu.<br />
+  "GOT-JEPA: Generic Object Tracking With Model Adaptation and Occlusion Handling Using Joint-Embedding Predictive Architecture." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11436011)] 
+  [[code](https://github.com/chenshihfang/GOT)]
+  
 - **CSATrack:** Wang, Yuanyun and Si, Yingzhen and Liu, Jilong and Wang, Jun and Gu, Geng and Xia, Yan.<br />
   "CSATrack: Channel Split Attention with Adaptive Convolution for Visual Tracking." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11614774)] 
