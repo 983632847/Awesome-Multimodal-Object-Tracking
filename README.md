@@ -157,6 +157,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **ReferTrack:** Hanjing Ye, Tianle Zeng, Jiazhao Zhang, Shaoan Wang, Zibo Zhang, Weisi Situ, Yuchen Zhou, Yonggen Ling, Hong Zhang.<br />
+  "ReferTrack: Referring Then Tracking for Embodied Visual Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.20061)] 
+  [[code](https://github.com/MedlarTea/referTrack)]
+  
 - **CosFly-VLA:** Ruilong Ren, Songsheng Cheng, Yunpeng Zhou, Hanxuan Chen, Xiangyue Wang, Tianle Zeng, Shuai Yuan, Binbo Li, Hanzhong Guo, Ji Pei, Da Zhang, Kangli Wang.<br />
   "CosFly-VLA: A Spatially Aware Vision-Language-Action Model for UAV Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2607.15004)]
@@ -1341,10 +1346,16 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 |  [NOT-156](https://ieeexplore.ieee.org/abstract/document/10938642)   | TGRS-2025 | [NOT-156](http://rsidea.whu.edu.cn/NOT156_dataset.htm) | 156 videos with low-light image and thermal infrared |  
 |  [UniRTL](https://www.sciencedirect.com/science/article/pii/S0031320324007350)   |   PR-2025   |  [UniRTL](https://github.com/Liamzh0331/Unismot)  | a universal RGBT and low-light benchmark, 3 × 626 videos for SOT, 3 × 50 videos for MOT, 474.2K frames   | 
 |  [LUART](https://github.com/NOP1224/Unaligned_RGBT_Tracking/blob/main/Unaligned_UAV_RGBT_Tracking__A_Largescale_Benchmark_and_A_Novel_Approach_AAAI_CRC.pdf)   |   AAAI-2026   |  [LUART](https://github.com/NOP1224/Unaligned_RGBT_Tracking)  | 1,453 video pairs,42 categories,1.02M frames   | 
-|  [CM-UOT](https://arxiv.org/abs/2607.18768)   |  arXiv-2026 | [CM-UOT](ttps://github.com/hongsmile365/sarla-)  | 1079 cross-modal sequences,over 671K frames | 
+|  [CM-UOT](https://arxiv.org/abs/2607.18768)   |  arXiv-2026 | [CM-UOT](https://github.com/hongsmile365/sarla-)  | 1,079 cross-modal sequences,over 671K frames | 
+|  [DRGBT-1K](https://arxiv.org/abs/2607.19772) | arXiv-2026 | [DRGBT-1K](https://github.com/zhaodongAH/DRGBT-1K)  | 1,045 sequences with a total of 795K frame pairs | 
 
 ### Papers
 #### 2026
+- **DRGBT-1K:** Zhaodong Ding, Chenglong Li, Zeyu Ding, Futian Wang, Jin Tang.<br />
+  "DRGBT-1K: A Large-scale High-quality Benchmark for Dynamic RGBT Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.19772)] 
+  [[dataset](https://github.com/zhaodongAH/DRGBT-1K)]
+  
 - **CM-UOT & SARLA:** Yun Xiao, Zhihong Hong, Jiandong Jin, Chenglong Li, Jin Tang, Amir Hussain.<br />
   "Cross-Modal UAV Object Tracking: State-Aware Representation Learning and A Unified Benchmark." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2607.18768)] 
