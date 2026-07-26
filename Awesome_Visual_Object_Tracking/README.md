@@ -49,6 +49,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **CSATrack:** Wang, Yuanyun and Si, Yingzhen and Liu, Jilong and Wang, Jun and Gu, Geng and Xia, Yan.<br />
+  "CSATrack: Channel Split Attention with Adaptive Convolution for Visual Tracking." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11614774)] 
+  [[code](https://github.com/refreshment-coffee/CSATrack)]
+  
 - **PCTrack:** Zu, Yanting and Liang, Qihua and Xue, Chaocan and Tan, Yufei and Song, Shuxiang and Zhong, Bineng.<br />
   "Robust Nighttime UAV Tracking Via Parameter and Computation Efficient Transfer Learning."  TMM (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11613180)]
