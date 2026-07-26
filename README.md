@@ -2446,6 +2446,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **HEATTrack:** Yan, Ling and Dong, Xueyan and Yang, Jian and Wang, Qi and Meng, Zhichao and Wang, Zhong and Dai, Yuchao.<br />
+  "HEATTrack: History Evidence Injection and Target-Aware Prompting for Aerial Multispectral Single-Object Tracking." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11593902)]
+  
 - **TMMSAM2:** Fu, Xiyou and Zhang, Ting and Zhang, Xiaoyu and Lin, Mingying and Lv, Zijun and He, Wangquan and Ren, Qi and Xu, Meng and Jia, Sen.<br />
   "TMMSAM2: Tracker-Aided Multitemporal Memory SAM2 for Hyperspectral Object Tracking." TNNLS (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11597947)]
