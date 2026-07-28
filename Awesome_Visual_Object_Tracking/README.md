@@ -49,6 +49,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **CMRTrack,:** Yuehai Chen, Jian Lan, and Yuan Wei.<br />
+  "Counterfactual Motion Reliability Learning for Robust UAV Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.23209)]
+  
 - **GOT-JEPA:** Chen, Shih-Fang and Chen, Jun-Cheng and Jhuo, I-Hong and Lin, Yen-Yu.<br />
   "GOT-JEPA: Generic Object Tracking With Model Adaptation and Occlusion Handling Using Joint-Embedding Predictive Architecture." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11436011)] 
