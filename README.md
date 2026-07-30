@@ -246,6 +246,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **SATATrack:** Xiaozhen Qiao, Da Zhang, Yubin Guo, Junyu Gao, Zhiyuan Zhao, Xuelong Li.<br />
+  "Semantic-Aware Temporal Adaptation for UAV Anti-UAV Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.26511)] 
+  [[code](https://github.com/XiaozhenQiao/SATATrack)]
+  
 - **DFD-CLIP:** Bai, Jing and Fu, Xiwen and Zhu, Guopu and Wu, Ligang and You, Jinkun and Gao, Yang and Kwong, Sam.<br />
   "DFD-CLIP: A Unified Vision-Language Framework for Driving Fatigue Detection with Temporal Modeling and Adaptive Prompt Learning." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11558523)] 
