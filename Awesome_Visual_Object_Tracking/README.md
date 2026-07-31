@@ -3421,7 +3421,7 @@ Jamshidjon Ganiev, Seung-Hwan Bae.<br />
 
 ### ECCV2016
 
-* **SiaFC:** Luca Bertinetto, Jack Valmadre, João F. Henriques, Andrea Vedaldi, Philip H.S. Torr. 
+* **SiamFC:** Luca Bertinetto, Jack Valmadre, João F. Henriques, Andrea Vedaldi, Philip H.S. Torr. 
   "Fully-Convolutional Siamese Networks for Object Tracking." ECCV workshop (2016). 
   [[paper](https://arxiv.org/abs/1606.09549)]
   [[project](http://www.robots.ox.ac.uk/~luca/siamese-fc.html)]
