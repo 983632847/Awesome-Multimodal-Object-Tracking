@@ -246,6 +246,14 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **DynaMix-VLT:** Huanlong Zhang, Linjie Zhou, Liao Zhu, Fengli Shen, Jingjing Wu & Jianwei Zhang.<br />
+  "DynaMix-VLT: Dynamic Multi-head Attention and Semantic-guided Modal Mixing for Robust Vision-language Tracking." MIR (2026).
+  [[paper](https://link.springer.com/article/10.1007/s11633-025-1605-x)] 
+
+- **DTP-Track:** Xiong, Geng and Zhong, Bineng and Liang, Qihua and Li, Xiaohai and Li, Ning and Song, Shuxiang.<br />
+  "DTP-Track: Diversity-Guided Token Pruning and Purification for Vision-Language Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11622554)]
+  
 - **SATATrack:** Xiaozhen Qiao, Da Zhang, Yubin Guo, Junyu Gao, Zhiyuan Zhao, Xuelong Li.<br />
   "Semantic-Aware Temporal Adaptation for UAV Anti-UAV Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2607.26511)] 
