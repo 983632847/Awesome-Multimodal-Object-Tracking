@@ -1364,6 +1364,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **TA-HyperNet:** Zhaoding Ding, Chenglong Li, Jiandong Jin, Kewei Ying, Wentao Wu.<br />
+  "Parameter-Dynamic Adaptive Fusion and Calibration Network for RGBT Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.01807)]
+  
 - **DRGBT-1K:** Zhaodong Ding, Chenglong Li, Zeyu Ding, Futian Wang, Jin Tang.<br />
   "DRGBT-1K: A Large-scale High-quality Benchmark for Dynamic RGBT Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2607.19772)] 
@@ -2196,6 +2200,14 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **DTrack:** Yuqi Li, Yuedong Tan, Huiran Duan, Weilun Feng, Chuanguang Yang, Zhulin An, Zongwei Wu, Shiping Wen, Tingwen Huang, Yingli Tian.<br />
+  "Towards Compact Unified Multimodal Tracking: Synergizing Knowledge Distillation with Structural Pruning." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.01488)]
+  
+- **ACTrack:** Wenrui Cai, Yuzhe Li, Qingjie Liu, Yunhong Wang.<br />
+"Models as Tools: An Agentic Coordination Framework for Unified Multimodal Visual Tracking." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.00847)]
+
 - **DTTrack:** Liang, Yijun and Chen, Ziyi and Chen, Yewang and Chen, Yun and Li, Dilong and Liu, Weiquan and Wang, Cheng and Li, Jonathan.<br />
   "DTTrack: Metric-Guided Dynamic Template Tracking Network." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11595036)]
