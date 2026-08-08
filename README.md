@@ -1364,6 +1364,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **FITrack:** Li, Yunzhen and Zhong, Bineng and Liang, Qihua and Zheng, Yaozong and Li, Ning and Song, Shuxiang.<br />
+  "Frequency-guided and Temporal Prompt Information Integration for RGB-T Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11631736)]
+  
 - **TA-HyperNet:** Zhaoding Ding, Chenglong Li, Jiandong Jin, Kewei Ying, Wentao Wu.<br />
   "Parameter-Dynamic Adaptive Fusion and Calibration Network for RGBT Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2608.01807)]
