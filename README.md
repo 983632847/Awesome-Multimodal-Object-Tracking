@@ -1364,6 +1364,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **GPTrack:** Li, Jingjing and Qin, Hanlin and Yu, Yue and Zhang, Xupei and Li, Juliu.<br />
+  "GPTrack: Graph-Topological Priors and Physics-Aware Interaction for RGB-T Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11638211)] 
+  [[code](https://github.com/qixi-alt/GPTrack)]
+  
 - **FITrack:** Li, Yunzhen and Zhong, Bineng and Liang, Qihua and Zheng, Yaozong and Li, Ning and Song, Shuxiang.<br />
   "Frequency-guided and Temporal Prompt Information Integration for RGB-T Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11631736)]
@@ -2593,6 +2598,12 @@ Coming soon.
 
 ## Others 
 ### RGBNIR, RGBS, etc
+#### 2026
+- **DeSSTrack:** Tao Liu and Haolan Lu and Lingji Xu and Jianming Miao.<br />
+  "DeSSTrack: Decoupled search-centric temporal state transition for RGB-Sonar tracking." Expert Systems with Applications (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426027582)] 
+  [[code](https://github.com/Tao-GCPD/DeSSTrack)]
+  
 #### 2025
 - **VUOT & VTUTrack:** Qinghua Song, Xiaolei Wang .<br />
   "Efficient Transformer Network for Visible and Ultraviolet Object Tracking." CVM (2025).
