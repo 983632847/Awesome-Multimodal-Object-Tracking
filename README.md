@@ -2204,6 +2204,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **AnyTrack:** Hao Li, Yunzhi Zhuge, Wenning Hao, Pingping Zhang, Xiaoxiong Zhang, Dong Wang, Huchuan Lu.<br />
+  "AnyTrack: Unifying Visual Object Tracking with Any Modalities." ACM MM (2026).
+  [[paper](https://arxiv.org/abs/2608.06773)] 
+  [[code](https://github.com/IdolLab/AnyTrack)]
+  
 - **DTrack:** Yuqi Li, Yuedong Tan, Huiran Duan, Weilun Feng, Chuanguang Yang, Zhulin An, Zongwei Wu, Shiping Wen, Tingwen Huang, Yingli Tian.<br />
   "Towards Compact Unified Multimodal Tracking: Synergizing Knowledge Distillation with Structural Pruning." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2608.01488)]
