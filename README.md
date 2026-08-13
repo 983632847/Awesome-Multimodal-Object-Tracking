@@ -246,6 +246,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **SeDCP:** Ding Ma; Zexu Zhang; Xiangqian Wu.<br />
+  "Self-Chained Dynamic Context Perception to Tracking by Natural Language Specification." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11644814)]
+  
 - **DynaMix-VLT:** Huanlong Zhang, Linjie Zhou, Liao Zhu, Fengli Shen, Jingjing Wu & Jianwei Zhang.<br />
   "DynaMix-VLT: Dynamic Multi-head Attention and Semantic-guided Modal Mixing for Robust Vision-language Tracking." MIR (2026).
   [[paper](https://link.springer.com/article/10.1007/s11633-025-1605-x)] 
@@ -1364,6 +1368,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **FTTrack:** Yutong Gu; Xin Zhou; Zichun Zhou; Hongwen Yu; Junjie Zhang.<br />
+  "FTTrack: RGB-T Tracking with Frequency-Adaptive Fusion and Temporal Enhancement." SPL (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11643798)]
+  
 - **GPTrack:** Li, Jingjing and Qin, Hanlin and Yu, Yue and Zhang, Xupei and Li, Juliu.<br />
   "GPTrack: Graph-Topological Priors and Physics-Aware Interaction for RGB-T Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11638211)] 
