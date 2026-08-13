@@ -2485,6 +2485,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **MSP-Net:** Juliu Li, Hanlin Qin, Shuowen Yang, Jingjing Li, Yuedong Tan, Shuai Yuan, Huixin Zhou.<br />
+  "MSP-Net: Manifold-Guided Spectral Prompt Network for Hyperspectral Object Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.09575)] 
+  [[code](https://github.com/GGML668897/MSP-Net)]
+  
 - **HEATTrack:** Yan, Ling and Dong, Xueyan and Yang, Jian and Wang, Qi and Meng, Zhichao and Wang, Zhong and Dai, Yuchao.<br />
   "HEATTrack: History Evidence Injection and Target-Aware Prompting for Aerial Multispectral Single-Object Tracking." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11593902)]
