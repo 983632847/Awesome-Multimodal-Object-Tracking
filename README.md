@@ -1368,6 +1368,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **PTPTrack:** Zhang, Dawei and Xu, Dongsheng and Yang, Chengzhuan and Wang, Xiao and Zheng, Zhonglong and Wang, Hua and Zhang, Jun.<br />
+  "PTPTrack: Progressive Temporal Prompting for Thermal Infrared Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11653456)] 
+  [[code](https://github.com/xds-zjnu/PTPTrack)]
+  
 - **FTTrack:** Yutong Gu; Xin Zhou; Zichun Zhou; Hongwen Yu; Junjie Zhang.<br />
   "FTTrack: RGB-T Tracking with Frequency-Adaptive Fusion and Temporal Enhancement." SPL (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11643798)]
