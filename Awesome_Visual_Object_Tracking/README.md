@@ -49,6 +49,16 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **TrackingMambaV2:** QINGWANG WANG, LIYAO ZHOU, HUAIYU FAN, BEI CHENG,
+ZHEN ZHANG, YANFENG GU, AND TAO SHEN.<br />
+  "TrackingMambaV2: UAV Visual Object Tracking in Mountain Jungle." IEEE GRSM (2026).
+  [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11653047)] 
+  [[code](https://github.com/KustTeamWQW/TrackingMambaV2)]
+
+- **ParaTrack:** Li, Yinghao and Liu, Guixi and Xiong, Ruke and Lu, Qian and Xiao, Yisong and Li, Sen and Wu, Zhiyu.<br />
+  "ParaTrack: An Efficient Parallel Framework for Visual Object Tracking." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11646462)]
+  
 - **CMRTrack,:** Yuehai Chen, Jian Lan, and Yuan Wei.<br />
   "Counterfactual Motion Reliability Learning for Robust UAV Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2607.23209)]
