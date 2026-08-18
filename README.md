@@ -1368,6 +1368,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **DTTrack:** Zhijiang Dai and Jiatian Mei and Mengjin Xiao and Jianhou Gan and Wenqi Ren and Juxiang Zhou.<br />
+  "DTTrack: A twin-signal progressive feedback network for RGB-T tracking." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326015669)]
+  
 - **PTPTrack:** Zhang, Dawei and Xu, Dongsheng and Yang, Chengzhuan and Wang, Xiao and Zheng, Zhonglong and Wang, Hua and Zhang, Jun.<br />
   "PTPTrack: Progressive Temporal Prompting for Thermal Infrared Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11653456)] 
