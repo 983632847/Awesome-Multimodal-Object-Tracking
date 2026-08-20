@@ -2226,6 +2226,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **TATrack:** Cui, Zequan and Li, Ning and Mo, Zhiyi and Liang, Qihua and Song, Shuxiang and Zhong, Bineng.<br />
+  "Temporally Evolving Visual Memory and Adaptive Language Refinement for Object Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11655933)]
+  
 - **AnyTrack:** Hao Li, Yunzhi Zhuge, Wenning Hao, Pingping Zhang, Xiaoxiong Zhang, Dong Wang, Huchuan Lu.<br />
   "AnyTrack: Unifying Visual Object Tracking with Any Modalities." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2608.06773)] 
