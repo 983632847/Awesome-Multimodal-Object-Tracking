@@ -246,6 +246,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **VL-METrack:** Liqiang Liu and Lingling Yang and Feng Huang and Yanfang Fu and Tiantian Feng and Shu Wang and Anyuan Xie and Zijian Cao.<br />
+  "A unified decision-driven framework: Long-term tracking via visual-language models with motion estimation." Neural Networks (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0893608026009640)] 
+  [[code](https://github.com/yll1214/VL-METrack)]
+  
 - **SeDCP:** Ding Ma; Zexu Zhang; Xiangqian Wu.<br />
   "Self-Chained Dynamic Context Perception to Tracking by Natural Language Specification." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11644814)]
