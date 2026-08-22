@@ -246,6 +246,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **UTPTrack:** Li Yin and Yi Fan and Yu Sun and Baigang Mi.<br />
+  "UTPTrack: Unlocking Text Potential via cascaded alignment and adaptive temporal modeling for Vision–Language Tracking." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S003132032601616X)]
+  
 - **VL-METrack:** Liqiang Liu and Lingling Yang and Feng Huang and Yanfang Fu and Tiantian Feng and Shu Wang and Anyuan Xie and Zijian Cao.<br />
   "A unified decision-driven framework: Long-term tracking via visual-language models with motion estimation." Neural Networks (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0893608026009640)] 
