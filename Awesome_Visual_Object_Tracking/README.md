@@ -448,7 +448,8 @@ ZHEN ZHANG, YANFENG GU, AND TAO SHEN.<br />
 
 - **LETrack:** chaocan xue ⋅ Qihua Liang ⋅ Bineng Zhong ⋅ Yanting Zu ⋅ Yuanliang Xue ⋅ Haiying Xia ⋅ Shuxiang Song.<br />
   "Toward Low-Cost yet Effective Temporal Learning for UAV Tracking." CVPR (2026).
-  [[paper](https://cvpr.thecvf.com/virtual/2026/poster/38646)] 
+  [[paper](https://cvpr.thecvf.com/virtual/2026/poster/38646)]
+  [[code](https://github.com/GXNU-ZhongLab/LETrack)]
 
 - **MVLM:** Dae-Hyeon Park, Mina Baek, Jeong-Hun Ha, Chan-Seop Park,
 Jamshidjon Ganiev, Seung-Hwan Bae.<br />
@@ -1300,7 +1301,7 @@ Jamshidjon Ganiev, Seung-Hwan Bae.<br />
 - **SGLATrack:** Chaocan Xue, Bineng Zhong, Qihua Liang, Yaozong Zheng, Ning Li, Yuanliang Xue, Shuxiang Song.<br />
   "Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking." CVPR (2025).
   [[paper](https://arxiv.org/abs/2503.06625)] 
-  [[code](https://github.com/GXNU-ZhongLab/SGLATrack.)]
+  [[code](https://github.com/GXNU-ZhongLab/SGLATrack)]
 
 - **DUTrack:** Xiaohai Li, Bineng Zhong, Qihua Liang, Zhiyi Mo, Jian Nong, Shuxiang Song.<br />
   "Dynamic Updates for Language Adaptation in Visual-Language Tracking." CVPR (2025).
