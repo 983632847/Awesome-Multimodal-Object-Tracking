@@ -1901,7 +1901,6 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   "Toward Modalities Correlation for RGB-T Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/document/10517645)] 
 
-
 - **LSAR:** Liu, Jun and Luo, Zhongqiang and Xiong, Xingzhong.<br />
   "Online Learning Samples and Adaptive Recovery for Robust RGB-T Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/document/10159404)] 
@@ -2235,6 +2234,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **SwitchTrack:** Yixin Xu and Wenkang Zhang and Tianyang Xu and Jinhui Wu and Qiang Wang and Wankou Yang.<br />
+  "Adaptive Multimodal Visual Tracking via Parameter-Efficient Vision Transformers." Neural Networks (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608026009895)]
+  
 - **TATrack:** Cui, Zequan and Li, Ning and Mo, Zhiyi and Liang, Qihua and Song, Shuxiang and Zhong, Bineng.<br />
   "Temporally Evolving Visual Memory and Adaptive Language Refinement for Object Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11655933)]
