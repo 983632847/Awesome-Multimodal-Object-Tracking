@@ -157,6 +157,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **TrAct:** Zhi Cao, Howard Ji, Kevin Zhang, Kuangzhi Ge, Li Fei-Fei, Jiajun Wu, Huang Huang.<br />
+  "TrAct: Bridging Robot Control and Visual Prediction with Visual Tracks." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.24101)]
+  
 - **ReferTrack:** Hanjing Ye, Tianle Zeng, Jiazhao Zhang, Shaoan Wang, Zibo Zhang, Weisi Situ, Yuchen Zhou, Yonggen Ling, Hong Zhang.<br />
   "ReferTrack: Referring Then Tracking for Embodied Visual Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2607.20061)] 
@@ -246,6 +250,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **BSTrack:** Zhen, Yihao and Wang, Qiang and Qu, Liangqiong and Fan, Huijie.<br />
+  "BSTrack: Bridging Cross-Modal Spatio-Temporal Differences in Vision-Language Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11660711)]
+  
 - **UTPTrack:** Li Yin and Yi Fan and Yu Sun and Baigang Mi.<br />
   "UTPTrack: Unlocking Text Potential via cascaded alignment and adaptive temporal modeling for Vision–Language Tracking." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S003132032601616X)]
@@ -1377,6 +1385,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **IWA:** Zhang, Shiyu and Xu, Tianyang and Tang, Zhangyong and Wu, Xiao-Jun and Kittler, Josef.<br />
+  "Focusing on What Matters: Importance Weighted Attention for RGB-T Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11658928)]
+  
 - **DTTrack:** Zhijiang Dai and Jiatian Mei and Mengjin Xiao and Jianhou Gan and Wenqi Ren and Juxiang Zhou.<br />
   "DTTrack: A twin-signal progressive feedback network for RGB-T tracking." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326015669)]
