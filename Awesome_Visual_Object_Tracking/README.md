@@ -296,6 +296,10 @@ ZHEN ZHANG, YANFENG GU, AND TAO SHEN.<br />
   "HieDG: A Hierarchical Discrete Geometry-Guided Framework for Multi-Animal Tracking." ECCV (2026).
   [[paper](https://arxiv.org/abs/2607.00494)]
 
+- **MaST:** Qingmao Wei, Fagui Liu, Dengke Zhang, Qingze He, Quan Tang.<br />
+  "MaST: Motion-aware Sparse Pipeline for Lightweight Object Tracking." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2608.24365)] 
+  [[code](https://github.com/TsingWei/MaST)]
   
 ### CVPR 2026
 - **SEATrack:** Junbin Su and Ziteng Xue and Shihui Zhang and Kun Chen and Weiming Hu and Zhipeng Zhang.<br />
