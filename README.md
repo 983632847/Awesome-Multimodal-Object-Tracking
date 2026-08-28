@@ -1390,6 +1390,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **HAT:** Wang, He.<br />
+  "Efficient Hybrid Adapter for Visible-Thermal Tracking." ICIP (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11630165)]
+  
 - **IWA:** Zhang, Shiyu and Xu, Tianyang and Tang, Zhangyong and Wu, Xiao-Jun and Kittler, Josef.<br />
   "Focusing on What Matters: Importance Weighted Attention for RGB-T Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11658928)]
