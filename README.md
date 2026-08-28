@@ -250,6 +250,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **Mg3DVLT-Net:** Hongkai Wei and Rong Wang and Keyu Guo and Yongle Huang and Shijie Sun and Xiangyu Song and Mingtao Feng and Naveed Akhtar.<br />
+  "Multi-granularity 3D Visual Language Tracking from monocular videos: A benchmark and model." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326017358)] 
+  [[code](https://anonymous.4open.science/r/Mg3DVLT)]
+  
 - **BSTrack:** Zhen, Yihao and Wang, Qiang and Qu, Liangqiong and Fan, Huijie.<br />
   "BSTrack: Bridging Cross-Modal Spatio-Temporal Differences in Vision-Language Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11660711)]
