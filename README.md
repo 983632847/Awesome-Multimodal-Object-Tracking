@@ -2539,6 +2539,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **SSTP:** Yan, Xiaoyue and Xu, Tingfa and Qin, Haolin and Li, Tianhao and Li, Jianan.<br />
+  "Spectral-Spatiotemporal Prompting for Multispectral UAV Tracking." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11667128)] 
+  [[code](https://github.com/YXYbit/SSTP)]
+  
 - **MSP-Net:** Juliu Li, Hanlin Qin, Shuowen Yang, Jingjing Li, Yuedong Tan, Shuai Yuan, Huixin Zhou.<br />
   "MSP-Net: Manifold-Guided Spectral Prompt Network for Hyperspectral Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2608.09575)] 
