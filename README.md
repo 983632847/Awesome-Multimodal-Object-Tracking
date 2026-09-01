@@ -827,6 +827,11 @@ Jamshidjon Ganiev, Seung-Hwan Bae.<br />
 
 ### Papers
 #### 2026
+- **TextBridge-Track:** He, Ziang and Tong, Ming and He, Chu and Fan, Yi and Chen, Xi and Fan, Shenghua.<br />
+  "TextBridge-Track: Hierarchical Spatio-temporal Alignment for RGBE Tracking via CLIP’s Textual Guidance." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11672227)] 
+  [[code](https: //github.com/RiverUp/TextBridge-Track)]
+  
 - **TDTrack:** Jiaqi Zhang, Rui Song, Jiaqiang Jiang, Jing Fan & Rui Yan .<br />
   "TDTrack: Adaptive Trajectory Prompt Encoding for Efficient Event-Based Single-Object Tracking." ICIC (2026).
   [[paper](https://link.springer.com/chapter/10.1007/978-981-92-3531-5_27)]
