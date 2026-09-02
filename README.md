@@ -250,6 +250,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **LVTrack:** Han Wang, Yuxuan Liu, Yuhan Sun, Jian Yang, Xiaotong Xu, Yixuan Lv, Zhuang Zhou, Shengyang Li.<br />
+  "Efficient Language-to-Vision Feature Injection for Referring Single-Object Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.29126)]
+  
 - **Mg3DVLT-Net:** Hongkai Wei and Rong Wang and Keyu Guo and Yongle Huang and Shijie Sun and Xiangyu Song and Mingtao Feng and Naveed Akhtar.<br />
   "Multi-granularity 3D Visual Language Tracking from monocular videos: A benchmark and model." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326017358)] 
