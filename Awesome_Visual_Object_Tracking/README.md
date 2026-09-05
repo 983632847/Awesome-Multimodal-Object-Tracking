@@ -300,6 +300,11 @@ ZHEN ZHANG, YANFENG GU, AND TAO SHEN.<br />
   "MaST: Motion-aware Sparse Pipeline for Lightweight Object Tracking." ECCV (2026).
   [[paper](https://arxiv.org/abs/2608.24365)] 
   [[code](https://github.com/TsingWei/MaST)]
+
+- **YesTrack:** Quansheng Hu, Qin Sun, Qiansen Dai, Jin Ding, Wan Zhang, Xue Zhou, Jianxiao Zou.<br />
+  "YesTrack: Referring Multi-Object Tracking via MLLM-based Yes/No Verification." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2609.02318)] 
+  [[code](https://github.com/ggbondrighthere24/YesTrack)] 
   
 ### CVPR 2026
 - **SEATrack:** Junbin Su and Ziteng Xue and Shihui Zhang and Kun Chen and Weiming Hu and Zhipeng Zhang.<br />
