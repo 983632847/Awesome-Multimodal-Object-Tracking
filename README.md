@@ -1399,6 +1399,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **DS4Net:** Jie Hu, Yuanhao Zheng, Sixian Chan.<br />
+  "Dual-Stream Self-Supervised Synergistic Network for Robust RGB-T Fusion and Tracking." ACM Transactions on Intelligent Systems and Technology (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3821537)]
+  
 - **HAT:** Wang, He.<br />
   "Efficient Hybrid Adapter for Visible-Thermal Tracking." ICIP (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11630165)]
