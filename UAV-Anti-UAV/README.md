@@ -9,6 +9,7 @@ Unmanned Aerial Vehicles (UAVs) offer wide-ranging applications but also pose si
 - ✅ Baseline Results
 - ✅ [Evaluation Toolkits](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/MMOT_Evaluation_Toolkit)
 - ✅ [Technical Report V1.0](https://arxiv.org/abs/2512.07385)
+- ✅ Language prompts for the UAV123, UAV20L, UAVDT, VisDrone, and DBT70 datasets are available for download on [Baidu Pan](https://pan.baidu.com/s/1KS36I64pXJ154Bd6Bqiz7Q?pwd=UAVT) (extraction code: UAVT). 
 
 
 ## UAV-Anti-UAV Dataset
