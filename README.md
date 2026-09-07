@@ -1399,6 +1399,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **SACATrack:** Li, Ning and Zhong, Bineng and Liang, Qihua and Wei, Bo and Pan, Jie and Song, Shuxiang.<br />
+  "SACATrack: Joint Scale-aware and Context-aware for Robust RGB-T Tracking." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11672823)] 
+  [[code](https://github.com/mywebinfo65536/SACATrack)]
+  
 - **DS4Net:** Jie Hu, Yuanhao Zheng, Sixian Chan.<br />
   "Dual-Stream Self-Supervised Synergistic Network for Robust RGB-T Fusion and Tracking." ACM Transactions on Intelligent Systems and Technology (2026).
   [[paper](https://dl.acm.org/doi/10.1145/3821537)]
