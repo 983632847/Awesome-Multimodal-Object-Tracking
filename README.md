@@ -2273,6 +2273,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- Zhang, Zixuan and Wang, Mianzhao and Shi, Fan and Jia, Chen and Cheng, Xu and Chen, Shengyong.<br />
+  "Generative Multi-Modal Tracking via Generative Feature Fusion and Stepwise Cascaded Prompting." IEEE Transactions on Multimedia (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11673076)]
+  
 - **SwitchTrack:** Yixin Xu and Wenkang Zhang and Tianyang Xu and Jinhui Wu and Qiang Wang and Wankou Yang.<br />
   "Adaptive Multimodal Visual Tracking via Parameter-Efficient Vision Transformers." Neural Networks (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608026009895)]
