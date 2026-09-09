@@ -49,6 +49,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **TLCTrack:** Ding Xia, Meiqin Liu, Jing Zhou, Jian Lan.<br />
+  "Continuous Token-Level Spatio-Temporal Context Modeling for Visual Object Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.07070)] 
+  [[code](https://github.com/xiading123/TLCTrack)]
+  
 - **TrackingMambaV2:** QINGWANG WANG, LIYAO ZHOU, HUAIYU FAN, BEI CHENG,
 ZHEN ZHANG, YANFENG GU, AND TAO SHEN.<br />
   "TrackingMambaV2: UAV Visual Object Tracking in Mountain Jungle." IEEE GRSM (2026).
