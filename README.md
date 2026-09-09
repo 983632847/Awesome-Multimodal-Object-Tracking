@@ -157,6 +157,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **CST-WM:** Junyi Hu, Shuaihang Yuan, Yi Fang.<br />
+  "CST-WM: A Causally Structured World Model for Embodied Visual Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.06302)] 
+  [[code](https://junyi2005.github.io/cst-wm/)]
+  
 - **TrAct:** Zhi Cao, Howard Ji, Kevin Zhang, Kuangzhi Ge, Li Fei-Fei, Jiajun Wu, Huang Huang.<br />
   "TrAct: Bridging Robot Control and Visual Prediction with Visual Tracks." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2608.24101)]
