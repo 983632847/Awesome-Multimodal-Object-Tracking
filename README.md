@@ -839,7 +839,7 @@ Jamshidjon Ganiev, Seung-Hwan Bae.<br />
 - **TextBridge-Track:** He, Ziang and Tong, Ming and He, Chu and Fan, Yi and Chen, Xi and Fan, Shenghua.<br />
   "TextBridge-Track: Hierarchical Spatio-temporal Alignment for RGBE Tracking via CLIP’s Textual Guidance." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11672227)] 
-  [[code](https: //github.com/RiverUp/TextBridge-Track)]
+  [[code](https://github.com/RiverUp/TextBridge-Track)]
   
 - **TDTrack:** Jiaqi Zhang, Rui Song, Jiaqiang Jiang, Jing Fan & Rui Yan .<br />
   "TDTrack: Adaptive Trajectory Prompt Encoding for Efficient Event-Based Single-Object Tracking." ICIC (2026).
@@ -1404,6 +1404,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **AALTrack:** Huang, Lili and Yan, Chengzhi and Jin, Jiandong and Liu, Lei and Li, Chenglong.<br />
+  "Efficient RGBT Tracking via Alternating Attention Learning." TCSVT (2026).
+  [[paper](https://doi.org/10.1109/TCSVT.2026.3730605)]
+  
 - **SACATrack:** Li, Ning and Zhong, Bineng and Liang, Qihua and Wei, Bo and Pan, Jie and Song, Shuxiang.<br />
   "SACATrack: Joint Scale-aware and Context-aware for Robust RGB-T Tracking." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11672823)] 
@@ -2566,6 +2570,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **HucrTrack:** Chen, Yuzeng and Yuan, Qiangqiang and Xie, Hong and Su, Xin and Tang, Yuqi and Guan, Renxiang and Liu, Li and Liu, Xinwang and Zhang, Liangpei.<br />
+  "Beyond Stepwise Modeling: Towards a Unified Contextual Reasoning Framework for Hyperspectral Video Object Tracking." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11677293)]
+  
 - **SSTP:** Yan, Xiaoyue and Xu, Tingfa and Qin, Haolin and Li, Tianhao and Li, Jianan.<br />
   "Spectral-Spatiotemporal Prompting for Multispectral UAV Tracking." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11667128)] 
