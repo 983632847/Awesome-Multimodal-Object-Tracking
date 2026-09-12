@@ -310,7 +310,13 @@ ZHEN ZHANG, YANFENG GU, AND TAO SHEN.<br />
   "YesTrack: Referring Multi-Object Tracking via MLLM-based Yes/No Verification." ECCV (2026).
   [[paper](https://arxiv.org/abs/2609.02318)] 
   [[code](https://github.com/ggbondrighthere24/YesTrack)] 
-  
+
+ - **TR-MoE:** Tianle Wang, Xiangyang Yang, Jihua Zhu, Binrui Liu, YanZhao Li & Shuiwang Li.<br />
+  "TR-MoE: Temporal Reliability-Aware Mixture-of-Experts for Robust Tracking." ECCV (2026).
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-032-37362-5_10)] 
+  [[code](https://github.com/Avant1v/TR-MoE)]
+
+ 
 ### CVPR 2026
 - **SEATrack:** Junbin Su and Ziteng Xue and Shihui Zhang and Kun Chen and Weiming Hu and Zhipeng Zhang.<br />
   "SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker." CVPR (2026).
