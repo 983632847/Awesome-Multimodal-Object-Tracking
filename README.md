@@ -2282,6 +2282,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **PSMTrack:** Zixuan Wang, Baojie Fan, Jiajun Ai & Wenzhang Zhou.<br />
+  "Progressively Spiral Mamba Fusion for Multimodal Tracking." ECCV (2026).
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-032-37335-9_4)]
+  
 - Zhang, Zixuan and Wang, Mianzhao and Shi, Fan and Jia, Chen and Cheng, Xu and Chen, Shengyong.<br />
   "Generative Multi-Modal Tracking via Generative Feature Fusion and Stepwise Cascaded Prompting." IEEE Transactions on Multimedia (2026).
   [[paper](https://ieeexplore.ieee.org/document/11673076)]
