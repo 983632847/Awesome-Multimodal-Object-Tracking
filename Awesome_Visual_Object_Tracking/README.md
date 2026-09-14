@@ -320,6 +320,10 @@ ZHEN ZHANG, YANFENG GU, AND TAO SHEN.<br />
   "FeatTracker: Short- and Long-Range Temporal Feature Consistency for Robust Underwater Object Tracking." ECCV (2026).
   [[paper](https://link.springer.com/chapter/10.1007/978-3-032-37038-9_34)] 
   [[code](https://github.com/fishgfish/FeatTracker)]
+
+- **PSMTrack:** Zixuan Wang, Baojie Fan, Jiajun Ai & Wenzhang Zhou.<br />
+  "Progressively Spiral Mamba Fusion for Multimodal Tracking." ECCV (2026).
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-032-37335-9_4)] 
  
 ### CVPR 2026
 - **SEATrack:** Junbin Su and Ziteng Xue and Shihui Zhang and Kun Chen and Weiming Hu and Zhipeng Zhang.<br />
