@@ -316,6 +316,10 @@ ZHEN ZHANG, YANFENG GU, AND TAO SHEN.<br />
   [[paper](https://link.springer.com/chapter/10.1007/978-3-032-37362-5_10)] 
   [[code](https://github.com/Avant1v/TR-MoE)]
 
+- **FeatTracker:** Jiaqing Li, Bin Lin, Chaocan Xue, Wu Ai & Qingping Zheng.<br />
+  "FeatTracker: Short- and Long-Range Temporal Feature Consistency for Robust Underwater Object Tracking." ECCV (2026).
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-032-37038-9_34)] 
+  [[code](https://github.com/fishgfish/FeatTracker)]
  
 ### CVPR 2026
 - **SEATrack:** Junbin Su and Ziteng Xue and Shihui Zhang and Kun Chen and Weiming Hu and Zhipeng Zhang.<br />
