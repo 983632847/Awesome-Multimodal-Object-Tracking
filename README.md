@@ -1404,6 +1404,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **LGCTrack:** Yueying Zhang, Timing Li, Bing Cao & Pengfei Zhu .<br />
+  "Local-to-Global Cross-Modal Coordination for Self-supervised RGB-T Tracking." ECCV (2026).
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-032-37627-5_19)] 
+  [[code](https://github.com/zyyyya/LGCTrack)]
+  
 - **AALTrack:** Huang, Lili and Yan, Chengzhi and Jin, Jiandong and Liu, Lei and Li, Chenglong.<br />
   "Efficient RGBT Tracking via Alternating Attention Learning." TCSVT (2026).
   [[paper](https://doi.org/10.1109/TCSVT.2026.3730605)]
