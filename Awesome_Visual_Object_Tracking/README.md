@@ -324,6 +324,16 @@ ZHEN ZHANG, YANFENG GU, AND TAO SHEN.<br />
 - **PSMTrack:** Zixuan Wang, Baojie Fan, Jiajun Ai & Wenzhang Zhou.<br />
   "Progressively Spiral Mamba Fusion for Multimodal Tracking." ECCV (2026).
   [[paper](https://link.springer.com/chapter/10.1007/978-3-032-37335-9_4)] 
+
+- **DASTrack:** Dailing Zhang, Shiyu Hu, Honghao Fu, Xiaokun Feng, Yipei Wang, Kang Hao Cheong & Kaiqi Huang.<br />
+  "Rethinking Temporal Modeling in Visual Object Tracking via Decoupled Auxiliary Supervision." ECCV (2026).
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-032-37432-5_12)] 
+  [[code](https://github.com/ZhangDailing8/DASTrack)]
+
+- **LGCTrack:** Yueying Zhang, Timing Li, Bing Cao & Pengfei Zhu .<br />
+  "Local-to-Global Cross-Modal Coordination for Self-supervised RGB-T Tracking." ECCV (2026).
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-032-37627-5_19)] 
+  [[code](https://github.com/zyyyya/LGCTrack)]
  
 ### CVPR 2026
 - **SEATrack:** Junbin Su and Ziteng Xue and Shihui Zhang and Kun Chen and Weiming Hu and Zhipeng Zhang.<br />
