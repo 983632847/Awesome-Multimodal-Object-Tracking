@@ -1408,7 +1408,15 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
   "Local-to-Global Cross-Modal Coordination for Self-supervised RGB-T Tracking." ECCV (2026).
   [[paper](https://link.springer.com/chapter/10.1007/978-3-032-37627-5_19)] 
   [[code](https://github.com/zyyyya/LGCTrack)]
-  
+
+- **OCTA-SOT:** Xiaokang Liu, Qi Jia, Jinrui Wang, Chengzhou Li, Yu Liu & Weimin Wang .<br />
+  "OCTA-SOT: Online Cross-modal Trajectory Adjustment for RGBT Anti-UAV Single Object Tracking Under Spatio-Temporal Misalignment." ECCV (2026).
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-032-37335-9_17)] 
+  [[code](https://github.com/xkliu-eps/AntiUAV_RGBT_Tracking/)]
+
+- **MGAFTracker:** Aihua Liu · Wenxu Liu · Songjiang Feng · Tao Wu · Qiaona Zheng.<br />
+  "RGB-T object tracking method based on multi-granularity adaptive fusion." ArXiv (2026).
+  [[paper](https://www.nature.com/articles/s41598-026-67207-4_reference.pdf)]   
 - **AALTrack:** Huang, Lili and Yan, Chengzhi and Jin, Jiandong and Liu, Lei and Li, Chenglong.<br />
   "Efficient RGBT Tracking via Alternating Attention Learning." TCSVT (2026).
   [[paper](https://doi.org/10.1109/TCSVT.2026.3730605)]
