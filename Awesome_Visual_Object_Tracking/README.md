@@ -334,7 +334,12 @@ ZHEN ZHANG, YANFENG GU, AND TAO SHEN.<br />
   "Local-to-Global Cross-Modal Coordination for Self-supervised RGB-T Tracking." ECCV (2026).
   [[paper](https://link.springer.com/chapter/10.1007/978-3-032-37627-5_19)] 
   [[code](https://github.com/zyyyya/LGCTrack)]
- 
+
+- **OCTA-SOT:** Xiaokang Liu, Qi Jia, Jinrui Wang, Chengzhou Li, Yu Liu & Weimin Wang .<br />
+  "OCTA-SOT: Online Cross-modal Trajectory Adjustment for RGBT Anti-UAV Single Object Tracking Under Spatio-Temporal Misalignment." ECCV (2026).
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-032-37335-9_17)] 
+  [[code](https://github.com/xkliu-eps/AntiUAV_RGBT_Tracking/)]
+
 ### CVPR 2026
 - **SEATrack:** Junbin Su and Ziteng Xue and Shihui Zhang and Kun Chen and Weiming Hu and Zhipeng Zhang.<br />
   "SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker." CVPR (2026).
