@@ -1115,6 +1115,11 @@ Jamshidjon Ganiev, Seung-Hwan Bae.<br />
 
 ### Papers
 #### 2026
+- **MICTracker:** Xuefeng Zhu, Tianyang Xu, Yifan Pan, Xiao-Jun Wu & Josef Kittler .<br />
+  "MICTracker: Modality Informativeness Controlled Multi-modal Fusion
+for Adaptive RGB-D Visual Tracking." IJCV (2026).
+  [[paper](https://link.springer.com/article/10.1007/s11263-026-03048-y)]
+  
 - **FMATrack:** Dawei Zhang and Kaiwei Jiang and Zhou Ou and Yufan Zhu and Zenan Zhou and Xiaowei He and Zhonglong Zheng and Jun Zhang.<br />
   "A frequency mixing single-stream framework with LoRA prompt tuning for RGBD tracking." Neurocomputing (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0925231226014803)]
