@@ -340,6 +340,60 @@ ZHEN ZHANG, YANFENG GU, AND TAO SHEN.<br />
   [[paper](https://link.springer.com/chapter/10.1007/978-3-032-37335-9_17)] 
   [[code](https://github.com/xkliu-eps/AntiUAV_RGBT_Tracking/)]
 
+- Ruopeng Gao ⋅ Yuyao Wang ⋅ Chunxu Liu ⋅ Limin Wang.<br />
+  "History-Aware Transformation of ReID Features for Multiple Object Tracking." ECCV (2026).
+  [[paper](https://eccv.ecva.net/virtual/2026/poster/4421)] 
+
+- **MCRC:** Muyu Li ⋅ Henan Hu ⋅ Deepak Jain ⋅ Xudong Zhao.<br />
+  "Mode-Conditioned Residual Calibration for Multi-Object Tracking." ECCV (2026).
+  [[paper](https://eccv.ecva.net/virtual/2026/poster/5156)] 
+
+- **Ev-ISNet:** Nuo Chen ⋅ Shiman He ⋅ Boyang Li ⋅ Yingqian Wang ⋅ Chao Xiao ⋅ QianYin QianYin ⋅ Ruojing Li ⋅ Yihang Luo ⋅ Wei An ⋅ Miao Li.<br />
+  "Instance Segmentation as Tracking: A New Paradigm for Multi-Small-Object Tracking with Event Cameras." ECCV (2026).
+  [[paper](https://eccv.ecva.net/virtual/2026/poster/4777)] 
+
+- **ODONet:** Qinghua Liu ⋅ Wanli Xue ⋅ Shengyong Chen.<br />
+  "ODONet: Online Dynamic Offset Network for Visual Object Tracking." ECCV (2026).
+  [[paper](https://eccv.ecva.net/virtual/2026/poster/4749)] 
+  [[code](https://github.com/WhiteButterflies/ODONet)]
+
+- **PS-MOT:** Kai Luo ⋅ Fei Teng ⋅ Mengfei Duan ⋅ Wanjun Jia ⋅ Xu Wang ⋅ Hao Shi ⋅ Kunyu Peng ⋅ Zhiyong Li ⋅ Kailun Yang.<br />
+  "PS-MOT: Cultivating Instance Awareness from Point Seeds for Multi-Object Tracking." ECCV (2026).
+  [[paper](https://eccv.ecva.net/virtual/2026/poster/3664)] 
+  [[code](https://github.com/xifen523/PS-MOT)]
+
+- **ModTrack:** Aditya Iyer ⋅ Jack Roberts ⋅ Nora Ayanian.<br />
+  "ModTrack: Sensor-Agnostic Multi-View Tracking via Identity-Informed PHD Filtering with Covariance Propagation." ECCV (2026).
+  [[paper](https://eccv.ecva.net/virtual/2026/poster/5528)] 
+
+- **FusionTrack:** Xiaohe Li ⋅ Pengfei Li ⋅ Kaixin Zhang ⋅ Jiahao Li ⋅ Zide Fan.<br />
+  "FusionTrack: Collaborative Multi-Object Tracking with Arbitrary Multi-UAVs." ECCV (2026).
+  [[paper](https://eccv.ecva.net/virtual/2026/poster/4325)] 
+  [[code](https://github.com/aircas501/FusionTrack)]
+
+- **WOFT-SAM:** Jonáš Šerých ⋅ Jiri Matas.<br />
+  "Segmentation-Guided Homography Estimation for Long-Term Planar Tracking." ECCV (2026).
+  [[paper](https://eccv.ecva.net/virtual/2026/poster/5987)] 
+  [[code](https://github.com/serycjon/WOFTSAM)]
+
+- **RT-RMOT:** Yanqiu Yu ⋅ Zhifan Jin ⋅ Sijia Chen ⋅ Tongfei Chu ⋅ En Yu ⋅ Liman Liu ⋅ Wenbing Tao.<br />
+  "RT-RMOT: A Dataset and Framework for RGB-Thermal Referring Multi-Object Tracking." ECCV (2026).
+  [[paper](https://eccv.ecva.net/virtual/2026/poster/5378)] 
+
+- **SOVTrack:**Zekun QIAN ⋅ Ruize Han ⋅ Junhui Hou ⋅ Wei Feng.<br />
+  "SOVTrack: Open-Vocabulary Multi-Object Tracking with Self-Supervised Pseudo Labeling and Feature Distillation." ECCV (2026).
+  [[paper]( https://eccv.ecva.net/virtual/2026/poster/5099)] 
+
+- **SFDATrack:** Siyuan Yao ⋅ Ziqi Wang ⋅ Junqi Huang ⋅ Ruiqi Yu ⋅ Wenqi Ren ⋅ Xiaochun Cao.<br />
+  "SFDATrack: Generalized Source-Free Domain Adaptive Tracking Under Adverse Weather Conditions." ECCV (2026).
+  [[paper](https://eccv.ecva.net/virtual/2026/poster/4723)] 
+  [[code](https://github.com/watcherBR0/sfdatrack)]
+
+- **GAP-Track:** Shiyu Zhang ⋅ Tianyang Xu ⋅ Zhangyong Tang ⋅ Wang He ⋅ Xiao-Jun Wu ⋅ Josef Kittler.<br />
+  "GAP-Track: Bridging the Resolution Gap for Cross-Resolution RGBT Tracking." ECCV (2026).
+  [[paper](https://eccv.ecva.net/virtual/2026/poster/3545)] 
+  [[code](https://github.com/shijiahahaha/GAPTrack)]
+
 ### CVPR 2026
 - **SEATrack:** Junbin Su and Ziteng Xue and Shihui Zhang and Kun Chen and Weiming Hu and Zhipeng Zhang.<br />
   "SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker." CVPR (2026).
