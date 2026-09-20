@@ -1409,6 +1409,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **CoManTrack:** Yujia Dong and Haiyan Li and Yajie Liu and Xun Lang and Pengfei Yu and Hao Zhou.<br />
+  "CoManTrack: Conflict-aware and manifold-adaptive RGBT tracking." Neural Networks (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608026010956)]
+  
 - **LGCTrack:** Yueying Zhang, Timing Li, Bing Cao & Pengfei Zhu .<br />
   "Local-to-Global Cross-Modal Coordination for Self-supervised RGB-T Tracking." ECCV (2026).
   [[paper](https://link.springer.com/chapter/10.1007/978-3-032-37627-5_19)] 
