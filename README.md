@@ -2304,6 +2304,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **M3VTrack:** Kaixiang Yan a, Xue Wang b, Cong Bi a, Qingsong Zhao a, Wenhua Qian.<br />
+  "Multi-modal and multi-view object tracking via sequential probability distribution fusion." Information Fusion (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253526006780)]
+  
 - **PSMTrack:** Zixuan Wang, Baojie Fan, Jiajun Ai & Wenzhang Zhou.<br />
   "Progressively Spiral Mamba Fusion for Multimodal Tracking." ECCV (2026).
   [[paper](https://link.springer.com/chapter/10.1007/978-3-032-37335-9_4)]
