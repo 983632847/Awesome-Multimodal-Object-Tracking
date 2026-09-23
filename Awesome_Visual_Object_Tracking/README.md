@@ -49,6 +49,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **SBMVTrack:** Pengzhi Zhong, Jiwei Mo, Haolun Li, Ge Zheng, Jingqi Wang, Xinyi Bo, Shuiwang Li.<br />
+  "SBMVTrack: Spike-Budgeted Multi-View Learning for Energy-Efficient UAV Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.25503)] 
+  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+  
 - **TLCTrack:** Ding Xia, Meiqin Liu, Jing Zhou, Jian Lan.<br />
   "Continuous Token-Level Spatio-Temporal Context Modeling for Visual Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2609.07070)] 
