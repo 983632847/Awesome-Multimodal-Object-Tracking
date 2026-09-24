@@ -49,6 +49,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **EME:** Yuya Sun and Shan Zhong and Haonan Tang and Yuting Wang and Lifeng Zhang.<br />
+  "EME: Out-of-view handling in visual object tracking via edge-aware motion estimation." Pattern Recognition (2026).
+  [[paper](https://doi.org/10.1016/j.patcog.2026.114671)] 
+  [[code](https://github.com/LT-MOT-RL/EME.git)]
+  
 - **SBMVTrack:** Pengzhi Zhong, Jiwei Mo, Haolun Li, Ge Zheng, Jingqi Wang, Xinyi Bo, Shuiwang Li.<br />
   "SBMVTrack: Spike-Budgeted Multi-View Learning for Energy-Efficient UAV Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2609.25503)] 
