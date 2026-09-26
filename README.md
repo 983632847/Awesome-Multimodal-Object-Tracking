@@ -1409,7 +1409,7 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
-:boom:**DSRTrack:** Jingjing Li, Hanlin Qin, Yue Yu, Shuai Yuan, Xupei Zhang, Juliu Li, Steven Landgraf.<br />
+- **DSRTrack:** Jingjing Li, Hanlin Qin, Yue Yu, Shuai Yuan, Xupei Zhang, Juliu Li, Steven Landgraf.<br />
 "DSRTrack: Disturbance-Aware State Recovery and Volatility Regulation for RGB-T Tracking." Information Fusion(2026).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253526006792)]
 [[code](https://github.com/qixi-alt/DSRTrack)]
