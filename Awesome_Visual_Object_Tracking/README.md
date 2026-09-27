@@ -49,6 +49,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **TrackEverything:** Ayush Jain, Sreeharsha Paruchuri, Ishita Gupta, Fan Zhang, Tanner Schmidt, Jakob Engel, Katerina Fragkiadaki, Adam W. Harley.<br />
+  "TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.30222)] 
+  [[code](https://github.com/ayushjain1144/trackeverything)]
+  
 - **EME:** Yuya Sun and Shan Zhong and Haonan Tang and Yuting Wang and Lifeng Zhang.<br />
   "EME: Out-of-view handling in visual object tracking via edge-aware motion estimation." Pattern Recognition (2026).
   [[paper](https://doi.org/10.1016/j.patcog.2026.114671)] 
