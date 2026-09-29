@@ -2606,6 +2606,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **UST-Net:** Yanni Dong; Jiaqi Zhang; Xiaole Han; Jiawei Zhou.<br />
+  "UST-Net: Unified Spatial–Spectral–Temporal Modeling for Adaptive Hyperspectral Object Tracking." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11701388)]
+  
 - **HucrTrack:** Chen, Yuzeng and Yuan, Qiangqiang and Xie, Hong and Su, Xin and Tang, Yuqi and Guan, Renxiang and Liu, Li and Liu, Xinwang and Zhang, Liangpei.<br />
   "Beyond Stepwise Modeling: Towards a Unified Contextual Reasoning Framework for Hyperspectral Video Object Tracking." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11677293)]
