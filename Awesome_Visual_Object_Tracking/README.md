@@ -49,6 +49,16 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **LoopTrack:** Liang Peng, Chenxiao Li, Libo Zhang, Xingping Dong, Heng Fan.<br />
+  "LoopTrack: A Simple Baseline for Parameter-Efficient Transformer Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.33306)] 
+  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+
+- **VastMAT:** Zhizhen Li, Zan Wang, Huidong Peng, Bohan Tan, Shimin Shan, Yu Liu, Liang Peng.<br />
+  "VastMAT: A Large-Scale Multi-Category Benchmark for Multi-Animal Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.34390)] 
+  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+  
 - **TrackEverything:** Ayush Jain, Sreeharsha Paruchuri, Ishita Gupta, Fan Zhang, Tanner Schmidt, Jakob Engel, Katerina Fragkiadaki, Adam W. Harley.<br />
   "TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2609.30222)] 
