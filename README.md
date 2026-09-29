@@ -2606,6 +2606,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **HyperDAM:** Ryoga Yuzawa, Tasuku Takagi.<br />
+"HyperDAM: Hyperspectral Distractor-Aware Memory with Amodal Expansion for SAM 3 Tracking." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.34396)]
+
+
 - **UST-Net:** Yanni Dong; Jiaqi Zhang; Xiaole Han; Jiawei Zhou.<br />
   "UST-Net: Unified Spatial–Spectral–Temporal Modeling for Adaptive Hyperspectral Object Tracking." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11701388)]
