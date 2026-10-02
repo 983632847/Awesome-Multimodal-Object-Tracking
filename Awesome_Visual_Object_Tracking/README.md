@@ -49,6 +49,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **P-SRM:** Youbin He, Siwei Wang.<br />
+  "P-SRM: Selective Recovery of Rejected Predictions in Visual Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.39832)] 
+  [[code](https://github.com/PalestyHR/P-SRM)]
+  
 - Muhammad Faisal Raza, Patrick, Sebastian, Nimra Iqbal.<br />
   "Edge-Aware Zero-Shot Transformer for Multi-Camera Object Tracking with Learnable Cross-Camera Fusion." TIC (2026).
   [[paper](https://doi.org/10.1109/TIC68483.2026.11702825)]
