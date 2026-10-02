@@ -1409,6 +1409,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **ESMTrack:** Shenglan Li, Rui Yao, Kunyang Sun, Hong Jia, Yong Zhou, Javen Qinfeng Shi, Xinyu Zhang.<br />
+  "End-to-End Self-Supervised RGB-T Tracking without Modality Misleading." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.37162)] 
+  [[code](https://github.com/LiShenglana/ESMTrack)]
+  
 - **DSRTrack:** Jingjing Li, Hanlin Qin, Yue Yu, Shuai Yuan, Xupei Zhang, Juliu Li, Steven Landgraf.<br />
 "DSRTrack: Disturbance-Aware State Recovery and Volatility Regulation for RGB-T Tracking." Information Fusion(2026).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253526006792)]
