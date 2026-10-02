@@ -49,6 +49,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- Muhammad Faisal Raza, Patrick, Sebastian, Nimra Iqbal.<br />
+  "Edge-Aware Zero-Shot Transformer for Multi-Camera Object Tracking with Learnable Cross-Camera Fusion." TIC (2026).
+  [[paper](https://doi.org/10.1109/TIC68483.2026.11702825)]
+  
 - **LoopTrack:** Liang Peng, Chenxiao Li, Libo Zhang, Xingping Dong, Heng Fan.<br />
   "LoopTrack: A Simple Baseline for Parameter-Efficient Transformer Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2609.33306)] 
