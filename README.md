@@ -1409,6 +1409,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **GAP-Track:** Shiyu Zhang, Tianyang Xu, Zhangyong Tang, He Wang, Xiao-Jun Wu & Josef Kittler.<br />
+  "GAP-Track: Bridging the Resolution Gap for Cross-Resolution RGBT Tracking." ECCV (2026).
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-032-37189-8_4)] 
+  [[code](https://github.com/shijiahahaha/GAPTrack)]
+  
 - **ESMTrack:** Shenglan Li, Rui Yao, Kunyang Sun, Hong Jia, Yong Zhou, Javen Qinfeng Shi, Xinyu Zhang.<br />
   "End-to-End Self-Supervised RGB-T Tracking without Modality Misleading." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2609.37162)] 
