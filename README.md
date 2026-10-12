@@ -1409,6 +1409,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **ThermalTrack:**  Yiming Yang, Jeremy P. Bos.<br />
+  "Tracking the Invisible: Self-Supervised Wheel Track Detection with Thermal-RGB Fusion ."  IROS (2026).
+  [[paper](https://arxiv.org/abs/2610.13872)] 
+  [[code](https://digitalcommons.mtu.edu/thermaltrack/)]
+  
 - **GAP-Track:** Shiyu Zhang, Tianyang Xu, Zhangyong Tang, He Wang, Xiao-Jun Wu & Josef Kittler.<br />
   "GAP-Track: Bridging the Resolution Gap for Cross-Resolution RGBT Tracking." ECCV (2026).
   [[paper](https://link.springer.com/chapter/10.1007/978-3-032-37189-8_4)] 
@@ -2320,6 +2325,11 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **UniMergeTrack:** Shiao Wang, Xiao Wang, Yuhe Ding, Jiarui Xu, Zikang Yan, Bo Jiang, Yonghong Tian, Jin Tang.<br />
+  "UniMergeTrack: Hierarchical Model Merging for General RGB-X Visual Object Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.13053)] 
+  [[code](https://github.com/Event-AHU/OpenEvTracking)]
+  
 - **M3VTrack:** Kaixiang Yan a, Xue Wang b, Cong Bi a, Qingsong Zhao a, Wenhua Qian.<br />
   "Multi-modal and multi-view object tracking via sequential probability distribution fusion." Information Fusion (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253526006780)]
