@@ -49,6 +49,12 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **XS-VID:** Jiahao Guo, Ziyang Xu, Lianjun Wu, Fei Gao, Wenyu Liu, Xinggang Wang.<br />
+  "XS-VID: A Large-Scale Benchmark for Small Object Detection and Tracking in Videos." TPAMI (2026).
+  [[paper](https://doi.org/10.1109/TPAMI.2026.3741044)] 
+  [[code](https://github.com/gjhhust/YOLOFT)]
+  [[project](https://gjhhust.github.io/XS-VID/)]
+  
 - **P-SRM:** Youbin He, Siwei Wang.<br />
   "P-SRM: Selective Recovery of Rejected Predictions in Visual Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2609.39832)] 
