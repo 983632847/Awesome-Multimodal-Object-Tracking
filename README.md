@@ -252,9 +252,15 @@ Coming soon.
 |  [TNLLT](https://arxiv.org/abs/2508.05221)   |   arXiv-2025   | [TNLLT](https://github.com/Event-AHU/Open_VLTrack) | A large-scale long-term vision-language tracking benchmark dataset with 200 video sequences. |
 |  [UAV-Anti-UAV](https://arxiv.org/abs/2512.07385)   |   arXiv-2025   | [UAV-Anti-UAV](https://github.com/983632847/Awesome-Multimodal-Object-Tracking) | The first million-scale multi-modal UAV-Anti-UAV benchmark, comprising 1.05 million frames across 1,810 videos.  |  
 |  [MUOT-3M](https://arxiv.org/abs/2602.18006)   |   arXiv-2026   | [MUOT-3M](https://github.com/AhsanBaidar/MUOT-3M_Dataset) | A 3 million frame multimodal underwater benchmark, comprising 3,030 videos.  |
+|  [RMOT26](https://arxiv.org/abs/2603.13759)   |   arXiv-2026   |  [RMOT26](https://huggingface.co/datasets/GAASH-Lab/RMOT26)  |  A diagnostic benchmark for reference-grounded, query-conditioned tracking, built from 7 MOT datasets (DanceTrack, MOT16/17, MOT20, SportsMOT, DAMUNT, PETS). 1,000 test instances (900 single-object, 100 multi-object), with occlusion-aware queries.  |
 
 ### Papers
 #### 2026
+- **QTrack:** Tajamul Ashraf, Tavaheed Tariq, Sonia Yadav, Abrar Ul Riyaz, Adab Ismail, Moloud Abdar, Janibul Bashir.<br />
+  "QTrack: Learning to Use Temporal Evidence for Reference-Grounded Video Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2603.13759)] 
+  [[code](https://github.com/gaash-lab/QTrack)]
+  
 - **LVTrack:** Han Wang, Yuxuan Liu, Yuhan Sun, Jian Yang, Xiaotong Xu, Yixuan Lv, Zhuang Zhou, Shengyang Li.<br />
   "Efficient Language-to-Vision Feature Injection for Referring Single-Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2608.29126)]
