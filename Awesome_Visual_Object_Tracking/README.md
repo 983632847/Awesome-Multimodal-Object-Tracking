@@ -49,6 +49,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **ProDiMP & ProToMP:** Xuedong He, et al.<br />
+  "Learning color prompt and position constraint for visual tracking." Engineering Applications of Artificial Intelligence(2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0952197625014174)]
+  
 - **XS-VID:** Jiahao Guo, Ziyang Xu, Lianjun Wu, Fei Gao, Wenyu Liu, Xinggang Wang.<br />
   "XS-VID: A Large-Scale Benchmark for Small Object Detection and Tracking in Videos." TPAMI (2026).
   [[paper](https://doi.org/10.1109/TPAMI.2026.3741044)] 
