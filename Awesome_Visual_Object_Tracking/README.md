@@ -49,6 +49,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- Tianyang Xu; Yong Zhou; Xuefeng Zhu; Xiao-Jun Wu; Josef Kittler.<br />
+  "Learning Channel-Aware Metric Attention for Harmonised Online Visual Object Tracking." TPAMI (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11731524)]
+  
 - **ProDiMP & ProToMP:** Xuedong He, et al.<br />
   "Learning color prompt and position constraint for visual tracking." Engineering Applications of Artificial Intelligence(2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0952197625014174)]
