@@ -1415,6 +1415,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **LMFTrack:** Xiang Liu and Haiyan Li and Xiangxian Li and Jinde Cao and Shidong Xie and Jie Cai.<br />
+  "Semantic language-guided multi-modal context-scale aware and sparse fusion for RGB-t tracking." Information Sciences (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0020025526012314)]
+  
 - **ThermalTrack:**  Yiming Yang, Jeremy P. Bos.<br />
   "Tracking the Invisible: Self-Supervised Wheel Track Detection with Thermal-RGB Fusion ."  IROS (2026).
   [[paper](https://arxiv.org/abs/2610.13872)] 
