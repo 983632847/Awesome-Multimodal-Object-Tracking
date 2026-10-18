@@ -343,6 +343,14 @@ ZHEN ZHANG, YANFENG GU, AND TAO SHEN.<br />
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625029070?via%3Dihub)] 
   [[code](https://github.com/wzy7421/CMTT.git)]
 
+### NeurIPS 2026
+- **Dual-Agent:** Valay Bundele, Susmit Agrawal, Mehran Hosseinzadeh, The Nam Nguyen, Hendrik P. A. Lensch.<br />
+"When Trackers Fail: VLM-Guided Verification and Recovery for Robust Video Object Segmentation." NeurIPS (2026).
+[[paper](https://arxiv.org/abs/2610.15929)]
+[[code](https://valaybundele.github.io/Dual-Agent)]
+[2026.10]
+
+
 ### ECCV 2026
 - **SENTRY:** Mohamad Alansari, Yonathan Michael, Hasan AlMarzouqi, Muzammal Naseer, Naoufel Werghi, Sajid Javed.<br />
 "SENTRY: SAM2-Enhanced Neighbor-Aware and Temporally Reasoned Memory for Visual Tracking." ECCV (2026).
