@@ -157,6 +157,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **VP-EVT:** Yanci Wen, Tianle Zeng, Jianwei Peng, Weixi Situ, Hanjing Ye, Hong Zhang.<br />
+  "VP-EVT: Active Visibility Preservation for Embodied Visual Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.21999)]
+  
 - **CST-WM:** Junyi Hu, Shuaihang Yuan, Yi Fang.<br />
   "CST-WM: A Causally Structured World Model for Embodied Visual Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2609.06302)] 
