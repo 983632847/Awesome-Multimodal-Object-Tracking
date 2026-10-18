@@ -49,6 +49,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **SAM3RL:** Tomáš Čížek, Matej Straka, Illia Volkov, Matěj Kripner, Ervin Macić, Jiri Matas, Klara Janouskova, Martin Schmid.<br />
+"SAM3RL: Memory Control via Reinforcement Learning for Visual Object Tracking." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.19931)]
+
 - Tianyang Xu; Yong Zhou; Xuefeng Zhu; Xiao-Jun Wu; Josef Kittler.<br />
   "Learning Channel-Aware Metric Attention for Harmonised Online Visual Object Tracking." TPAMI (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11731524)]
