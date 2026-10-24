@@ -1419,6 +1419,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **RAGM-track:** Bo Yuan, Yaoru Sun, Hongyu Sun.<br />
+  "RAGM-track: Typed graph memory for reliability-conditioned identity reasoning in RGB-T multi-object tracking." Information Sciences (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S002002552601220X)]
+  
 - **LMFTrack:** Xiang Liu and Haiyan Li and Xiangxian Li and Jinde Cao and Shidong Xie and Jie Cai.<br />
   "Semantic language-guided multi-modal context-scale aware and sparse fusion for RGB-t tracking." Information Sciences (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0020025526012314)]
