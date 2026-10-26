@@ -846,6 +846,10 @@ Jamshidjon Ganiev, Seung-Hwan Bae.<br />
 
 ### Papers
 #### 2026
+- **MAVT:** Ruke Xiong and Guixi Liu and Yinghao Li and Qian Lu and Yisong Xiao and Sen Li and Yi Zhang.<br />
+  "MAVT: Modality-Specific Enhancement and Adaptive Fusion Screening for Video-Level Frame-Event Tracking." ESWA (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426037218)]
+  
 - **TextBridge-Track:** He, Ziang and Tong, Ming and He, Chu and Fan, Yi and Chen, Xi and Fan, Shenghua.<br />
   "TextBridge-Track: Hierarchical Spatio-temporal Alignment for RGBE Tracking via CLIP’s Textual Guidance." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11672227)] 
