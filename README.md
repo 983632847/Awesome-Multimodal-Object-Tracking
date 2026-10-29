@@ -2648,6 +2648,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **UnHOT:** Simiao Lai; Yang Liu; Dong Wang; Huchuan Lu.<br />
+  "UnHOT: Towards simple and unified hyperspectral object tracking." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11744633)] 
+  [[code](https://github.com/laisimiao/UnHOT)]
+  
 - **HyperDAM:** Ryoga Yuzawa, Tasuku Takagi.<br />
 "HyperDAM: Hyperspectral Distractor-Aware Memory with Amodal Expansion for SAM 3 Tracking." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.34396)]
