@@ -1423,6 +1423,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **FETA:** Shiguo Chen, Linzhi Xu, Xiangyang Li, Chunna Tian.<br />
+  "Frequency-space enhanced and temporal adaptative RGBT object tracking." Neurocomputing (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225009129)]
+  
 - **RAGM-track:** Bo Yuan, Yaoru Sun, Hongyu Sun.<br />
   "RAGM-track: Typed graph memory for reliability-conditioned identity reasoning in RGB-T multi-object tracking." Information Sciences (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S002002552601220X)]
