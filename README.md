@@ -2347,6 +2347,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **Fed-MAPTrack:** Xiangyu Liu, Yijie Shen, Yue Yin, Zhitong Yin, Yongqi Pan, Wentao Fan.<br />
+  "Fed-MAPTrack: Federated Modality-aware Prompt Tuning for RGB-X Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.34939)]
+  
 - **UniMergeTrack:** Shiao Wang, Xiao Wang, Yuhe Ding, Jiarui Xu, Zikang Yan, Bo Jiang, Yonghong Tian, Jin Tang.<br />
   "UniMergeTrack: Hierarchical Model Merging for General RGB-X Visual Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2610.13053)] 
