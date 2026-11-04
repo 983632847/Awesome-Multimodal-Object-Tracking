@@ -157,6 +157,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **TRACE:** Mingyang Lyu, Gongce Cao, Yiyang Jia, Lu Jia, Erliang Lin, Yuhao Zhang, Yinqian Sun, Pin Lyu, Feifei Zhao, Bo Wang.<br />
+  "TRACE: Target-State Risk-Aligned Conditional Execution for Embodied Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.41275)] 
+
 - **VP-EVT:** Yanci Wen, Tianle Zeng, Jianwei Peng, Weixi Situ, Hanjing Ye, Hong Zhang.<br />
   "VP-EVT: Active Visibility Preservation for Embodied Visual Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2610.21999)]
@@ -2656,6 +2660,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **SProTrack:** Wangshu Cai, Jun Zhou, Lei Wang, Mohammad Aminul Islam, Xu Han, Kuldip Paliwal.<br />
+  "Latent Spectral Prompting for Multimodal Hyperspectral Object Tracking." WACV (2026).
+  [[paper](https://arxiv.org/abs/2611.02512)]
+  
 - **UnHOT:** Simiao Lai; Yang Liu; Dong Wang; Huchuan Lu.<br />
   "UnHOT: Towards simple and unified hyperspectral object tracking." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11744633)] 
