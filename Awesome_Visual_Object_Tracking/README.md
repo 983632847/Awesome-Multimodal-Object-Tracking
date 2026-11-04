@@ -49,6 +49,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **TAP-Out:** Finlay G. C. Hudson, James A. D. Gardner, William A. P. Smith.<br />
+  "TAP-Out: Tracking Any Point in 360° via Outpainting." BMVC (2026).
+  [[paper](https://arxiv.org/abs/2611.00406)] 
+  [[code](https://finlay-hudson.github.io/tapout/)]
+  
 - **DTTrack:** Liang, Yijun and Chen, Ziyi and Chen, Yewang and Chen, Yun and Li, Dilong and Liu, Weiquan and Wang, Cheng and Li, Jonathan.<br />
   "DTTrack: Metric-Guided Dynamic Template Tracking Network." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11595036)]
