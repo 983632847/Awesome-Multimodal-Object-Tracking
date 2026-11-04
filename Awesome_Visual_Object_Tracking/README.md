@@ -49,6 +49,10 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **DTTrack:** Liang, Yijun and Chen, Ziyi and Chen, Yewang and Chen, Yun and Li, Dilong and Liu, Weiquan and Wang, Cheng and Li, Jonathan.<br />
+  "DTTrack: Metric-Guided Dynamic Template Tracking Network." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11595036)]
+  
 - **SAM3RL:** Tomáš Čížek, Matej Straka, Illia Volkov, Matěj Kripner, Ervin Macić, Jiri Matas, Klara Janouskova, Martin Schmid.<br />
 "SAM3RL: Memory Control via Reinforcement Learning for Visual Object Tracking." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.19931)]
