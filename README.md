@@ -1427,6 +1427,16 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **WTTrack:** Tao Han and Shan Jin and Dawei Zhang and Qiaoqin Zhu and Xiaowei He and Zhonglong Zheng and Jun Zhang.<br />
+  "Learning frequency domain feature fusion for robust RGBT tracking." Signal Processing: Image Communication (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0923596526002778)] 
+  [[code](https://github.com/HanTal0814/WTTrack)]
+
+
+- Yang, Congxian and Wang, Dong and Zhang, Lijuan.<br />
+  "Dual-Stream Attention and Complementarity Fusion RGB-T Tracking Based on Siamese Network." IEEE Access (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11754970)]
+  
 - **FETA:** Shiguo Chen, Linzhi Xu, Xiangyang Li, Chunna Tian.<br />
   "Frequency-space enhanced and temporal adaptative RGBT object tracking." Neurocomputing (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225009129)]
