@@ -264,6 +264,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **TLOT:** Zhang, Guangtong and Mu, Yuhao and Chang, Chunyu and Ma, Hanbin and Bai, Tian.<br />
+  "Temporal Language Optimization for Vision-Language Tracking." IEEE Access (2026).
+  [[paper](https://doi.org/10.1109/ACCESS.2026.3749597)]
+  
 - **QTrack:** Tajamul Ashraf, Tavaheed Tariq, Sonia Yadav, Abrar Ul Riyaz, Adab Ismail, Moloud Abdar, Janibul Bashir.<br />
   "QTrack: Learning to Use Temporal Evidence for Reference-Grounded Video Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2603.13759)] 
