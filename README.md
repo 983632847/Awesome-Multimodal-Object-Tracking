@@ -2820,6 +2820,11 @@ Coming soon.
 ## Others 
 ### RGBNIR, RGBS, etc
 #### 2026
+- **SonarT165:** Yunfeng Li, Bo Wang, Jiahao Wan, Xueyi Wu, Ye Li.<br />
+  "SonarT165: A Large-scale Benchmark and STFTrack Framework for Acoustic Object Tracking." TIP (2026).
+  [[paper](https://arxiv.org/abs/2504.15609)] 
+  [[code](https://github.com/LiYunfengLYF/SonarT165)]
+  
 - **DeSSTrack:** Tao Liu and Haolan Lu and Lingji Xu and Jianming Miao.<br />
   "DeSSTrack: Decoupled search-centric temporal state transition for RGB-Sonar tracking." Expert Systems with Applications (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426027582)] 
@@ -2831,11 +2836,6 @@ Coming soon.
   [[paper](https://link.springer.com/chapter/10.1007/978-981-96-5815-2_3)] 
 [[dataset](https://drive.google.com/file/d/1f2FflhUTvfDERJ_j18Plk4XoOur_BLXN/view?usp=drive_link)]
 
-- **SonarT165:** Yunfeng Li, Bo Wang, Jiahao Wan, Xueyi Wu, Ye Li.<br />
-  "SonarT165: A Large-scale Benchmark and STFTrack Framework for Acoustic Object Tracking." ArXiv (2025).
-  [[paper](https://arxiv.org/abs/2504.15609)] 
-  [[code](https://github.com/LiYunfengLYF/SonarT165)]
-  
 #### 2024
 - **GSOT3D:** Yifan Jiao, Yunhao Li, Junhua Ding, Qing Yang, Song Fu, Heng Fan, Libo Zhang.<br />
   "GSOT3D: Towards Generic 3D Single Object Tracking in the Wild." ArXiv (2024).
