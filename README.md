@@ -854,6 +854,11 @@ Jamshidjon Ganiev, Seung-Hwan Bae.<br />
 
 ### Papers
 #### 2026
+- **SEPT:** Xiaokai Song, Zhang Li, Leqi Liu, Yibin Ye, Kun Wang, Xichao Teng.<br />
+  "Selective Event Evidence and Persistent Temporal Priors for Event-Based Point Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.07713)] 
+  [[code](https://github.com/sssxxxkkkk/SEPT)]
+  
 - **MAVT:** Ruke Xiong and Guixi Liu and Yinghao Li and Qian Lu and Yisong Xiao and Sen Li and Yi Zhang.<br />
   "MAVT: Modality-Specific Enhancement and Adaptive Fusion Screening for Video-Level Frame-Event Tracking." ESWA (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426037218)]
