@@ -2679,6 +2679,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **HyMamba:** L Gao, Y Zhang, S Gao, Y Jiang, W Xie, Y Li.<br />
+  "Mamba-Based Unified Cross-Depth and Temporal Spectral Learning for Hyperspectral Object Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11769758)] 
+  [[code](https://github.com/lgao001/HyMamba)]
+  
 - **SProTrack:** Wangshu Cai, Jun Zhou, Lei Wang, Mohammad Aminul Islam, Xu Han, Kuldip Paliwal.<br />
   "Latent Spectral Prompting for Multimodal Hyperspectral Object Tracking." WACV (2026).
   [[paper](https://arxiv.org/abs/2611.02512)]
