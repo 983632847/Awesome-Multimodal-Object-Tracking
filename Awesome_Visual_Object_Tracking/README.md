@@ -49,6 +49,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **DCATrack:** Y Zhou, T Xu, X Zhu, XJ Wu, J Kittler.<br />
+  "Dynamic Computation Allocation for Efficient Visual Object Tracking Guided by Runtime Scene Complexity." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11770367)] 
+  [[code](https://github.com/JNU2023ZY/DCATrack)]
+  
 - **TAP-Out:** Finlay G. C. Hudson, James A. D. Gardner, William A. P. Smith.<br />
   "TAP-Out: Tracking Any Point in 360° via Outpainting." BMVC (2026).
   [[paper](https://arxiv.org/abs/2611.00406)] 
