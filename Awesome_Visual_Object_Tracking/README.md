@@ -49,6 +49,26 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **RP2Track:** Heng Yang, Fang Liu, Li Shuo, Jiahao Wang, Xinyan Huang, Puhua Chen, Kehuan Song.<br />
+  "RP2Track: Reflectance-Aware 3D Single Object Tracking via Dual-Branch Fusion." ACM MM (2026).
+  [[paper](https://doi.org/10.1145/3767308.3835734)] 
+
+- **SMTrack:** Jiahao Wang, Hao Xu, Shuo Li, Xinyang Shen, Jingyu Wang.<br />
+  "SMTrack: Subspace Memory via Low-Rank Manifold Modeling for Satellite Video Tracking." ACM MM(2026).
+  [[paper](https://doi.org/10.1145/3767308.3835819)] 
+
+- **FreeTrack:** Rui Zhu, Zhaokang Lu, Bohan Liu, KaiRui Xu, Depeng Liu, Xuan Zhang, Yun Yang.<br />
+  "FreeTrack: Training-Free Anti-Distractor Tracker with Focused Prompts and Semantic-Aware." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3767308.3836047)] 
+
+- **CSTrack:** Yinghao Li, Guixi Liu, Ruke Xiong, Qian Lu, Yisong Xiao, Sen Li, Zhiyu Wu.<br />
+  "CSTrack: Compile-then-Specialize Framework for Efficient Visual Tracking." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835739)] 
+
+- **DiffMamba:** Binbin Wang, Fasheng Wang, Lifeng Wang, Lupiao Hu, Ziqing Yan, Fuming Sun, Haojie Li.<br />
+  "DiffMamba: Learning Diffusion Enhanced Mamba Tracker with Temporal Memory for Day-and-night UAV Tracking." ACM MM (2026).
+  [[paper](https://doi.org/10.1145/3767308.3835859)]
+  
 - **DCATrack:** Y Zhou, T Xu, X Zhu, XJ Wu, J Kittler.<br />
   "Dynamic Computation Allocation for Efficient Visual Object Tracking Guided by Runtime Scene Complexity." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11770367)] 
