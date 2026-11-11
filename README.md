@@ -1436,6 +1436,14 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **GateKVT:** Jinxia Xie, Jianjun Qian, Liangtao Shi, Lei Luo, Jian Yang.<br />
+  "Gated KV-Cache-Based Progressive Fusion for RGB-T Tracking." ACM MM (2026).
+  [[paper](https://doi.org/10.1145/3767308.3835287)] 
+
+- **U2Track:** Qionglin Ren, Dawei Zhang, Chunxu Tian, Dan Zhang.<br />
+  "Object-Centric Alignment and Deformable Fusion for Unaligned RGBT Anti-UAV Tracking." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835490)]
+  
 - **WTTrack:** Tao Han and Shan Jin and Dawei Zhang and Qiaoqin Zhu and Xiaowei He and Zhonglong Zheng and Jun Zhang.<br />
   "Learning frequency domain feature fusion for robust RGBT tracking." Signal Processing: Image Communication (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0923596526002778)] 
@@ -2374,6 +2382,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **SiM:** Yao Chen, Ding Ma, Guancheng Jia, Yufei Zha.<br />
+  "SiM: Event-Driven Temporal Modeling for Robust Any-Modal Visual Tracking." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835885)]
+  
 - **Fed-MAPTrack:** Xiangyu Liu, Yijie Shen, Yue Yin, Zhitong Yin, Yongqi Pan, Wentao Fan.<br />
   "Fed-MAPTrack: Federated Modality-aware Prompt Tuning for RGB-X Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2610.34939)]
