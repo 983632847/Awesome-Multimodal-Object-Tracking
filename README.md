@@ -1436,6 +1436,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **TSAT:** Yun Xiao, Hailong Ye, Zhicheng Zhao, Lei Liu, Amir Hussain.<br />
+  "Test-Time Selective Adaptation for Cross-Modal UAV Object Tracking with Token Shift." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.15059)]
+  
 - **GateKVT:** Jinxia Xie, Jianjun Qian, Liangtao Shi, Lei Luo, Jian Yang.<br />
   "Gated KV-Cache-Based Progressive Fusion for RGB-T Tracking." ACM MM (2026).
   [[paper](https://doi.org/10.1145/3767308.3835287)] 
