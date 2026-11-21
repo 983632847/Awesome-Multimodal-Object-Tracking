@@ -49,6 +49,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **SEPT:** Xiaokai Song, Zhang Li, Leqi Liu, Yibin Ye, Kun Wang, Xichao Teng.<br />
+  "Selective Event Evidence and Persistent Temporal Priors for Event-Based Point Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.07713)]
+  [[code](https://github.com/sssxxxkkkk/SEPT)]
+  
 - **RP2Track:** Heng Yang, Fang Liu, Li Shuo, Jiahao Wang, Xinyan Huang, Puhua Chen, Kehuan Song.<br />
   "RP2Track: Reflectance-Aware 3D Single Object Tracking via Dual-Branch Fusion." ACM MM (2026).
   [[paper](https://doi.org/10.1145/3767308.3835734)] 
