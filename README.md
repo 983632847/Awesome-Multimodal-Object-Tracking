@@ -854,6 +854,11 @@ Jamshidjon Ganiev, Seung-Hwan Bae.<br />
 
 ### Papers
 #### 2026
+- **EM-SDTrack:** Yimeng Shan, Haodi Wu, Wei Zheng, Xiaowei Ye, Shuai Wang, Yu Liang, Wei Hua, Chenxiao Dou, Malu Zhang.<br />
+  "EM-SDTrack: Efficient Multi-Scale Spike-driven Tracking for Event Cameras." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.22700)] 
+  [[code](https://github.com/YmShan/EM-SDTrack)]
+  
 - **SEPT:** Xiaokai Song, Zhang Li, Leqi Liu, Yibin Ye, Kun Wang, Xichao Teng.<br />
   "Selective Event Evidence and Persistent Temporal Priors for Event-Based Point Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2611.07713)] 
