@@ -2382,6 +2382,10 @@ Xiao-Jun Wu, Zhenhua Feng, Josef Kittler.<br />
 
 ### Papers
 #### 2026
+- **CCLT:** Xingyu Tan, Chun Liu, Qing Song, Mengjie Hu.<br />
+  "CCLT: Correction-Conditioned Low-Rank Exchange for Parameter-Efficient RGB-X Tracking." The Visual Computer (2026).
+  [[paper](https://www.researchsquare.com/article/rs-11441577/v1)]
+  
 - **SiM:** Yao Chen, Ding Ma, Guancheng Jia, Yufei Zha.<br />
   "SiM: Event-Driven Temporal Modeling for Robust Any-Modal Visual Tracking." ACM MM (2026).
   [[paper](https://dl.acm.org/doi/10.1145/3767308.3835885)]
