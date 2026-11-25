@@ -49,6 +49,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **TIPO:** Davide Gardenal, Mingxuan Liu, Flavio Vella, Quentin Guimard, Elisa Ricci.<br />
+"Taking Apart and Putting Together: Tracking Objects Through Physical Transformations." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.27398)]
+[[code](https://davidegardenal.github.io/tipo-tracking)]
+
 - **DistractAttack:** Adonay Demewez Gebremedhin, Mohamad Alansari, Wessam Shehieb, Muzammal Naseer.<br />
 "Distractors are the Real Enemy: Visual Distraction Adversarial Perturbations on SAM2-Based Video Tracking and Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.32011)]
