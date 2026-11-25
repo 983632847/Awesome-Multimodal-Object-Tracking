@@ -49,6 +49,16 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **TrajRealm:** Ni Yang, Weiguang Zhao, Jiafei Cao, Yankai Jiang, Haoyu Guo, Tao Yang, Chunhua Shen, Junting Dong.<br />
+  "TrajRealm: A Large-Scale Point Tracking Dataset with Diverse Dynamics." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.27136)]
+  [[code](https://purplehihi.github.io/TrajRealm/)]
+
+- **PanoUAV-Track:** Bingyu Li, Lichang Yang, Zhiyuan Zhao, Junyu Gao, Xuelong Li.<br />
+  "PanoUAV-Track: Full-Spherical UAV Visual Tracking in the Wild." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.27383)]
+  [[code](https://libingyu01.github.io/PanoUAV-Track/)]
+  
 - **TIPO:** Davide Gardenal, Mingxuan Liu, Flavio Vella, Quentin Guimard, Elisa Ricci.<br />
 "Taking Apart and Putting Together: Tracking Objects Through Physical Transformations." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.27398)]
