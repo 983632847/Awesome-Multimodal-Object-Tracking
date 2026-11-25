@@ -157,6 +157,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **MCWM:** Jiahao Zhang, Xuan Yao, Junyu Gao, Changsheng Xu.<br />
+  "Motion Conditioned World Modeling for Embodied Visual Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.32900)]
+  
 - **TRACE:** Mingyang Lyu, Gongce Cao, Yiyang Jia, Lu Jia, Erliang Lin, Yuhao Zhang, Yinqian Sun, Pin Lyu, Feifei Zhao, Bo Wang.<br />
   "TRACE: Target-State Risk-Aligned Conditional Execution for Embodied Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2610.41275)] 
