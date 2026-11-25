@@ -49,6 +49,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **DistractAttack:** Adonay Demewez Gebremedhin, Mohamad Alansari, Wessam Shehieb, Muzammal Naseer.<br />
+"Distractors are the Real Enemy: Visual Distraction Adversarial Perturbations on SAM2-Based Video Tracking and Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.32011)]
+[[code](https://adonaydem.github.io/sam2-da-page/)]
+
 - **SEPT:** Xiaokai Song, Zhang Li, Leqi Liu, Yibin Ye, Kun Wang, Xichao Teng.<br />
   "Selective Event Evidence and Persistent Temporal Priors for Event-Based Point Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2611.07713)]
