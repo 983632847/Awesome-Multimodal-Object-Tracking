@@ -268,6 +268,10 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **RABiT-TDM:** Yufan Wang, et al.<br />
+  "Alignment Beyond Language: Risk-Aware Satellite Video Tracking With a Prompt-Conditioned Foundation Model." TDSC (2026).
+  [[paper](https://www.computer.org/csdl/journal/tq/5555/01/11806754/2lzBEKbGO4w)]
+  
 - **TLOT:** Zhang, Guangtong and Mu, Yuhao and Chang, Chunyu and Ma, Hanbin and Bai, Tian.<br />
   "Temporal Language Optimization for Vision-Language Tracking." IEEE Access (2026).
   [[paper](https://doi.org/10.1109/ACCESS.2026.3749597)]
