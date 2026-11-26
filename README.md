@@ -862,6 +862,10 @@ Jamshidjon Ganiev, Seung-Hwan Bae.<br />
 
 ### Papers
 #### 2026
+- **MambaTrack:** Muyu Li and Jinlin You and Mingxin Liu and Shengming Li and Xudong Zhao.<br />
+  "Adaptive Multimodal Fusion of RGB and Event Streams via Gated State Transitions for Object Tracking." Information Fusion (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253526008870)]
+  
 - **EM-SDTrack:** Yimeng Shan, Haodi Wu, Wei Zheng, Xiaowei Ye, Shuai Wang, Yu Liang, Wei Hua, Chenxiao Dou, Malu Zhang.<br />
   "EM-SDTrack: Efficient Multi-Scale Spike-driven Tracking for Event Cameras." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2611.22700)] 
