@@ -268,6 +268,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **VQATrack:** Lingling Yang, et al.<br />
+  "VQATrack:Visual Question Answering Model-Driven Lightweight UAV Visual-Language Object Tracking." ArXiv (2026).
+  [[paper](https://www.researchsquare.com/article/rs-11561893/v1)] 
+  [[code](https://github.com/yll1214/VQATrack)]
+  
 - **RABiT-TDM:** Yufan Wang, et al.<br />
   "Alignment Beyond Language: Risk-Aware Satellite Video Tracking With a Prompt-Conditioned Foundation Model." TDSC (2026).
   [[paper](https://www.computer.org/csdl/journal/tq/5555/01/11806754/2lzBEKbGO4w)]
