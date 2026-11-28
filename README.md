@@ -157,6 +157,11 @@ Coming soon.
 
 ### Papers
 #### 2026
+- **360UAV-ETrack:** Bingyu Li, Wu Du, Zhiyuan Zhao, Junyu Gao, Xuelong Li.<br />
+  "Towards 360∘ Embodied UAV Tracking Without Turning." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.33934)] 
+  [[code](https://libingyu01.github.io/360UAV-ETrack_360UAV-TVLA/)]
+  
 - **MCWM:** Jiahao Zhang, Xuan Yao, Junyu Gao, Changsheng Xu.<br />
   "Motion Conditioned World Modeling for Embodied Visual Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2611.32900)]
@@ -867,6 +872,10 @@ Jamshidjon Ganiev, Seung-Hwan Bae.<br />
 
 ### Papers
 #### 2026
+- **TrackAnyMotion:** Roberto Pellerito, Zijia Dai, Laurent Kneip, Davide Scaramuzza.<br />
+  "3D Tracking Any Point with Events and Frames." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.32883)]
+  
 - **MambaTrack:** Muyu Li and Jinlin You and Mingxin Liu and Shengming Li and Xudong Zhao.<br />
   "Adaptive Multimodal Fusion of RGB and Event Streams via Gated State Transitions for Object Tracking." Information Fusion (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253526008870)]
