@@ -49,6 +49,11 @@
 
 ### :boom: Conference and Journal Papers :boom:
 ### ArXiv-2026
+- **TaCo:** Qingmao Wei, Fagui Liu, Quan Tang.<br />
+  "TaCo: Rethinking Correlation for Visual Tracking on Edge Devices." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.34084)]
+  [[code](https://github.com/TsingWei/TaCo-Tracker)]
+  
 - **TrajRealm:** Ni Yang, Weiguang Zhao, Jiafei Cao, Yankai Jiang, Haoyu Guo, Tao Yang, Chunhua Shen, Junting Dong.<br />
   "TrajRealm: A Large-Scale Point Tracking Dataset with Diverse Dynamics." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2611.27136)]
